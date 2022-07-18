@@ -1,52 +1,71 @@
-00000180,38,"「み、皆さん、席に着いてくださいっ！」","","",""
-000001d4,14,"（だ、誰だ？）","","",""
+00000180,38,"「み、皆さん、席に着いてくださいっ！」","Well, everyone, please take a seat!","",""
+000001d4,14,"（だ、誰だ？）","(Who is it?)","",""
+000002b8,10,"「すーっ」","Soooo","",""
+00000350,32,"「皆さん、おはようございます！」","Good morning, ladies and gentlemen!","",""
+000004d8,24,"「よろしくお願いします」","thank you","",""
+00000738,24,"（こ、答えるのかよ！？）","(Do you answer this !?)","",""
+0000079c,20,"「ご想像にお任せね」","Leave it to your imagination","",""
+000007dc,22,"（そりゃそうだよな…）","(That's right …)","",""
+00000848,24,"「では、出席を取ります」","Then, I will attend.","",""
+00000910,24,"「出席番号１番、相原君」","Attendance number 1, Mr. Aihara","",""
+00000958,8,"（ん？）","(Hmm?)","",""
+00000a3c,10,"（んん？）","(Hmm?)","",""
+00000d2c,36,"「大谷さん！　ここで何やってるの！」","Mr. Otani! What are you doing here!","",""
+000010c0,34,"「え？　え？　えええええええええ」","Eh? Eh? Yeah yeah yeah yeah","",""
+000014b0,18,"「失礼しましたー」","Excuse me","",""
+000015e8,28,"教室中が爆笑の渦で包まれる。","The classroom is surrounded by a whirlpool of laughter.","",""
+000016e0,38,"「まったく…あんなので勤まるのかしら」","At all … I wonder if I will work because of that.","",""
+0000176c,38,"（大谷…桃子先生か。きれいな人だよな）","(Otani … Momoko-sensei? You're a beautiful person.)","",""
 00000210,79,"クラス中のヤツらが俺と同じ疑問を持ったらしく、
-一斉に教壇を向いたまま固まった。","","",""
-000002b8,10,"「すーっ」","","",""
-00000350,32,"「皆さん、おはようございます！」","","",""
+一斉に教壇を向いたまま固まった。","It seems that the guys in the class have the same questions as me,
+It solidified while facing the podium all at once.","",""
 000003d0,112,"「初めまして、大谷桃子です。
 　今日から教育実習生として、皆さんと一緒に
-　このクラスで勉強することになりました」","","",""
-000004d8,24,"「よろしくお願いします」","","",""
+　このクラスで勉強することになりました」","Nice to meet you, Momoko Otani.
+From today, as an educational trainee, with you
+I decided to study in this class. ","",""
 00000560,59,"クラスが騒然となった。
-特に俺たち男子の歓びようったらない。","","",""
+特に俺たち男子の歓びようったらない。","The class was noisy.
+Especially, we boys are so happy.","",""
 000005c8,75,"口々に「恋人はいますか？」とか、
-「スリーサイズは？」などと、はやし立てる。","","",""
+「スリーサイズは？」などと、はやし立てる。","Do you have a lover?
+What's the three size?","",""
 0000065c,47,"「えーと…恋人はいません。
-　スリーサイズは…」","","",""
-00000738,24,"（こ、答えるのかよ！？）","","",""
-0000079c,20,"「ご想像にお任せね」","","",""
-000007dc,22,"（そりゃそうだよな…）","","",""
-00000848,24,"「では、出席を取ります」","","",""
-00000910,24,"「出席番号１番、相原君」","","",""
-00000958,8,"（ん？）","","",""
+　スリーサイズは…」","Well … I don't have a lover.
+Three sizes are … ","",""
 0000099c,57,"「相原君？　いないの？　お休み？
-　じゃあ、次は…赤坂君」","","",""
-00000a3c,10,"（んん？）","","",""
+　じゃあ、次は…赤坂君」","Aihara-kun? Isn't it? Is it a holiday?
+Then, next … Akasaka-kun ","",""
 00000a8c,47,"「…赤坂君も返事がないわねぇ。
-　欠席…かなぁ」","","",""
+　欠席…かなぁ」","… Akasaka-kun didn't get a reply either.
+Absent … I wonder. ","",""
 00000b20,73,"（相原？　赤坂？　そんな名字のヤツは
-　うちのクラスにいないぞ。まさか…）","","",""
-00000d2c,36,"「大谷さん！　ここで何やってるの！」","","",""
+　うちのクラスにいないぞ。まさか…）","(Aihara? Akasaka?
+I'm not in my class. No way …)","",""
 00000de0,63,"「あ、喜多川先生。何やってるって…
-　出席を取ってるんですけど」","","",""
+　出席を取ってるんですけど」","Oh, Professor Kitagawa. What are you doing …
+I'm attending. ","",""
 00000ef4,45,"「それはわかってるわよ。
-　そうじゃなくて…」","","",""
+　そうじゃなくて…」","I know that.
+ It is not like that…","",""
 00000fc8,86,"「あなたのクラスは３－Ａでしょ！？
 　ここは２－Ｂよ！
-　学年もクラスも違うじゃない！」","","",""
-000010c0,34,"「え？　え？　えええええええええ」","","",""
+　学年もクラスも違うじゃない！」","Your class is 3-A, right?
+This is 2-B!
+The grade and class are different! ","",""
 00001170,92,"クラスどころか学年も間違えていた。
 ３年の教室は３階。ここは２階。
-どうやったら間違えるんだ？","","",""
+どうやったら間違えるんだ？","Far from being in class, I was in the wrong grade.
+The 3rd year classroom is on the 3rd floor. This is the second floor.
+How can I make a mistake?","",""
 00001224,53,"「ご、ごめんなさい。
-　初めてだから緊張しちゃって…」","","",""
+　初めてだから緊張しちゃって…」","I'm sorry.
+Because it was my first time, I was nervous … ","",""
 00001314,82,"「えーと…それじゃまたね、皆さん。
 　自己紹介したばかりだけど、
-　私、行かなきゃ」","","",""
+　私、行かなきゃ」","Well … see you soon, everyone.
+I just introduced myself,
+I have to go ","",""
 0000142c,53,"「校内で見かけたら、
-　気軽に声をかけてくださいね～」","","",""
-000014b0,18,"「失礼しましたー」","","",""
-000015e8,28,"教室中が爆笑の渦で包まれる。","","",""
-000016e0,38,"「まったく…あんなので勤まるのかしら」","","",""
-0000176c,38,"（大谷…桃子先生か。きれいな人だよな）","","",""
+　気軽に声をかけてくださいね～」","If you see it in the school,
+Please feel free to contact me ~ ","",""

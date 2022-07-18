@@ -144,12 +144,15 @@ async function patchGameFile(patch, encoding, source, savePath) {
 
             if (phrase.length > mSize) {
                 // Skip
-                logger.log('WARN', `${lang} phrase size at 0x${offsetStr} (${phrase.length}) bigger than max size (${mSize})!`);
-                continue;
+                logger.log('WARN', `${lang} phrase size at 0x${offsetStr} (${phrase.length}) in ${patch} bigger than max size (${mSize})! Result string will be cutted!`);
+                const saveMSize = encoding === 'utf8' ? mSize - 1 : mSize;
+                console.log(phrase);
+                phrase = phrase.slice(0, saveMSize);
+                console.log(phrase);
             }
 
             if (phrase.length > initialPhraseSize && phrase.length === mSize) {
-                logger.log('INFO', `${lang} phrase size at 0x${offsetStr} (${phrase.length}) bigger than initial (${initialPhraseSize}); max size (${mSize})!`);
+                logger.log('INFO', `${lang} phrase size at 0x${offsetStr} (${phrase.length}) in ${patch} bigger than initial (${initialPhraseSize}); max size (${mSize})!`);
             }
 
             // Replace

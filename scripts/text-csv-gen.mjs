@@ -171,7 +171,7 @@ async function main() {
     let result = 0;
     try {
         await processDir('./original/extracted/00_GMV');
-        // await scanFile('./original/extracted/00_GMV/ID04714');
+        //await scanFile('./original/extracted/00_GMV/ID06602');
 
         // Update patch list
         const csvPath = './text/files.csv';
@@ -179,7 +179,7 @@ async function main() {
         if (await Utils.isExists(csvPath)) {
             const oldCsv = await Utils.readCsv(csvPath);
             patches.forEach(patch => {
-                if (!oldCsv.find(row => row[0] === patches[0])) {
+                if (!oldCsv.find(row => row[0] === patch[0])) {
                     oldCsv.push(patch);
                 }
             });
