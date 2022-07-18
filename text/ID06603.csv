@@ -1,169 +1,249 @@
-0000014c,18,"（さ、俺も帰ろう）","(Well, let's go home too)","",""
-0000036c,8,"「ん？」","Hmm?","",""
-00000500,8,"「むっ」","Mu","",""
-00000654,34,"（逆に待ち伏せして、驚かしてやれ）","(On the contrary, ambush and be surprised)","",""
-000006b8,10,"（今だ！）","(now!)","",""
-000007e8,10,"「わっ！」","Wow!","",""
-0000086c,20,"「ひゃあぁああっ！」","Huhhhhh!","",""
-00000958,36,"　　　　　ドッシーーーーーーーン！！","Dossy --------! !!","",""
-000009bc,24,"「いったぁあぁぁあぁい」","Ahhhhhhhhh","",""
-000009e8,22,"シャッターチャンスだ！","It's a photo opportunity!","",""
-00000b4c,28,"「わわっ！　そこはダメッ！」","Wow! That's no good!","",""
-00000c70,18,"「ほら、手を貸せ」","See, lend a hand","",""
-00000cd0,8,"「うん」","yes","",""
-00000d44,20,"（撮るまでもないな）","(No need to shoot)","",""
-00000d9c,28,"「お尻、打った～～～～～っ」","I hit my ass ~~~~~","",""
-00000c70,18,"「ほら、手を貸せ」","See, lend a hand","",""
-00000cd0,8,"「うん」","yes","",""
-00000f70,26,"「どうしてわかったのぉ？」","Why did you understand?","",""
-000011b0,30,"「その鈴、大事にしてるんだな」","That bell is cherished.","",""
-0000131c,32,"「肌身離さず、持ち歩かいでか！」","Keep your skin and carry it with you!","",""
-00001438,24,"「…ううん、覚えてない」","… Yeah, I don't remember.","",""
-000015b0,36,"「にいやんは、ちゃんと覚えてるの？」","Do you remember Niyan properly?","",""
-00001644,16,"「え？　俺か？」","Eh? Is it me?","",""
-00001678,38,"「…俺も、はっきりとは覚えてないなぁ」","… I don't remember clearly either.","",""
-000016ec,14,"「そっかぁ…」","Oh …","",""
-00001930,28,"「何でそんなに好きなんだ？」","Why do you like it so much?","",""
-00001a90,34,"「ピンク色のうさぎなんていないぞ」","There is no pink rabbit.","",""
-00001b18,42,"「いるよぉ！　私のうさたんがピンクだし！」","I'm here! My rabbit is pink!","",""
-00001bd4,40,"「あれはぬいぐるみだ。実際にはいないぞ」","That's a stuffed animal. It's not really.","",""
-00001c64,40,"「夢がないなぁ。いるかもしれないのに～」","I don't have a dream. I might have one ~","",""
-00001d78,24,"「どの色もかわいいね～」","Every color is cute ~","",""
-00001df4,42,"「はぁ…うさぎなら何でもいいんじゃないか」","Hmm … anything is fine with a rabbit.","",""
-00001f70,12,"「はいはい」","Yes Yes","",""
-00001fb4,48,"果音は、俺が昔やった鈴を、今でも大切にしている。","Kaon still cherishes the bells I used to do.","",""
-000021ec,24,"「そうだな…懐かしいよ」","That's right … I miss you.","",""
-000022cc,32,"「その節は、お世話になりました」","Thank you for your help.","",""
-000024c4,24,"「どこか成長したのか？」","Did you grow up somewhere?","",""
-000025ec,16,"「胸が…なぁ…」","My chest is …","",""
-000027e4,34,"「どこからその自信が来るんだよ？」","Where does that confidence come from?","",""
-000029ec,34,"「ね、にいやんもそう思うでしょ？」","Hey, do you think so too?","",""
-00002b04,38,"「妹の胸のサイズは、気にしてるのに？」","Do you care about the size of your sister's chest?","",""
-00002c38,42,"「やらし～ぃ、妹をそんな目で見るなんて～」","Yarashi ~ i, seeing my sister with that kind of eyes ~","",""
-00002d70,30,"「胸なんてない方がいいんだ！」","You shouldn't have a chest!","",""
-00002de0,38,"「ふ、ふうん…にいやんってそうなの？」","Hmm … isn't it?","",""
-00002edc,14,"「あ、ああ…」","Oh, oh …","",""
-00002f18,36,"（妹相手に何を言ってるんだ、俺は…）","(What are you saying to your sister, I …)","",""
-00002f80,36,"「そっかぁ、男の人もいろいろだね～」","Well, there are various men too ~","",""
-00003064,16,"「ま、まあな…」","Well, well …","",""
-000031b4,32,"「どっからその自信が来るんだよ」","Where does that confidence come from?","",""
-000029ec,34,"「ね、にいやんもそう思うでしょ？」","Hey, do you think so too?","",""
-00002b04,38,"「妹の胸のサイズは、気にしてるのに？」","Do you care about the size of your sister's chest?","",""
-00003588,20,"「う…そ、それは…」","Uh … that's …","",""
-000038d8,36,"「あははは、やっらし～、やっらし～」","Ahahaha, yarashi ~, yarashi ~","",""
-00003994,12,"「ったく…」","Geez…","",""
-000039c4,30,"「ほら、日が暮れる前に帰るぞ」","See, I'll be back before the sun goes down.","",""
-00003a40,22,"「は～い。帰ろ帰ろ～」","Yes. Go home.","",""
+0000014c,18,"（さ、俺も帰ろう）","(Well, let's go home too)","(Ну, пойдем тоже домой)","(Nun, lass uns auch nach Hause gehen)"
+0000036c,8,"「ん？」","Hmm?","Хм?","Hmm?"
+00000500,8,"「むっ」","Mu","Му","Mu"
+00000654,34,"（逆に待ち伏せして、驚かしてやれ）","(On the contrary, ambush and be surprised)","(Наоборот, засадить и удивиться)","(Im Gegenteil, überfallen und überrascht werden)"
+000006b8,10,"（今だ！）","(now!)","(в настоящее время!)","(jetzt!)"
+000007e8,10,"「わっ！」","Wow!","Ух ты!","Wow!"
+0000086c,20,"「ひゃあぁああっ！」","Huhhhhh!","Ха-ха-ха!","Huhhhh!"
+00000958,36,"　　　　　ドッシーーーーーーーン！！","Dossy --------! !!","Досси --------! !!","Dossi --------! !!"
+000009bc,24,"「いったぁあぁぁあぁい」","Ahhhhhhhhh","Аххххххх","Ahhhhhhhh"
+000009e8,22,"シャッターチャンスだ！","It's a photo opportunity!","Это возможность сфотографироваться!","Es ist eine Gelegenheit zum Fotografieren!"
+00000b4c,28,"「わわっ！　そこはダメッ！」","Wow! That's no good!","Вау! Это нехорошо!","Wow! Das ist nicht gut!"
+00000c70,18,"「ほら、手を貸せ」","See, lend a hand","Смотри, протяни руку","Schau, hilf mit"
+00000cd0,8,"「うん」","yes","да","Jawohl"
+00000d44,20,"（撮るまでもないな）","(No need to shoot)","(Не надо стрелять)","(Keine Notwendigkeit zu schießen)"
+00000d9c,28,"「お尻、打った～～～～～っ」","I hit my ass ~~~~~","Я ударил себя по заднице ~~~~~","Ich habe mir in den Arsch geschlagen ~~~~~"
+00000c70,18,"「ほら、手を貸せ」","See, lend a hand","Смотри, протяни руку","Schau, hilf mit"
+00000cd0,8,"「うん」","yes","да","Jawohl"
+00000f70,26,"「どうしてわかったのぉ？」","Why did you understand?","— Почему ты понял?","Warum hast du verstanden?"
+000011b0,30,"「その鈴、大事にしてるんだな」","That bell is cherished.","«Этот колокол заветный».","Diese Glocke wird geschätzt."
+0000131c,32,"「肌身離さず、持ち歩かいでか！」","Keep your skin and carry it with you!","Оставь свою шкуру и носи ее с собой!","„Behalte deine Haut und trage sie mit dir!“"
+00001438,24,"「…ううん、覚えてない」","… Yeah, I don't remember.","…Да, я не помню.","… Ja, ich erinnere mich nicht."
+000015b0,36,"「にいやんは、ちゃんと覚えてるの？」","Do you remember Niyan properly?","— Ты хорошо помнишь Нияна?","Erinnerst du dich richtig an Niyan?"
+00001644,16,"「え？　俺か？」","Eh? Is it me?","Э? Это я?","Eh? Bin ich es?"
+00001678,38,"「…俺も、はっきりとは覚えてないなぁ」","… I don't remember clearly either.","… Я тоже не очень хорошо помню.","… ich erinnere mich auch nicht genau."
+000016ec,14,"「そっかぁ…」","Oh …","Ой …","Oh …"
+00001930,28,"「何でそんなに好きなんだ？」","Why do you like it so much?","Почему он тебе так нравится?","Warum magst du es so sehr?"
+00001a90,34,"「ピンク色のうさぎなんていないぞ」","There is no pink rabbit.","«Розового кролика не бывает».","Es gibt kein rosa Kaninchen."
+00001b18,42,"「いるよぉ！　私のうさたんがピンクだし！」","I'm here! My rabbit is pink!","Я здесь! Мой кролик розовый!","Ich bin hier! Mein Kaninchen ist rosa!"
+00001bd4,40,"「あれはぬいぐるみだ。実際にはいないぞ」","That's a stuffed animal. It's not really.","«Это чучело. На самом деле это не так».","Das ist ein Stofftier. Das ist es nicht wirklich."
+00001c64,40,"「夢がないなぁ。いるかもしれないのに～」","I don't have a dream. I might have one ~","«У меня нет мечты. Может быть, она у меня есть~»","Ich habe keinen Traum. Ich könnte einen haben ~"
+00001d78,24,"「どの色もかわいいね～」","Every color is cute ~","«Каждый цвет милый ~»","Jede Farbe ist süß ~"
+00001df4,42,"「はぁ…うさぎなら何でもいいんじゃないか」","Hmm … anything is fine with a rabbit.","«Хм… с кроликом все в порядке».","Hmm … mit einem Kaninchen ist alles in Ordnung."
+00001f70,12,"「はいはい」","Yes Yes","Да Да","Ja ja"
+00001fb4,48,"果音は、俺が昔やった鈴を、今でも大切にしている。","Kaon still cherishes the bells I used to do.","Каон до сих пор дорожит моими колокольчиками.","Kaon schätzt immer noch die Glocken, die ich früher gemacht habe."
+000021ec,24,"「そうだな…懐かしいよ」","That's right … I miss you.","«Правильно… я скучаю по тебе».","Das ist richtig … ich vermisse dich."
+000022cc,32,"「その節は、お世話になりました」","Thank you for your help.","Спасибо за помощь.","Danke für Ihre Hilfe."
+000024c4,24,"「どこか成長したのか？」","Did you grow up somewhere?","— Ты где-то вырос?","Bist du irgendwo aufgewachsen?"
+000025ec,16,"「胸が…なぁ…」","My chest is …","Моя грудь…","„Meine Brust ist …"
+000027e4,34,"「どこからその自信が来るんだよ？」","Where does that confidence come from?","«Откуда такая уверенность?»","Woher kommt dieses Vertrauen?"
+000029ec,34,"「ね、にいやんもそう思うでしょ？」","Hey, do you think so too?","— Эй, ты тоже так думаешь?","Hey, denkst du auch?"
+00002b04,38,"「妹の胸のサイズは、気にしてるのに？」","Do you care about the size of your sister's chest?","«Тебя волнует размер груди твоей сестры?»","„Interessiert es dich an der Größe der Brust deiner Schwester?“"
+00002c38,42,"「やらし～ぃ、妹をそんな目で見るなんて～」","Yarashi ~ i, seeing my sister with that kind of eyes ~","Яраши ~ я, увидев свою сестру с такими глазами ~","Yarashi ~ ich sehe meine Schwester mit solchen Augen ~"
+00002d70,30,"「胸なんてない方がいいんだ！」","You shouldn't have a chest!","У тебя не должно быть груди!","Du solltest keine Brust haben!"
+00002de0,38,"「ふ、ふうん…にいやんってそうなの？」","Hmm … isn't it?","— Хм… не так ли?","Hm… nicht wahr?"
+00002edc,14,"「あ、ああ…」","Oh, oh …","Ой ой …","Ach, ach…"
+00002f18,36,"（妹相手に何を言ってるんだ、俺は…）","(What are you saying to your sister, I …)","(Что ты говоришь своей сестре, я…)","(Was sagst du zu deiner Schwester, ich …)"
+00002f80,36,"「そっかぁ、男の人もいろいろだね～」","Well, there are various men too ~","Ну, есть и разные мужчины~","Nun, es gibt auch verschiedene Männer ~"
+00003064,16,"「ま、まあな…」","Well, well …","Так так …","Gut gut …"
+000031b4,32,"「どっからその自信が来るんだよ」","Where does that confidence come from?","«Откуда такая уверенность?»","Woher kommt dieses Vertrauen?"
+000029ec,34,"「ね、にいやんもそう思うでしょ？」","Hey, do you think so too?","— Эй, ты тоже так думаешь?","Hey, denkst du auch?"
+00002b04,38,"「妹の胸のサイズは、気にしてるのに？」","Do you care about the size of your sister's chest?","«Тебя волнует размер груди твоей сестры?»","„Interessiert es dich an der Größe der Brust deiner Schwester?“"
+00003588,20,"「う…そ、それは…」","Uh … that's …","Э… это…","Äh … das ist …"
+000038d8,36,"「あははは、やっらし～、やっらし～」","Ahahaha, yarashi ~, yarashi ~","Ахахаха, яраши~, яраши~","Ahahaha, Yarashi ~, Yarashi ~"
+00003994,12,"「ったく…」","Geez…","«Гэз…»","Meine Güte…"
+000039c4,30,"「ほら、日が暮れる前に帰るぞ」","See, I'll be back before the sun goes down.","«Смотрите, я вернусь до захода солнца».","Siehst du, ich werde zurück sein, bevor die Sonne untergeht."
+00003a40,22,"「は～い。帰ろ帰ろ～」","Yes. Go home.","«Да. Иди домой».","Ja. Geh nach Hause."
 0000057c,61,"（やれやれ、下手な尾行だな。
 　俺をびっくりさせるつもりか？）","(Yeah, it's a bad tail.
-Are you going to surprise me? )","",""
+Are you going to surprise me? )","(Да, это плохой хвост.
+Ты собираешься меня удивить? )","(Ja, es ist ein schlechter Schwanz.
+Wirst du mich überraschen? )"
 00000bd0,51,"「にいやん、写真なんか撮ってないで、
 　助けてよぉ」","No, I didn't take any pictures,
-Please help me ","",""
+Please help me ","«Нет, я не фотографировал,
+Помогите мне, пожалуйста ","Nein, ich habe keine Bilder gemacht,
+Bitte hilf mir "
 00001000,55,"「鈴の音だよ。
 　お前、ケータイ持ったまま歩いてたろ？」","It's the sound of a bell.
-Did you walk with your mobile phone? ","",""
+Did you walk with your mobile phone? ","Это звук колокола.
+Вы ходили с мобильным телефоном? ","„Es ist der Klang einer Glocke.
+Bist du mit deinem Handy gelaufen? "
 000010c4,86,"「あ、そっか～。
 　舞衣りゃんにメールしてる最中に、
 　にいやんを見かけたから……不覚」","Oh, that's right ~.
 While emailing Mai Ryan,
-Because I saw Niyan …… unconscious 」","",""
+Because I saw Niyan …… unconscious 」","О, точно ~.
+Отправляя электронное письмо Мэй Райан,
+Потому что я видел Нияна… без сознания 」","„Ach, stimmt ~.
+Als ich Mai Ryan eine E-Mail schrieb,
+Weil ich Niyan gesehen habe …… bewusstlos 」"
 0000121c,72,"「あったりまえだよぉ。
 　小さいころ、にいやんがくれた
 　大切な鈴だもん」","It's before.
 When I was little, I got a dice
-An important bell","",""
+An important bell","Это раньше.
+Когда я был маленьким, у меня были кости
+Важный звонок","„Es ist vorher.
+Als ich klein war, bekam ich einen Würfel
+Eine wichtige Glocke"
 000013a0,49,"「…何でその鈴をやったのかは、
 　覚えてるのか？」","… Why did you do that bell?
-Do you remember? ","",""
+Do you remember? ","… Зачем ты сделал этот колокольчик?
+Ты помнишь? ","… Warum hast du diese Glocke gemacht?
+Erinnerst du dich? "
 000014f0,63,"「けど、私のうさたん用にくれたんだよね。
 　それだけは覚えてる」","But you gave it to me for Usatan.
-I remember only that. ","",""
+I remember only that. ","— Но ты отдал его мне за Усатана.
+Я помню только это».","„Aber du hast es mir für Usatan gegeben.
+Ich erinnere mich nur daran.“"
 000017b4,76,"「小さいころのお前って、
 　いつもあのうさぎのぬいぐるみと
 　一緒だったよな」","When you were little, you
 Always with that rabbit stuffed animal
-It was the same. ","",""
+It was the same. ","«Когда ты был маленьким, ты
+Всегда с этим чучелом кролика
+Было то же самое».","„Als du klein warst, du
+Immer mit diesem Hasen-Stofftier
+Es war dasselbe."
 00001854,63,"「エヘヘ、私って、物心ついたときから
 　うさぎ好きなんだよね～」","Ehehe, from the moment I remembered
-I like rabbits ~ ","",""
+I like rabbits ~ ","«Эхехе, с того момента, как я вспомнил
+Я люблю кроликов~","„Ehehe, von dem Moment an, als ich mich erinnerte
+Ich mag Kaninchen ~ "
 000019a0,55,"「だって、かわいいもん！
 　耳が長くて～、ピンク色で～」","Because it's cute!
-The ears are long ~, pink ~ 」","",""
+The ears are long ~, pink ~ 」","Потому что это мило!
+Уши длинные ~, розовые ~」","„Weil es süß ist!
+Die Ohren sind lang ~, rosa ~ 」"
 00001ce4,55,"「いないって…。
 　どのうさぎも白とか、黒とか、茶色だ」","No …
-Every rabbit is white, black, or brown. ","",""
+Every rabbit is white, black, or brown. ","Нет …
+Каждый кролик белый, черный или коричневый».","Nein …
+Jedes Kaninchen ist weiß, schwarz oder braun."
 00001e7c,71,"「何でもってわけじゃないよ。
 　ラビィちゃんみたいにかわいくなくっちゃ」","It's not anything.
-I have to be cute like Rabbi-chan ","",""
+I have to be cute like Rabbi-chan ","Это ничего.
+Я должен быть милым, как Рабби-чан».","Es ist nichts.
+Ich muss süß sein wie Rabbi-chan "
 00002014,120,"小学校に入りたてのころはランドセルにつけて…、
 ケータイを持つようになってからは、
 ストラップ代わりにケータイにつけて…。","When I was in elementary school, I put it on my school bag …
 Since I got a mobile phone
-Attach it to your mobile phone instead of a strap …","",""
+Attach it to your mobile phone instead of a strap …","Когда я учился в начальной школе, я повесил его на школьную сумку…
+Так как у меня есть мобильный телефон
+Прикрепите его к мобильному телефону вместо ремешка…","Als ich in der Grundschule war, habe ich es auf meine Schultasche gesteckt …
+Seit ich ein Handy habe
+Befestigen Sie es anstelle eines Riemens an Ihrem Mobiltelefon …"
 000020f8,92,"「小さいころ、迷子になると、
 　この鈴の音を頼りに、
 　にいやんが捜しに来てくれたんだよね～」","When I was little, when I got lost,
 Relying on the sound of this bell,
-Niyan came to look for it ~ 」","",""
+Niyan came to look for it ~ 」","«Когда я был маленьким, когда я заблудился,
+Полагаясь на звук этого колокола,
+Ниян пришел его искать ~ 」","Als ich klein war, als ich mich verirrte,
+Sich auf den Klang dieser Glocke verlassend,
+Niyan kam, um danach zu suchen ~ 」"
 00002228,71,"「遊園地でも、デパートでも、
 　迷子になったら、必死で鈴を振ってたよな」","At an amusement park, at a department store,
-When I got lost, I was desperately waving a bell. ","",""
+When I got lost, I was desperately waving a bell. ","В парке развлечений, в универмаге,
+Когда я заблудился, то отчаянно махал колокольчиком».","In einem Vergnügungspark, in einem Kaufhaus,
+Als ich mich verlaufen habe, habe ich verzweifelt mit einer Glocke geschwenkt.“"
 00002364,51,"「おかげで今日も見つかったし、
 　便利だな、その鈴」","Thanks to you, I found it today,
-It's convenient, that bell ","",""
+It's convenient, that bell ","Благодаря вам, я нашел его сегодня,
+Удобно, что колокольчик","Dank dir habe ich es heute gefunden,
+Es ist praktisch, diese Glocke "
 000023e8,61,"「あーっ、まるで私が
 　ぜんぜん成長してないみたいじゃない！」","Ah, it's like I am
-It doesn't look like it's not growing at all! ","",""
+It doesn't look like it's not growing at all! ","Ах, как будто я
+Не похоже, чтобы он совсем не рос! ","„Ah, es ist wie ich bin
+Es sieht nicht so aus, als würde es überhaupt nicht wachsen! "
 00002530,53,"「成長したよぉ。
 　ほら、こーんなに背も高くなったし」","I've grown up.
-You see, I'm so tall. ","",""
+You see, I'm so tall. ","Я вырос.
+Видишь ли, я такой высокий».","„Ich bin erwachsen geworden.
+Siehst du, ich bin so groß.“"
 0000265c,63,"「胸のことは言うなぁあっ！
 　これからおっきくなるんだからっ！」","Don't say anything about your chest!
-It's going to be big from now on! ","",""
+It's going to be big from now on! ","«Ничего не говори о своей груди!
+Отныне он будет большим! ","„Sag nichts über deine Brust!
+Ab jetzt wird es groß! "
 00002864,120,"「ほら、ママリンってあの歳で、すっごく
 　スタイルいいし、胸もおっきいじゃない？
 　私もぜぇぇったいそうなると思うんだ～」","Look, Mamarin is that old, and it's really amazing.
 The style is good and the chest is big, isn't it?
-I think that would be the case ~ 」","",""
+I think that would be the case ~ 」","«Послушайте, Мамарин такой старый, и это действительно потрясающе.
+Стиль хороший и грудь большая, не так ли?
+Думаю, так и будет~」","„Schau, Mamarin ist so alt und es ist wirklich erstaunlich.
+Der Stil ist gut und die Brust ist groß, nicht wahr?
+Ich denke, das wäre der Fall ~ 」"
 00002a70,67,"「うう…勘弁してくれ…母親の胸のサイズ
 　なんか、気にしてないって」","Uh … forgive me … the size of my mother's breasts
-I don't care about it. ","",""
+I don't care about it. ","Эээ… простите… размер груди моей матери
+Меня это не волнует».","„Äh … verzeih mir … die Größe der Brüste meiner Mutter
+Es ist mir egal."
 00002ba0,51,"「う…そ、それは…
 　妹の行く末を心配してだなぁ…」","Uh … that's …
-I'm worried about the future of my sister … ","",""
+I'm worried about the future of my sister … ","Э… это…
+Я беспокоюсь о будущем моей сестры…»","„Äh … das ist …
+Ich mache mir Sorgen um die Zukunft meiner Schwester … "
 00002cd8,75,"「お、おまっ！　学校でそんなこと言うな！
 　誰か聞いたら、勘違いするだろ！」","Oh, oh! Don't say that at school!
-If anyone asked, you would misunderstand! ","",""
+If anyone asked, you would misunderstand! ","— О, о! Не говори так в школе!
+Если бы кто-нибудь спросил, вы бы неправильно поняли! ","„Oh, oh! Sag das nicht in der Schule!
+Wenn jemand fragen würde, würden Sie es falsch verstehen! "
 000030c8,63,"「けど、ごめんね。私は、すっごく
 　おっきくなっちゃうと思うよ」","But I'm sorry. I'm really
-I think it's going to be big. ","",""
+I think it's going to be big. ","Но мне очень жаль. Я действительно
+Я думаю, он будет большим».","„Aber es tut mir leid. Es tut mir wirklich leid
+Ich denke, es wird groß."
 00003458,67,"「うう…勘弁してくれ…母親の胸の
 　サイズなんか、気にしてないって」","Uh … forgive me … my mother's chest
-I don't care about the size. ","",""
+I don't care about the size. ","Э… прости… мамина грудь
+Меня не волнует размер».","„Äh … verzeih mir … die Brust meiner Mutter
+Die Größe ist mir egal."
 000035fc,57,"「あ～っ！　このままおっきくならないで
 　欲しいんだぁ！」","Ah! Don't get big like this!
-I want it! ","",""
+I want it! ","«Ах! Не становись таким большим!
+Я хочу это! ","„Ah! Werde nicht so groß!
+Ich will es! "
 00003728,63,"「やらし～っ！　やらし～っ！
 　妹をそんな目で見るなんて～っ！」","Yarashi! Yarashi!
-I can't see my sister with that kind of eyes! ","",""
+I can't see my sister with that kind of eyes! ","«Яраши! Яраши!»
+Я не могу видеть свою сестру с такими глазами! ","Yarashi! Yarashi!
+Ich kann meine Schwester nicht mit solchen Augen sehen! "
 00003804,79,"「ちょ、おまっ！　学校でそういうこと
 　言うな！　誰か聞いたら、勘違いするだろ」","Cho, oh! That kind of thing at school
- Do not say! If anyone asked, you would misunderstand. ","",""
+ Do not say! If anyone asked, you would misunderstand. ","Чо, ой! Такие дела в школе
+ И не говори! Если бы кто-нибудь спросил, вы бы неправильно поняли».","„Cho, oh! So was in der Schule
+ Sag nicht! Wenn jemand fragen würde, würdest du es missverstehen.“"
 00003ae4,69,"俺は、靴を履き替える果音を見つめながら、
 小さいころを思い出していた。","I'm staring at the sound of changing shoes,
-I remembered when I was little.","",""
+I remembered when I was little.","Я смотрю на звук смены обуви,
+Я вспомнил, когда был маленьким.","Ich starre auf das Geräusch beim Schuhe wechseln,
+Ich erinnerte mich, als ich klein war."
 00003b58,118,"いつも俺の後ろをつきまとっていたあのころ。
 片方の手でうさぎのぬいぐるみを抱え、
 もう片方の手で俺の袖口をつかんでいた。","At that time I was always behind me.
 Holding a stuffed rabbit in one hand,
-I was holding my cuffs with my other hand.","",""
+I was holding my cuffs with my other hand.","В то время я всегда был позади меня.
+Держа в одной руке плюшевого кролика,
+Другой рукой я держал наручники.","Damals war ich immer hinter mir.
+In einer Hand ein ausgestopftes Kaninchen haltend,
+Mit der anderen Hand hielt ich meine Handschellen."
 00003bfc,61,"果音がケータイを取り出すたびに、
 あのころと同じ鈴の音が鳴る。","Every time Kaon takes out the mobile phone
-The same bell sounds as those days.","",""
+The same bell sounds as those days.","Каждый раз, когда Каон достает мобильный телефон
+Звенит тот же колокол, что и в те дни.","Jedes Mal, wenn Kaon das Handy zückt
+Die gleiche Glocke ertönt wie damals."
 00003c68,59,"俺は変わらない兄妹の絆みたいなものを感じて、
 うれしかった。","I feel something like a brother-sister bond that doesn't change,
-Was glad.","",""
+Was glad.","Я чувствую что-то вроде братско-сестринской связи, которая не меняется,
+Был рад.","Ich fühle so etwas wie eine Bruder-Schwester-Bindung, die sich nicht ändert,
+War froh."
 00003cd0,85,"けどまぁ、ちょっとは変わった方がいい気もするが。
 特に胸とか…って、それはもういいか。","But well, I think it's better to change a little.
-Especially the chest … is that okay?","",""
+Especially the chest … is that okay?","Но ладно, думаю, лучше немного изменить.
+Особенно грудь… это нормально?","Aber gut, ich denke, es ist besser, sich ein wenig zu ändern.
+Vor allem die Brust … ist das okay?"

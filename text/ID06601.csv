@@ -1,77 +1,103 @@
-0000008c,10,"昼休み―。","lunch break-.","",""
-000001a8,34,"（あ、カメラだ。何か撮ってるんだ）","(Oh, it's a camera. I'm shooting something)","",""
-00000464,8,"「あ…」","a…","",""
-000004d0,8,"「……」","「……」","",""
-000004d0,8,"「……」","「……」","",""
-00000554,12,"「え～と…」","Uh …","",""
-000005b4,18,"「何か用ですか？」","For something?","",""
-000005fc,26,"「ごめん、いきなり撮って」","Sorry, take a picture suddenly","",""
-00000674,36,"「…別にいいです。私も撮りますから」","… I don't mind. I'll shoot too.","",""
-00000734,32,"「もっとも、人じゃないですけど」","Although I'm not a person.","",""
-00000780,16,"「人じゃない？」","Isn't it a person?","",""
-000007f0,16,"「ええ、まぁ…」","Yes, well …","",""
-000004d0,8,"「……」","「……」","",""
-00000894,20,"「もういいですか？」","Are you sure?","",""
-00000994,8,"「雲を」","Clouds","",""
-000009c8,8,"「雲？」","cloud?","",""
-00000a3c,8,"「ええ」","yes","",""
-00000a68,34,"「何か珍しい形の雲があったとか？」","Is there some unusual cloud?","",""
-00000ae8,26,"「そういうんじゃないんで」","It's not like that.","",""
-00000bbc,24,"「ええ、フォト部ですし」","Yes, it's the photo club.","",""
-00000c40,38,"「フォト部？　…ああ、写真部のこと？」","Photo club? … Oh, that's the photo club?","",""
-00000cb4,28,"「フォト部はフォト部なんで」","Why is the photo club a photo club?","",""
-00000d38,14,"「そ、そっか」","Oh, that's right","",""
-00000894,20,"「もういいですか？」","Are you sure?","",""
-00000ef0,40,"「…先に、名乗ってもらっていいですか？」","… Can you give me your name first?","",""
-00001010,20,"「実原氷里。１－Ｃ」","Hiri Mihara. 1-C","",""
-000010f0,10,"「果音？」","Fruit sound?","",""
-000011ec,12,"「知らない」","Do not know","",""
-00001228,12,"「そっか…」","I see…","",""
-00001258,22,"「え～と、実原…さん」","Well, Mihara … san","",""
-000012b0,8,"「実原」","Real field","",""
-000012e8,8,"「え？」","e?","",""
-00001350,36,"「実原でいいです。みんなそう呼ぶし」","It's okay with the real field. Everyone calls it that way.","",""
-0000140c,24,"「そう言われてもなぁ…」","Even if you say so …","",""
-00001494,30,"「なら、呼ばなくてもいいです」","If so, you don't have to call it.","",""
-00001510,12,"「それじゃ」","Well then","",""
-000015f8,26,"「部に入る方がいいですよ」","It's better to join the club.","",""
-00001510,12,"「それじゃ」","Well then","",""
-00000464,8,"「あ…」","a…","",""
-0000181c,18,"（行っちゃったか）","(Did you go)","",""
-0000185c,40,"（実原氷里…ちょっと変わった子だったな）","(Hiri Mihara … he was a strange child)","",""
+0000008c,10,"昼休み―。","lunch break-.","обеденный перерыв-.","Mittagspause-."
+000001a8,34,"（あ、カメラだ。何か撮ってるんだ）","(Oh, it's a camera. I'm shooting something)","(О, это камера. Я что-то снимаю)","(Oh, es ist eine Kamera. Ich fotografiere etwas)"
+00000464,8,"「あ…」","a…","а…","a…"
+000004d0,8,"「……」","「……」","「……」","「……」"
+000004d0,8,"「……」","「……」","「……」","「……」"
+00000554,12,"「え～と…」","Uh …","Эм-м-м …","Äh …"
+000005b4,18,"「何か用ですか？」","For something?","Для чего-то?","Für etwas?"
+000005fc,26,"「ごめん、いきなり撮って」","Sorry, take a picture suddenly","Извините, сфоткаю вдруг","Entschuldigung, mach plötzlich ein Foto"
+00000674,36,"「…別にいいです。私も撮りますから」","… I don't mind. I'll shoot too.","…Я не против. Я тоже буду стрелять.","… macht mir nichts aus. Ich schieße auch."
+00000734,32,"「もっとも、人じゃないですけど」","Although I'm not a person.","«Хотя я и не человек».","Obwohl ich kein Mensch bin."
+00000780,16,"「人じゃない？」","Isn't it a person?","Разве это не человек?","Ist es nicht ein Mensch?"
+000007f0,16,"「ええ、まぁ…」","Yes, well …","Да хорошо …","Ja, schon …"
+000004d0,8,"「……」","「……」","「……」","「……」"
+00000894,20,"「もういいですか？」","Are you sure?","Ты уверен?","Bist du dir sicher?"
+00000994,8,"「雲を」","Clouds","«Облака»","Wolken"
+000009c8,8,"「雲？」","cloud?","облако?","Wolke?"
+00000a3c,8,"「ええ」","yes","да","Jawohl"
+00000a68,34,"「何か珍しい形の雲があったとか？」","Is there some unusual cloud?","Есть какое-то необычное облако?","Ist da eine ungewöhnliche Wolke?"
+00000ae8,26,"「そういうんじゃないんで」","It's not like that.","Это не так.","So ist es nicht."
+00000bbc,24,"「ええ、フォト部ですし」","Yes, it's the photo club.","«Да, это фотоклуб».","Ja, es ist der Fotoclub."
+00000c40,38,"「フォト部？　…ああ、写真部のこと？」","Photo club? … Oh, that's the photo club?","Фотоклуб?… О, это фотоклуб?","Fotoclub? … Ach, das ist der Fotoclub?"
+00000cb4,28,"「フォト部はフォト部なんで」","Why is the photo club a photo club?","«Почему фотоклуб — это фотоклуб?»","Warum ist der Fotoclub ein Fotoclub?"
+00000d38,14,"「そ、そっか」","Oh, that's right","О, это правильно","Oh, das stimmt"
+00000894,20,"「もういいですか？」","Are you sure?","Ты уверен?","Bist du dir sicher?"
+00000ef0,40,"「…先に、名乗ってもらっていいですか？」","… Can you give me your name first?","… Можешь сначала назвать мне свое имя?","… Können Sie mir zuerst Ihren Namen nennen?"
+00001010,20,"「実原氷里。１－Ｃ」","Hiri Mihara. 1-C","«Хири Михара. 1-C»","Hiri Mihara. 1-C"
+000010f0,10,"「果音？」","Fruit sound?","Фруктовый звук?","Fruchtgeräusch?"
+000011ec,12,"「知らない」","Do not know","Не знать","Weiß nicht"
+00001228,12,"「そっか…」","I see…","Я понимаю…","Aha…"
+00001258,22,"「え～と、実原…さん」","Well, Mihara … san","Ну, Михара… сан","Nun, Mihara … san"
+000012b0,8,"「実原」","Real field","«Настоящее поле»","Reales Feld"
+000012e8,8,"「え？」","e?","Э?","e?"
+00001350,36,"「実原でいいです。みんなそう呼ぶし」","It's okay with the real field. Everyone calls it that way.","«С настоящим полем все в порядке. Все его так называют».","„Es ist in Ordnung mit dem echten Feld. Jeder nennt es so.“"
+0000140c,24,"「そう言われてもなぁ…」","Even if you say so …","«Даже если ты так говоришь…»","Auch wenn du es sagst …"
+00001494,30,"「なら、呼ばなくてもいいです」","If so, you don't have to call it.","«Если так, то вам не нужно звонить».","Wenn ja, musst du es nicht anrufen."
+00001510,12,"「それじゃ」","Well then","Ну тогда","Na dann"
+000015f8,26,"「部に入る方がいいですよ」","It's better to join the club.","«Лучше вступить в клуб».","Es ist besser, dem Club beizutreten."
+00001510,12,"「それじゃ」","Well then","Ну тогда","Na dann"
+00000464,8,"「あ…」","a…","а…","a…"
+0000181c,18,"（行っちゃったか）","(Did you go)","(Вы пошли)","(Bist du gegangen)"
+0000185c,40,"（実原氷里…ちょっと変わった子だったな）","(Hiri Mihara … he was a strange child)","(Хири Михара… он был странным ребенком)","(Hiri Mihara … er war ein seltsames Kind)"
 000000ec,76,"（あれ？　あの子、なんで空を
 　見上げてるんだ？
 　目にゴミでも入ったかな？）","(That? That child, why the sky
 Are you looking up?
-Did you get garbage in your eyes? )","",""
+Did you get garbage in your eyes? )","(Это? Этот ребенок, почему небо
+Вы смотрите вверх?
+Вам попал мусор в глаза? )","(Das? Dieses Kind, warum der Himmel
+Siehst du nach oben?
+Hast du Müll in die Augen bekommen? )"
 0000024c,69,"（けど、何を？　青空が広がってるだけだぞ。
 　単に空を撮ってるのか？）","(But what? The blue sky is just spreading.
-Are you just shooting the sky? )","",""
+Are you just shooting the sky? )","(Но что? Синее небо только расплывается.
+Вы просто снимаете небо? )","(Aber was? Der blaue Himmel breitet sich gerade aus.
+Schießen Sie gerade in den Himmel? )"
 00000300,51,"（集中してるな。
 　横にいる俺にぜんぜん気づかない）","(Don't concentrate.
-I never noticed me next to me)","",""
+I never noticed me next to me)","(Не концентрируйтесь.
+Я никогда не замечал себя рядом с собой)","(Nicht konzentrieren.
+Ich habe mich nie neben mir bemerkt)"
 000008e0,55,"「あ…いや、今、何を撮ってたのか、
 　教えてくれない？」","Ah … no, what were you shooting now?
-Can you tell me? ","",""
+Can you tell me? ","А… нет, что ты сейчас снимал?
+Можешь мне ответить? ","Ah … nein, was hast du jetzt geschossen?
+Kannst du mir erzählen? "
 00000b2c,51,"「そういうんじゃない…か。
 　…写真、好きなんだ？」","Isn't that so …?
-… Do you like photos? ","",""
+… Do you like photos? ","Не так ли…?
+… Вам нравятся фотографии? ","„Ist das nicht …?
+… Mögen Sie Fotos? "
 00000d74,53,"（うちの写真部って、
 　フォト部って名前だったかな？）","(Our photo club
-Was the photo club the name? )","",""
+Was the photo club the name? )","(Наш фотоклуб
+Фотоклуб так назывался? )","(Unser Fotoclub
+War der Fotoclub der Name? )"
 00000e48,75,"「あ、俺、カメラ初心者なんだけど、
 　よかったら…いろいろ教えてくれない？」","Oh, I'm a camera beginner,
-If you like … can you tell me a lot? ","",""
+If you like … can you tell me a lot? ","«О, я начинающий фотограф,
+Если хочешь… можешь много рассказать? ","Oh, ich bin ein Kamera-Anfänger,
+Wenn du magst… kannst du mir viel erzählen? "
 00001150,76,"「俺の妹。１－Ｂにいるんだ。
 　ショートカットで、
 　テニス部に所属してて…」","My sister. I'm in 1-B.
 With a shortcut,
-Belonging to the tennis club … ","",""
+Belonging to the tennis club … ","«Моя сестра. Я в 1-Б.
+С ярлыком,
+Принадлежность к теннисному клубу…»","„Meine Schwester. Ich bin in 1-B.
+Mit einer Abkürzung
+Zugehörigkeit zum Tennisclub … "
 00001554,80,"「あー、わかった、呼ぶよ。
 　え～と、実…原、
 　俺にカメラを教えてくれないか？」","Oh, I see, I'll call you.
 Well, actually … Hara,
-Can you tell me the camera? ","",""
+Can you tell me the camera? ","— О, я вижу, я позвоню тебе.
+Ну вообще-то… Хара,
+Не подскажете камеру? ","„Ach so, ich rufe dich an.
+Nun, eigentlich … Hara,
+Kannst du mir die Kamera sagen? "
 00001648,51,"「部に？　フォト部だっけ？
 　…そっか、そうだよな」","In the club? Is it the photo club?
-… That ’s right. ”","",""
+… That ’s right. ”","«В клубе? Это фотоклуб?
+… Вот так. ","„Im Club? Ist es der Fotoclub?
+… Das stimmt. "

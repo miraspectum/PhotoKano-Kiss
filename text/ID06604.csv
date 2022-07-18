@@ -1,103 +1,147 @@
-0000008c,30,"３時間目が終わった休み時間―。","Break time after the 3rd hour.","",""
-00000108,20,"（何か被写体は…と）","(What is the subject …)","",""
-0000014c,24,"（体育館に行ってみるか）","(Would you like to go to the gymnasium)","",""
-000001d4,8,"「あ…」","a…","",""
-00000218,10,"「んっ！」","Hmm!","",""
-00000250,10,"「ふっ！」","Huh!","",""
-00000288,28,"（誰だろう…。１年…かな？）","(Who is it … 1 year …?)","",""
-000002b8,22,"シャッターチャンスだ！","It's a photo opportunity!","",""
-000002d8,16,"撮るまでもないな","No need to shoot","",""
-000001d4,8,"「あ…」","a…","",""
-000001d4,8,"「あ…」","a…","",""
-00000708,20,"「こ、こんにちは…」","Hello …","",""
-000007ec,16,"「こんにちは…」","hello…","",""
-00000b14,42,"「あ、いや、別に遊びに来たわけじゃなくて」","Oh no, I didn't come to play separately.","",""
-00000de0,20,"「被写体…ですか？」","Subject …?","",""
-00000f04,10,"「はぁ…」","Huh …","",""
-00000f38,34,"「さっき踊ってたのって、バレエ？」","Is it ballet that you were dancing a while ago?","",""
-00001140,32,"「…え？　私…上手…でしたか？」","… Eh? I … was good …?","",""
-000012d8,10,"「わぁ…」","Wow …","",""
-00001330,28,"「よかった、新体操始めて…」","Good, I started rhythmic gymnastics …","",""
-000013f4,20,"「私、早倉舞衣です」","I'm Mai Hayakura.","",""
-00001518,18,"「私は１－Ｂです」","I'm 1-B","",""
-00001554,32,"「１－Ｂ？　果音と同じクラスだ」","1-B? It's the same class as Kaon","",""
-000015c8,42,"「果音？　かのちゃんをご存じなんですか？」","Kane? Do you know Kano-chan?","",""
-000016a0,34,"「ご存じも何も、果音は俺の妹だよ」","Nothing you know, Kaon is my sister.","",""
-00001728,38,"「ええっ！？　そ、そうなんですか！？」","Eh !? That's right !?","",""
-000019b8,36,"「あ…いや、こちらこそ、初めまして」","Ah … no, this is nice to meet you.","",""
-00001b94,10,"「フフッ」","Huh","",""
-00001c00,10,"「ははは」","Hahaha","",""
-00001c38,38,"「早倉…さんか。名前みたいな名字だね」","Hayakura … san? It's a surname like a name.","",""
-00001db8,22,"「ははは、そうかもね」","Haha, maybe that's right.","",""
-00001ed0,22,"「へ～っ、そうなんだ」","Hey, that's right.","",""
-0000201c,36,"「まぁ、元気すぎて困る時もあるけど」","Well, sometimes I'm too energetic and in trouble.","",""
-000020b4,10,"「クスッ」","Kusu","",""
-00002300,26,"「クスッ、そうなんですか」","Kusu, is that so?","",""
-00002624,40,"「クスッ、わかりました。伝えておきます」","Okay, I'll tell you.","",""
-000026e0,22,"「じゃあね、早倉さん」","Well, Mr. Hayakura","",""
-00002890,8,"「はい」","yes","",""
-000028fc,30,"「じゃあ、またね、舞衣ちゃん」","See you again, Mai-chan","",""
-00002978,20,"「はい、失礼します」","Yes, excuse me.","",""
-00002aa4,42,"（早倉舞衣…ちゃんか。かわいい子…だよな）","(Mai Hayakura … chan? A cute girl … isn't it?)","",""
+0000008c,30,"３時間目が終わった休み時間―。","Break time after the 3rd hour.","Перерыв после 3-го часа.","Pausenzeit nach der 3. Stunde."
+00000108,20,"（何か被写体は…と）","(What is the subject …)","(Какая тема …)","(Was ist das Thema …)"
+0000014c,24,"（体育館に行ってみるか）","(Would you like to go to the gymnasium)","(Хотели бы вы пойти в гимназию)","(Möchtest du ins Gymnasium gehen)"
+000001d4,8,"「あ…」","a…","а…","a…"
+00000218,10,"「んっ！」","Hmm!","Хм!","Hmm!"
+00000250,10,"「ふっ！」","Huh!","Хм!","Huh!"
+00000288,28,"（誰だろう…。１年…かな？）","(Who is it … 1 year …?)","(Кто это… 1 год…?)","(Wer ist es … 1 Jahr …?)"
+000002b8,22,"シャッターチャンスだ！","It's a photo opportunity!","Это возможность сфотографироваться!","Es ist eine Gelegenheit zum Fotografieren!"
+000002d8,16,"撮るまでもないな","No need to shoot","Не нужно стрелять","Keine Notwendigkeit zu schießen"
+000001d4,8,"「あ…」","a…","а…","a…"
+000001d4,8,"「あ…」","a…","а…","a…"
+00000708,20,"「こ、こんにちは…」","Hello …","Привет …","Hallo …"
+000007ec,16,"「こんにちは…」","hello…","привет…","hallo…"
+00000b14,42,"「あ、いや、別に遊びに来たわけじゃなくて」","Oh no, I didn't come to play separately.","«О нет, я не пришел играть отдельно».","Oh nein, ich bin nicht gekommen, um separat zu spielen."
+00000de0,20,"「被写体…ですか？」","Subject …?","Предмет …?","Thema …?"
+00000f04,10,"「はぁ…」","Huh …","Хм …","Hä…"
+00000f38,34,"「さっき踊ってたのって、バレエ？」","Is it ballet that you were dancing a while ago?","— Это балет, который вы недавно танцевали?","Ist es Ballett, das du vor einer Weile getanzt hast?"
+00001140,32,"「…え？　私…上手…でしたか？」","… Eh? I … was good …?","… Э? Я… был хорош…?","… Eh? Ich … war gut …?"
+000012d8,10,"「わぁ…」","Wow …","Ух ты …","Wow …"
+00001330,28,"「よかった、新体操始めて…」","Good, I started rhythmic gymnastics …","«Хорошо, я начала заниматься художественной гимнастикой…»","Gut, ich habe mit rhythmischer Sportgymnastik angefangen …"
+000013f4,20,"「私、早倉舞衣です」","I'm Mai Hayakura.","— Я Май Хаякура.","Ich bin Mai Hayakura."
+00001518,18,"「私は１－Ｂです」","I'm 1-B","Я 1-Б","Ich bin 1-B"
+00001554,32,"「１－Ｂ？　果音と同じクラスだ」","1-B? It's the same class as Kaon","«1-B? Это тот же класс, что и у Каона».","1-B? Es ist die gleiche Klasse wie Kaon"
+000015c8,42,"「果音？　かのちゃんをご存じなんですか？」","Kane? Do you know Kano-chan?","— Кейн? Ты знаешь Кано-тян?","Kane? Kennst du Kano-chan?"
+000016a0,34,"「ご存じも何も、果音は俺の妹だよ」","Nothing you know, Kaon is my sister.","«Ничего ты не знаешь, Каон — моя сестра».","Nichts, was du weißt, Kaon ist meine Schwester."
+00001728,38,"「ええっ！？　そ、そうなんですか！？」","Eh !? That's right !?","Э!? Верно!?","Eh!? Stimmt das!?"
+000019b8,36,"「あ…いや、こちらこそ、初めまして」","Ah … no, this is nice to meet you.","Ах… нет, приятно познакомиться.","Ah … nein, schön dich kennenzulernen."
+00001b94,10,"「フフッ」","Huh","Хм","Hm"
+00001c00,10,"「ははは」","Hahaha","Хахаха","Hahaha"
+00001c38,38,"「早倉…さんか。名前みたいな名字だね」","Hayakura … san? It's a surname like a name.","— Хаякура… сан? Это фамилия как имя.","Hayakura … san? Es ist ein Nachname wie ein Name."
+00001db8,22,"「ははは、そうかもね」","Haha, maybe that's right.","Ха-ха, может быть, это правильно.","Haha, vielleicht stimmt das."
+00001ed0,22,"「へ～っ、そうなんだ」","Hey, that's right.","«Эй, верно».","He, das ist richtig."
+0000201c,36,"「まぁ、元気すぎて困る時もあるけど」","Well, sometimes I'm too energetic and in trouble.","«Ну, иногда я слишком энергичен и попадаю в беду».","Nun, manchmal bin ich zu energisch und in Schwierigkeiten."
+000020b4,10,"「クスッ」","Kusu","Кусу","Kusu"
+00002300,26,"「クスッ、そうなんですか」","Kusu, is that so?","— Кусу, это так?","Kusu, ist das so?"
+00002624,40,"「クスッ、わかりました。伝えておきます」","Okay, I'll tell you.","— Хорошо, я скажу тебе.","Okay, ich werde es dir sagen."
+000026e0,22,"「じゃあね、早倉さん」","Well, Mr. Hayakura","Ну, мистер Хаякура","Nun, Herr Hayakura"
+00002890,8,"「はい」","yes","да","Jawohl"
+000028fc,30,"「じゃあ、またね、舞衣ちゃん」","See you again, Mai-chan","«Увидимся снова, Май-чан»","Wir sehen uns wieder, Mai-chan"
+00002978,20,"「はい、失礼します」","Yes, excuse me.","— Да, извините.","Ja Entschuldigung."
+00002aa4,42,"（早倉舞衣…ちゃんか。かわいい子…だよな）","(Mai Hayakura … chan? A cute girl … isn't it?)","(Май Хаякура… тян? Симпатичная девушка… не правда ли?)","(Mai Hayakura … chan? Ein süßes Mädchen … nicht wahr?)"
 00000864,59,"「すみません、１人で体育館を使っちゃって。
 　ど、どうぞ…」","I'm sorry, I used the gymnasium alone.
-Please … ","",""
+Please … ","«Извините, я ходил в спортзал один.
+Пожалуйста … ","„Tut mir leid, ich habe die Turnhalle alleine benutzt.
+Bitte … "
 00000c54,82,"「そうなんですか？
 　じゃあ、どうしてここに？
 　次の体育はうちのクラスですけど？」","Really?
 Then why are you here?
-The next physical education is in our class? ","",""
+The next physical education is in our class? ","Действительно?
+Тогда почему ты здесь?
+Очередная физкультура в нашем классе? ","Wirklich?
+Warum bist du dann hier?
+Der nächste Sportunterricht ist in unserer Klasse? "
 00000d60,51,"「え～と…何かいい被写体がないかなぁと
 　思って…」","Well … I wonder if there is any good subject.
- I thought to…","",""
+ I thought to…","«Ну… интересно, есть ли какая-нибудь хорошая тема.
+Я думал…»","„Nun … ich frage mich, ob es ein gutes Thema gibt.
+Ich dachte an …“"
 00000e70,53,"「そう。そしたら、体育館で踊ってる子が
 　いたから…」","Yes. Then the child dancing in the gymnasium
- Because I was there…","",""
+ Because I was there…","Да. Тогда ребенок, танцующий в спортзале
+Потому что я был там…»","„Ja. Dann das Kind, das in der Turnhalle tanzt
+Weil ich dabei war…“"
 00000fd4,47,"「いいえ、新体操です。
 　私、新体操部ですから」","No, it's rhythmic gymnastics.
-I'm a rhythmic gymnastics club. ","",""
+I'm a rhythmic gymnastics club. ","«Нет, это художественная гимнастика.
+Я клуб художественной гимнастики».","„Nein, es ist rhythmische Sportgymnastik.
+Ich bin ein Verein für rhythmische Gymnastik.“"
 00001094,49,"「あ、そうなんだ！
 　へ～っ、道理でうまいわけだ」","Oh, that's right!
-Hey, that's why it's good. ","",""
+Hey, that's why it's good. ","О, точно!
+Эй, это достаточно хорошо».","Oh, das stimmt!
+Hey, deswegen ist es gut."
 00001228,88,"「うまかったよ。新体操って
 　あんまり見たことないけど、
 　よくあんな動きできるなぁって」","It was good. Rhythmic gymnastics
 I haven't seen it so much,
-I can move like that well 」","",""
+I can move like that well 」","«Это было хорошо. Художественная гимнастика
+Я не видел его так много,
+Я могу так хорошо двигаться 」","Es war gut. Rhythmische Gymnastik
+Ich habe es nicht so oft gesehen,
+Ich kann mich so gut bewegen 」"
 000018b8,59,"「は、初めまして！
 　すみません、ご挨拶が遅くなっちゃって」","Nice to meet you!
-I'm sorry, my greetings have been delayed. ","",""
+I'm sorry, my greetings have been delayed. ","Рад встрече!
+Извините, мои поздравления задержались».","Schön, dich kennenzulernen!
+Es tut mir leid, meine Grüße haben sich verzögert."
 00001a44,57,"「かのちゃんにお兄さんがいたなんて…
 　知らなかったです」","Kano-chan had an older brother …
-I didn't know. ","",""
+I didn't know. ","У Кано-тян был старший брат…
+Я не знал».","„Kano-chan hatte einen älteren Bruder …
+Ich wusste es nicht."
 00001af4,69,"「俺も、果音に新体操をやってる同級生が
 　いるなんて、知らなかったよ」","I also have a classmate who is doing rhythmic gymnastics for Kaon.
-I didn't know you were there. ","",""
+I didn't know you were there. ","«Еще у меня есть одноклассница, которая занимается художественной гимнастикой для Каона.
+Я не знал, что ты там».","„Ich habe auch einen Klassenkameraden, der für Kaon rhythmische Gymnastik macht.
+Ich wusste nicht, dass du da bist."
 00001cbc,77,"「よく言われます。どっちも名前だって。
 　おかげで覚えてもらいやすいんですよ」","It's often said that both are names.
-Thanks to that, it's easy to remember. ","",""
+Thanks to that, it's easy to remember. ","«Часто говорят, что и то, и другое — имена.
+Благодаря этому его легко запомнить».","„Es wird oft gesagt, dass beides Namen sind.
+Dank dessen ist es leicht zu merken.“"
 00001e2c,47,"「私とかのちゃん、
 　とっても仲良しなんですよ」","Me and Ka-chan,
-I'm very close. ","",""
+I'm very close. ","«Я и Ка-чан,
+Я очень близко».","Ich und Ka-chan,
+Ich bin ganz in der Nähe.“"
 00001f4c,69,"「かのちゃんって、とっても楽しいですよね。
 　いつも元気で明るくて…」","Kano-chan is really fun, isn't it?
-Always energetic and bright … 」","",""
+Always energetic and bright … 」","«Кано-чан действительно забавный, не так ли?
+Всегда энергичная и яркая…」","„Kano-chan macht wirklich Spaß, nicht wahr?
+Immer energisch und hell … 」"
 00002240,88,"「あ、いや…趣味っていうか、
 　昨日始めたばかりで。
 　趣味になるといいなぁって感じかな」","Oh no … I think it's a hobby,
 I just started yesterday.
-I hope it becomes a hobby. ","",""
+I hope it becomes a hobby. ","О нет… Я думаю, это хобби,
+Я только вчера начал.
+Надеюсь, это станет хобби».","Oh nein … ich denke, es ist ein Hobby,
+Ich habe gestern erst angefangen.
+Ich hoffe, es wird ein Hobby.“"
 00002390,47,"「あ、練習の邪魔してごめん。
 　そろそろ行くよ」","Oh, I'm sorry to disturb you in practice.
-It's about time to go ","",""
+It's about time to go ","«О, извините, что беспокою вас на тренировке.
+Пора идти","„Oh, tut mir leid, Sie beim Üben zu stören.
+Es ist an der Zeit zu gehen“"
 0000241c,80,"「邪魔だなんて、そんな。
 　もうすぐかのちゃんも
 　着替えてくると思いますけど…」","That's a hindrance.
 Kano-chan is coming soon
-I think you'll change your clothes … ","",""
+I think you'll change your clothes … ","Это помеха.
+Кано-чан скоро придет
+Я думаю, ты переоденешься…»","„Das ist hinderlich.
+Kano-chan kommt bald
+Ich denke, du ziehst dich um … "
 00002564,65,"「果音とは家で会えるからいいよ。
 　知り合ったことを伝えておいて」","It's good because you can meet Kaon at home.
-Tell me that you got to know each other. ","",""
+Tell me that you got to know each other. ","«Это хорошо, потому что ты можешь встретить Каона дома.
+Скажите, что вы узнали друг друга».","„Es ist gut, weil du Kaon zu Hause treffen kannst.
+Sag mir, dass ihr euch kennengelernt habt."
 000027e0,61,"「え？　呼び捨て？　それはなんだから…
 　舞衣ちゃんでいい？」","Eh? Abandoned? Because that's what …
-Is Mai-chan okay? ","",""
+Is Mai-chan okay? ","Э? Брошенный? Потому что это то, что…
+Май-чан в порядке? ","„Eh? Verlassen? Denn das ist es, was …
+Geht es Mai-chan gut? "

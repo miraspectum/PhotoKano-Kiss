@@ -5,7 +5,7 @@ import { Logger } from './logger.mjs';
 const logger = new Logger('auto-translate.log');
 const filesDescCsv = './text/files.csv';
 
-const availableLangs = ['en'];
+const availableLangs = ['en', 'ru', 'de'];
 
 const CHAR_LIMIT = 450000;
 let charCounter = 0;

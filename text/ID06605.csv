@@ -1,71 +1,109 @@
-00000180,38,"「み、皆さん、席に着いてくださいっ！」","Well, everyone, please take a seat!","",""
-000001d4,14,"（だ、誰だ？）","(Who is it?)","",""
-000002b8,10,"「すーっ」","Soooo","",""
-00000350,32,"「皆さん、おはようございます！」","Good morning, ladies and gentlemen!","",""
-000004d8,24,"「よろしくお願いします」","thank you","",""
-00000738,24,"（こ、答えるのかよ！？）","(Do you answer this !?)","",""
-0000079c,20,"「ご想像にお任せね」","Leave it to your imagination","",""
-000007dc,22,"（そりゃそうだよな…）","(That's right …)","",""
-00000848,24,"「では、出席を取ります」","Then, I will attend.","",""
-00000910,24,"「出席番号１番、相原君」","Attendance number 1, Mr. Aihara","",""
-00000958,8,"（ん？）","(Hmm?)","",""
-00000a3c,10,"（んん？）","(Hmm?)","",""
-00000d2c,36,"「大谷さん！　ここで何やってるの！」","Mr. Otani! What are you doing here!","",""
-000010c0,34,"「え？　え？　えええええええええ」","Eh? Eh? Yeah yeah yeah yeah","",""
-000014b0,18,"「失礼しましたー」","Excuse me","",""
-000015e8,28,"教室中が爆笑の渦で包まれる。","The classroom is surrounded by a whirlpool of laughter.","",""
-000016e0,38,"「まったく…あんなので勤まるのかしら」","At all … I wonder if I will work because of that.","",""
-0000176c,38,"（大谷…桃子先生か。きれいな人だよな）","(Otani … Momoko-sensei? You're a beautiful person.)","",""
+00000180,38,"「み、皆さん、席に着いてくださいっ！」","Well, everyone, please take a seat!","— Ну, все, садитесь!","Nun, alle, nehmen Sie bitte Platz!"
+000001d4,14,"（だ、誰だ？）","(Who is it?)","(Это кто?)","(Wer ist es?)"
+000002b8,10,"「すーっ」","Soooo","тааак","Sooo"
+00000350,32,"「皆さん、おはようございます！」","Good morning, ladies and gentlemen!","Доброе утро дамы и господа!","Guten Morgen meine Damen und Herren!"
+000004d8,24,"「よろしくお願いします」","thank you","благодарю вас","Danke"
+00000738,24,"（こ、答えるのかよ！？）","(Do you answer this !?)","(Вы отвечаете на это!?)","(Beantwortest du das !?)"
+0000079c,20,"「ご想像にお任せね」","Leave it to your imagination","«Предоставьте это вашему воображению»","Überlassen Sie es Ihrer Fantasie"
+000007dc,22,"（そりゃそうだよな…）","(That's right …)","(Вот так …)","(Das stimmt …)"
+00000848,24,"「では、出席を取ります」","Then, I will attend.","— Тогда я буду присутствовать.","Dann werde ich teilnehmen."
+00000910,24,"「出席番号１番、相原君」","Attendance number 1, Mr. Aihara","«Присутствие номер 1, мистер Айхара»","Anwesenheit Nummer 1, Mr. Aihara"
+00000958,8,"（ん？）","(Hmm?)","(Хм?)","(Hmm?)"
+00000a3c,10,"（んん？）","(Hmm?)","(Хм?)","(Hmm?)"
+00000d2c,36,"「大谷さん！　ここで何やってるの！」","Mr. Otani! What are you doing here!","«Мистер Отани! Что вы здесь делаете!»","Herr Otani! Was machen Sie hier!"
+000010c0,34,"「え？　え？　えええええええええ」","Eh? Eh? Yeah yeah yeah yeah","Э? Э? Да, да, да, да","Eh? Eh? Ja ja ja ja"
+000014b0,18,"「失礼しましたー」","Excuse me","Извините меня","Verzeihung"
+000015e8,28,"教室中が爆笑の渦で包まれる。","The classroom is surrounded by a whirlpool of laughter.","Класс окружает водоворот смеха.","Das Klassenzimmer ist von einem Strudel aus Gelächter umgeben."
+000016e0,38,"「まったく…あんなので勤まるのかしら」","At all … I wonder if I will work because of that.","«Вообще… интересно, буду ли я из-за этого работать».","Überhaupt … ich frage mich, ob ich deswegen arbeiten werde."
+0000176c,38,"（大谷…桃子先生か。きれいな人だよな）","(Otani … Momoko-sensei? You're a beautiful person.)","(Отани… Момоко-сенсей? Вы прекрасный человек.)","(Otani … Momoko-sensei? Du bist eine schöne Person.)"
 00000210,79,"クラス中のヤツらが俺と同じ疑問を持ったらしく、
 一斉に教壇を向いたまま固まった。","It seems that the guys in the class have the same questions as me,
-It solidified while facing the podium all at once.","",""
+It solidified while facing the podium all at once.","Кажется, у ребят в классе те же вопросы, что и у меня,
+Он застыл, глядя на подиум одновременно.","Es scheint, dass die Jungs in der Klasse die gleichen Fragen haben wie ich,
+Es verfestigte sich auf einmal, während es dem Podium zugewandt war."
 000003d0,112,"「初めまして、大谷桃子です。
 　今日から教育実習生として、皆さんと一緒に
 　このクラスで勉強することになりました」","Nice to meet you, Momoko Otani.
 From today, as an educational trainee, with you
-I decided to study in this class. ","",""
+I decided to study in this class. ","«Приятно познакомиться, Момоко Отани.
+С сегодняшнего дня, как обучаемый стажер, с вами
+Я решил учиться в этом классе».","„Schön dich kennenzulernen, Momoko Otani.
+Ab heute als Auszubildende/r bei dir
+Ich habe mich entschieden, in dieser Klasse zu studieren."
 00000560,59,"クラスが騒然となった。
 特に俺たち男子の歓びようったらない。","The class was noisy.
-Especially, we boys are so happy.","",""
+Especially, we boys are so happy.","В классе было шумно.
+Особенно мы, мальчики, так счастливы.","Der Unterricht war laut.
+Vor allem wir Jungs freuen uns riesig."
 000005c8,75,"口々に「恋人はいますか？」とか、
 「スリーサイズは？」などと、はやし立てる。","Do you have a lover?
-What's the three size?","",""
+What's the three size?","У тебя есть любовник?
+Какой третий размер?","Haben Sie einen Liebhaber?
+Was ist die drei Größe?"
 0000065c,47,"「えーと…恋人はいません。
 　スリーサイズは…」","Well … I don't have a lover.
-Three sizes are … ","",""
+Three sizes are … ","Ну… у меня нет любовника.
+Три размера есть…","„Nun … ich habe keinen Liebhaber.
+Drei Größen sind … "
 0000099c,57,"「相原君？　いないの？　お休み？
 　じゃあ、次は…赤坂君」","Aihara-kun? Isn't it? Is it a holiday?
-Then, next … Akasaka-kun ","",""
+Then, next … Akasaka-kun ","«Айхара-кун? Не так ли? Праздник?
+Потом, рядом… Акасака-кун","„Aihara-kun? Nicht wahr? Ist es ein Feiertag?
+Dann als nächstes … Akasaka-kun "
 00000a8c,47,"「…赤坂君も返事がないわねぇ。
 　欠席…かなぁ」","… Akasaka-kun didn't get a reply either.
-Absent … I wonder. ","",""
+Absent … I wonder. ","— …Акасака-кун тоже не получил ответа.
+Отсутствует… Интересно».","„…Akasaka-kun hat auch keine Antwort bekommen.
+Abwesend … frage ich mich.“"
 00000b20,73,"（相原？　赤坂？　そんな名字のヤツは
 　うちのクラスにいないぞ。まさか…）","(Aihara? Akasaka?
-I'm not in my class. No way …)","",""
+I'm not in my class. No way …)","(Аихара? Акасака?
+Я не в своем классе. Ни за что …)","(Aihara? Akasaka?
+Ich bin nicht in meiner Klasse. Auf keinen Fall …)"
 00000de0,63,"「あ、喜多川先生。何やってるって…
 　出席を取ってるんですけど」","Oh, Professor Kitagawa. What are you doing …
-I'm attending. ","",""
+I'm attending. ","«О, профессор Китагава. Что вы делаете…
+Я посещаю. ","„Oh, Professor Kitagawa. Was machen Sie da …
+Ich nehme teil. "
 00000ef4,45,"「それはわかってるわよ。
 　そうじゃなくて…」","I know that.
- It is not like that…","",""
+ It is not like that…","Я знаю это.
+Это не так…»","Ich weiß das.
+ So ist es nicht…"
 00000fc8,86,"「あなたのクラスは３－Ａでしょ！？
 　ここは２－Ｂよ！
 　学年もクラスも違うじゃない！」","Your class is 3-A, right?
 This is 2-B!
-The grade and class are different! ","",""
+The grade and class are different! ","«Твой класс 3-А, верно?
+Это 2-Б!
+Уровень и класс разные! ","„Ihre Klasse ist 3-A, richtig?
+Das ist 2-B!
+Klasse und Klasse sind unterschiedlich! "
 00001170,92,"クラスどころか学年も間違えていた。
 ３年の教室は３階。ここは２階。
 どうやったら間違えるんだ？","Far from being in class, I was in the wrong grade.
 The 3rd year classroom is on the 3rd floor. This is the second floor.
-How can I make a mistake?","",""
+How can I make a mistake?","Я был далеко не в классе, я был в неправильном классе.
+Классная комната 3 класса находится на 3 этаже. Это второй этаж.
+Как я могу ошибиться?","Weit davon entfernt, in der Klasse zu sein, war ich in der falschen Klasse.
+Das Klassenzimmer der 3. Klasse befindet sich im 3. Stock. Dies ist der zweite Stock.
+Wie kann ich einen Fehler machen?"
 00001224,53,"「ご、ごめんなさい。
 　初めてだから緊張しちゃって…」","I'm sorry.
-Because it was my first time, I was nervous … ","",""
+Because it was my first time, I was nervous … ","Мне жаль.
+Потому что это был мой первый раз, я нервничал…»","Es tut mir Leid.
+Weil es mein erstes Mal war, war ich nervös … "
 00001314,82,"「えーと…それじゃまたね、皆さん。
 　自己紹介したばかりだけど、
 　私、行かなきゃ」","Well … see you soon, everyone.
 I just introduced myself,
-I have to go ","",""
+I have to go ","Ну… до скорой встречи, все.
+Я только что представился,
+Мне надо идти ","„Nun … bis bald, alle zusammen.
+Ich habe mich gerade vorgestellt,
+Ich muss los "
 0000142c,53,"「校内で見かけたら、
 　気軽に声をかけてくださいね～」","If you see it in the school,
-Please feel free to contact me ~ ","",""
+Please feel free to contact me ~ ","«Если ты увидишь это в школе,
+Пожалуйста, не стесняйтесь обращаться ко мне ~ ","„Wenn du es in der Schule siehst,
+Bitte zögern Sie nicht, mich zu kontaktieren ~ "

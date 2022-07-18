@@ -146,9 +146,9 @@ async function patchGameFile(patch, encoding, source, savePath) {
                 // Skip
                 logger.log('WARN', `${lang} phrase size at 0x${offsetStr} (${phrase.length}) in ${patch} bigger than max size (${mSize})! Result string will be cutted!`);
                 const saveMSize = encoding === 'utf8' ? mSize - 1 : mSize;
-                console.log(phrase);
+
+                // TODO: New function to save cut buffer
                 phrase = phrase.slice(0, saveMSize);
-                console.log(phrase);
             }
 
             if (phrase.length > initialPhraseSize && phrase.length === mSize) {
