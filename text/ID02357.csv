@@ -1,194 +1,314 @@
 00000378,55,"「室戸先輩とかつみさんって、
-　つきあい長いんですか？」","","",""
+　つきあい長いんですか？」","“Are you a long time with Muroto seniors?","- Ты давно с Мурото старшими?","„Sind Sie eine lange Zeit mit Muroto Senioren?"
 0000040c,55,"「ええ、長いわよ。偶然、３年間、
-　同じクラスだったし」","","",""
+　同じクラスだったし」","Yes, long. It was the same class for three
+years.","- Да, долго. Это был тот же класс в течение трех
+лет.","Ja, lang. Es war die gleiche Klasse für drei
+Jahre."
 000004dc,61,"「１年の終わりに、生徒会長に
-　推薦してくれたのも、かつみよ」","","",""
-00000550,30,"「へ～っ、そうだったんですか」","","",""
+　推薦してくれたのも、かつみよ」","“The student was recommended by the president at
+the end of the year.”","«Студенческий рекомендован президентом в конце
+года. »","„Der Student wurde am Ende des Jahres vom
+Präsidenten empfohlen. „"
+00000550,30,"「へ～っ、そうだったんですか」","“What was that?”","— Что это было? »","„Was war das? „"
 000005a8,51,"「室戸先輩と九堂部長って、
-　同じクラスですよね？」","","",""
-00000658,16,"「ええ…そうね」","","",""
+　同じクラスですよね？」","“Is it the same class with Mr. Muroto and Mr.
+Kudo?”","«Это тот же класс с г-ном Мурото и г-ном Кудо? »","„Ist es die gleiche Klasse mit Mr. Muroto und Mr.
+Kudo? „"
+00000658,16,"「ええ…そうね」","Ehhhhhhhhhhhhhhhhhhhhhhhhh","Ehhhhhhhhhhhhhhhhhhhhhhhhhhhh","
+Ehhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh"
 000006b4,102,"「１年の時、同じクラスで、
 　２年で別のクラスになってほっとしたら、
-　３年でまた同じクラスになって…」","","",""
+　３年でまた同じクラスになって…」","“If you want to be another class in the same
+class in the same year, it will be the same class
+in 3 years…”","«Если вы хотите быть другим классом в том же
+классе в том же году, это будет тот же класс в 3
+года… »","“Wenn Sie im selben Jahr eine andere Klasse in
+der gleichen Klasse sein wollen, wird es die
+gleiche Klasse in 3 Jahren sein… „"
 000007c8,81,"「あの男のいるところにやっかいごとあり。
-　あまり関わらないようにした方が無難よ」","","",""
-00000880,30,"「はは…もう写真部員なんで…」","","",""
-000008d8,36,"「好きなアイドルとかっていますか？」","","",""
-0000095c,30,"「アイドル？　興味ないわねぇ」","","",""
+　あまり関わらないようにした方が無難よ」","There is a little thing in the place where the
+man is. It is difficult to do so much.","«В месте, где мужчину мало. Трудно сделать так
+много.","Es gibt etwas an dem Ort, wo der Mann ist. Es
+ist schwierig, so viel zu tun."
+00000880,30,"「はは…もう写真部員なんで…」","I'm already a photographer…","Я уже фотограф…","Ich bin schon Fotograf…"
+000008d8,36,"「好きなアイドルとかっていますか？」","Do you have any idle?","Есть ли у вас какие-либо препятствия?","Hast du ein Rätsel?"
+0000095c,30,"「アイドル？　興味ないわねぇ」","Idol? Not interested","«Идол? Не интересно","Idol? Nicht interessiert"
 000009e0,69,"「そもそも、そんなにテレビを見ないから。
-　うといのよ、そういうのに」","","",""
-00000aa8,40,"「先輩っていつも何時に寝てるんですか？」","","",""
+　うといのよ、そういうのに」","“I don’t watch TV anymore. That's right.","«Я больше не смотрю телевизор. Это правильно.","„Ich sehe keinen Fernseher mehr. Das stimmt."
+00000aa8,40,"「先輩っていつも何時に寝てるんですか？」","“What time can I sleep with my seniors?”","«Какое время я могу спать со своими старшими? »","„Welche Zeit kann ich mit meinen Senioren
+schlafen? „"
 00000b30,47,"「なるべく２時までには、
-　寝るようにしてるわ」","","",""
-00000b88,36,"「それで、何時に起きてるんですか？」","","",""
-00000bec,12,"「６時半ね」","","",""
+　寝るようにしてるわ」","“I want to sleep as much as possible”","«Хочу спать как можно больше»","„Ich will so viel wie möglich schlafen“"
+00000b88,36,"「それで、何時に起きてるんですか？」","What happens when?","Что происходит, когда?","Was passiert, wenn?"
+00000bec,12,"「６時半ね」","6:30 PM","18:30 PM","18:30 Uhr"
 00000c24,47,"「それじゃ、４時間半しか
-　眠ってないですよ？」","","",""
-00000cb0,30,"「受験生なんて、そんなものよ」","","",""
-00000d10,34,"「犬と猫ならどっちが好きですか？」","","",""
-00000d84,36,"「どっちも好きだけど、飼うなら猫ね」","","",""
-00000e20,18,"「どうしてです？」","","",""
+　眠ってないですよ？」","“I’m sleeping only for 4 and a half hours?”","- Я сплю только на 4 и полчаса? »","„Ich schlafe nur für 4 und eine halbe Stunde? „"
+00000cb0,30,"「受験生なんて、そんなものよ」","“What is the test student?”","«Что такое студент-тест? »","„Was ist der Teststudent? „"
+00000d10,34,"「犬と猫ならどっちが好きですか？」","Do you like dogs and cats?","- Вам нравятся собаки и кошки?","Gefällt dir Hund und Katzen?"
+00000d84,36,"「どっちも好きだけど、飼うなら猫ね」","“I like it, but I’m a cat.”","«Мне нравится, но я кот. »","„Ich mag es, aber ich bin eine Katze. „"
+00000e20,18,"「どうしてです？」","What is it?","Что это?","Was ist los?"
 00000e70,57,"「勝手気ままな友達が増えるみたいで、
-　楽しいじゃない？」","","",""
+　楽しいじゃない？」","“I want to increase my friends, but it’s fun?”","«Хочу увеличить своих друзей, но это весело? »","„Ich möchte meine Freunde erhöhen, aber es macht
+Spaß? „"
 00000eec,57,"「誰にも言わないで欲しいんですけど、
-　この間、学校で…」","","",""
-00000f84,36,"「ふうん、変わったことがあるものね」","","",""
-00001028,42,"「この間の写真、いつ削除してくれるのよ？」","","",""
-00001088,18,"「この間の写真？」","","",""
+　この間、学校で…」","I want to say to anyone, but in this time, at
+school …","Я хочу сказать никому, но в это время, в школе
+…","Ich will zu jedem sagen, aber in dieser Zeit, in
+der Schule …"
+00000f84,36,"「ふうん、変わったことがあるものね」","“Oh, it’s something that has changed.”","«О, это то, что изменилось. »","„Oh, es ist etwas, das sich verändert hat. „"
+00001028,42,"「この間の写真、いつ削除してくれるのよ？」","“When will you delete photos between them?”","«Когда вы будете удалять фотографии между ними? »","„Wann werden Sie Fotos zwischen ihnen löschen? „"
+00001088,18,"「この間の写真？」","Photographs between this?","Фотографии между этим?","Fotografen dazwischen?"
 000010e4,49,"「とぼけないでよ。
-　塀を乗り越えてる時の写真よ」","","",""
-00001140,24,"「ああ、不正登校の時の」","","",""
-000011a8,26,"「んぐ…そうとも言うわね」","","",""
+　塀を乗り越えてる時の写真よ」","I don't know. Photos when you cross the fence.","- Я не знаю. Фотографии, когда вы пересекаете
+забор.","Ich weiß es nicht. Fotos, wenn Sie den Zaun
+überqueren."
+00001140,24,"「ああ、不正登校の時の」","Oh, the time of illegal school","«О, время нелегальной школы»","Oh, die Zeit der illegalen Schule"
+000011a8,26,"「んぐ…そうとも言うわね」","“Oh, I say that.”","- О, я говорю, что. »","Oh, das sage ich. „"
 00001238,69,"「せっかくの滅多に撮れない写真なんで、
-　取っておきたいんですけど…」","","",""
-000012dc,40,"「なっ…削除してってお願いしてるのに！」","","",""
-00001390,22,"「誰にも見せませんよ」","","",""
-000013f8,26,"「そう言う問題じゃなく…」","","",""
-00001448,14,"「まぁまぁ…」","","",""
-000014a4,10,"「うぐ…」","","",""
+　取っておきたいんですけど…」","I want to take a picture that I can't take many
+times, but …","Я хочу сфотографировать, что я не могу взять
+много раз, но …","Ich will ein Bild machen, das ich nicht oft
+machen kann, aber…"
+000012dc,40,"「なっ…削除してってお願いしてるのに！」","I'm asking to delete it!","Я прошу удалить его!","Ich bitte darum, es zu löschen!"
+00001390,22,"「誰にも見せませんよ」","“I don’t show anyone.”","«Я не покажу никого. »","„Ich zeige niemanden. „"
+000013f8,26,"「そう言う問題じゃなく…」","“I don’t say that…”","- Я не говорю, что… »","„Ich sage nicht, dass… „"
+00001448,14,"「まぁまぁ…」","」","」","!"
+000014a4,10,"「うぐ…」","」","」","!"
 00001538,86,"「財布をアホ毛あっぴ～にするぐらい、
 　あのキャラが好きだとは、
-　知らなかったですよ」","","",""
+　知らなかったですよ」","“I didn’t know that I liked that character as
+much as I want my wallet to be a holy hairy.”","«Я не знал, что мне понравился этот характер
+столько, сколько я хочу, чтобы мой кошелек был
+святым волосатым. »","“Ich wusste nicht, dass ich diesen Charakter so
+sehr mochte, wie ich meine Brieftasche zu einem
+heiligen Haar. „"
 000015ec,61,"「フフッ、私もこんなに好きになるとは、
-　思いもしなかったわ」","","",""
+　思いもしなかったわ」","“I didn’t think I would like to like this.”","«Я не думал, что хотел бы это. »","„Ich dachte nicht, dass ich das gerne mag. „"
 00001670,100,"「好きになってから気づいたけど、
 　あひるのキャラって、街の看板から
-　ＣＭまで、よく使われてるのよ」","","",""
-00001700,26,"「言われてみればそうかも」","","",""
+　ＣＭまで、よく使われてるのよ」","I noticed that I was liked, but the character of
+hiru is often used from signboards to CM.","«Я заметил, что мне понравилось, но характер иру
+часто используется от знаков до CM».","Ich bemerkte, dass ich gefiel, aber der Charakter
+von Hiru wird oft von Signboards bis CM verwendet."
+00001700,26,"「言われてみればそうかも」","If you say, it may be.","- Если вы говорите, это может быть.","Wenn du sagst, kann es sein."
 00001758,61,"「子どもから大人まで、
-　幅広く愛されるキャラクターなのよね」","","",""
-000017d8,30,"「実原とは仲がいいんですか？」","","",""
+　幅広く愛されるキャラクターなのよね」","It is a character that is widely loved from
+children to adults.","Это характер, который широко любит от детей до
+взрослых.","Es ist ein Charakter, der von Kindern bis
+Erwachsenen sehr beliebt ist."
+000017d8,30,"「実原とは仲がいいんですか？」","“What is true?”","— Что это правда? »","„Was ist wahr? „"
 00001854,71,"「仲がいいというか、いろいろお願いしたり、
-　お願いを聞いたりする仲ね」","","",""
+　お願いを聞いたりする仲ね」","I'm a friend, I'll ask you a lot, and I'll ask
+you.","- Я друг, я буду спрашивать вас много, и я спросю
+вас.","Ich bin ein Freund, ich frage dich viel, und ich
+frage dich."
 00001940,114,"「気心は知れてる方だと思うけど、
 　彼女は１人でいる方が好みみたいだから、
-　ちゃんと距離を置いてつき合ってるのよ」","","",""
-000019e8,12,"「なるほど」","","",""
-00001a30,42,"「先輩のクラスって、どんなクラスですか？」","","",""
-00001ab8,40,"「良くも悪くも、九堂がムードメーカーね」","","",""
+　ちゃんと距離を置いてつき合ってるのよ」","“I think you know how to care, but she likes to
+be one person, so I’m going to put a distance
+together.”","«Я думаю, что вы знаете, как заботиться, но она
+любит быть одним человеком, поэтому я собираюсь
+поставить расстояние вместе. »","„Ich denke, du weißt, wie es dir wichtig ist,
+aber sie mag eine Person zu sein, also werde ich
+eine Distanz zusammenlegen. „"
+000019e8,12,"「なるほど」","」","」","!"
+00001a30,42,"「先輩のクラスって、どんなクラスですか？」","“What is the class of seniors?”","«Что такое класс пожилых людей? »","„Was ist die Klasse der Senioren? „"
+00001ab8,40,"「良くも悪くも、九堂がムードメーカーね」","“I’m a Mood Maker even if it’s good or bad.”","«Я настроение Maker, даже если это хорошо или
+плохо. »","„Ich bin ein Mood Maker, auch wenn es gut oder
+schlecht ist. „"
 00001b48,77,"「明るくていい時もあれば、悪ノリが過ぎて
-　ホームルームで先生に怒られたりね」","","",""
-00001c54,40,"「かつみもいるし、明るくていいクラスよ」","","",""
-00001cf8,34,"「服の流行りって気になりますか？」","","",""
+　ホームルームで先生に怒られたりね」","If you are bright and nice, you will be angry
+with the teacher in the home room after the bad
+luck.","Если ты яркий и приятный, ты будешь сердиться с
+учителем в домашней комнате после плохой удачи.","Wenn du hell und schön bist, wirst du nach dem
+Pech mit dem Lehrer im Zimmer verärgert sein."
+00001c54,40,"「かつみもいるし、明るくていいクラスよ」","The class is bright and good","«класс яркий и хороший»","Die Klasse ist hell und gut"
+00001cf8,34,"「服の流行りって気になりますか？」","Do you feel the trend of clothes?","- Чувствуете ли вы тренд одежды?","Hast du den Trend der Kleidung?"
 00001d78,88,"「あんまり気にしないわね。
 　普段、制服だし、こだわっても着る機会が
-　少ないでしょう？」","","",""
+　少ないでしょう？」","“I don’t mind it.” Do you have a few chances to
+wear uniforms?","- Я не против этого. У вас есть несколько шансов
+носить униформу?","„Das macht mir nichts aus.“ Haben Sie einige
+Chancen, Uniformen zu tragen?"
 00001e38,79,"「卒業して、制服を着られなくなったら、
-　少し考えるようになるかもしれないけど」","","",""
-00001ec8,40,"「お小遣いって、月いくらもらってます？」","","",""
-00001f44,12,"「２万円よ」","","",""
-00001fc8,32,"「ええっ！？　そ、そんなに！？」","","",""
+　少し考えるようになるかもしれないけど」","“If I着d, I can’t wear a uniform, I might think a
+little.”","«Если бы I,d, я не могу носить униформу, я мог бы
+немного подумать. »","„Wenn ich bin, kann ich keine Uniform tragen,
+denke ich vielleicht etwas. „"
+00001ec8,40,"「お小遣いって、月いくらもらってます？」","How much does it cost?","Сколько это стоит?","Wie viel kostet es?"
+00001f44,12,"「２万円よ」","20,000 yen","20 000 иен","20.000 Yen"
+00001fc8,32,"「ええっ！？　そ、そんなに！？」","“Well, right?”","— Ну, правда? »","„Nun, richtig? „"
 00002048,73,"「あ、でも、お昼代も含めてだし、
-　参考書とか本代もそこから出してるから」","","",""
+　参考書とか本代もそこから出してるから」","“Oh, but it’s also included in the daytime, and
+the reference book and the book price are out
+there.”","«О, но он также включен в дневное время, и
+справочная книга и цена книги вне там. »","„Oh, aber es ist auch in der Tageszeit enthalten,
+und das Referenzbuch und der Buchpreis sind da
+draußen. „"
 0000212c,77,"「お金を勉強に使うか、遊びに使うか、
-　全部、自分で決めなさいってことなのよ」","","",""
-000021b0,26,"「へ～っ、変わってますね」","","",""
+　全部、自分で決めなさいってことなのよ」","I want to learn money, use it for play, or decide
+it for yourself.","«Хочу учиться деньги, использовать его для игры,
+или решить это для себя».","Ich will Geld lernen, es zum Spielen nutzen oder
+selbst entscheiden."
+000021b0,26,"「へ～っ、変わってますね」","“I’m changing.”","«Я меняюсь. »","„Ich ändere mich. „"
 00002228,47,"「遊びに使ったことは、
-　あまりないんだけどね」","","",""
-00002298,34,"「好きな言葉って何かありますか？」","","",""
-00002318,28,"「好きな言葉？　そうねぇ…」","","",""
-000023c8,16,"「有言実行よ！」","","",""
-00002404,32,"「ははは、室戸先輩らしいですね」","","",""
-00002484,22,"「そう？　ありがとう」","","",""
-00002510,38,"「誰にも言ってないことなんですけど…」","","",""
-00002588,34,"「フフッ、そうなの？　面白いわね」","","",""
+　あまりないんだけどね」","I don't have much to use for play.","У меня нет много пользы для игры.","Ich habe nicht viel zum Spielen zu verwenden."
+00002298,34,"「好きな言葉って何かありますか？」","What is your favorite words?","Каковы ваши любимые слова?","Was sind Ihre Lieblingswörter?"
+00002318,28,"「好きな言葉？　そうねぇ…」","A favorite word? Yes…","- Любимое слово? Да…»","Ein Lieblingswort? Ja…"
+000023c8,16,"「有言実行よ！」","“Let’s say!”","«Скажем!»","“Lass uns sagen!”"
+00002404,32,"「ははは、室戸先輩らしいですね」","It seems to be the seniors of Mur室","«Это, кажется, старши Мур»","Es scheint die Senioren von Murblend zu sein"
+00002484,22,"「そう？　ありがとう」","“T」’s right?”","«Т 」 прав? »","„Das stimmt nicht? „"
+00002510,38,"「誰にも言ってないことなんですけど…」","“I don’t say to anyone…”","«Я не говорю никому… »","„Ich sage niemandem… „"
+00002588,34,"「フフッ、そうなの？　面白いわね」","Happy, right? It's interesting.","«Счастливо, верно? Это интересно.","Happy, richtig? Es ist interessant."
 00002620,47,"「一緒に学校をサボった時、
-　楽しかったですね」","","",""
-000026ac,18,"「ええ、とっても」","","",""
-000026f8,42,"「もう一度…って、言えないのが難点だけど」","","",""
-0000278c,10,"「ははは」","","",""
-000027f4,38,"「あの不正下校は、私の一生の思い出よ」","","",""
+　楽しかったですね」","“When I got school together, it was fun.”","«Когда я учился вместе, это было весело. »","„Als ich zusammen die Schule bekam, war es
+lustig. „"
+000026ac,18,"「ええ、とっても」","」","」","!"
+000026f8,42,"「もう一度…って、言えないのが難点だけど」","“It’s hard to say again…”","- Трудно снова сказать… »","„Es ist schwer, wieder zu sagen… „"
+0000278c,10,"「ははは」","」","」","!"
+000027f4,38,"「あの不正下校は、私の一生の思い出よ」","“It’s my lifetime memory.”","«Это моя память жизни. »","„Es ist mein Lebensgedächtnis. „"
 0000285c,73,"「朝礼の挨拶のために、ちゃんと下準備してた
-　なんて、知らなかったですよ」","","",""
-00002904,36,"「別に隠してる訳じゃないんだけどね」","","",""
+　なんて、知らなかったですよ」","I didn't know that I was prepared properly for
+the morning gra .","Я не знал, что я был подготовлен правильно для
+утренней гры.","Ich wusste nicht, dass ich richtig auf die
+Morgengras vorbereitet war."
+00002904,36,"「別に隠してる訳じゃないんだけどね」","I'm not hiding separately.","- Я не прячу отдельно.","Ich verstecke mich nicht getrennt."
 00002990,67,"「私としては、ちゃんと吟味した言葉で、
-　みんなに語りかけたいのよ」","","",""
+　みんなに語りかけたいのよ」","I want to talk to everyone with the words I
+carefully studied.","Я хочу поговорить со всеми словами, которые я
+тщательно изучаю.","Ich möchte mit allen reden, mit den Worten, die
+ich sorgfältig studiert habe."
 00002a14,55,"「かつみさん、またバレーボールを
-　始めて欲しいですね」","","",""
-00002aa8,30,"「そうね…復帰して欲しいわね」","","",""
+　始めて欲しいですね」","“I want you to start playing the volleyball”","«Я хочу, чтобы вы начали играть в волейбол»","„Ich will, dass du mit dem Volleyball spielst“"
+00002aa8,30,"「そうね…復帰して欲しいわね」","“Yes… I want to return to it.”","«Да… Я хочу вернуться к нему. »","„Ja… ich will zurück. „"
 00002b6c,53,"「彼女は、本当に才能のある、
-　すごい選手なんだもの」","","",""
+　すごい選手なんだもの」","“She is really talented and amazing”","“Она действительно талантливая и удивительная”","“Sie ist wirklich talentiert und erstaunlich”"
 00002c24,49,"「先輩が、一番大切にしている物って
-　何ですか？」","","",""
-00002cc8,26,"「そうね……信頼、かな？」","","",""
-00002d50,38,"「…いや、形のある物の話なんですけど」","","",""
+　何ですか？」","What is the most important thing for seniors?","Что самое важное для пожилых людей?","Was ist das Wichtigste für Senioren?"
+00002cc8,26,"「そうね……信頼、かな？」","“Is it… trust?”","- Это… доверие? »","„Ist es… Vertrauen? „"
+00002d50,38,"「…いや、形のある物の話なんですけど」","… I'm talking about something that has shape.","… Я говорю о том, что имеет форму.","… Ich spreche von etwas, das Gestalt hat."
 00002dc4,45,"「あ、そ、そっちの方？
-　え～と、それなら…」","","",""
+　え～と、それなら…」","Oh, it's the way? That's it…","«О, это путь? Это…","Oh, es ist der Weg? Das ist es…"
 00002ecc,82,"「小さいころ、母さんに買ってもらった
 　オルゴールね。
-　とてもきれいな音色なのよ」","","",""
+　とてもきれいな音色なのよ」","When I was a little, I bought my mother. It’s
+very beautiful.","- Когда я был немного, я купил мою мать. Это
+очень красиво.","Als ich ein wenig war, kaufte ich meine Mutter.
+Es ist sehr schön."
 00002f54,55,"（つくづく、物より人とのつながりが
-　大切な人なんだな）","","",""
-00002fc4,32,"「先輩の誕生日っていつですか？」","","",""
-00003038,16,"「１月１９日よ」","","",""
-000030c0,22,"「早生まれなんですね」","","",""
-00003134,26,"「そうよ。\p01君はいつ？」","","",""
-00003168,18,"４月から１２月の間","","",""
-000031e0,20,"「俺は…月…日です」","","",""
-00003234,28,"「なら、生まれた年は一緒ね」","","",""
-000032dc,20,"「俺も早生まれです」","","",""
-00003330,30,"「そうなんだ。早生まれ同士ね」","","",""
-000033e4,36,"「先輩の部屋ってどんな感じですか？」","","",""
+　大切な人なんだな）","(It is important to connect with people rather
+than things created)","(Важно подключиться к людям, а не к созданным
+вещам)","(Es ist wichtig, sich mit Menschen zu verbinden,
+anstatt Dinge zu schaffen)"
+00002fc4,32,"「先輩の誕生日っていつですか？」","“When is my senior birthday?”","«Когда мой старший день рождения? »","„Wann ist mein älterer Geburtstag? „"
+00003038,16,"「１月１９日よ」","January 19","19 января","Januar 19"
+000030c0,22,"「早生まれなんですね」","I'm born soon!","Я скоро родилась!","Ich bin bald geboren!"
+00003168,18,"４月から１２月の間","April to December","с апреля по декабрь","April bis Dezember"
+000031e0,20,"「俺は…月…日です」","I'm… Mon… Sun.","- Я… Пн… Вс.","Ich bin… Mon… Sonne."
+00003234,28,"「なら、生まれた年は一緒ね」","“If you were born, the year is together.”","«Если вы родились, то год вместе. »","„Wenn Sie geboren wurden, ist das Jahr zusammen.
+„"
+000032dc,20,"「俺も早生まれです」","I'm born soon.","- Я скоро родился.","Ich bin bald geboren."
+00003330,30,"「そうなんだ。早生まれ同士ね」","That’s right.","Это правильно.","Das stimmt."
+000033e4,36,"「先輩の部屋ってどんな感じですか？」","What kind of feeling is the senior room?","Какое чувство - старшая комната?","Was für ein Gefühl ist das Senior Zimmer?"
 00003468,71,"「私の部屋？　大きな本棚があって、
-　ベッドがあって、フローリングで…」","","",""
+　ベッドがあって、フローリングで…」","My room? There is a large book shelves, there is
+a bed, with a flooring …","Моя комната? Есть большие книжные полки, есть
+кровать, с полом …","Mein Zimmer? Es gibt eine große Buchregale, es
+gibt ein Bett, mit einem Fußboden…"
 00003560,53,"「壁が白で、出窓に花が置いてあって…
-　そんな感じよ」","","",""
+　そんな感じよ」","The wall is white and there is a flower on the
+window. It feels like that.","Стена белая и цветок на окне. Это похоже на это.","Die Wand ist weiß und es gibt eine Blume auf dem
+Fenster. Es fühlt sich so an."
 00003608,71,"「へ～っ、先輩のことだから、
-　バッチリ整理整頓されてるんでしょうね？」","","",""
-000036ac,34,"「もちろんよ。部屋は心の鏡だもの」","","",""
+　バッチリ整理整頓されてるんでしょうね？」","“Hmm, it’s my seniors, so I’m sure you’re tied up
+with them?”","«Хмм, это мои пожилые люди, так что я уверен, что
+вы связались с ними? »","“Hmm, es ist meine Senioren, also bin ich sicher,
+dass Sie mit ihnen verbunden sind? „"
+000036ac,34,"「もちろんよ。部屋は心の鏡だもの」","Of course. The room is a mirror","Конечно. Номер зеркало","Natürlich. Das Zimmer ist ein Spiegel"
 00003710,47,"「あんまり人に言ってないこと
-　なんですけど…」","","",""
-0000379c,32,"「ふうん…いいの？　私に教えて」","","",""
+　なんですけど…」","“I don’t say to you…”","- Я не говорю вам… »","„Ich sage dir nicht… „"
+0000379c,32,"「ふうん…いいの？　私に教えて」","“I’m so good? Tell me.”","- Я так хорош? Скажи мне. »","„Ich bin so gut? Sag es mir. „"
 0000380c,49,"「あんまり大きな声じゃ、
-　言えないんですけど…」","","",""
+　言えないんですけど…」","It's a big voice, I can't say…","«Это большой голос, я не могу сказать…»","Es ist eine große Stimme, ich kann nicht sagen…"
 00003898,45,"「フフッ、いいの？
-　そんなこと私に教えて…」","","",""
-00003938,18,"「それにしても…」","","",""
+　そんなこと私に教えて…」","“Happy, right? Tell me about that.”","«Счастливо, верно? Расскажи мне об этом. »","Happy, richtig? Erzähl mir davon. „"
+00003938,18,"「それにしても…」","And it's…","«И это…»","Und es ist…"
 000039c0,69,"「保健室で、お医者さんごっこをしてる
-　先輩には、びっくりしましたよ」","","",""
-00003a6c,28,"「あ……忘れて！　お願い！」","","",""
-00003b1c,26,"「無理ですよ、忘れるのは」","","",""
-00003b74,36,"「じゃあ、誰にも言わないで！　ね？」","","",""
-00003bd0,28,"「もちろん、言いませんけど」","","",""
+　先輩には、びっくりしましたよ」","In the health room, I was surprised to seniors
+who are playing doctors.","«В зале для здоровья я был удивлен старшим, кто
+играет врачей».","Im Gesundheitsraum war ich überrascht von
+Senioren, die Ärzte spielen."
+00003a6c,28,"「あ……忘れて！　お願い！」","I forgot it! Please!","- Я забыл! Пожалуйста!","Ich habe es vergessen! Bitte!"
+00003b1c,26,"「無理ですよ、忘れるのは」","“I’m sorry, I can’t forget it.”","“Я сожалею, я не могу его забыть. »","„Es tut mir leid, ich kann es nicht vergessen. „"
+00003b74,36,"「じゃあ、誰にも言わないで！　ね？」","“Now, don’t say to anyone!”","«Сейчас не говори никому! »","„Nun, sagen Sie niemandem! „"
+00003bd0,28,"「もちろん、言いませんけど」","“I don’t say it.”","- Я не говорю. »","„Ich sage es nicht. „"
 00003c90,88,"「はぁ…私って、どうしてあなたには、
 　見られたくないところばかり
-　見られるんだろう…」","","",""
-00003da0,34,"「先輩の好きな色って何色ですか？」","","",""
-00003e14,30,"「決まってるじゃない、青色よ」","","",""
-00003e68,20,"「そっか、水の色だ」","","",""
+　見られるんだろう…」","
+Hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh","
+hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh","Was ist denn?"
+00003da0,34,"「先輩の好きな色って何色ですか？」","How many colors do you like?","- Сколько цветов вам нравится?","Wie viele Farben gefällt dir?"
+00003e14,30,"「決まってるじゃない、青色よ」","It's not decided, it's blue.","- Это не решено, это синий.","Es ist nicht entschieden, es ist blau."
+00003e68,20,"「そっか、水の色だ」","The color of water","Цвет воды","Die Farbe des Wassers"
 00003ebc,51,"「そう。青いプールと夏の青空は、
-　私の心象風景ね」","","",""
+　私の心象風景ね」","。 Blue pool and summer blue sky, my heart
+elephant landscape","。 Голубой бассейн и летнее голубое небо, мое
+сердце слонового пейзажа","。 Blauer Pool und Sommer blauer Himmel, mein Herz
+Elefantenlandschaft"
 00003f70,51,"「１つだけ望みが叶うとしたら、
-　何を願いますか？」","","",""
-00004000,20,"「願い？　そうね…」","","",""
-00004070,24,"「やっぱり、大学合格？」","","",""
-000040d8,8,"「……」","","",""
-00004118,30,"「あ、あれ？　違うんですか？」","","",""
-00004170,30,"「ううん、違わないわ。けど…」","","",""
-00004220,10,"「けど？」","","",""
+　何を願いますか？」","“What do you want if you want one?”","- Что вы хотите, если хотите? »","„Was willst du, wenn du einen willst? „"
+00004000,20,"「願い？　そうね…」","Wish? Yes…","- Желаю? Да…»","Wish? Ja…"
+00004070,24,"「やっぱり、大学合格？」","“After all, I passed the university?”","«После того, как я прошел университет? »","„Nach allem habe ich die Universität bestanden? „"
+000040d8,8,"「……」","…","…","…"
+00004118,30,"「あ、あれ？　違うんですか？」","“Oh, it? Is it different?”","— О, это? Это отличается? »","„Oh, es? Ist es anders? „"
+00004170,30,"「ううん、違わないわ。けど…」","Yes, I'm not different.","- Да, я не разные.","Ja, ich bin nicht anders."
+00004220,10,"「けど？」","?」","?」","?"
 00004278,67,"「…何でもない。大学合格と同じぐらい、
-　願うことがあるってだけよ」","","",""
-00004320,26,"（大学合格と同じぐらい…）","","",""
-00004378,24,"「\p01君は何を願うの？」","","",""
+　願うことがあるってだけよ」","… Nothing. Just as you pass the university,
+you have to wish.”","… Ничего. Как вы проходите университет, вам
+нужно пожелать. »","… Nichts. So wie Sie die Universität
+übergeben, müssen Sie wünschen. „"
+00004320,26,"（大学合格と同じぐらい…）","(As much as the university pass…)","(Как проходит университет…)","(Soviel wie die Universität…)"
 000043c8,63,"「俺は……学力を室戸先輩と同じぐらいまで
-　上げてもらいますよ」","","",""
+　上げてもらいますよ」","I have to raise my academic skills to the same as
+my seniors.","Я должен повышать свои академические навыки так
+же, как и мои старшие.","Ich muss meine akademischen Fähigkeiten auf die
+gleiche wie meine Senioren erhöhen."
 00004454,79,"「それは、努力すればいいだけのことでしょ？
-　願う暇があったら、勉強よ、勉強！」","","",""
-0000452c,32,"「はは……がんばるけど、無理…」","","",""
-00004594,38,"「誰にも言えない秘密ってありますか？」","","",""
+　願う暇があったら、勉強よ、勉強！」","“It’s just a good idea to make an effort?” If you
+have time to pray, study!","«Это просто хорошая идея, чтобы приложить
+усилия?» Если у вас есть время молиться, учиться!","„Es ist nur eine gute Idee, sich zu bemühen?“
+Wenn Sie Zeit haben zu beten, studieren!"
+0000452c,32,"「はは……がんばるけど、無理…」","I'm sorry, but I'm sorry…","Я сожалею, но сожалею…","Es tut mir leid, aber es tut mir leid…"
+00004594,38,"「誰にも言えない秘密ってありますか？」","“Is there any secret that I can’t say to anyone?”","- Есть ли секрет, что я не могу сказать никому? »","„ Gibt es ein Geheimnis, das ich niemandem sagen
+kann? „"
 00004614,90,"「そうね……小さいころ買ってもらった
 　犬のぬいぐるみが、
-　未だに枕元にあることぐらいね」","","",""
+　未だに枕元にあることぐらいね」","Yes… I bought a dog's stuffed towel when I was
+small, but I still have a pillow.","Да… Я купил полотенце собаки, когда я был
+маленьким, но у меня еще есть подушка».","Ja… Ich kaufte ein Handtuch eines Hundes, als
+ich klein war, aber ich habe noch ein Kissen."
 000046d8,61,"「へ～っ、そうなんですか？
-　それを抱かないと眠れないとか？」","","",""
-00004774,20,"「子どものころはね」","","",""
+　それを抱かないと眠れないとか？」","What is it? Can I sleep without hu抱 it?","Что это? Могу ли я спать без hu??","Was ist los? Kann ich ohne hu抱 schlafen?"
+00004774,20,"「子どものころはね」","Children","Дети","Kinder"
 000047d0,108,"「さすがに今は抱かないわよ。
 　けど、ベッドから出すと、かわいそうな
-　気がして、ずっとそのまま置いてあるの」","","",""
+　気がして、ずっとそのまま置いてあるの」","Now I'll be hugged. However, when I get out of
+the bed, I feel that it seems to be cute, and I
+have kept it for a long time.","Теперь я буду помечен. Однако, когда я выхожу
+из кровати, я чувствую, что это кажется милым, и я
+сохранил его в течение длительного времени.","Jetzt werde ich umarmt. Wenn ich aber aus dem
+Bett komme, fühle ich mich, dass es süß zu sein
+scheint, und ich habe es lange gehalten."
 000048a4,106,"「子犬のぬいぐるみなのに、
 　すっかり古ぼけて、まるで老犬みたいに
-　なってるけど、そこがまたかわいいのよ」","","",""
+　なってるけど、そこがまたかわいいのよ」","“I’m like a old dog, but it’s pretty cute.”","«Мне нравится старая собака, но это довольно
+мило. »","“Ich bin wie ein alter Hund, aber es ist ziemlich
+süß. „"
 00004990,71,"「うまくいかないことって、たまにあるけど、
-　前向きにがんばらないと…」","","",""
-00004a34,38,"「ええ、そうね。あなたに教えられたわ」","","",""
+　前向きにがんばらないと…」","“I don’t do it well, but I don’t have to go
+forward…”","«Я не делаю это хорошо, но мне не нужно идти
+вперед… »","“Ich mache es nicht gut, aber ich muss nicht
+weiter… „"
+00004a34,38,"「ええ、そうね。あなたに教えられたわ」","Yes, yeah. I was taught to you","- Да, да. Я научился тебе","Ja, ja. Ich wurde dir beigebracht"

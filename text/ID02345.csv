@@ -1,130 +1,230 @@
-000002c4,42,"「室戸先輩の得意なスポーツって何ですか？」","","",""
-0000032c,10,"「水泳よ」","","",""
-000003c8,26,"「あ、元水泳部ですもんね」","","",""
-00000440,16,"「そういうこと」","","",""
-0000032c,10,"「水泳よ」","","",""
-000004e8,26,"「えっ、そうなんですか？」","","",""
+000002c4,42,"「室戸先輩の得意なスポーツって何ですか？」","What is the sport of seniors in Murな?","- Что такое спорт пожилых людей в Мурке?","Was ist der Sport der Senioren in Mur dir?"
+0000032c,10,"「水泳よ」","Swimming","Плавание","Schwimmbäder"
+000003c8,26,"「あ、元水泳部ですもんね」","“Oh, it’s a former swimmer.”","«О, это бывший пловец. »","„Oh, es ist ein ehemaliger Schwimmer. „"
+00000440,16,"「そういうこと」","“What is that?”","— Что это? »","„Was ist das? „"
+0000032c,10,"「水泳よ」","Swimming","Плавание","Schwimmbäder"
+000004e8,26,"「えっ、そうなんですか？」","“Is it right?”","- Это правильно? »","„Ist es richtig? „"
 00000554,67,"「その様子だと、知らないみたいね。
-　私、去年まで水泳部にいたのよ」","","",""
-000005cc,22,"「そうなんですか！？」","","",""
+　私、去年まで水泳部にいたのよ」","“I don’t know what it looks like.” I've been in
+the swimming section.","«Я не знаю, как это выглядит». Я был в разделе
+плавания.","„Ich weiß nicht, wie es aussieht.“ Ich war im
+Schwimmbad."
+000005cc,22,"「そうなんですか！？」","What is it?","Что это?","Was ist los?"
 00000614,55,"「飛び込みの選手でね、
-　それなりにがんばったんだから」","","",""
-00000680,10,"「へ～っ」","","",""
-000006ec,40,"「体育の授業で好きな科目って何ですか？」","","",""
-0000032c,10,"「水泳よ」","","",""
-000007c8,38,"「そ、そっか。じゃあ、水泳以外では？」","","",""
+　それなりにがんばったんだから」","I'm a jumping player, and I'm doing it.","«Я прыгующий игрок, и я делаю это».","Ich bin ein Springspieler, und ich mache es."
+00000680,10,"「へ～っ」","」","」","!"
+000006ec,40,"「体育の授業で好きな科目って何ですか？」","“What are your favorite subjects in physical
+education classes?”","«Каковы ваши любимые предметы в классах
+физического воспитания? »","„Was sind Ihre Lieblingsfächer in der
+körperlichen Bildung? „"
+0000032c,10,"「水泳よ」","Swimming","Плавание","Schwimmbäder"
+000007c8,38,"「そ、そっか。じゃあ、水泳以外では？」","It's right? So, if you are not swimming?","- Это правильно? Итак, если вы не плаваете?","Es ist richtig? Also, wenn Sie nicht schwimmen?"
 0000083c,75,"「バレーボールね。かつみにいろいろ教えて
-　もらったから、それなりに得意よ」","","",""
+　もらったから、それなりに得意よ」","Volleyball I have taught a variety of wigs, so I
+am good at it.","Волейбол Я преподаю различные парики, так что я
+хорошо на нем.","Volleyball Ich habe eine Vielzahl von Perücken
+gelehrt, also bin ich gut darin."
 00000904,63,"「うちの学校で、一番期待できる運動部って
-　どこだと思います？」","","",""
+　どこだと思います？」","Where do you think is the most expected exercise
+part in our school?","«Где вы считаете, что самая ожидаемая часть
+упражнений в нашей школе?»","Wo denken Sie, ist der am meisten erwartete
+Übungsteil in unserer Schule?"
 000009a0,71,"「新体操部は毎年強いわよ。選手層も厚いし、
-　期待していいんじゃない？」","","",""
-00000a68,34,"「舞衣ちゃんもがんばってますしね」","","",""
+　期待していいんじゃない？」","The new gymnastics department is strong every
+year. The player layer is thick, and should you
+expect?","Новая гимнастика сильна с каждым годом. Слой
+игрока толстый, и вы должны ожидать?","Die neue Turnhalle ist jedes Jahr stark. Die
+Spielerschicht ist dick und sollten Sie erwarten?"
+00000a68,34,"「舞衣ちゃんもがんばってますしね」","Mai-chan is also hard!","Май-чан тоже трудно!","Mai-chan ist auch hart!"
 00000ad4,59,"「そうね。１年生ががんばってる部は、
-　活気があっていいわ」","","",""
-00000b98,40,"「１年の早倉舞衣って子、知ってますか？」","","",""
+　活気があっていいわ」","。 I want to live in the part that the first
+grader is working on.","。 Я хочу жить в той части, над которой работает
+первый классер.","。 Ich möchte in dem Teil leben, an dem der erste
+Grader arbeitet."
+00000b98,40,"「１年の早倉舞衣って子、知ってますか？」","“I know that Maiko Haya is a child of the year?”","«Я знаю, что Maiko Haya является ребенком года? »","„Ich weiß, dass Maiko Haya ein Kind des Jahres
+ist? „"
 00000c20,55,"「ええ、知ってるわよ。
-　小さな体で、がんばってるわね」","","",""
-00000cb0,42,"「室戸先輩って、走るのは速いほうですか？」","","",""
+　小さな体で、がんばってるわね」","I know. I'm a small body and I'm doing it.","Я знаю. Я маленькое тело, и я это делаю.","Ich weiß. Ich bin ein kleiner Körper und tue es."
+00000cb0,42,"「室戸先輩って、走るのは速いほうですか？」","“What is the fastest time to run?","«Какое самое быстрое время для запуска?","„Was ist die schnellste Zeit zu laufen?"
 00000d38,53,"「背が低いころは速かったんだけど、
-　今はそれなりね」","","",""
-00000db0,36,"「この間、体育でやったんですけど…」","","",""
-00000e3c,32,"「ふうん、いいわね。楽しそうで」","","",""
-00000edc,34,"「\p01君の得意なスポーツって何？」","","",""
+　今はそれなりね」","It was quick when my back was low, but now it's
+like it.","«Это было быстро, когда моя спина была низкой, но
+теперь это нравится».","Es war schnell, als mein Rücken niedrig war, aber
+jetzt ist es so."
+00000db0,36,"「この間、体育でやったんですけど…」","I've done this time in sports…","«Я сделал это время в спорте…»","Ich habe dieses Mal im Sport getan…"
+00000e3c,32,"「ふうん、いいわね。楽しそうで」","“Well, it’s good.”","«Ну, это хорошо. »","„Nun, es ist gut. „"
 00000f34,73,"「スポーツですか？　小学校の時はサッカーが
-　好きでしたけど、今は特に…」","","",""
+　好きでしたけど、今は特に…」","What is Sports? I like soccer when I was a
+elementary school, but now it is especially…","Что такое спорт? Мне нравится футбол, когда я был
+начальной школой, но теперь это особенно…","Was ist Sport? Ich mag Fußball, als ich eine
+Grundschule war, aber jetzt ist es besonders…"
 00000fd0,61,"「何か始めてみればいいのに。
-　運動不足は健康によくないわよ」","","",""
-00001084,20,"「…考えておきます」","","",""
+　運動不足は健康によくないわよ」","I want to start something. I don't have enough
+exercise.","- Я хочу что-то начать. У меня нет достаточного
+упражнения.","Ich will etwas anfangen. Ich habe nicht genug
+Übung."
+00001084,20,"「…考えておきます」","“I think…”","“Я думаю… »","„Ich glaube… „"
 000010e0,49,"「受験勉強してると、
-　運動不足になりそうですね」","","",""
+　運動不足になりそうですね」","If you are studying for the exam, it seems to be
+lack of exercise.","Если вы учитесь на экзамене, кажется, не хватает
+упражнений.","Wenn Sie für die Prüfung studieren, scheint es
+keine Übung zu sein."
 00001180,90,"「そうなのよねぇ。去年まで水泳部で、
 　毎日ハードに練習してたから、
-　ギャップが激しくて」","","",""
+　ギャップが激しくて」","That’s right. I practiced in the swimming section
+of last night, so the gap is intense.","Это правильно. Я практиковал в разделе плавания
+прошлой ночи, поэтому разрыв интенсивный.","Das stimmt. Ich praktizierte im Badebereich der
+letzten Nacht, so dass die Lücke intensiv ist."
 00001280,69,"「休みの日は、気分転換がてら、
-　家の近所をランニングしたりしてるわ」","","",""
-00001308,38,"「暑い日の持久走って、地獄ですよね～」","","",""
-00001380,26,"「クスッ、走るのは苦手？」","","",""
-000013d0,40,"「ただ校庭を走るだけってのが、つらくて」","","",""
+　家の近所をランニングしたりしてるわ」","“On the day off, I’m running around the
+neighborhood of my house when I change my mood.”","«В выходной день я бегу по соседству моего дома,
+когда меняю настроение. »","„Am Tag aus laufe ich um die Nachbarschaft meines
+Hauses, wenn ich meine Stimmung ändere. „"
+00001308,38,"「暑い日の持久走って、地獄ですよね～」","It's hell, it's a long end of the hot day.","Это ад, это длинный конец жаркого дня.","Es ist die Hölle, es ist ein langes Ende des
+heißen Tages."
+00001380,26,"「クスッ、走るのは苦手？」","“I’m not good at running?”","«Я не хорошо бегать? »","„Ich bin nicht gut im Laufen? „"
+000013d0,40,"「ただ校庭を走るだけってのが、つらくて」","“It’s just about running a school garden.”","«Это только о беге в школьном саду. »","„Es geht nur darum, einen Schulgarten zu führen.
+„"
 00001444,55,"「ああ、わかるわかる。河川敷を走る方が
-　楽しいわよね」","","",""
+　楽しいわよね」","I understand. It’s fun to run on a riverbed.","Я понимаю. Это весело бежать на реке.","Ich verstehe. Es macht Spaß, auf einem Flussbett
+zu laufen."
 000014e4,79,"「河川敷は河川敷で、あの遠くの橋まで
-　走るのかと思うと気が遠くなるというか…」","","",""
-00001590,34,"「結局、走るのが苦手なんじゃない」","","",""
-000015dc,28,"「まぁ…そうとも言いますね」","","",""
+　走るのかと思うと気が遠くなるというか…」","I think that the riverbed is a riverbed, and I
+think that I will run to the bridge far away …","Я думаю, что лежак - это лежак, и я думаю, что я
+буду бежать к мосту далеко …","Ich denke, dass das Flussbett ein Flussbett ist,
+und ich denke, dass ich weit weg zur Brücke laufen
+werde…"
+00001590,34,"「結局、走るのが苦手なんじゃない」","“After all, I’m not good at running.”","«В конце концов, я не хорошо на беге. »","„Nach allem bin ich nicht gut im Laufen. „"
+000015dc,28,"「まぁ…そうとも言いますね」","“Oh, I say that.”","- О, я говорю, что. »","Oh, das sage ich. „"
 0000163c,65,"「フフッ、ランニングは無理せず、
-　自分のペースで走ればいいのよ」","","",""
+　自分のペースで走ればいいのよ」","“I don’t want to run and run at my own pace.”","«Я не хочу бегать и бегать в собственном темпе. »","„Ich will nicht in meinem eigenen Tempo laufen
+und laufen. „"
 00001714,69,"「あまりにも遅すぎると、サボってると
-　思われて、先生に怒られるけど」","","",""
-000017c0,10,"「ははは」","","",""
-00001804,40,"「苦手なスポーツって、何かありますか？」","","",""
+　思われて、先生に怒られるけど」","“I think I’m too late, but I’m angry with my
+teacher.”","«Я думаю, что я слишком поздно, но я злюсь с моим
+учителем. »","„Ich denke, ich bin zu spät, aber ich bin wütend
+auf meinen Lehrer. „"
+000017c0,10,"「ははは」","」","」","!"
+00001804,40,"「苦手なスポーツって、何かありますか？」","“What is a bad sport?”","«Что такое плохой спорт? »","„Was ist ein schlechter Sport? „"
 0000188c,57,"「格闘技が苦手ね。
-　見てると痛そうで、いたたまれなくて」","","",""
+　見てると痛そうで、いたたまれなくて」","“It’s hard to fight.” When you look at it, it
+seems to be painful.","— Трудно бороться. Когда ты смотришь на него,
+кажется болезненным.","„Es ist schwer zu kämpfen.“ Wenn man es
+betrachtet, scheint es schmerzhaft zu sein."
 0000194c,79,"「もちろん、選手の人はすごいと思うわよ。
-　あんなに自分を鍛え上げられないもの」","","",""
-00001a10,12,"「ですね～」","","",""
-00001a58,20,"「適度な運動って…」","","",""
-00001ac8,67,"「そうよ。\p01君もジョギングぐらいは
-　始めた方がいいんじゃない？」","","",""
+　あんなに自分を鍛え上げられないもの」","“Of course, I think the players are amazing.” I
+can’t train myself.","«Конечно, я думаю, что игроки удивительны». Я не
+могу тренировать себя.","„Natürlich finde ich, dass die Spieler
+erstaunlich sind.“ Ich kann mich nicht selbst
+trainieren."
+00001a10,12,"「ですね～」","」","」","!"
+00001a58,20,"「適度な運動って…」","A moderate exercise …","Среднее упражнение…","Eine moderate Übung…"
 00001bb8,61,"「この間は、体育倉庫の掃除を
-　手伝ってくれて、ありがとうね」","","",""
+　手伝ってくれて、ありがとうね」","Thank you very much for helping us to clean our
+warehouse.","Спасибо вам очень много, чтобы помочь нам
+очистить наш склад.","Danke, dass du uns geholfen hast, unser Lager zu
+reinigen."
 00001c2c,53,"「いえ、あれぐらい。
-　写真、撮らせてもらいましたし」","","",""
-00001d28,42,"「はぁ…どんどん弱みが増えてる気がするわ」","","",""
+　写真、撮らせてもらいましたし」","No, it is. I have a photo and take it.","- Нет, это. У меня есть фото и взять его.","Nein, ist es. Ich habe ein Foto und nehme es."
+00001d28,42,"「はぁ…どんどん弱みが増えてる気がするわ」","Well… I feel that the weakness of the world is
+increasing.","Ну… Я чувствую, что слабость мира
+увеличивается.","Nun… Ich fühle, dass die Schwäche der Welt
+zunimmt."
 00001e28,94,"「この間、体育倉庫を片付けてくれて、
 　ありがとう。おかげで、
-　道具を取り出しやすくなったわ」","","",""
+　道具を取り出しやすくなったわ」","In this time, please clean up the physical
+education warehouse. Thanks, I made it easy to
+take out the tools.","«В это время, пожалуйста, очистите склад
+физического воспитания. Спасибо, Я сделал это
+легко вынимать инструменты.","In dieser Zeit bitte das physische Bildungslager
+aufräumen. Danke. Ich machte es einfach, die
+Werkzeuge herauszunehmen."
 00001ebc,47,"「そう言ってもらえると、
-　ののかも喜びますよ」","","",""
+　ののかも喜びますよ」","“If you say that, you will be happy.”","«Если вы говорите, что вы будете счастливы. »","„Wenn du das sagst, wirst du glücklich sein. „"
 00001f48,88,"「あ、そうよね、間咲さんも
 　手伝ってくれたって、片付けが終わった後、
-　言ってたわよね」","","",""
-00002048,36,"「彼女にもお礼を言っておかないとね」","","",""
-000020b8,36,"「先輩って、球技は得意な方ですか？」","","",""
+　言ってたわよね」","“Oh, yes, I said that Mr. Masaki also helped me,
+after I finished cleaning up, I said it.”","«О, да, я сказал, что мистер Масаки также помог
+мне, после того, как я закончил уборку вверх, я
+сказал это. »","„Oh ja, ich sagte, dass Mr. Masaki mir auch
+geholfen hat, nachdem ich die Reinigung beendet
+habe, sagte ich es. „"
+00002048,36,"「彼女にもお礼を言っておかないとね」","I don't say thank you to her.","- Я не говорю спасибо ей.","Ich sage ihr nicht danke."
+000020b8,36,"「先輩って、球技は得意な方ですか？」","“Are you good at s球ical skills?”","«Вы хороши на слаженных навыках? »","„Sind Sie gut bei schiefen Fähigkeiten? „"
 0000213c,61,"「背が高い方だからね。バスケットも、
-　バレーボールも有利よ」","","",""
+　バレーボールも有利よ」","“I’m a tall person.” Basket, Volleyball","- Я высокий человек. Корзина, Волейбол","„Ich bin eine große Person.“ Basket, Volleyball"
 000021e0,77,"「特にバレーボールは、同じ班にかつみが
-　いるから、体育の授業だと負けなしね」","","",""
+　いるから、体育の授業だと負けなしね」","In particular, because volleyball is みed to the
+same group, it is not defeated in sports class.","В частности, потому что волейбол распространяется
+на ту же группу, он не побежден в спортивном
+классе.","Insbesondere, weil Volleyball an die gleiche
+Gruppe gebunden ist, ist es nicht in der
+Sportklasse besiegt."
 000022b0,49,"「先輩って運動も得意だし、
-　文武両道ですよね～」","","",""
+　文武両道ですよね～」","“I’m a senior and good at exercise, and it’s a s
+ar road.”","«Я старший и хороший на упражнении, и это не
+дорога. »","“Ich bin ein Senior und gut in der Übung, und es
+ist eine s ar Straße. „"
 0000234c,55,"「水泳部は辞めちゃったから、
-　そうとも言えないけどね」","","",""
+　そうとも言えないけどね」","“I didn’t say it because I 部 the swimming part.”","«Я не сказал, потому что я  the плавательная
+часть. »","„Ich habe es nicht gesagt, weil ich das Schwimmen
+Teil. „"
 00002428,49,"「けど、私たちにとっては、
-　どちらも大切な事よ」","","",""
+　どちらも大切な事よ」","“But for us, both are important.”","«Но для нас важно. »","„Aber für uns sind beide wichtig. „"
 0000249c,69,"「もうそろそろ、夏も終わって、
-　ウインタースポーツのシーズンですね」","","",""
-00002520,32,"「スキーとかスケートってこと？」","","",""
-000025ac,14,"「そうですね」","","",""
+　ウインタースポーツのシーズンですね」","It's the season of winter sports, but it's the
+summer too.","«Это сезон зимних видов спорта, но это лето
+тоже».","Es ist die Jahreszeit des Wintersports, aber es
+ist auch der Sommer."
+00002520,32,"「スキーとかスケートってこと？」","“Ski and skate?”","«Ски и коньки? »","„Ski und Skate? „"
+000025ac,14,"「そうですね」","“Yes, right?”","— Да, правда? »","„Ja, richtig? „"
 00002614,51,"「受験生なんだから、
-　滑ったり転んだりしないわよ」","","",""
-000026ac,14,"「そ、そっか」","","",""
-00002718,65,"「\p01君は、今年のうちに、
-　思う存分、滑って転んでおくといいわ」","","",""
-0000279c,26,"「この間、体育の授業で…」","","",""
-00002810,36,"「フフッ、いい運動になったみたいね」","","",""
-000028a8,36,"「朝、遅刻しかけて、思わぬ運動に…」","","",""
-00002928,28,"「フフッ、\p01君らしいわね」","","",""
+　滑ったり転んだりしないわよ」","“I’m a test student, so I don’t slip or roll.”","«Я студент теста, поэтому я не скользну или ролл.
+»","„Ich bin ein Teststudent, also rutsche ich nicht
+oder rolle. „"
+000026ac,14,"「そ、そっか」","」","」","!"
+0000279c,26,"「この間、体育の授業で…」","In this time, in the class of sports …","«В это время в классе спорта…»","In dieser Zeit, in der Klasse des Sports …"
+00002810,36,"「フフッ、いい運動になったみたいね」","“I want to have a good exercise!”","«Хочу иметь хорошее упражнение!»","„Ich will eine gute Übung haben!“"
+000028a8,36,"「朝、遅刻しかけて、思わぬ運動に…」","In the morning, I was late, and I had to
+exercise…","«Утром я опоздал, и мне пришлось заниматься…»","Am Morgen war ich spät, und ich musste
+trainieren…"
 000029e0,84,"「フフッ、気づかなかったけど、
 　こうして肩を並べると、
-　あなたって歩くの早いのね」","","",""
+　あなたって歩くの早いのね」","“I didn’t notice it, but I didn’t notice it, but
+it’s time to walk along the shoulder.”","«Я не заметил это, но я не заметил его, но пришло
+время ходить по плечу. »","“Ich habe es nicht bemerkt, aber ich habe es
+nicht bemerkt, aber es ist Zeit, entlang der
+Schulter zu gehen. „"
 00002a60,47,"「あ…すみません。
-　ゆっくり行きましょうか？」","","",""
-00002ac8,36,"「ううん、大丈夫。私が合わせるから」","","",""
+　ゆっくり行きましょうか？」","。 Let’s go slowly?","。 Пойдем медленно?","。 Gehen wir langsam?"
+00002ac8,36,"「ううん、大丈夫。私が合わせるから」","Yes, it's okay. る","- Да, это нормально. ⇓","Ja, es ist okay. !"
 00002b28,49,"「何かやってみたいスポーツって、
-　ありますか？」","","",""
-00002bb4,14,"「そうねぇ…」","","",""
+　ありますか？」","“What sports do you want to do?”","«Какие виды спорта вы хотите сделать? »","„Was wollen Sie tun? „"
+00002bb4,14,"「そうねぇ…」","Yes…","Да…","Ja…"
 00002c70,84,"「パラグライダーをやってみたいわね。
 　上昇気流に乗って、大空を自由に
-　飛び回るの」","","",""
+　飛び回るの」","I want to try paragliding. Ride on the rise
+airflow and fly around the sky freely.","- Я хочу попробовать парапланеризм. Ездите на
+подъемный воздушный поток и летайте вокруг неба
+свободно.","Ich will Paragliding versuchen. Fahren Sie auf
+dem Steigluftstrom und fliegen Sie frei um den
+Himmel."
 00002ce8,69,"「飛び込みといい、丘の上公園といい、
-　本当に高いところが好きですね」","","",""
-00002d8c,24,"「あ…フフッ、本当だわ」","","",""
-00002e54,98,"「そろそろ、各運動部の秋季大会が
-　始まるから、\p01君には、
-　がんばって写真を撮ってもらわないと」","","",""
+　本当に高いところが好きですね」","It's nice to jump in, it's nice to see the park
+on the hill, I really like the high place.","Приятно прыгать, приятно видеть парк на холме,
+мне очень нравится высокое место.","Es ist schön einzuspringen, es ist schön, den
+Park auf dem Hügel zu sehen, ich mag den hohen
+Platz."
+00002d8c,24,"「あ…フフッ、本当だわ」","“Oh…Fuffy, True”","«О…Фуфы, Правда»","“Oh…Fuffy, True”"
 00002f20,53,"「任せてください。入部したてのころとは
-　違いますよ」","","",""
-00002f94,22,"「クスッ、よろしくね」","","",""
-0000303c,18,"「運動と言えば…」","","",""
+　違いますよ」","Please leave. It is different from the time of
+entry.","Пожалуйста, оставьте. Он отличается от времени
+входа.","Bitte gehen Sie. Es unterscheidet sich von der
+Zeit des Eintritts."
+00002f94,22,"「クスッ、よろしくね」","Thank you, thank you!","Спасибо, спасибо!","Danke, danke!"
+0000303c,18,"「運動と言えば…」","“What is exercise?”","«Что такое упражнение? »","„Was ist Übung? „"
 000030ac,71,"「そうね。スポーツの秋だし、
-　休日に、２人でできる何かを始めたいわね」","","",""
+　休日に、２人でできる何かを始めたいわね」","。 I started doing something that can be done by
+two people on a holiday.","。 Я начал делать то, что можно сделать двумя
+людьми на празднике.","。 Ich fing an, etwas zu tun, das von zwei Leuten
+im Urlaub gemacht werden kann."

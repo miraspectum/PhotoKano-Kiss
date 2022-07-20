@@ -1,180 +1,330 @@
-0000032c,36,"「夏と言えば、やっぱり水泳ですよね」","","",""
-000003ac,18,"「フフッ、そうね」","","",""
-0000042c,36,"「室戸先輩って、泳ぐの得意ですか？」","","",""
-000004b8,32,"「当たり前じゃない。元水泳部よ」","","",""
-0000051c,20,"「そ、そうですよね」","","",""
-0000058c,16,"「愚問よ、愚問」","","",""
-000005f0,26,"「えっ、そうなんですか？」","","",""
+0000032c,36,"「夏と言えば、やっぱり水泳ですよね」","“I think it’s swimming in summer.”","«Я думаю, что это плавание летом. »","„Ich glaube, es schwimmen im Sommer. „"
+000003ac,18,"「フフッ、そうね」","“Fフ, so.”","«ФБ, так».","„Frucht, so.“"
+0000042c,36,"「室戸先輩って、泳ぐの得意ですか？」","“Are you good at swimming?","«Вы хороши в плавании?","„Sind Sie gut beim Schwimmen?"
+000004b8,32,"「当たり前じゃない。元水泳部よ」","It is not normal. Original swimming club","Это не нормально. Оригинальный плавательный клуб","Es ist nicht normal. Original Schwimmclub"
+0000051c,20,"「そ、そうですよね」","“It’s right.”","«Это правильно. »","„Es ist richtig. „"
+0000058c,16,"「愚問よ、愚問」","I'm」ish, I'm」ish.","- Я 」ish, я 」ish.","Ich bin süchtig, ich bin süchtig."
+000005f0,26,"「えっ、そうなんですか？」","“Is it right?”","- Это правильно? »","„Ist es richtig? „"
 00000658,71,"「知らなかった？　私、去年まで水泳部にいて
-　飛び込みの選手だったのよ」","","",""
-0000070c,22,"「知らなかったですよ」","","",""
+　飛び込みの選手だったのよ」","I didn't know? I was a player who jumped out in
+the swimming area.","- Я не знал? Я был игроком, который выпрыгнул в
+зоне плавания.","Ich wusste es nicht? Ich war ein Spieler, der im
+Schwimmbereich rausspringte."
+0000070c,22,"「知らなかったですよ」","“I didn’t know it.”","- Я не знал это. »","„Ich wusste es nicht. „"
 00000784,71,"「まぁ、大した選手じゃなかったからね。
-　けど、私なりにがんばったのよ」","","",""
-0000087c,36,"「先輩の得意な泳ぎ方って何ですか？」","","",""
+　けど、私なりにがんばったのよ」","“Well, it wasn’t a big player.” However, I had a
+hard time.","— Ну, это не большой игрок. Однако у меня было
+тяжелое время.","„Nun, es war kein großer Spieler.“ Aber ich hatte
+eine harte Zeit."
+0000087c,36,"「先輩の得意な泳ぎ方って何ですか？」","What is the best way to swim?","- Каков наилучший способ плавать?","Was ist der beste Weg zum Schwimmen?"
 000008f8,55,"「どんな泳ぎ方も、普通の人よりは得意だと
-　思うけど…」","","",""
+　思うけど…」","I think it is good for ordinary people to swim
+…","Я думаю, что это хорошо для обычных людей, чтобы
+плавать …","Ich glaube, es ist gut für gewöhnliche Menschen
+zu schwimmen…"
 000009d8,57,"「スピードが出るのはやっぱり自由形ね。
-　勝負してみる？」","","",""
-00000a8c,36,"「かないっこないのでやめておきます」","","",""
-00000b04,24,"「フフッ、まぁそうよね」","","",""
-00000b8c,36,"「プールと海ならどっちが好きです？」","","",""
+　勝負してみる？」","It's a free shape after speed comes out. How to
+win?","«Это свободная форма после того как скорость
+выходит вне. Как выиграть?","Es ist eine freie Form nach der Geschwindigkeit
+kommt heraus. Wie man gewinnt?"
+00000a8c,36,"「かないっこないのでやめておきます」","“I don’t have to worry about it.”","- Мне не нужно беспокоиться об этом. »","„Ich muss mich nicht darum kümmern. „"
+00000b04,24,"「フフッ、まぁそうよね」","“Oh, it’s right!”","«О, это правильно!»","„Oh, es ist richtig!“"
+00000b8c,36,"「プールと海ならどっちが好きです？」","“I like swimming pools and oceans?”","«Мне нравится бассейны и океаны? »","„Ich mag Schwimmbäder und Ozeane? „"
 00000c18,75,"「ちゃんと泳ぐならプールね。海は、肌を
-　焼いたり、波で遊ぶ場所でしょう？」","","",""
-00000cd0,14,"「そうですね」","","",""
-00000d18,36,"「この間、水泳の授業で泳いでたら…」","","",""
-00000d98,42,"「フフッ、そう。いいわね、気持ちよさそう」","","",""
+　焼いたり、波で遊ぶ場所でしょう？」","If you swim with me, it is a pool. Is the ocean a
+place to burn or play with waves?","Если вы плаваете со мной, это бассейн. Является
+ли океан местом, чтобы сжечь или играть с волнами?","Wenn du mit mir schwimmst, ist es ein Pool. Ist
+das Meer ein Ort zum Brennen oder Spielen mit
+Wellen?"
+00000cd0,14,"「そうですね」","“Yes, right?”","— Да, правда? »","„Ja, richtig? „"
+00000d18,36,"「この間、水泳の授業で泳いでたら…」","“When I swim in this class…”","«Когда я плаваю в этом классе…»","„Wenn ich in dieser Klasse schwimme…“"
+00000d98,42,"「フフッ、そう。いいわね、気持ちよさそう」","Fフ, so. It's good, it's good.","ФБ, так. Это хорошо, это хорошо.","Vielleicht. Es ist gut, es ist gut."
 00000e60,57,"「プール掃除を１人でやるのって、
-　大変じゃないですか？」","","",""
+　大変じゃないですか？」","“Is it hard to do pool cleaning with one person?”","“Хорошо ли делать уборку бассейна с одним
+человеком? »","„Ist es schwer, Poolreinigung mit einer Person zu
+tun? „"
 00000ef8,63,"「時々、気が向いた時にやってるだけだから、
-　そうでもないわよ」","","",""
+　そうでもないわよ」","“I’m just doing it when I’m thinking, so I don’t
+have it.”","«Я просто делаю это, когда я думаю, поэтому у
+меня нет этого. »","“Ich mache es nur, wenn ich denke, so habe ich es
+nicht. „"
 00000f84,67,"「途中で辞めてしまったから、少しでも
-　後輩たちの力になりたいのよ」","","",""
+　後輩たちの力になりたいのよ」","“Because I   in the middle, I want to be the
+power of juniors even a little.”","«Потому что я в середине, я хочу быть властью
+юниоров даже немного. »","„Weil ich in der Mitte bin, will ich die Macht
+der Junioren auch ein wenig sein. „"
 00001000,53,"「先輩が飛び込みを始めたのって、
-　いつぐらいです？」","","",""
-0000109c,20,"「小学３年生の時よ」","","",""
-000010d4,18,"「そんな前から？」","","",""
+　いつぐらいです？」","“When did you start to jump in?”","- Когда вы начали прыгать? »","„Wann hast du angefangen einzuspringen? „"
+0000109c,20,"「小学３年生の時よ」","The 3rd grade of elementary school","Третий класс начальной школы","Die 3. Klasse der Grundschule"
+000010d4,18,"「そんな前から？」","“What’s it?”","- Что это? »","„Was ist das? „"
 0000114c,71,"「もちろん、高飛び込みは無理よ。
-　最初は、飛び板飛び込みから徐々にね」","","",""
+　最初は、飛び板飛び込みから徐々にね」","Of course, it is impossible to jump in high.
+First of all, it is gradually from the jumping
+board","Конечно, нельзя прыгать в высоту. Прежде всего,
+это постепенно с прыжковой доски","Natürlich ist es unmöglich, hoch zu springen.
+Zunächst ist es allmählich vom Sprungbrett"
 000011f8,72,"「冬のトレーニングは、
 　トランポリンだったのよ。
-　とても楽しかったわ」","","",""
+　とても楽しかったわ」","Winter training was a trampoline. It was very
+fun.","Зимнее обучение стало батутом. Это было очень
+весело.","Wintertraining war ein Trampolin. Es war sehr
+lustig."
 000012c8,55,"「飛び込みで、腹ボテにならないコツって
-　ありますか？」","","",""
+　ありますか？」","“Is there any tricks on my stomach with a jump?”","- Есть ли какие-то трюки на мой желудок с
+прыжком? »","„ Gibt es irgendwelche Tricks auf meinem Magen
+mit einem Sprung? „"
 00001350,79,"「自分が飛び込む放物線をイメージして、
-　怖がらずに思いっきり、飛び出すことよ」","","",""
+　怖がらずに思いっきり、飛び出すことよ」","“I imagine the parades that I jumped into, and
+I’m not scared, and I’m flying out.”","«Я представляю парады, которые я прыгал в, и я не
+боюсь, и я летаю вне. »","„Ich stelle mir die Paraden vor, in die ich
+gesprungen bin, und ich habe keine Angst, und ich
+fliege aus. „"
 00001430,98,"「それでお腹が先に当たるようなら、
 　イメージ通り飛べてないってことだから、
-　姿勢を修正してみて」","","",""
-00001514,36,"「なるほど、さすがわかりやすいです」","","",""
+　姿勢を修正してみて」","“So if you’ve gotten your belly before, you can’t
+fly as image, so don’t fix your posture.”","« » Так что, если вы получили ваш живот перед, вы
+не можете летать как изображение, так что не
+исправить вашу осанку. »","„ Also, wenn Sie Ihren Bauch zuvor bekommen
+haben, können Sie nicht als Bild fliegen, also
+nicht beheben Sie Ihre Haltung. „"
+00001514,36,"「なるほど、さすがわかりやすいです」","I see, it is easy to understand.","- Я вижу, это легко понять.","Ich verstehe, es ist leicht zu verstehen."
 00001580,49,"「先輩って、いくつまで
-　浮き輪を使ってました？」","","",""
+　浮き輪を使ってました？」","“How many people used a floating ring?”","«Сколько людей использовали плавающее кольцо? »","„Wie viele Leute benutzten einen schwimmenden
+Ring? „"
 0000160c,77,"「今でも使うわよ。海でもプールでも、
-　浮き輪で浮かぶのって楽しいじゃない？」","","",""
-00001688,32,"「ははは、いや、そうじゃなく…」","","",""
+　浮き輪で浮かぶのって楽しいじゃない？」","I want to use it now. Is it fun to float in the
+sea or pool?","- Я хочу использовать его сейчас. Это интересно
+плавать в море или бассейне?","Ich will es jetzt benutzen. Ist es lustig, im
+Meer oder Pool zu schwimmen?"
+00001688,32,"「ははは、いや、そうじゃなく…」","No, it's not…","«Нет, это не…»","Nein, es ist nicht…"
 000016ec,98,"「フフッ、泳ぎの補助という意味では、
 　幼稚園ぐらいね。小学校に上がった時には
-　もう泳げてたから」","","",""
-000017d8,10,"「へ～っ」","","",""
+　もう泳げてたから」","It is about kindergarten in the meaning of
+swimming. When I went up to elementary school, I
+could swim again.","Про детский сад в смысле плавания. Когда я пошел
+в начальную школу, я мог бы поплавать снова.","Es geht um Kindergarten im Sinne des Schwimmens.
+Als ich zur Grundschule ging, konnte ich wieder
+schwimmen."
+000017d8,10,"「へ～っ」","」","」","!"
 00001828,57,"「水泳部時代の、何か楽しいエピソードって
-　ないですか？」","","",""
+　ないですか？」","“Do you have any fun episodes during the swim?","«У вас есть какие-то забавные эпизоды во время
+плавания?","„Hast du irgendwelche lustigen Episoden während
+des Schwimmens?"
 000018d0,82,"「今日みたいな暑い日に、
 　先生がアイスキャンディーを
-　差し入れてくれたことかな」","","",""
-000019c8,26,"「あれはおいしかったなぁ」","","",""
-00001aac,26,"「ね、水泳の楽しさって…」","","",""
-00001af4,30,"（本当に水泳が好きなんだな…）","","",""
-00001b4c,42,"「水泳以外で好きなスポーツって何ですか？」","","",""
+　差し入れてくれたことかな」","“I wonder if the teacher gave me ice candy on a
+hot day like today.”","“Я удивляюсь, если учитель дал мне ледяную
+конфету в жаркий день, как сегодня. »","“Ich frage mich, ob der Lehrer mir Eis
+Süßigkeiten an einem heißen Tag wie heute gab. „"
+000019c8,26,"「あれはおいしかったなぁ」","It was delicious!","Это было вкусно!","Es war köstlich!"
+00001aac,26,"「ね、水泳の楽しさって…」","“Now, the fun of swimming…”","«Сейчас, веселье плавания… »","„Nun, der Spaß am Schwimmen… „"
+00001af4,30,"（本当に水泳が好きなんだな…）","(I really like swimming…)","(Я очень люблю плавание…)","(Ich mag das Schwimmen…)"
+00001b4c,42,"「水泳以外で好きなスポーツって何ですか？」","What sports do you like other than swimming?","Какие виды спорта вам нравятся, кроме плавания?","Welche Sportarten magst du nicht schwimmen?"
 00001bc8,63,"「水泳以外だと……特にないわね。
-　ずっと水泳にかけてきたから」","","",""
-00001c88,12,"「そっか…」","","",""
+　ずっと水泳にかけてきたから」","“I don’t think it’s anything other than
+swimming.” I've been swimming","“Я не думаю, что это что-то другое, чем
+плавание.” Я плаваю","„Ich glaube nicht, dass es etwas anderes ist, als
+zu schwimmen.“ Ich habe geschwommen"
+00001c88,12,"「そっか…」","っ","ФУТБОЛ",","
 00001cdc,63,"「全身を覆うタイプの競泳水着って、
-　着ると速くなるんですか？」","","",""
+　着ると速くなるんですか？」","“What is a type of swimsuit that covers the
+entire body? Will it be faster when I wear it?”","«Какой тип купальник, который покрывает все тело?
+Будет ли быстрее, когда я его ношу? »","„Was ist eine Art Badeanzug, der den ganzen
+Körper bedeckt? Wird es schneller, wenn ich es
+trage? „"
 00001d6c,51,"「私は飛び込みの選手だから、
-　着たことないけど…」","","",""
+　着たことないけど…」","“I’m a jumping player, so I’m not wearing it…”","«Я прыгующий игрок, поэтому я не ношу его… »","„Ich bin ein springender Spieler, also trage ich
+ihn nicht… „"
 00001de8,98,"「伸縮性の違う素材を、筋肉に合わせて
 　貼り合わせたり、撥水性のいい素材を
-　使ったりしてるから…」","","",""
-00001eec,40,"「確実にタイムアップはするんじゃない？」","","",""
-000017d8,10,"「へ～っ」","","",""
+　使ったりしてるから…」","“We use water-repellent materials to match your
+muscles.","«Мы используем водоотталкивающие материалы, чтобы
+соответствовать вашим мышцам.","„Wir verwenden wasserabweisende Materialien, die
+Ihren Muskeln entsprechen."
+00001eec,40,"「確実にタイムアップはするんじゃない？」","“Is it sure that time-up?”","— Уверен, что время? »","„Ist das sicher? „"
+000017d8,10,"「へ～っ」","」","」","!"
 00001f9c,65,"「すごく体を締め付けるから、
-　着るのは、すごく大変そうだけどね」","","",""
+　着るのは、すごく大変そうだけどね」","“It’s so hard to wear because it’s ing the body.”","«Это так трудно носить, потому что это тело. »","„Es ist so schwer zu tragen, weil es den Körper
+anzieht. „"
 00002024,51,"「飛び込み禁止の学校って、
-　結構あるみたいですね」","","",""
+　結構あるみたいですね」","I think there is a school that is prohibited from
+jumping.","Я думаю, что есть школа, которая запрещена к
+прыжку.","Ich glaube, es gibt eine Schule, die vom Springen
+verboten ist."
 000020bc,96,"「うちのプールは、ちゃんと深さがあるから
 　大丈夫よ。古い学校のプールが、浅くて
-　危険なのよね」","","",""
-0000218c,12,"「なるほど」","","",""
+　危険なのよね」","Our pool is fine because it has a depth. Old
+school pools are shallow and dangerous.","Наш пул в порядке, потому что он имеет глубину.
+Старые школьные бассейны являются мелкой и
+опасной.","Unser Pool ist gut, weil er eine Tiefe hat. Alte
+Schulbäder sind flach und gefährlich."
+0000218c,12,"「なるほど」","」","」","!"
 000021f8,104,"「もっとも、飛び込み台からは、絶対に
 　飛び込んじゃダメよ。指導を受けた
-　水泳部員じゃないと危険だから」","","",""
+　水泳部員じゃないと危険だから」","“However, you should definitely jump in from the
+jumping platform. Instructed because it is
+dangerous to not be a swimmer","«Как бы вы ни были, вы обязательно должны прыгать
+с прыгающей платформы. Инструктажирован, потому
+что опасно не быть пловцом","„Aber Sie sollten unbedingt von der
+Sprungplattform einspringen. Bedienungsanleitung,
+weil es gefährlich ist, kein Schwimmer zu sein"
 000022c4,51,"「あんな高いところから、
-　飛び込む度胸ないですよ」","","",""
-00002348,24,"「フフッ、ならいいけど」","","",""
-000023d0,22,"「暑い日の水泳って…」","","",""
-00002440,36,"「フフッ、そうね。気持ちいいわよね」","","",""
-000024d4,18,"「水泳の授業で…」","","",""
-0000253c,30,"「そうね…楽しく泳がなきゃね」","","",""
+　飛び込む度胸ないですよ」","“It’s so high that I can’t fly.”","«Это так высоко, что я не могу летать. »","„Es ist so hoch, dass ich nicht fliegen kann. „"
+00002348,24,"「フフッ、ならいいけど」","I'm good!","Я хорошо!","Ich bin gut!"
+000023d0,22,"「暑い日の水泳って…」","I'm swimming on hot days…","Я плаваю в жаркие дни…","Ich schwimme an heißen Tagen…"
+00002440,36,"「フフッ、そうね。気持ちいいわよね」","“I’m sorry. I'm feeling good.","— Прости. Я чувствую себя хорошо.","„Es tut mir leid. Ich fühle mich gut."
+000024d4,18,"「水泳の授業で…」","In the swimming class …","В классе плавания…","In der Schwimmklasse…"
+0000253c,30,"「そうね…楽しく泳がなきゃね」","“Yes… I have to swim haがly.”","«Да… Я должен плавать селено. »","„Ja… ich muss schwimmen. „"
 000025dc,71,"「室戸先輩って、元水泳部だけあって、
-　競泳水着がすごく似合いますよね」","","",""
-00002690,14,"「ありがとう」","","",""
+　競泳水着がすごく似合いますよね」","“Muroto seniors have only the former swimming
+department, so the swimsuit is very similar.”","«Старшие у нас есть только бывший отдел плавания,
+поэтому купальник очень похож. »","„Muroto Senioren haben nur die ehemalige
+Schwimmabteilung, so dass der Badeanzug sehr
+ähnlich ist. „"
+00002690,14,"「ありがとう」","Thank you","Спасибо","Danke."
 000026e0,69,"「また着ることになるなんて、
-　思ってもなかったから、私もうれしいわ」","","",""
-0000279c,26,"「大学へ行っても水泳は…」","","",""
+　思ってもなかったから、私もうれしいわ」","“I didn’t think that I will be wearing again, so
+I’m also happy.”","«Я не думал, что я буду носить снова, так что я
+тоже счастлив. »","“Ich dachte nicht, dass ich wieder tragen werde,
+also bin ich auch glücklich. „"
+0000279c,26,"「大学へ行っても水泳は…」","I can swim even if I go to university…","«Я могу плавать, даже если я иду в
+университет…»","Ich kann schwimmen, auch wenn ich zur Universität
+gehe…"
 00002818,82,"「ええ、続けるわ。
 　もっとも、趣味のレベルだけど。
-　肩肘張らずに楽しむつもりよ」","","",""
+　肩肘張らずに楽しむつもりよ」","“Yes, I’ll continue.” However, it is a level of
+ho s. I'm going to enjoy without shoulder elbow.","- Да, я буду продолжать. Однако это уровень с. Я
+буду наслаждаться без плеча локоть.","„Ja, ich werde weitergehen.“ Es ist jedoch ein
+Niveau von ho s. Ich werde ohne Schulter Ellbogen
+genießen."
 0000290c,57,"「先輩って、何着ぐらい、競泳水着を
-　持ってるんですか？」","","",""
-000029ac,36,"「…どうして、そんなこと聞くのよ？」","","",""
-000029f4,18,"「な、何となく…」","","",""
-00002a60,20,"「何となく、ねぇ…」","","",""
+　持ってるんですか？」","“How long do you have a swimsuit?”","«Как долго у вас есть купальник? »","„Wie lange haben Sie einen Badeanzug? „"
+000029ac,36,"「…どうして、そんなこと聞くのよ？」","…Why do you hear that?","… Почему ты это слышишь?","… Warum hörst du das?"
+000029f4,18,"「な、何となく…」","No, no, no …","Нет, нет, нет…","Nein, nein, nein…"
+00002a60,20,"「何となく、ねぇ…」","What's it?","- Что это?","Was ist los?"
 00002b60,71,"「今は１着よ。一番気に入ってるのだけ
-　残して、あとは捨てちゃったから」","","",""
-00002bd4,28,"「捨てた！？　もったいない」","","",""
+　残して、あとは捨てちゃったから」","Now I'm wearing it. I like the most because I
+left it, and I left it.","Теперь я ношу его. Мне нравится больше всего,
+потому что я оставил его, и я оставил его.","Jetzt trage ich es. Ich mag das Beste, weil ich
+es verlassen habe und ich es gelassen habe."
+00002bd4,28,"「捨てた！？　もったいない」","“Don’t you? Don’t you?”","- Не ты? Не ты? »","„Du nicht? Nicht wahr? „"
 00002c34,59,"「ずいぶん着て、痛んでたから。
-　取っておいても仕方ないし」","","",""
-00002c9c,40,"「一番多い時で、何着持ってたんですか？」","","",""
-00002d34,36,"「だから、何でそんなこと聞くのよ？」","","",""
-00002dc4,20,"「な、何となくです」","","",""
+　取っておいても仕方ないし」","“I wear it and I hurt it.” I don't want to take
+it.","- Я ношу его, и я его болью. Я не хочу его взять.","„Ich trage es und habe es verletzt.“ Ich will es
+nicht nehmen."
+00002c9c,40,"「一番多い時で、何着持ってたんですか？」","“What did you wear when the most?”","— Что ты носил, когда больше всего? »","„Was hast du am meisten getragen? „"
+00002d34,36,"「だから、何でそんなこと聞くのよ？」","“So what do you hear about that?”","«Так что ты слышишь об этом? »","„Was hast du davon gehört? „"
+00002dc4,20,"「な、何となくです」","No, it's nothing.","- Нет, это ничего.","Nein, es ist nichts."
 00002e30,63,"「もう…３着よ。それだけあれば、
-　洗い替えには十分だったから」","","",""
+　洗い替えには十分だったから」","“Oh…3rd”. If it is, it was enough to wash it.","«О…3rd». Если это было достаточно, чтобы мыть
+его.","„Oh…3rd“. Wenn es so ist, war es genug, es zu
+waschen."
 00002f08,51,"「先輩が、水泳部に戻ってくれて、
-　うれしいですよ」","","",""
+　うれしいですよ」","“My seniors will return to the swimming club and
+I’m happy.”","«Мои старшие вернутся в плавательный клуб, и я
+счастлив. »","„Meine Senioren werden in den Schwimmclub
+zurückkehren und ich bin glücklich. „"
 00002fa0,63,"「戻ったと言っても、ちょっと泳がせて
-　もらってるだけだけどね」","","",""
+　もらってるだけだけどね」","I'm just swimming, even if I say back.","- Я просто плаваю, даже если я говорю назад.","Ich schwimme einfach, auch wenn ich zurück sage."
 0000304c,51,"「たとえそうでも、
-　いい気晴らしになると思うし…」","","",""
+　いい気晴らしになると思うし…」","I think it will be good even if it is …","Я думаю, что это будет хорошо, даже если это …","Ich glaube, es wird gut sein, auch wenn es…"
 000030f4,73,"「そうね……今になって思えば、必要以上に
-　自分を追い詰めてたんだと思う」","","",""
-00003214,42,"「あなたのおかげよ、自分を取り戻せたのは」","","",""
+　自分を追い詰めてたんだと思う」","“Yes… I think I’ve been chasing myself more
+than necessary if I think now.”","«Да… Я думаю, что я дорожу более чем
+необходимым, если я думаю сейчас. »","„Ja… ich glaube, ich habe mich mehr als
+notwendig verfolgt, wenn ich jetzt denke. „"
+00003214,42,"「あなたのおかげよ、自分を取り戻せたのは」","“You know, you know, you know.”","- Знаешь, ты знаешь, ты знаешь. »","„Du weißt schon, du weißt schon. „"
 00003278,65,"「競泳水着で水泳の授業受けて、
-　先生から怒られなかったですか？」","","",""
-00003320,34,"「怒られなかったけど、笑われたわ」","","",""
+　先生から怒られなかったですか？」","I was not angry by the teacher, taking swimming
+lessons in swimsuit?","«Я не сердился учителем, принимая уроки плавания
+в купальнике?»","Ich war nicht wütend von der Lehrerin,
+Schwimmunterricht im Badeanzug zu nehmen?"
+00003320,34,"「怒られなかったけど、笑われたわ」","“I wasn’t angry, but I laughed.”","«Я не сердился, но я смеялся. »","„Ich war nicht wütend, aber ich lachte. „"
 000033d0,98,"「いい機会とばかりに、クロールの手本を
 　やらされたり、飛び込みをやらされたり、
-　大変だったわよ」","","",""
-000034a0,10,"「ははは」","","",""
+　大変だったわよ」","It was a great opportunity to have a ロールling
+book, jumping, and so on.","Это была прекрасная возможность иметь обратную
+книгу, прыжок, и так далее.","Es war eine tolle Gelegenheit, ein uraltes Buch,
+Springen und so weiter zu haben."
+000034a0,10,"「ははは」","」","」","!"
 000034f0,57,"「大谷先生って、ちゃんと泳げるように
-　なりそうですか？」","","",""
+　なりそうですか？」","“Are you sure you can swim properly?”","- Вы уверены, что можете плавать правильно? »","„Sind Sie sicher, dass Sie richtig schwimmen
+können? „"
 00003590,61,"「正直言って、ちゃんとは無理ね。
-　すごく水を怖がってるから」","","",""
+　すごく水を怖がってるから」","Truly, I'm sorry. I'm so scared.","- Правда, я сожалею. Я так боюсь.","Truly, es tut mir leid. Ich habe Angst."
 00003660,104,"「けど、それなりの形にはなってきてるのよ。
 　端で見てると、まるでおぼれてるみたい…
-　ではあるんだけど」","","",""
-00003780,10,"「はは…」","","",""
+　ではあるんだけど」","But it's not the shape of it. When I look at it
+at the end, I want to see it.","«Но это не форма его. Когда я смотрю на него в
+конце, я хочу его увидеть.","Aber es ist nicht die Form davon. Wenn ich es am
+Ende sehe, will ich es sehen."
+00003780,10,"「はは…」","」","」","!"
 000037c4,61,"「一番高い飛び込み台から飛び込むのって、
-　怖くないですか？」","","",""
-00003854,40,"「新しい技を覚える最中は、怖かったわね」","","",""
+　怖くないですか？」","“Isn’t it scary to jump from the highest dive
+platform?”","«Не страшно прыгать с самой высокой ныряющей
+платформы? »","„Ist es nicht beängstigend, von der höchsten
+Tauchplattform zu springen? „"
+00003854,40,"「新しい技を覚える最中は、怖かったわね」","I was scared while learning new skills.","Я боялся во время изучения новых навыков.","Ich hatte Angst, während ich neue Fähigkeiten
+lernte."
 000038cc,75,"「着水に失敗すると、ものすごく痛くて、
-　太ももなんかひどく内出血するのよ」","","",""
-00003984,34,"「うわ～、想像しただけで痛みが…」","","",""
+　太ももなんかひどく内出血するのよ」","If you fail to rinse, it's so painful, and it's
+hard to bleed in the thigh.","«Если вы не промыть, это так болезненно, и трудно
+кровоточить в беде».","Wenn du nicht spülst, ist es so schmerzhaft, und
+es ist schwer, im Oberschenkel zu bluten."
+00003984,34,"「うわ～、想像しただけで痛みが…」","Wow~, Imagine only pain…","Вау~, Представьте только боль…","Wow~, Stellen Sie sich nur Schmerz vor…"
 000039f4,67,"「当たり前だけど、どんなスポーツも、
-　危険と隣り合わせってことよ」","","",""
-00003a70,40,"「飛び込みの瞬間ってどんな感じですか？」","","",""
+　危険と隣り合わせってことよ」","It's natural, but it's dangerous and close to any
+sport.","«Это естественно, но это опасно и близко к любому
+виду спорта».","Es ist natürlich, aber es ist gefährlich und nah
+an jedem Sport."
+00003a70,40,"「飛び込みの瞬間ってどんな感じですか？」","“What is the moment of jumping?”","«Какой момент прыгать? »","„Was ist der Moment des Springens? „"
 00003af0,61,"「飛び込みはね、踏み切ってから着水まで、
-　２秒間しかないの」","","",""
+　２秒間しかないの」","It's only 2 seconds to dive, from stepping to
+watering.","Это всего 2 секунды, чтобы погрузиться, от шага к
+поливу.","Es sind nur 2 Sekunden, um zu tauchen, von
+Schritt zu Wasser."
 00003bb4,112,"「どんなに朝早くから、夜遅くまで練習しても
 　最終的には、その２秒間を、いかに正確に
-　演技するかにかかってる…」","","",""
+　演技するかにかかってる…」","“No matter how early or late the night, it will
+take a second time to perform exactly…”","«Не важно, как рано или поздно ночь, это займет
+второй раз, чтобы выполнить именно… »","„ Egal, wie früh oder spät die Nacht, es wird ein
+zweites Mal dauern, um genau durchzuführen… „"
 00003cc8,86,"「だからこそ、うまく演技できて、
 　着水した瞬間は、例えようがないぐらい
-　うれしいわ」","","",""
+　うれしいわ」","“This is why you can perform well, and the moment
+you put on the water is not enough.”","«Это почему вы можете хорошо выполнять, и момент,
+когда вы положили на воду, недостаточно. »","„Das ist der Grund, warum Sie gut funktionieren
+können, und der Moment, in dem Sie auf das Wasser
+setzen, ist nicht genug. „"
 00003da4,90,"「まるで、プールが自分だけのものになって、
 　一緒に喜んでくれてるような
-　気持ちになるの」","","",""
-00003e20,30,"「好きなんですね、飛び込みが」","","",""
-00003e90,28,"「ええ、もちろん。大好きよ」","","",""
+　気持ちになるの」","“It feels like a pool is your own, and you will
+be happy with it.”","«Он чувствует себя как бассейн - это ваш
+собственный, и вы будете довольны им. »","„Es fühlt sich an, als wäre ein Pool dein
+eigener, und du wirst glücklich damit sein. „"
+00003e20,30,"「好きなんですね、飛び込みが」","I like it, I'm flying.","- Мне это нравится, я летаю.","Ich mag es, ich fliege."
+00003e90,28,"「ええ、もちろん。大好きよ」","Yes, of course. Love","- Да, конечно. Любовь","Ja, natürlich. Liebe"
 00003f1c,67,"「将来、子どもが飛び込みをやりたいって
-　言ったら、やらせますか？」","","",""
-00003fcc,18,"「えっ、子ども？」","","",""
-00004034,38,"「す、すみません、質問が唐突ですよね」","","",""
-000040a8,22,"「べ、別にいいけど…」","","",""
+　言ったら、やらせますか？」","“Is it possible to do if my child wants to fly in
+the future?”","— Можно ли делать, если мой ребенок хочет летать
+в будущем? »","„Ist es möglich, wenn mein Kind in Zukunft
+fliegen will? „"
+00003fcc,18,"「えっ、子ども？」","Children","Дети","Kinder"
+00004034,38,"「す、すみません、質問が唐突ですよね」","“No, I don’t know, the question is a tangle.”","«Нет, я не знаю, вопрос запутан. »","„Nein, ich weiß nicht, die Frage ist ein Winkel.
+„"
+000040a8,22,"「べ、別にいいけど…」","But I want to be different…","Но хочу быть разными…","Aber ich will anders sein…"
 0000416c,88,"「そうね……いつか、子どもができて、
 　泳げるようになったら、
-　飛び込みを教えたいわね」","","",""
+　飛び込みを教えたいわね」","“Oh… I want to teach my child to be able to
+swim.”","«О… Я хочу научить своего ребенка уметь
+плавать. »","Oh… Ich möchte mein Kind lehren, schwimmen zu
+können. „"
 00004284,73,"「けど、強制はしないわ。子どもには、
-　好きなことをやらせてあげたいもの」","","",""
-0000431c,42,"「ただ、水を怖がらない子にはしたいけどね」","","",""
-00004380,34,"「飛び込みをしてる時の先輩って…」","","",""
-00004410,8,"「え…」","","",""
-000044e0,20,"「あ、ありがとう…」","","",""
+　好きなことをやらせてあげたいもの」","Don’t force it. What I want to do for my child","Не заставляйте его. Что я хочу сделать для моего
+ребенка","Nicht zwingen. Was ich für mein Kind tun will"
+0000431c,42,"「ただ、水を怖がらない子にはしたいけどね」","“I want to be a child who is not afraid of the
+world.”","«Хочу быть ребенком, который не боится мира. »","„Ich will ein Kind sein, das keine Angst vor der
+Welt hat. „"
+00004380,34,"「飛び込みをしてる時の先輩って…」","I'm a senior when I'm flying…","«Я старший, когда я летаю…»","Ich bin Senior, wenn ich fliege…"
+00004410,8,"「え…」","」","」","!"
+000044e0,20,"「あ、ありがとう…」","Thank you","Спасибо","Danke."

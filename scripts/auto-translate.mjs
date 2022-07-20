@@ -55,8 +55,13 @@ async function translatePhrase(jp, lang) {
             // We need to remove carriage return for execute command
             // But we can write method to split text on lines
             // Can`t return result here, problem with encoding (I can`t fix this...)
-            await Utils.executeCmd(`python ./scripts/translate.py \"${jp.replace(/\n/gi, '')}\" ja ${lang}`); 
-            result = customTextSplitter((await Utils.readFile('./ptr.txt')).toString());
+            //await Utils.executeCmd(`set ARGOS_DEVICE_TYPE=auto | python ./scripts/translate.py \"${jp.replace(/\n/gi, '')}\" ja ${lang}`);
+            result = await Utils.httpPost('http://localhost:5000/translate', {
+                text: jp.replace(/\n/gi, ''),
+                from: 'ja',
+                to: lang
+            });
+            result = customTextSplitter(result);
         }
     }
 
@@ -132,7 +137,7 @@ async function main() {
 
         for (let i = 0; i < patches.length; i++) {
             const [patch, ...other] = patches[i];
-            if (!patch.includes('ID02688')) { continue; }
+            if (!patch.includes('ID02400')) { continue; }
             await translatePatch(patch);
         }
 

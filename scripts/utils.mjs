@@ -1,6 +1,8 @@
 import * as fs from 'fs';
 import { parse } from 'csv-parse';
 import { exec, spawn } from 'child_process';
+import request from 'request';
+import { resolve } from 'path';
 
 export class Utils {
     static async readDir(path) {
@@ -154,6 +156,18 @@ export class Utils {
                     resolve();
                 }
               });
+        });
+    }
+
+    static async httpPost(url, data) {
+        return new Promise((resolve, reject) => {
+            request.post(url, { json: data }, (error, response, body) => {
+                if (!error && response.statusCode == 200) {
+                    resolve(body);
+                } else {
+                    reject(error);
+                }
+            });
         });
     }
 }

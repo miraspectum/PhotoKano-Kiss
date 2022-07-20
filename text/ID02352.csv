@@ -1,129 +1,209 @@
-00000338,47,"「\p01君って、ゼリー飲料とか、
-　よく飲むの？」","","",""
 00000394,76,"「あ、あの時はたまたまです。
 　朝、食べてなかったから、
-　腹が減っちゃって」","","",""
+　腹が減っちゃって」","“Oh, it’s time to go.” I didn’t eat it in the
+morning, so my stomach decreased.","«О, пришло время идти». Я не съела его утром,
+поэтому мой желудок уменьшился.","„Oh, es ist Zeit zu gehen.“ Ich habe es nicht am
+Morgen gegessen, also ging mein Magen zurück."
 00000430,61,"「ダメねぇ、朝食を食べないなんて。
-　一日の計は朝にあり、よ」","","",""
+　一日の計は朝にあり、よ」","“I don’t eat breakfast.” The day is in the
+morning.","«Я не ем завтрак». День утром.","„Ich esse kein Frühstück.“ Der Tag ist am Morgen."
 000004a0,53,"「健康上良くないし、
-　きちんと朝食は食べるようにね」","","",""
-00000544,18,"「…気をつけます」","","",""
-00000590,38,"「室戸先輩が好きなお菓子って何です？」","","",""
+　きちんと朝食は食べるようにね」","“I don’t have good health and I want to eat
+breakfast properly.”","«У меня нет хорошего здоровья, и я хочу правильно
+поесть завтрак. »","„Ich habe keine gute Gesundheit und ich möchte
+das Frühstück richtig essen. „"
+00000544,18,"「…気をつけます」","…Be careful.","… Будьте осторожны.","… Vorsicht."
+00000590,38,"「室戸先輩が好きなお菓子って何です？」","What kind of sweets do you like?","Какие сладости вам нравятся?","Was für Süßigkeiten magst du?"
 0000060c,83,"「間食はあまりしないけど…、夜中にお腹が
-　減った時なんか、ビスケットをつまむわよ」","","",""
-000006dc,30,"「ポテチなら何味が好きです？」","","",""
+　減った時なんか、ビスケットをつまむわよ」","“I don’t have a lot of food, but I can’t eat
+biscuits when my stomach decreases at night.”","«У меня нет много пищи, но я не могу есть
+печенье, когда мой желудок уменьшается ночью. »","„Ich habe keine Menge Nahrung, aber ich kann
+keine Kekse essen, wenn mein Magen nachts abnimmt.
+„"
+000006dc,30,"「ポテチなら何味が好きです？」","“What kind of taste do you like?”","«Какой вкус вам нравится? »","„Wie gefällt dir der Geschmack? „"
 00000750,57,"「うす塩ね。もっとも、ポテチ自体、
-　あまり食べないけど」","","",""
-000007f0,20,"「そうなんですか？」","","",""
+　あまり食べないけど」","“It’s salty.” However, I don’t eat too much
+potty.","«Это солёная». Тем не менее, я не ем слишком
+много потенции.","„Es ist salzig.“ Aber ich esse nicht zu viel
+Töpfchen."
+000007f0,20,"「そうなんですか？」","What is it?","Что это?","Was ist los?"
 00000854,75,"「手がベタベタになっちゃうでしょう？
-　そういうのが気になるたちなのよねぇ」","","",""
-000008d8,38,"「先輩がよく飲む飲みものって何です？」","","",""
-00000964,36,"「夏だと普通に麦茶とか、緑茶だけど」","","",""
-000009d8,36,"「ジュース類より体にいいでしょう？」","","",""
-00000a88,34,"「\p01君が好きな飲みものって何？」","","",""
-00000ad8,36,"「暑いし、炭酸飲料がうまいですよね」","","",""
+　そういうのが気になるたちなのよねぇ」","Do you want to be a beta beta? That’s what you
+like.","- Хотите быть бета-бетой? Это то, что вам
+нравится.","Willst du ein Beta Beta sein? Das gefällt dir."
+000008d8,38,"「先輩がよく飲む飲みものって何です？」","What is the drink that seniors drink well?","- Что такое напиток, что пожилые хорошо пьют?","Was ist das Getränk, das Senioren gut trinken?"
+00000964,36,"「夏だと普通に麦茶とか、緑茶だけど」","In summer, it is usually barley tea or green tea.","«В летнее время, это обычно ячменный чай или
+зеленый чай».","Im Sommer ist es meist Gerstete oder Grüntee."
+000009d8,36,"「ジュース類より体にいいでしょう？」","Is it better than juice?","Лучше сока?","Ist es besser als Saft?"
+00000ad8,36,"「暑いし、炭酸飲料がうまいですよね」","“It’s hot and delicious carbonated drinks.”","«Это горячие и вкусные газированные напитки. »","„Es sind heiße und köstliche kohlensäurehaltige
+Getränke. „"
 00000b58,55,"「気持ちはわかるけど、
-　あんまり飲み過ぎないようにね」","","",""
+　あんまり飲み過ぎないようにね」","“I understand my feelings, but I don’t drink too
+much.”","«Я понимаю свои чувства, но я не пью слишком
+много. »","„Ich verstehe meine Gefühle, aber ich trinke
+nicht zu viel. „"
 00000bc8,53,"「この間、コンビニで見かけた
-　お菓子なんですけど…」","","",""
-00000c64,42,"「ふうん、それなら食べてみてもいいかもね」","","",""
+　お菓子なんですけど…」","In this time, I can see it at a convenience
+store.","В это время я вижу его в удобном магазине.","In dieser Zeit kann ich es in einem
+Bequemlichkeitsladen sehen."
+00000c64,42,"「ふうん、それなら食べてみてもいいかもね」","“Yes, you might want to eat it.”","- Да, вы можете его поесть. »","„Ja, vielleicht wollen Sie es essen. „"
 00000d14,47,"「コーヒーと紅茶なら、
-　どっちが好きですか？」","","",""
+　どっちが好きですか？」","“Who do you like coffee and tea?”","«Кто вам нравится кофе и чай? »","„Wer mag Kaffee und Tee? „"
 00000da8,86,"「夜中の眠気覚ましならコーヒーね。
 　あんまり飲み過ぎると、
-　寝付けなくなるんだけど」","","",""
-00000e78,38,"「室戸先輩の好きなパンって何ですか？」","","",""
+　寝付けなくなるんだけど」","It's coffee if you sleep in the night. If you
+drink too much, you will not sleep.","Это кофе, если вы спите ночью. Если вы пьете
+слишком много, вы не будете спать.","Es ist Kaffee, wenn Sie in der Nacht schlafen.
+Wenn Sie zu viel trinken, werden Sie nicht
+schlafen."
+00000e78,38,"「室戸先輩の好きなパンって何ですか？」","What is the favorite bread of Muroto seniors?","«Каков любимый хлеб пожилых людей Muroto?»","Was ist das Lieblingsbrot von Muroto Senioren?"
 00000ef4,63,"「学校でよく買うパンは、ミックスサンドと
-　プリンデニッシュね」","","",""
-00000fbc,40,"「プリンデニッシュは人気がありますよね」","","",""
-00001038,38,"「そうね。だから、なかなか買えなくて」","","",""
-0000108c,40,"「もっと売ってくれればいいんだけどなぁ」","","",""
+　プリンデニッシュね」","“We buy bread at school, mix sandwiches and
+puddingnishes.”","«Мы покупаем хлеб в школе, смешиваем сэндвичи и
+пудинги. »","„Wir kaufen Brot in der Schule, mischen
+Sandwiches und Puddingnishes. „"
+00000fbc,40,"「プリンデニッシュは人気がありますよね」","“Prindnish is popular.”","«Континец популярен. »","“Prindnish ist beliebt. „"
+00001038,38,"「そうね。だから、なかなか買えなくて」","。 So I can't buy it.","。 Так что я не могу купить его.","。 Ich kann es nicht kaufen."
+0000108c,40,"「もっと売ってくれればいいんだけどなぁ」","I want to sell more.","«Хочу продавать больше».","Ich will mehr verkaufen."
 00001108,71,"「聞いてみたんだけど、足りないぐらいが、
-　他のパンが売れていいそうよ」","","",""
-0000117c,12,"「なるほど」","","",""
-000011fc,45,"「\p01君が、購買部でよく買うパンって
-　何？」","","",""
-00001258,42,"「俺は何と言ってもダブルカツサンドですよ」","","",""
-000012c4,40,"「ああ、あのパンは男子から人気あるわね」","","",""
+　他のパンが売れていいそうよ」","I heard it, but I don't have enough it, but other
+breads can be sold.","«Я слышал это, но у меня его нет, но другие хлебы
+можно продать».","Ich habe es gehört, aber ich habe nicht genug,
+aber andere Brote können verkauft werden."
+0000117c,12,"「なるほど」","」","」","!"
+00001258,42,"「俺は何と言ってもダブルカツサンドですよ」","“What I say is double cutlet sand.”","«Что я говорю, это двойной кустовый песок. »","„Was ich sage, ist doppelter cutlet sand. „"
+000012c4,40,"「ああ、あのパンは男子から人気あるわね」","Oh, that bread is popular from men.","О, что хлеб популярен у мужчин.","Oh, das Brot ist beliebt bei Männern."
 0000131c,53,"「口いっぱいにカツのうまみが広がるのが、
-　最高です」","","",""
+　最高です」","It is the best to spread the umami of the cuts in
+full of mouth.","«Лучшее распространить umami отрезов в полном
+рту».","Es ist das Beste, den Umami der Schnitte in
+voller Mund zu verbreiten."
 00001398,57,"「室戸先輩って、朝食はパン派ですか？
-　ごはん派ですか？」","","",""
+　ごはん派ですか？」","“Is breakfast served in the room? Do you have
+breakfast?","«В номере подается завтрак? Есть ли завтрак?","„Ist das Frühstück im Zimmer serviert? Hast du
+Frühstück?"
 00001450,92,"「どちらかというと、ごはんが多いわね。
 　卵焼きと、ほうれん草のおひたしと、
-　お味噌汁とか」","","",""
+　お味噌汁とか」","“I think there are many rice.” Grilled eggs and
+spinach, miso soup, etc.","“Я думаю, что есть много риса.” Жареные яйца и
+шпинат, туманный суп и т.д.","„Ich glaube, es gibt viele Reis.“ Gegrillte Eier
+und Spinat, Mistsuppe, etc."
 00001564,63,"「時間がない時は、シリアルと牛乳で
-　済ませちゃう時もあるけど」","","",""
-000015dc,14,"「朝食って…」","","",""
-00001650,38,"「そうそう、朝はちゃんと食べないとね」","","",""
+　済ませちゃう時もあるけど」","When there is no time, it may be time to finish
+with cereal and milk.","«Когда нет времени, может быть время закончить с
+зерном и молоком».","Wenn es keine Zeit gibt, kann es Zeit sein, mit
+Müsli und Milch zu beenden."
+000015dc,14,"「朝食って…」","Breakfast","Завтрак","Frühstück"
+00001650,38,"「そうそう、朝はちゃんと食べないとね」","“I don’t eat it in the morning.”","«Я не ем его утром. »","„Ich esse es nicht morgens. „"
 000016f0,53,"「インスタントラーメンなら、
-　どんなのが好きです？」","","",""
-0000178c,38,"「滅多に食べないからわからないけど…」","","",""
+　どんなのが好きです？」","“What do you like with Instant Ramen?”","«Что вам нравится с Instant Ramen? »","„Was gefällt dir mit Instant Ramen? „"
+0000178c,38,"「滅多に食べないからわからないけど…」","“I don’t know it because I don’t eat it…”","“Я не знаю, потому что я не ем… »","“Ich weiß es nicht, weil ich es nicht essen… „"
 00001840,51,"「昔ながらって感じの、
-　シンプルなタイプが好きね」","","",""
+　シンプルなタイプが好きね」","“I like a simple type of old style.”","«Мне нравится простой тип старого стиля. »","„Ich mag eine einfache Art alten Stils. „"
 000018ac,51,"「宅配ピザって、すごいバリエーション
-　ですよね～」","","",""
-00001938,18,"「フフッ、そうね」","","",""
+　ですよね～」","The delivery pizza is a great variation, right?","Пицца доставки - это отличная вариация, верно?","Die Lieferung Pizza ist eine große Variation,
+richtig?"
+00001938,18,"「フフッ、そうね」","“Fフ, so.”","«ФБ, так».","„Frucht, so.“"
 000019dc,78,"「クリームソースのピザとか、
 　イタリアの人が見たら
-　びっくりするでしょうね」","","",""
-00001a4c,24,"「食べたことあります？」","","",""
+　びっくりするでしょうね」","“I’ll be surprised if you see a pizza with a
+cream sauce or Italians.”","«Я буду удивлен, если вы увидите пиццу с кремовым
+соусом или итальянцами. »","„Ich werde überrascht sein, wenn Sie eine Pizza
+mit einer Cremesauce oder Italienern sehen. „"
+00001a4c,24,"「食べたことあります？」","“I’m sorry.”","— Прости. »","„Es tut mir leid. „"
 00001ad8,51,"「ううん、滅多に頼まないってのも
-　あるんだけど…」","","",""
+　あるんだけど…」","“Yes, I don’t rely on it.”","— Да, я не полагаюсь на него. »","„Ja, ich verlasse mich nicht darauf. „"
 00001bc4,59,"「いざ頼もうとすると、つい普通のピザを
-　頼んじゃうのよね」","","",""
+　頼んじゃうのよね」","“If you try to rely on it, you can rely on the
+usual pizza.”","«Если вы пытаетесь положиться на него, вы можете
+положиться на обычную пиццу. »","„Wenn Sie sich darauf verlassen wollen, können
+Sie sich auf die übliche Pizza verlassen. „"
 00001c44,67,"「商店街のたこ焼き屋の前を通ると、
-　つい買いたくならないですか？」","","",""
+　つい買いたくならないですか？」","“When you go through the front of the takoyaki
+shop in the shopping district, do you want to buy
+it?”","«Когда вы идете через фронт магазина takoyaki в
+торговом районе, вы хотите купить его? »","“Wenn Sie durch die Front des takoyaki Shop im
+Einkaufsviertel gehen, wollen Sie es kaufen? „"
 00001cec,88,"「私はそうでもないけど、
 　焼けたソースのにおいが、
-　食欲をそそるのは、よくわかるわよ」","","",""
-00001d8c,38,"「男の人は、つい買っちゃうでしょうね」","","",""
-00001df8,42,"「小腹が空いた時によく食べるんですけど…」","","",""
+　食欲をそそるのは、よくわかるわよ」","“I don’t like that, but the scent of the burned
+sauce, but I’m sure I know that it’s an appetite.”","«Я не люблю это, но аромат горящего соуса, но я
+уверен, что это аппетит. »","“Ich mag das nicht, aber der Duft der verbrannten
+Soße, aber ich bin sicher, dass ich weiß, dass es
+ein Appetit ist. „"
+00001d8c,38,"「男の人は、つい買っちゃうでしょうね」","“A man will buy it soon!”","«Человек скоро купит!»","„Ein Mann wird es bald kaufen!“"
+00001df8,42,"「小腹が空いた時によく食べるんですけど…」","I often eat it when I was」ry …","Я часто ем, когда я был 」ry …","Ich esse es oft, als ich schuld war…"
 00001e88,53,"「ふうん、おいしそうだけど、
-　食べ過ぎないようにね」","","",""
-00001f38,34,"「この間、食べたスナック菓子が…」","","",""
+　食べ過ぎないようにね」","Yes, it seems to be delicious, but I don't eat
+too much.","- Да, это кажется вкусным, но я не едю слишком
+много.","Ja, es scheint köstlich zu sein, aber ich esse
+nicht zu viel."
+00001f38,34,"「この間、食べたスナック菓子が…」","In the meantime, there is a snack confection…","В то же время есть закусочная конфекция…","In der Zwischenzeit gibt es eine
+Snack-Konfektion…"
 00001fb0,61,"「ふうん…いろいろ新商品が出るものね。
-　今度、食べてみるわ」","","",""
+　今度、食べてみるわ」","I'm sorry… it's something new. Let’s eat it
+now!","Я сожалею… это что-то новое. Давайте поесть
+сейчас!","Es tut mir leid… es ist etwas Neues. Lasst uns
+jetzt essen!"
 00002080,51,"「今度、一緒に肉屋のメンチカツを
-　食べませんか？」","","",""
-00002118,24,"「歩きながらってこと？」","","",""
-00002154,18,"「そうですけど…」","","",""
-000021c0,47,"「…いいわ、\p01君と一緒なら、
-　食べてみるわ」","","",""
-00002250,42,"「絶対、うまいから楽しみにしててください」","","",""
-000022cc,24,"「ええ、期待してるわね」","","",""
-00002354,38,"「肉屋のメンチカツってうまいですよね」","","",""
-000023e0,42,"「ええ、また今度、帰りながら食べたいわね」","","",""
+　食べませんか？」","“Why don’t you eat meat shop mentikatsu
+together?”","«Почему вы не едите мясной магазин mentikatsu
+вместе? »","„Warum essen Sie nicht zusammen Fleischgeschäft
+Menikatsu? „"
+00002118,24,"「歩きながらってこと？」","What is walking?","Что такое ходьба?","Was ist los?"
+00002154,18,"「そうですけど…」","It's right…","«Это правильно…»","Es ist richtig…"
+00002250,42,"「絶対、うまいから楽しみにしててください」","Absolutely, please look forward to it.","«Абсолютно, пожалуйста, с нетерпением ждем
+этого».","Absolut, bitte freuen Sie sich darauf."
+000022cc,24,"「ええ、期待してるわね」","“Yes, I’m looking forward to it.”","- Да, я с нетерпением жду этого. »","„Ja, ich freue mich darauf. „"
+00002354,38,"「肉屋のメンチカツってうまいですよね」","“Isn’t it good for the meat shop?","«Не хорошо ли это для мясного магазина?","„Ist es nicht gut für den Fleischladen?"
+000023e0,42,"「ええ、また今度、帰りながら食べたいわね」","Eh, I'm going to come back again this time.","- Да, я собираюсь вернуться снова в это время.","Ich komme diesmal wieder."
 0000247c,59,"「また泳ぐようになってから、
-　放課後、お腹がすくのよねぇ」","","",""
-00002524,38,"「どこかへ寄って、食べて行きますか？」","","",""
+　放課後、お腹がすくのよねぇ」","“After swimming again, I’m課ry after school.”","«После плавания снова, я после школы. »","„Nach dem Schwimmen bin ich nach der Schule. „"
+00002524,38,"「どこかへ寄って、食べて行きますか？」","“Do you go to somewhere?”","— Ты куда-то едешь? »","Gehst du irgendwo hin? „"
 000025ac,98,"「ううん、夕食まですぐだし、我慢するわ。
 　夜に２食も食べてたら、あっという間に
-　太っちゃうもの」","","",""
-00002698,32,"「先輩って、牛乳は好きですか？」","","",""
-00002720,26,"「好きだけど、どうして？」","","",""
+　太っちゃうもの」","Yes, I'm ready to have dinner. If you eat two
+meals at night, you will be fat in a while.","- Да, я готов пообедать. Если вы едите два блюда
+ночью, вы будете жир в то время.","Ja, ich bin bereit, zu essen. Wenn Sie zwei
+Mahlzeiten in der Nacht essen, werden Sie in einer
+Weile fett sein."
+00002698,32,"「先輩って、牛乳は好きですか？」","“Is my seniors like milk?”","- Я старший, как молоко? »","„Ist meine Senioren wie Milch? „"
+00002720,26,"「好きだけど、どうして？」","How do you like?","Как вам нравится?","Wie gefällt dir das?"
 00002768,67,"「あ、いや…その、飲むと胸が大きくなるって
-　聞いたことがあるから」","","",""
+　聞いたことがあるから」","“Oh, I’ve heard that when I drink, my chest
+grows.”","«О, я слышал, что когда я пью, мой сундук растет.
+»","„Oh, ich habe gehört, dass, wenn ich trinke,
+meine Brust wächst. „"
 00002800,84,"「むっ、そんなのウソよ！　ウソ！
 　高一の時に試したけど、
-　効果なかったんだから！」","","",""
-00002940,24,"「はは…試したんですね」","","",""
+　効果なかったんだから！」","“Oh, it’s like that! I tried it at the time of
+high, but it didn’t work!”","«О, это так! Я пробовал это во время высокого, но
+это не работает!”","„Oh, so ist es! Ich versuchte es zur Zeit des
+Hochs, aber es funktionierte nicht!“"
+00002940,24,"「はは…試したんですね」","“I’ve tried it.”","«Я попробовал. »","„Ich habe es versucht. „"
 000029cc,47,"「そう。１年以上、朝、昼、
-　欠かさず飲んで…」","","",""
+　欠かさず飲んで…」","。 More than a year, morning, lunch, drink without
+missing…","。 Больше, чем год, утро, обед, пить без
+пропавших…","。 Mehr als ein Jahr, Morgen, Mittagessen, trinken
+ohne zu fehlen…"
 00002ad8,61,"「けど、効果ゼロよ！　ゼロ！
-　もう、どれだけがっくり来たか」","","",""
-00002c14,34,"「…その分、背は伸びたんだけどね」","","",""
-00002c90,26,"「あ、そっちには効果が？」","","",""
+　もう、どれだけがっくり来たか」","“No effect! Zero!”","«Нет эффекта! Нулево!","„Kein Effekt! Null!“"
+00002c14,34,"「…その分、背は伸びたんだけどね」","… I'm stretching my back.","… Я растягиваю спину.","… Ich strecke meinen Rücken aus."
+00002c90,26,"「あ、そっちには効果が？」","“Oh, what is the effect?”","«О, какой эффект? »","„Oh, was ist der Effekt? „"
 00002cf0,51,"「そう。カルシウムは、せっせと
-　補給したってわけ」","","",""
-00002dd8,10,"「ははは」","","",""
-00002e3c,36,"「あきらめずに、毎日牛乳を飲めば…」","","",""
-00002ebc,32,"「これ以上、身長はいらないの！」","","",""
-00002f0c,16,"「そ、そっか…」","","",""
-00002f7c,42,"「もう…年上をからかうのも、ほどほどにね」","","",""
+　補給したってわけ」","。  ium is not supplemented.","。 ium не дополняется.","。 ium ist nicht ergänzt."
+00002dd8,10,"「ははは」","」","」","!"
+00002e3c,36,"「あきらめずに、毎日牛乳を飲めば…」","“If you drink milk every day without giving
+up…”","«Если пить молоко каждый день, не отказываясь
+от… »","„Wenn Sie täglich Milch trinken, ohne
+aufzugeben… „"
+00002ebc,32,"「これ以上、身長はいらないの！」","“I don’t have any height!”","«У меня нет высоты!»","„Ich habe keine Höhe!“"
+00002f0c,16,"「そ、そっか…」","It's so…","«Это так…»","Es ist so…"
+00002f7c,42,"「もう…年上をからかうのも、ほどほどにね」","Oh, it's so much that you want to spend the year.","О, это так много, что вы хотите провести год.","Oh, es ist so viel, dass du das Jahr verbringen
+willst."
 00002fec,65,"「そろそろ、温かい飲みものが
-　おいしい季節になってきましたね～」","","",""
+　おいしい季節になってきましたね～」","“It’s been a delicious season for hot drinks”","«Это был вкусный сезон для горячих напитков»","„Es war eine köstliche Saison für heiße Getränke“"
 00003088,55,"「フフッ、そうね。
-　温かいカフェオレなんか、いいわね」","","",""
-00001df8,42,"「小腹が空いた時によく食べるんですけど…」","","",""
-000031bc,42,"「ふうん…いいわね。私も食べてみようかな」","","",""
+　温かいカフェオレなんか、いいわね」","“I’m sorry. I love a warm cafe.","— Прости. Я люблю теплое кафе.","„Es tut mir leid. Ich liebe ein warmes Café."
+00001df8,42,"「小腹が空いた時によく食べるんですけど…」","I often eat it when I was」ry …","Я часто ем, когда я был 」ry …","Ich esse es oft, als ich schuld war…"
+000031bc,42,"「ふうん…いいわね。私も食べてみようかな」","I'm good. I want to eat","Я хорошо. Я хочу есть","Ich bin gut. Ich will essen"

@@ -46,6 +46,7 @@ function ruPatch(ruStr) {
     const engBigStart = 'Ａ'.charCodeAt(0);
     const engSmallStart = 'ａ'.charCodeAt(0);
 
+    let prev = '';
     for (let i = 0; i < ruStr.length; i++) {
         const c = ruStr[i];
         const code = ruStr.charCodeAt(i);
@@ -56,13 +57,15 @@ function ruPatch(ruStr) {
             continue;
         }
 
-        if (code >= codeAsmall && code <= codeZsmall) {
+         // Skip char mapping for keyworkd like (\p01)
+        if (code >= codeAsmall && code <= codeZsmall && prev !== '\\') {
             resultStr += String.fromCharCode(engSmallStart - codeAsmall + code);
             continue;
         }
 
         // Mapped char or default
         resultStr += cMap[c] || c;
+        prev = c;
     }
 
     const ruPhrase = Buffer.from(resultStr);

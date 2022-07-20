@@ -1,39 +1,58 @@
-00000180,30,"「明日、駅前で待ってるからね」","","",""
-000001c0,22,"「遅れずに行きますよ」","","",""
-00000248,20,"「フフッ、どうだか」","","",""
-00000310,32,"「明日も、駅前で待ってるからね」","","",""
-000001c0,22,"「遅れずに行きますよ」","","",""
-000003c8,24,"「ええ、楽しみにしてる」","","",""
-0000045c,38,"「明日は絶対に、先に駅前へ行きますよ」","","",""
+00000180,30,"「明日、駅前で待ってるからね」","Tomorrow, wait in front of the station","«Завтра, подождите перед станцией»","Tomorrow, warte vor der Station"
+000001c0,22,"「遅れずに行きますよ」","I'll go without delay.","- Я пойду без задержки.","Ich gehe ohne Verzögerung."
+00000248,20,"「フフッ、どうだか」","How about you?","- Как насчет тебя?","Wie wär's mit dir?"
+00000310,32,"「明日も、駅前で待ってるからね」","We are waiting in front of the station tomorrow.","«Мы ждем перед станцией завтра».","Wir warten morgen vor dem Bahnhof."
+000001c0,22,"「遅れずに行きますよ」","I'll go without delay.","- Я пойду без задержки.","Ich gehe ohne Verzögerung."
+000003c8,24,"「ええ、楽しみにしてる」","“I’m looking forward to it.”","«Я с нетерпением жду этого. »","„Ich freue mich darauf. „"
+0000045c,38,"「明日は絶対に、先に駅前へ行きますよ」","I will go to the station before tomorrow.","«Я пойду на станцию до завтра».","Ich gehe morgen zum Bahnhof."
 000004e0,63,"「フフッ、夜中までネットを見てたんじゃ、
-　無理なんじゃない？」","","",""
-0000059c,32,"「う……気合いでなんとかします」","","",""
-00000610,22,"「無理しないようにね」","","",""
-00000654,30,"「いや、絶対にがんばります！」","","",""
-000006dc,36,"「もう……とんだ約束しちゃったわね」","","",""
-000007c8,42,"「今年の夏は……忘れられない夏になったわ」","","",""
-00000898,30,"「夏は恋の季節って……本当ね」","","",""
-00000934,10,"「亜岐…」","","",""
+　無理なんじゃない？」","“I’ve seen the net until midnight, is it
+impossible?”","«Я видел сеть до полуночи, это невозможно? »","„Ich habe das Netz bis Mitternacht gesehen, ist
+es unmöglich? „"
+0000059c,32,"「う……気合いでなんとかします」","Oh, I'll do it with my friend.","- О, я сделаю это с моим другом.","Oh, ich mache es mit meinem Freund."
+00000610,22,"「無理しないようにね」","“I don’t overdo it.”","«Я не переполнею его. »","„Ich übertreibe es nicht. „"
+00000654,30,"「いや、絶対にがんばります！」","No, I'm absolutely sure!","- Нет, я абсолютно уверен!","Nein, ich bin mir absolut sicher!"
+000006dc,36,"「もう……とんだ約束しちゃったわね」","Oh, I've promised to you.","- О, я обещал тебе.","Oh, ich habe dir versprochen."
+000007c8,42,"「今年の夏は……忘れられない夏になったわ」","This summer has become an unforgettable summer.","«Это лето стало незабываемым летом».","Dieser Sommer ist zu einem unvergesslichen Sommer
+geworden."
+00000898,30,"「夏は恋の季節って……本当ね」","Summer is the season of love … true","Лето - это сезон любви … правда","Sommer ist die Jahreszeit der Liebe… wahr"
+00000934,10,"「亜岐…」","岐","岐","岐"
 00000978,65,"「夏の思い出といえば、何といっても、
-　一緒に行った水族館だなぁ」","","",""
-00000a18,16,"「ええ…私もよ」","","",""
+　一緒に行った水族館だなぁ」","“It’s an aquarium that I’ve been together to
+remember in summer.”","«Это аквариум, который я был вместе, чтобы
+помнить летом. »","„Es ist ein Aquarium, das ich im Sommer zusammen
+war. „"
+00000a18,16,"「ええ…私もよ」","Eh… I'm too.","«Эх… я тоже».","Ich bin auch."
 00000a94,57,"「あなたが私にしてくれたこと……
-　とってもうれしかった」","","",""
+　とってもうれしかった」","You did me… I was very happy.","- Ты сделал меня… Я был очень счастлив.","Du hast mich… Ich war sehr glücklich."
 00000b64,65,"「夏の思い出といえば、何といっても、
-　一緒に行ったプールだなぁ」","","",""
-00000c04,26,"「フフッ、楽しかったわね」","","",""
-00000c74,22,"「来年も行きたいなぁ」","","",""
-00000cdc,22,"「ええ、連れて行って」","","",""
+　一緒に行ったプールだなぁ」","“It’s a swimming pool that I’ve been with forever
+because of summer memories.”","«Это бассейн, который я был с навсегда из-за
+летних воспоминаний. »","“Es ist ein Schwimmbad, mit dem ich für immer
+wegen Sommererinnerungen war. „"
+00000c04,26,"「フフッ、楽しかったわね」","Fフ, it was fun!","ФБ, это было весело!","Vielleicht war es lustig!"
+00000c74,22,"「来年も行きたいなぁ」","I want to go next year","Я хочу пойти в следующем году","Ich will nächstes Jahr gehen"
+00000cdc,22,"「ええ、連れて行って」","“Eh, take it!”","«Эх, возьми!»","„Ach, nimm es!“"
 00000d6c,59,"「今年は勉強の秋か…。
-　亜岐らしいけど、体に気をつけて…」","","",""
-00000e04,22,"「ええ、気をつけるわ」","","",""
-00000e78,14,"「ありがとう」","","",""
-00000ec0,28,"「秋といえば、何だと思う？」","","",""
-00000f30,20,"「今年は勉強の秋よ」","","",""
-00000f74,16,"「そりゃそっか」","","",""
+　亜岐らしいけど、体に気をつけて…」","Autumn study of spring? I'm looking forward to
+seeing you.","- Осеннее исследование весны? Я с нетерпением жду
+встречи с вами.","Autumn Studie des Frühlings? Ich freue mich auf
+dich."
+00000e04,22,"「ええ、気をつけるわ」","Eh, be careful.","- Да, будьте осторожны.","Sei vorsichtig."
+00000e78,14,"「ありがとう」","Thank you","Спасибо","Danke."
+00000ec0,28,"「秋といえば、何だと思う？」","What do you think about autumn?","- Что ты думаешь об осени?","Was denkst du über den Herbst?"
+00000f30,20,"「今年は勉強の秋よ」","Autumn of spring study","«Осень весеннего исследования»","Autumn of spring study"
+00000f74,16,"「そりゃそっか」","」","」","!"
 00000fc8,67,"「来年は、あなたが受験だし、
-　２人でゆっくり出来るのは、再来年ね」","","",""
-000010b0,10,"「はは…」","","",""
+　２人でゆっくり出来るのは、再来年ね」","“The next year, you can take the exam, and you
+can relax with two people again.”","«В следующем году вы можете сдать экзамен, и вы
+можете снова отдохнуть с двумя людьми. »","“Im nächsten Jahr können Sie die Prüfung nehmen,
+und Sie können sich wieder mit zwei Leuten
+entspannen. „"
+000010b0,10,"「はは…」","」","」","!"
 000010f4,59,"「あんまり根を詰めて勉強しないように。
-　体に気をつけて…」","","",""
-0000118c,32,"「ええ、気をつける。ありがとう」","","",""
+　体に気をつけて…」","“Do not pack and study your roots.” Be careful of
+the body…","«Не упакуйте и изучайте свои корни». Будьте
+осторожны с телом…","„Verpacken Sie nicht und studieren Sie Ihre
+Wurzeln.“ Achten Sie auf den Körper…"
+0000118c,32,"「ええ、気をつける。ありがとう」","Yes, be careful. Pets","- Да, будьте осторожны. Домашние животные","Ja, sei vorsichtig. Haustiere"
