@@ -1,51 +1,86 @@
-0000013c,38,"「柚ノ木さんって、よく果物落とすよね」","Yuzunogi-san often drops fruits, doesn't he?","",""
-000001c0,34,"「あ～っ、私をドジっ娘扱いしてぇ」","Ah, treat me as a dojikko","",""
-000003c8,32,"「アップルパイ、うまかったなぁ」","Apple pie was delicious","",""
-0000042c,38,"「フフッ、よかった、気に入ってくれて」","Huh, I'm glad you liked it.","",""
-0000050c,32,"「また作るから、一緒に食べてね」","I'll make it again, so eat it together.","",""
-00000698,26,"「また、食べに行こうか？」","Let's go eat again?","",""
-00000710,18,"「ええ、もちろん」","Yes, of course","",""
-00000838,22,"「いっぱいあるわよ～」","There are many!","",""
-00000acc,26,"（さすが、猛烈に詳しいな）","(As expected, it is extremely detailed)","",""
-00000c44,16,"「おっ、いいね」","Oh, I like it","",""
-00000dbc,42,"「ちょっと変わったスイーツって何かない？」","Are there any unusual sweets?","",""
-00000e34,34,"「変わったスイーツ？　そうねぇ…」","Weird sweets? Yeah …","",""
-00001188,14,"「そうかなぁ」","I wonder","",""
-00001350,26,"「フフッ、何だか懐かしい」","Huh, I feel nostalgic.","",""
-000016a4,26,"「秋のスイーツといえば…」","Speaking of autumn sweets …","",""
+0000013c,38,"「柚ノ木さんって、よく果物落とすよね」","Yuzunogi-san often drops fruits, doesn't he?","Юзуноки хорошо падать плоды.","Yuzunoki ist gut, Früchte zu fallen."
+000001c0,34,"「あ～っ、私をドジっ娘扱いしてぇ」","Ah, treat me as a dojikko","- О, я имею дело с моей дочерью.","Oh, ich habe es mit meiner Tochter zu tun."
+000003c8,32,"「アップルパイ、うまかったなぁ」","Apple pie was delicious","«Яблоко Пи, я 」ry!»","Apple Pie, ich bin schuld!"
+0000042c,38,"「フフッ、よかった、気に入ってくれて」","Huh, I'm glad you liked it.","«Довольно, хорошо, мне это нравится».","Fuffy, gut, ich mag es."
+0000050c,32,"「また作るから、一緒に食べてね」","I'll make it again, so eat it together.","«Пусть есть вместе, потому что мы делаем это
+снова. »","„Wir essen zusammen, weil wir es wieder schaffen.
+„"
+00000698,26,"「また、食べに行こうか？」","Let's go eat again?","- Хотите поесть снова? »","„Willst du wieder essen? „"
+00000710,18,"「ええ、もちろん」","Yes, of course","Eh, конечно","Natürlich"
+00000838,22,"「いっぱいあるわよ～」","There are many!","«Я полна этого! »","„Ich bin voll davon! „"
+00000acc,26,"（さすが、猛烈に詳しいな）","(As expected, it is extremely detailed)","(Это очень подробно)","(Es ist sehr detailliert)"
+00000c44,16,"「おっ、いいね」","Oh, I like it","О, как","Oh, wie"
+00000dbc,42,"「ちょっと変わったスイーツって何かない？」","Are there any unusual sweets?","- У меня нет сладостей, которые немного
+изменились? »","„Ich habe keine Süßigkeiten, die sich etwas
+verändert haben? „"
+00000e34,34,"「変わったスイーツ？　そうねぇ…」","Weird sweets? Yeah …","- Свиты, которые изменились?","Süße, die sich verändert haben?"
+00001188,14,"「そうかなぁ」","I wonder","」","!"
+00001350,26,"「フフッ、何だか懐かしい」","Huh, I feel nostalgic.","ФБ, я не ностальгический.","Ich bin kein Nostalgiker."
+000016a4,26,"「秋のスイーツといえば…」","Speaking of autumn sweets …","Сладости осенью…","Süße im Herbst…"
 000002a0,92,"「果物を落とすなんて、滅多にないんだから。
 　たまたま、あなたが
-　いつも居合わせてるだけよ」","","",""
+　いつも居合わせてるだけよ」","“I don’t lose fruit because I don’t lose it.”
+I'll always stay with you.","«Я не теряю плод, потому что не теряю его». Я
+всегда буду рядом с вами.","„Ich verliere keine Frucht, weil ich sie nicht
+verliere.“ Ich bleibe immer bei dir."
 000005d8,57,"「フードコートのソフトクリームって、
-　おいしいわよね～」","","",""
+　おいしいわよね～」","“The soft cream of food court is delicious!”","«Мягкое сливочное судье вкусно! »","„Die weiche Creme des Lebensmittelgerichts ist
+köstlich! „"
 000007ac,47,"「柚ノ木さんの好きなスイーツの店って
-　どこ？」","","",""
+　どこ？」","“Where is Yunoki’s favorite sweets store?”","«Где магазин любимых сладостей Юноки? »","„Wo ist Yunokis Lieblingssüßladen? „"
 000008b0,84,"「ショッピングモールの
 　野菜専門のケーキ屋さんに、
-　手作りのシュークリーム屋さん」","","",""
+　手作りのシュークリーム屋さん」","To a shop specialized in vegetables, handmade
+cream shop","В магазин, специализирующийся на овощах, ручной
+крем-магазин","Zu einem Geschäft spezialisiert auf Gemüse,
+handgemachte Creme-Shop"
 000009a0,79,"「駅向こうに新しく出来たケーキ屋さんに、
-　商店街の甘味処。それからそれから…」","","",""
+　商店街の甘味処。それからそれから…」","A sweet shop in the shopping street. Then…","Сладкий магазин на торговой улице. Тогда…","Ein süßer Laden in der Einkaufsstraße. Dann…"
 00000b5c,84,"「涼しくなってきたし、
 　中間テストが終わったら、
-　チョコレートケーキを作ろうかな」","","",""
+　チョコレートケーキを作ろうかな」","“I’m getting cool and I’m going to make a
+chocolate cake when I’m finished.”","«Я получаю круто, и я собираюсь сделать
+шоколадный торт, когда я закончил. »","„Ich werde cool und ich werde einen
+Schokoladenkuchen machen, wenn ich fertig bin. „"
 00000cb4,71,"「溶ける心配がないから、チョコクリームを
-　たっぷりかけちゃうんだから」","","",""
+　たっぷりかけちゃうんだから」","“I don’t have to worry about melting, so I don’t
+have enough chocolate cream.”","«Мне не нужно беспокоиться о плавании, поэтому у
+меня нет достаточно шоколадного крема. »","„Ich muss mir keine Sorgen um das Schmelzen
+machen, also habe ich nicht genug
+Schokoladencreme. „"
 00000ef4,98,"「ご当地のお土産とかに多いわよね、
 　名産のウナギの粉が入ったパイとか、
-　納豆が入ったチョコとか」","","",""
+　納豆が入ったチョコとか」","“It’s a lot of local souvenirs, such as a pie
+with famous scallops, or a chocolate with natto”","«Это много местных сувениров, таких как пирог с
+известными скальлопами, или шоколад с натто»","„Es ist eine Menge lokale Souvenirs, wie eine
+Torte mit berühmten Scallops, oder eine Schokolade
+mit Natto“"
 00001004,45,"「納豆が入ったチョコ！？
-　それは微妙だなぁ」","","",""
+　それは微妙だなぁ」","Chocolate with natto!? It is subtle","Шоколад с натто!? Это тонкий","Chocolate with natto!? Es ist subtil"
 00001090,63,"「私も食べたことないけど、納豆が好きなら
-　おいしいのかもよ？」","","",""
+　おいしいのかもよ？」","“I don’t know, but if I like natto, it might be
+delicious?”","«Я не знаю, но если мне нравится натто, это может
+быть вкусно? »","“Ich weiß nicht, aber wenn ich Natto mag, könnte
+es lecker sein? „"
 000011f4,96,"「私も、どんなハンバーガーにするか
 　悩んでた時、名産の食材がないか、
-　いろいろ考えたのよね～」","","",""
+　いろいろ考えたのよね～」","“I thought about what kind of hamburger I had to
+do when I was worried about, whether there were
+some famous ingredients?”","«Я думал о том, какой гамбургер мне пришлось
+делать, когда меня волновали, были ли некоторые
+известные ингредиенты? »","„Ich dachte darüber nach, was für ein Hamburger
+ich tun musste, als ich mir Sorgen machte, ob es
+einige berühmte Zutaten gab? „"
 000013f0,55,"「コンビニスイーツって、
-　年々出来がよくなってるよね」","","",""
+　年々出来がよくなってるよね」","“Convenience store sweets are ready every year.”","«Удобство магазина сладости готовы каждый год. »","“Convenience Store Süßigkeiten sind jedes Jahr
+bereit. „"
 00001488,73,"「うん。見た目も、いっぱい作ってるとは
-　思えないぐらい、かわいいわよね」","","",""
+　思えないぐらい、かわいいわよね」","。 I think it’s a lot of appearance, it’s cute.","。 Я думаю, что это много внешнего вида, это мило.","。 Ich denke, es ist eine Menge Aussehen, es ist
+niedlich."
 00001598,80,"「簡単な作り方なのに、
 　あんなにきれいに見せるんだもの、
-　すごいなぁって思う」","","",""
+　すごいなぁって思う」","How to make it simple, but I think it's amazing.","«Как сделать это простым, но я думаю, что это
+удивительно.","Wie man es einfach macht, aber ich glaube, es
+ist erstaunlich."
 00001710,59,"「フフッ、いつでもリクエストしてね。
-　がんばって作るから」","","",""
+　がんばって作るから」","You can request it at any time.","Вы можете запросить его в любое время.","Sie können es jederzeit anfordern."

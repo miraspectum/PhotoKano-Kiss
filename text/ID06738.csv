@@ -1,16 +1,21 @@
-000001a8,24,"「ふぁ～～っ、眠い……」","","",""
-000001e4,14,"「あ、\p01君」","","",""
-00000228,8,"「え？」","","",""
-0000031c,26,"「今朝はずいぶん早いのね」","","",""
+000001a8,24,"「ふぁ～～っ、眠い……」","I'm sleeping…","Я сплю…","Ich schlafe…"
+00000228,8,"「え？」","?」","?」","?"
+0000031c,26,"「今朝はずいぶん早いのね」","“It’s early this morning.”","- Это рано утром. »","„Es ist heute Morgen früh. „"
 000003ac,49,"「何となく起きちゃって。
-　柚ノ木さんこそ早いね」","","",""
+　柚ノ木さんこそ早いね」","What's happening? Yuzunogi is the early","- Что происходит? Юзуноги рано","Was ist los? Yuzunogi ist der Anfang"
 00000468,82,"「屋上のお花に水をあげようと思って。
 　昨日の夕方、ずいぶん元気が
-　なかったから」","","",""
+　なかったから」","I would like to visit the rooftop flowers. I
+didn’t get upset in the evening yesterday.”","Я хотел бы посетить цветы на крыше. Я не
+расстроился вечером вчера. »","Ich möchte die Dachblumen besuchen. Ich war
+gestern Abend nicht aufgeregt. „"
 000005c8,51,"「お水は夕方にあげるより、
-　朝にあげた方がいいの」","","",""
-00000680,26,"「そっか、じゃあ手伝うよ」","","",""
-000006ec,22,"「本当？　ありがとう」","","",""
+　朝にあげた方がいいの」","It's better to give it in the morning than it's
+overnight.","Лучше подарить это утром, чем ночь.","Es ist besser, es am Morgen zu geben, als es
+über Nacht ist."
+00000680,26,"「そっか、じゃあ手伝うよ」","I'll help you!","- Я тебе помогу!","Ich werde dir helfen!"
+000006ec,22,"「本当？　ありがとう」","True?」","Трю?」","True?"
 00000788,47,"「いいよ、この程度でお礼なんて。
-　さ、行こう」","","",""
-00000810,8,"「ええ」","","",""
+　さ、行こう」","Yes, thank you for this degree. Contact Us","- Да, спасибо за эту степень. Связаться с нами","Ja, danke für diesen Abschluss. Kontaktieren
+Sie uns"
+00000810,8,"「ええ」","Home","Начало","Home"

@@ -1,84 +1,117 @@
-00000114,28,"（ん？　ノートが落ちてる…）","","",""
-00000168,12,"（誰のだ？）","","",""
+00000114,28,"（ん？　ノートが落ちてる…）","Sorry, this entry is only available in Japanese.","Извините, этот техт доступен только в “Японский”.","Leider ist dieser Eintrag nur auf Japanisch
+verfügbar."
+00000168,12,"（誰のだ？）","Who?","Кто?","Wer?"
 000001b8,8,"　ペラリ","","",""
-000001f0,40,"「うわ、中は料理の作り方でいっぱいだ！」","","",""
+000001f0,40,"「うわ、中は料理の作り方でいっぱいだ！」","“Wow, I’m full of cooking!”","«Вау, я полна приготовления! »","„Wow, ich bin voller Kochen! „"
 000001b8,8,"　ペラリ","","",""
 00000294,71,"（しかも、日記みたいなことまで書いてある。
-　これは…柚ノ木さんのだな）","","",""
-0000043c,40,"「レシピ日記が！　レシピ日記がないっ！」","","",""
-00000488,10,"「わっ！」","","",""
-000004d0,12,"「きゃっ！」","","",""
-0000053c,20,"「あ、柚ノ木さん…」","","",""
-0000061c,40,"「ご、ごめんなさい、慌ててて！　その…」","","",""
-0000067c,14,"「これだろ？」","","",""
-000006fc,24,"「あ！　そう！　それ！」","","",""
-00000788,47,"「ありがとう～、\p01君。
-　拾ってくれたんだぁ」","","",""
+　これは…柚ノ木さんのだな）","Sorry, this entry is only available in 日本語. This
+is…by Yuzunogi","Извините, этот техт доступен только в “日本語”.
+Это…от Yuzunogi","Leider ist dieser Eintrag nur in 日本語 verfügbar.
+Das ist von Yuzunogi."
+0000043c,40,"「レシピ日記が！　レシピ日記がないっ！」","Recipe日記! There is no recipe  !","Рецепт記! Нет рецепта !","Recipe日本語! Es gibt kein Rezept!"
+00000488,10,"「わっ！」","っ","ПРЯМО",","
+000004d0,12,"「きゃっ！」","!」","!」","!"
+0000053c,20,"「あ、柚ノ木さん…」","Oh, Yuzunogi …","О, Юзуноги …","Oh, Yuzunogi …"
+0000061c,40,"「ご、ごめんなさい、慌ててて！　その…」","Oh, I'm 」ry! That's it!","О, я 」ry! Это!","Oh, ich bin verhalten! Das ist es!"
+0000067c,14,"「これだろ？」","“It’s right?”","- Это правильно? »","„Es stimmt? „"
+000006fc,24,"「あ！　そう！　それ！」","“Oh!”","«О!»","„Oh!“"
 00000800,55,"「それって、ゲーセンで言ってた、
-　レシピ日記だよね？」","","",""
-00000894,14,"「そうなの～」","","",""
-000008cc,34,"「そんな大切なもの、落とすなんて」","","",""
-0000094c,16,"「中を…見た？」","","",""
+　レシピ日記だよね？」","“Well, it’s a recipe   that you said in Geassen?”","— Ну, это рецепт, который вы сказали в Геасене? »","„Nun, es ist ein Rezept, das Sie in Geassen
+gesagt haben? „"
+00000894,14,"「そうなの～」","」","」","!"
+000008cc,34,"「そんな大切なもの、落とすなんて」","It's important to drop","«Важно падать»","Es ist wichtig zu fallen"
+0000094c,16,"「中を…見た？」","“I saw it inside?”","- Я видел его внутри? »","„Ich habe es drinnen gesehen? „"
 00000994,65,"「ちらっとだけ。けど、レシピ日記だと
-　わかってからは見てないよ」","","",""
-00000a18,38,"「そんな大切そうなもの、落とすなんて」","","",""
-00000a9c,20,"「あ…中を…見た？」","","",""
+　わかってからは見てないよ」","。 However, if it is a recipe  , I can't see it
+from the touch panel.","。 Однако, если это рецепт, я не могу увидеть его
+с панели касания.","。 Wenn es jedoch ein Rezept ist, kann ich es
+nicht vom Touch-Panel sehen."
+00000a18,38,"「そんな大切そうなもの、落とすなんて」","“What’s so important, don’t you drop?”","— Что так важно, не капляешь? »","„Was ist so wichtig, fallen Sie nicht? „"
+00000a9c,20,"「あ…中を…見た？」","Oh… I saw it?","- А я видел?","Oh… ich habe es gesehen?"
 00000ae8,90,"「ちらっと見たけど、レシピと一緒に
 　日記みたいなのが書いてあったから、
-　すぐにやめたよ」","","",""
-00000b90,38,"「あうぅ……最近のところは……見た？」","","",""
-00000c0c,24,"「いや、見てないけど？」","","",""
-00000c8c,12,"「本当～？」","","",""
-00000cc4,12,"「あ、ああ」","","",""
-00000d24,20,"「本当に、本当ね？」","","",""
-00000d70,22,"「大丈夫、見てないよ」","","",""
-00000dcc,24,"「そっか、よかったぁ…」","","",""
+　すぐにやめたよ」","I saw it, but I wrote it like a   with the
+recipe, so I can't wait.","Я видел это, но я написал его как с рецептом,
+так что я не могу ждать.","Ich sah es, aber ich schrieb es wie ein mit dem
+Rezept, so kann ich nicht warten."
+00000b90,38,"「あうぅ……最近のところは……見た？」","“Oh… I saw it…”","«О… Я видел это…»","„Oh… ich habe es gesehen…“"
+00000c0c,24,"「いや、見てないけど？」","“I don’t see it!”","- Не вижу! »","„Ich sehe es nicht! „"
+00000c8c,12,"「本当～？」","“Are you true?”","- Ты правда? »","„Sind Sie wahr? „"
+00000cc4,12,"「あ、ああ」","」","」","!"
+00000d24,20,"「本当に、本当ね？」","“I’m really true?”","- Я правда? »","„Ich bin wirklich wahr? „"
+00000d70,22,"「大丈夫、見てないよ」","I don't see it.","- Не вижу.","Ich sehe es nicht."
+00000dcc,24,"「そっか、よかったぁ…」","“I’m so happy…”","“Я так счастлив…”","„Ich bin so glücklich…“"
 00000e48,47,"「日記って、人に見られると
-　恥ずかしいからね」","","",""
-00000ed0,57,"「ええ。その……特に、\p01君に…
-　見られると……困る…」","","",""
-00000f9c,8,"「え？」","","",""
-00001004,40,"「う、ううん！　何でもない！　何でも！」","","",""
-000010c8,10,"「フフッ」","","",""
-00001108,30,"（…何が書いてあるんだろう？）","","",""
-00001180,28,"「それで…どこに落ちてた？」","","",""
-000011d4,18,"「そこの階段だよ」","","",""
+　恥ずかしいからね」","“I’m so embarrassed when I see a  .”","- Я так смущен, когда вижу.","„Ich bin so peinlich, wenn ich einen sehe.“"
+00000f9c,8,"「え？」","?」","?」","?"
+00001004,40,"「う、ううん！　何でもない！　何でも！」","Yes, yeah! Nothing!","- Да, да! Ничего!","Ja, ja! Nichts!"
+000010c8,10,"「フフッ」","」","」","!"
+00001108,30,"（…何が書いてあるんだろう？）","(…What is written?)","(… Что написано?)","(…) Was ist geschrieben?)"
+00001180,28,"「それで…どこに落ちてた？」","“Where did you fall?”","— Где ты упал? »","„Wo bist du gefallen? „"
+000011d4,18,"「そこの階段だよ」","“It’s aのircase.”","«Это абстракт. »","„Es ist ein Akt. „"
 00001244,51,"「あ…昼休みに家庭科室へ行ったから、
-　その時に…」","","",""
+　その時に…」","“Oh… I went to a family room during lunch
+break, so I…”","«О… Я пошел в семейную комнату во время
+обеденного перерыва, так что я…»","Oh… Ich ging während der Mittagspause in ein
+Familienzimmer, also…“"
 000012d0,51,"「この間も、蜜ろうを同じ場所に
-　落としてたよね？」","","",""
+　落としてたよね？」","“I’ve dropped the molasses in the same place?”","«Я упал в мелочи в том же месте? »","„Ich habe die Melasse an derselben Stelle fallen
+lassen? „"
 00001354,67,"「うん。…あそこって、私が物を落とすような
-　何かがあるのかしら？」","","",""
-000013cc,14,"「何かって？」","","",""
-0000141c,32,"「光が目に入ってまぶしいとか…」","","",""
-00001460,36,"「うっかりしてるだけだと思うけど？」","","",""
-000014e4,34,"「うぐ…そうよね。気をつけなきゃ」","","",""
+　何かがあるのかしら？」","。 …Where is there something that I can drop?","。 …Где есть что-то, что я могу упасть?","。 …Wo kann ich etwas fallen lassen?"
+000013cc,14,"「何かって？」","“What is something?”","- Что-то? »","„Was ist etwas? „"
+0000141c,32,"「光が目に入ってまぶしいとか…」","“I think the light is coming into my eyes…”","“Я думаю, что свет приходит в мои глаза… »","„Ich glaube, das Licht kommt in meine Augen… „"
+00001460,36,"「うっかりしてるだけだと思うけど？」","“I think I’m just doing it.”","«Я думаю, что я просто делаю это. »","„Ich glaube, ich mache es einfach. „"
+000014e4,34,"「うぐ…そうよね。気をつけなきゃ」","“Oh, right?” Be careful","«О, правда?» Будьте осторожны","„Oh, richtig?“ Sei vorsichtig."
 000015a8,90,"「よかった…見つかって。
 　ないって気づいた時は、
-　動転して、訳がわからなくなっちゃった」","","",""
+　動転して、訳がわからなくなっちゃった」","I found it. When I noticed, I moved and lost my
+translation.","Я нашел это. Когда я заметил, я переехал и
+потерял свой перевод.","Ich habe es gefunden. Als ich bemerkte, zog ich
+meine Übersetzung verloren."
 00001678,63,"「チラッと見ただけだけど、
-　すごく丁寧にレシピを書いてあるね」","","",""
+　すごく丁寧にレシピを書いてあるね」","I just saw it, but I wrote a recipe very
+carefully.","Я просто видел это, но я написал рецепт очень
+осторожно.","Ich habe es gerade gesehen, aber ich schrieb ein
+Rezept sehr sorgfältig."
 00001714,84,"「特においしくできた料理を、
 　すべて書き残してあるの。
-　いつでもまた作れるように」","","",""
+　いつでもまた作れるように」","“I think it’s really delicious, but I’m writing
+it all.” Make it anytime","“Я думаю, что это действительно вкусно, но я пишу
+это все.” Сделайте это в любое время","„Ich denke, es ist wirklich lecker, aber ich
+schreibe alles.“ Machen Sie es jederzeit"
 000017d0,71,"「ノートが見つからなかったら、
-　もう二度と作れなくなるところだったわ」","","",""
-00001870,22,"「ありがとう、\p01君」","","",""
-000018bc,20,"「どういたしまして」","","",""
+　もう二度と作れなくなるところだったわ」","“If I didn’t find a note, I couldn’t make it
+again.”","«Если я не нашел записку, я не мог сделать это
+снова. »","„Wenn ich keine Notiz fand, konnte ich es nicht
+wieder machen. „"
+000018bc,20,"「どういたしまして」","What's it?","- Что это?","Was ist das?"
 00001930,49,"「もう二度と落とさないように、
-　気をつけなきゃ」","","",""
+　気をつけなきゃ」","I need to be careful not to drop again again.","- Мне нужно быть осторожным, чтобы не снова
+упасть.","Ich muss vorsichtig sein, nicht wieder zu
+fallen."
 00001998,59,"「柚ノ木さんが落とさないようにって、
-　難しいんじゃない？」","","",""
+　難しいんじゃない？」","“Is it difficult to getさんが of Yunogi?”","«Сложно ли договариваться о силе Юноги? »","„Ist es schwierig, von Yunogi zu lernen? „"
 00001a30,73,"「む～っ、そんなことないわよ。
-　気をつければ、落としたりしないんだから」","","",""
+　気をつければ、落としたりしないんだから」","No, I'm not. “If you take care of it, don’t drop
+it.”","- Нет, я не. «Если вы заботитесь об этом, не
+бросайте его. »","Nein, bin ich nicht. „Wenn Sie sich darum
+kümmern, lassen Sie es nicht fallen. „"
 00001ab0,114,"「万一に備えて、レシピのところだけでも、
 　コピーを取るなり、スキャンして
-　パソコンに入れておくなりしておけば？」","","",""
-00001b80,40,"「あ……そうよね。そうすればいいんだわ」","","",""
-00001c04,24,"「\p01君って、頭いい…」","","",""
-00001c48,20,"「いや、普通だって」","","",""
-00001c98,36,"「ううん、ちっとも思いつかなかった」","","",""
+　パソコンに入れておくなりしておけば？」","“In case of any reason, even if it is just a
+recipe, you should take a copy, scan it and send
+it to your computer?”","«В случае какой-либо причины, даже если это
+просто рецепт, вы должны взять копию,
+отсканировать его и отправить его на свой
+компьютер? »","„In jedem Fall, auch wenn es nur ein Rezept ist,
+sollten Sie eine Kopie nehmen, scannen und an
+Ihren Computer senden? „"
+00001b80,40,"「あ……そうよね。そうすればいいんだわ」","“Oh, right?” That’s it.","«О, правда?» Это.","„Oh, richtig?“ Das ist es."
+00001c48,20,"「いや、普通だって」","“No, it’s normal.”","- Нет, это нормально. »","„Nein, es ist normal. „"
+00001c98,36,"「ううん、ちっとも思いつかなかった」","“Yes, I didn’t think about it.”","- Да, я не думал об этом. »","„Ja, ich habe nicht darüber nachgedacht. „"
 00001d48,47,"「さっそく、放課後に
-　コピーを取っておくわね」","","",""
-00001dd0,30,"「ありがとう。じゃあ、またね」","","",""
-00001e24,10,"「またね」","","",""
+　コピーを取っておくわね」","I'm just taking a copy after school.","- Я просто принимаю копию после школы.","Ich nehme nur eine Kopie nach der Schule."
+00001dd0,30,"「ありがとう。じゃあ、またね」","Thank you. 、","Спасибо. 、","Danke. 、"
+00001e24,10,"「またね」","」","」","!"

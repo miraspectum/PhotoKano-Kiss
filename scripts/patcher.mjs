@@ -86,6 +86,22 @@ function dePatch(deStr) {
     return dePhrase;
 }
 
+function safeCutBuffer(buffer, safeMSize, encoding) {
+    let decodedStr = iconv.decode(buffer, encoding);
+    let bufferLength = buffer.length;
+    let cuttedBuffer;
+
+    let initial = decodedStr;
+
+    while (bufferLength > safeMSize) {
+        decodedStr = decodedStr.slice(0, -1);
+        cuttedBuffer = iconv.encode(decodedStr, encoding);
+        bufferLength = cuttedBuffer.length;
+    }
+    
+    return cuttedBuffer;
+}
+
 async function patchGameFile(patch, encoding, source, savePath) {
     console.log(`Patching: ${patch}...`);
     try {
@@ -145,10 +161,10 @@ async function patchGameFile(patch, encoding, source, savePath) {
             if (phrase.length > mSize) {
                 // Skip
                 logger.log('WARN', `${lang} phrase size at 0x${offsetStr} (${phrase.length}) in ${patch} bigger than max size (${mSize})! Result string will be cutted!`);
-                const saveMSize = encoding === 'utf8' ? mSize - 1 : mSize;
+                const safeMSize = encoding === 'utf8' ? mSize - 1 : mSize;
 
-                // TODO: New function to save cut buffer
-                phrase = phrase.slice(0, saveMSize);
+                // Cut buffer
+                phrase = safeCutBuffer(phrase, safeMSize, encoding);
             }
 
             if (phrase.length > initialPhraseSize && phrase.length === mSize) {

@@ -1,70 +1,84 @@
-00000164,24,"「柚ノ木さん、いる～？」","","",""
-00000210,16,"「あ、\p01先輩」","","",""
-00000250,8,"「あ…」","","",""
+00000164,24,"「柚ノ木さん、いる～？」","Yuzunoki-san, I am~?","Юзуноки-сан, я~?","Yuzunoki-san, bin ich?"
+00000250,8,"「あ…」","」","」","!"
 0000029c,47,"「どうしたんだ今日は？
-　バレー部はいいのか？」","","",""
-0000031c,36,"「…今日は、バレー部は練習休みです」","","",""
-000003bc,49,"「\p01先輩、柚ノ木先輩と
-　知り合いなんですか？」","","",""
-00000424,42,"「成田こそ、柚ノ木さんと知り合いなのか？」","","",""
+　バレー部はいいのか？」","“What do you do today?”","- Что вы делаете сегодня? »","„Was machst du heute? „"
+0000031c,36,"「…今日は、バレー部は練習休みです」","… Today is the volleyball practice break","… Сегодня перерыв волейбольной практики»","… Heute ist die Volleyball Praxis Pause"
+00000424,42,"「成田こそ、柚ノ木さんと知り合いなのか？」","“What is Narita’s relationship with Yuzunogi?”","«Что такое отношения Нариты с Юзуноги? »","„Was ist Naritas Beziehung zu Yuzunogi? „"
 000004a0,63,"「私は、たまにこうして、
-　お茶にお呼ばれするのが憩いなんです」","","",""
-0000055c,18,"「そ、そうなのか」","","",""
-000005cc,59,"「\p01先輩は、どうして柚ノ木先輩と
-　知り合いなんですか？」","","",""
+　お茶にお呼ばれするのが憩いなんです」","“I sometimes call it to tea.”","- Я иногда называю его к чаю.","„Ich rufe ihn manchmal zum Tee an.“"
+0000055c,18,"「そ、そうなのか」","“Is it?”","— Это? »","„Ist es? „"
 0000063c,55,"「まぁ、隣のクラスだからな。
-　偶然、知り合ったんだよ」","","",""
-000006e4,16,"「ううぅうぅ…」","","",""
-00000724,24,"「ど、どうしたんだよ？」","","",""
+　偶然、知り合ったんだよ」","It’s a class next to me.  iculty,  iculty","Это класс рядом со мной. икульты, икульты","Es ist eine Klasse neben mir. iculty, iculty"
+000006e4,16,"「ううぅうぅ…」","」","」","!"
+00000724,24,"「ど、どうしたんだよ？」","How do you do it?","Как это сделать?","Wie machst du das?"
 0000079c,96,"「フォト部いい、料理研究会といい、
 　どうしてことごとく、私の心安らぐ場所に
-　現れるんですか！」","","",""
-00000874,30,"「そんなこと言われてもだな…」","","",""
+　現れるんですか！」","I'm a photo department, and I'm a cooking
+research group. Why do you appear in a place where
+I am relieved!","Я фото-отдел, и я группа кулинарных
+исследований. Почему ты появляешься в месте, где я
+снимаю!»","Ich bin eine Fotoabteilung, und ich bin eine
+Koch-Forschungsgruppe. Warum erscheinen Sie an
+einem Ort, an dem ich entlastet bin!"
+00000874,30,"「そんなこと言われてもだな…」","“It’s also said that…”","- Это также сказал, что… »","“Es ist auch gesagt, dass… „"
 000008f0,83,"「今日は練習が休みだから、かつみお姉様と、
-　一緒に服を見に行く約束をしてたのに…」","","",""
-00000984,42,"「急な用が入ったとかで、すっぽかされて…」","","",""
-000009ec,20,"「お姉様のバカァ…」","","",""
-00000a64,42,"「それで、柚ノ木さんに癒されに来たのか？」","","",""
+　一緒に服を見に行く約束をしてたのに…」","Today is the practice break, so I made a promise
+to go to the clothes together with my sister …","«Сегодня это перерыв на практике, поэтому я
+сделал обещание идти в одежду вместе с моей
+сестрой …»","Heute ist die Übungspause, also habe ich ein
+Versprechen gemacht, zusammen mit meiner Schwester
+in die Kleider zu gehen…"
+00000984,42,"「急な用が入ったとかで、すっぽかされて…」","It's a sudden use, it's supple…","«Это внезапное использование, это яблоко…»","Es ist ein plötzlicher Gebrauch, es ist
+geschmeidig…"
+000009ec,20,"「お姉様のバカァ…」","My sister's wa…","Ва моя сестра…","Meine Schwester ist wa…"
+00000a64,42,"「それで、柚ノ木さんに癒されに来たのか？」","“Is it so healed by Yunoki?”","- Это так исцелено Юноки? »","„Ist es so geheilt von Yunoki? „"
 00000ad8,71,"「そういうわけじゃないです。
-　ただ…柚ノ木先輩とお話ししたくなって…」","","",""
+　ただ…柚ノ木先輩とお話ししたくなって…」","That’s not. Just … I talked with Yuzunoki
+seniors …","Это не так. Просто … Я говорил с юзуноки
+старших …","Das ist es nicht. Ich habe mit Yuzunoki Senioren
+gesprochen…"
 00000b94,49,"（それが、癒されに来たってことだと
-　思うんだが）","","",""
-00000d24,40,"「瑠宇ちゃん、カフェラテ、入ったわよ～」","","",""
-00000df8,40,"「あ、柚ノ木先輩、ありがとうございます」","","",""
-00000e4c,14,"「柚ノ木さん」","","",""
-00000ecc,14,"「あ、\p01君」","","",""
+　思うんだが）","Sorry, this entry is only available in 日本語.","Извините, этот техт доступен только в “日本語”.","Leider ist dieser Eintrag nur in 日本語 verfügbar."
+00000d24,40,"「瑠宇ちゃん、カフェラテ、入ったわよ～」","Lu-chan, Cafe latte, I'm in the room","«Лу-чан, Кафе латте, я в номере","Lu-chan, Cafe latte, ich bin im Zimmer"
+00000df8,40,"「あ、柚ノ木先輩、ありがとうございます」","Oh, thank you for the yuzunoki seniors.","«О, спасибо за юзуноки старших».","Oh, danke für die yuzunoki Senioren."
+00000e4c,14,"「柚ノ木さん」","Yuzunoki","Юзуноки","Yuzunoki"
 00000fd0,53,"「そっか、２人ともフォト部だものね。
-　写真仲間よね」","","",""
-0000106c,92,"「仲間なんかじゃありません。
-　\p01先輩は、私とかつみお姉様の間の
-　おじゃま虫なんですから」","","",""
-00001134,32,"「そんなつもりはないんだけどな」","","",""
+　写真仲間よね」","It’s a photo part. Photographer","Это фото часть. Фотограф","Es ist ein Fototeil. Fotografen"
+00001134,32,"「そんなつもりはないんだけどな」","“I’m not going to do that.”","- Я не буду это делать. »","„Das werde ich nicht tun. „"
 000011a8,61,"「フフッ、瑠宇ちゃんは、かつみさんのことが
-　大好きだものね」","","",""
+　大好きだものね」","“Huffy, Ryu-chan is liked by Katsumi.”","“Huffy, Ryu-chan понравился Katsumi. »","„Huffy, Ryu-chan ist von Katsumi gefallen. „"
 00001288,53,"「柚ノ木さんって、かつみさんのこと
-　知ってるんだ？」","","",""
+　知ってるんだ？」","“Are you familiar with yuzunoki?","– Вы знакомы с юзуноки?","„Sind Sie mit yuzunoki vertraut?"
 00001318,71,"「ええ、もちろん。生徒会長さんと
-　よく一緒にいらっしゃるから、それで」","","",""
-0000138c,16,"「ああ、そっか」","","",""
+　よく一緒にいらっしゃるから、それで」","Yes, of course. I have a good time with the
+student president.","- Да, конечно. У меня хорошее время со
+студенческим президентом.","Ja, natürlich. Ich habe eine gute Zeit mit dem
+Studentenpräsidenten."
+0000138c,16,"「ああ、そっか」","Oh, it's right?","- О, это правильно?","Oh, stimmt's?"
 00001400,53,"「柚ノ木先輩、聞いてください。
-　お姉様ったら今日…」","","",""
-000014b4,26,"「はいはい。座って座って」","","",""
-00001534,90,"「\p01君のお茶もすぐ入れるわね。
-　今日は、瑠宇ちゃんのリクエストの
-　カフェラテでいい？」","","",""
+　お姉様ったら今日…」","Yuzunoki senior, please ask. My sister today…","Юзуноки старший, пожалуйста, спросите. Моя
+сестра сегодня…","Juzunoki Senior, bitte fragen Sie. Meine
+Schwester heute…"
+000014b4,26,"「はいはい。座って座って」","Yes. sitting","Да. сидя","Ja."
 000015b8,49,"「いいけど、成田って、
-　カフェラテ好きなのか？」","","",""
-00001638,20,"「好きじゃないです」","","",""
-000016a0,14,"「そうなの？」","","",""
-00001714,38,"「かつみお姉様がコーヒー好きだから…」","","",""
-00001770,32,"「それで、苦いけど慣れようと…」","","",""
-0000181c,36,"「ああ、それでお砂糖たっぷりなんだ」","","",""
+　カフェラテ好きなのか？」","“Well, Narita, do you like cafe latte?”","— Ну, Нарита, тебе нравится кафе латте? »","„Nun, Narita, magst du Café Latte? „"
+00001638,20,"「好きじゃないです」","“I don’t like it.”","- Мне это не нравится. »","„Ich mag es nicht. „"
+000016a0,14,"「そうなの？」","What is it?","Что это?","Was ist los?"
+00001714,38,"「かつみお姉様がコーヒー好きだから…」","Because my sister likes coffee…","Потому что моя сестра любит кофе…","Weil meine Schwester Kaffee mag…"
+00001770,32,"「それで、苦いけど慣れようと…」","It's so hard to get used to it…","«Это так трудно привыкнуть к нему…»","Es ist so schwer, sich daran zu gewöhnen…"
+0000181c,36,"「ああ、それでお砂糖たっぷりなんだ」","“Oh, it’s so full of sugar.”","«О, это так полон сахара. »","„Oh, es ist so voller Zucker. „"
 000018a8,98,"「お砂糖もいいけど、今日はハチミツにして
 　おいたわよ。カフェラテの香りが
-　より引き立つんだから」","","",""
-000019a0,30,"「え？　ありがとうございます」","","",""
-00001a50,28,"…こうして、一緒にお茶した。","","",""
+　より引き立つんだから」","“I don’t have sugar, but today I’m honey. Café
+latte","«У меня нет сахара, но сегодня я мед. Кафе
+латте","„Ich habe keinen Zucker, aber heute bin ich
+Honig. Café latte"
+000019a0,30,"「え？　ありがとうございます」","Thank you very much.","Большое спасибо.","Vielen Dank."
+00001a50,28,"…こうして、一緒にお茶した。","…and tea together.","…и чай вместе.","…und Tee zusammen."
 00001a9c,104,"「うわぁ、ハチミツの香りっていいですね。
 　お砂糖だと何にも香りがないから、
-　こっちの方が全然いいです」","","",""
-00001b34,22,"「フフッ、でしょう？」","","",""
+　こっちの方が全然いいです」","Wow, it is good to see honey. Because there is
+no smell in the sugar, it is better here.","«Вау, хорошо видеть мед. Потому что в сахаре нет
+запаха, лучше здесь.","Wow, es ist gut, Honig zu sehen. Weil es keinen
+Geruch im Zucker gibt, ist es hier besser."
+00001b34,22,"「フフッ、でしょう？」","“What’s it?”","- Что это? »","„Was ist das? „"

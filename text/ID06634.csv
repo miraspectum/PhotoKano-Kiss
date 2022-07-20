@@ -1,127 +1,265 @@
-00000398,20,"「フフッ、よかった」","Huh, I'm glad.","",""
-00000404,20,"「また食べたいなぁ」","I want to eat again","",""
-00000478,40,"「そのうちまた作るから、ぜひ食べに来て」","I'll make it again soon, so please come and eat.","",""
-00000398,20,"「フフッ、よかった」","Huh, I'm glad.","",""
-000006ac,42,"「柚ノ木さんがよく飲む飲みものって、何？」","What is the drink that Yuzunogi often drinks?","",""
-000008ac,24,"「好きなお菓子って何？」","What is your favorite sweet?","",""
-000009c0,28,"「どちらも簡単に作れるのよ」","Both are easy to make","",""
-00000aa8,10,"「へ～っ」","Hey","",""
-00000b00,34,"「学校帰りに買い食いしたりする？」","Do you buy and eat on your way home from school?","",""
-00000cd0,26,"「フフッ、おいしかったわ」","Huh, it was delicious.","",""
-00000d6c,28,"「苦手な飲みものってある？」","Are there any drinks you don't like?","",""
-00000eb8,24,"「小腹が空いた時って…」","When I'm hungry …","",""
-00001034,18,"「うん、そうかも」","Yeah, maybe.","",""
-000011ec,38,"「もう倒れないように、気をつけなきゃ」","I have to be careful not to fall down anymore.","",""
-00001348,14,"「みたいだね」","It looks like","",""
-000013a0,30,"「慕われてるのね、かつみさん」","You're longing for me, Katsumi-san.","",""
-0000165c,34,"「お水って、何にでも合うんだから」","Water goes well with anything.","",""
-000016c8,40,"「コンビニでよく買う飲みものって、何？」","What are the drinks you often buy at convenience stores?","",""
-00001750,24,"「オレンジジュースとか」","Orange juice","",""
-00001880,38,"「海の家で食べるとしたら、何がいい？」","What would you like to eat at a seaside house?","",""
-00001904,32,"「私はかき氷。海って感じよね～」","I'm shaved ice. It feels like the sea.","",""
-00001a34,40,"「最近だと、クラッカーをよく食べるわよ」","Recently, I eat crackers a lot.","",""
-00001be4,40,"「２、３枚作って、いろんな味を楽しむの」","Make a few pieces and enjoy various flavors.","",""
-00001c70,20,"「へ～っ、うまそう」","Hey, it looks good","",""
-00001d94,42,"「この間食べた、スナック菓子なんだけど…」","I ate a snack the other day …","",""
-00001eb8,30,"「宅配ピザって、うまいよね～」","Pizza delivery is good, isn't it?","",""
-00001f20,38,"「フフッ、たまに頼むとおいしいわよね」","Huh, it's delicious if you ask once in a while.","",""
-000020d8,34,"「ポテトチップスなら何味が好き？」","What taste do you like with potato chips?","",""
-00002238,38,"「柚ノ木さんって、牛乳はよく飲む方？」","Mr. Yuzunogi, who often drinks milk?","",""
-000022b0,36,"「ええ。だいたい毎日飲んでるけど？」","Yes. I drink it almost every day?","",""
-0000230c,16,"「…なるほどな」","…got it","",""
-00002370,24,"「どうして納得するの？」","Why do you agree?","",""
-00002450,40,"「もう！　関係ないんだから、そんなこと」","No more! It doesn't matter, so that's it.","",""
-000024dc,10,"「ははは」","Hahaha","",""
-00002528,38,"「サンドイッチの具で好きなのは、何？」","What is your favorite sandwich ingredient?","",""
-000025ac,38,"「今の季節なら、トマトとチーズとかね」","In this season, tomatoes and cheese.","",""
-00002860,36,"「この間、ちょっと食べたんだけど…」","I ate a little during this time …","",""
-000028d0,38,"「フフッ、間食は食べすぎないようにね」","Huh, don't eat too much snacks.","",""
-000029e4,32,"「よかった、気に入ってもらえて」","I'm glad you liked it.","",""
-00002cac,32,"「もうすぐ、肉まんの季節だなぁ」","It's the season for meat buns soon.","",""
-00002d18,18,"「フフッ、そうね」","Huh, that's right.","",""
-00002e08,8,"「ええ」","yes","",""
-00002eec,40,"「そうね～。私も参考にする時があるわよ」","That's right. I sometimes refer to it.","",""
-00002f80,12,"「例えば？」","for example?","",""
-000030b4,28,"「コンビニの食べものって…」","What is food at convenience stores …","",""
+00000398,20,"「フフッ、よかった」","Huh, I'm glad.","Ха, я рад.","Hm, das freut mich."
+00000404,20,"「また食べたいなぁ」","I want to eat again","«Я снова хочу есть»","Ich will wieder essen"
+00000478,40,"「そのうちまた作るから、ぜひ食べに来て」","I'll make it again soon, so please come and eat.","«Я скоро приготовлю его снова, так что, пожалуйста, приходите поесть».","Ich werde es bald wieder machen, also komm bitte und iss."
+00000398,20,"「フフッ、よかった」","Huh, I'm glad.","Ха, я рад.","Hm, das freut mich."
+000006ac,42,"「柚ノ木さんがよく飲む飲みものって、何？」","What is the drink that Yuzunogi often drinks?","«Какой напиток часто пьет Юзуноги?»","Was ist das Getränk, das Yuzunogi oft trinkt?"
+000008ac,24,"「好きなお菓子って何？」","What is your favorite sweet?","«Какая твоя любимая сладость?»","Was ist deine Lieblingssüßigkeit?"
+000009c0,28,"「どちらも簡単に作れるのよ」","Both are easy to make","«И то, и другое легко сделать»","Beide sind einfach zu machen"
+00000aa8,10,"「へ～っ」","Hey","Привет","Hey"
+00000b00,34,"「学校帰りに買い食いしたりする？」","Do you buy and eat on your way home from school?","«Вы покупаете и едите по дороге домой из школы?»","Kaufen und essen Sie auf dem Heimweg von der Schule?"
+00000cd0,26,"「フフッ、おいしかったわ」","Huh, it was delicious.","Ха, это было вкусно.","Huh, es war köstlich."
+00000d6c,28,"「苦手な飲みものってある？」","Are there any drinks you don't like?","— Есть какие-нибудь напитки, которые тебе не нравятся?","Gibt es irgendwelche Getränke, die du nicht magst?"
+00000eb8,24,"「小腹が空いた時って…」","When I'm hungry …","Когда я голоден…","Wenn ich Hunger habe …"
+00001034,18,"「うん、そうかも」","Yeah, maybe.","Да, может быть.","Ja vielleicht."
+000011ec,38,"「もう倒れないように、気をつけなきゃ」","I have to be careful not to fall down anymore.","«Я должен быть осторожен, чтобы больше не упасть».","Ich muss aufpassen, dass ich nicht mehr hinfalle."
+00001348,14,"「みたいだね」","It looks like","Это выглядит как","Es sieht aus wie"
+000013a0,30,"「慕われてるのね、かつみさん」","You're longing for me, Katsumi-san.","— Ты скучаешь по мне, Кацуми-сан.","„Du sehnst dich nach mir, Katsumi-san.“"
+0000165c,34,"「お水って、何にでも合うんだから」","Water goes well with anything.","«Вода сочетается со всем».","Wasser passt zu allem."
+000016c8,40,"「コンビニでよく買う飲みものって、何？」","What are the drinks you often buy at convenience stores?","«Какие напитки вы часто покупаете в магазинах шаговой доступности?»","Welche Getränke kaufen Sie oft in Convenience-Stores?"
+00001750,24,"「オレンジジュースとか」","Orange juice","Апельсиновый сок","Orangensaft"
+00001880,38,"「海の家で食べるとしたら、何がいい？」","What would you like to eat at a seaside house?","«Что бы вы хотели поесть в приморском доме?»","Was möchten Sie in einem Haus am Meer essen?"
+00001904,32,"「私はかき氷。海って感じよね～」","I'm shaved ice. It feels like the sea.","«Я стружка льда. Это похоже на море».","Ich bin rasiertes Eis. Es fühlt sich an wie das Meer."
+00001a34,40,"「最近だと、クラッカーをよく食べるわよ」","Recently, I eat crackers a lot.","«В последнее время я часто ем крекеры».","In letzter Zeit esse ich oft Cracker."
+00001be4,40,"「２、３枚作って、いろんな味を楽しむの」","Make a few pieces and enjoy various flavors.","«Сделайте несколько штук и наслаждайтесь разными вкусами».","Machen Sie ein paar Stücke und genießen Sie verschiedene Geschmacksrichtungen."
+00001c70,20,"「へ～っ、うまそう」","Hey, it looks good","Эй, выглядит хорошо","Hey, sieht gut aus"
+00001d94,42,"「この間食べた、スナック菓子なんだけど…」","I ate a snack the other day …","«Я перекусил на днях…»","Ich habe neulich einen Snack gegessen …"
+00001eb8,30,"「宅配ピザって、うまいよね～」","Pizza delivery is good, isn't it?","Доставка пиццы хороша, не так ли?","Pizza-Lieferservice ist gut, nicht wahr?"
+00001f20,38,"「フフッ、たまに頼むとおいしいわよね」","Huh, it's delicious if you ask once in a while.","Ха, это восхитительно, если ты спрашиваешь время от времени.","Huh, es ist köstlich, wenn du ab und zu fragst."
+000020d8,34,"「ポテトチップスなら何味が好き？」","What taste do you like with potato chips?","Какой вкус у картофельных чипсов тебе нравится?","Welchen Geschmack magst du mit Kartoffelchips?"
+00002238,38,"「柚ノ木さんって、牛乳はよく飲む方？」","Mr. Yuzunogi, who often drinks milk?","«Господин Юзуноги, который часто пьет молоко?»","Herr Yuzunogi, wer trinkt oft Milch?"
+000022b0,36,"「ええ。だいたい毎日飲んでるけど？」","Yes. I drink it almost every day?","Да. Я пью его почти каждый день?","Ja. Ich trinke es fast jeden Tag?"
+0000230c,16,"「…なるほどな」","…got it","…понятно","…Ich habs"
+00002370,24,"「どうして納得するの？」","Why do you agree?","— Почему ты соглашаешься?","Warum stimmst du zu?"
+00002450,40,"「もう！　関係ないんだから、そんなこと」","No more! It doesn't matter, so that's it.","Хватит! Неважно, вот и все.","Nicht mehr! Es spielt keine Rolle, also das war's."
+000024dc,10,"「ははは」","Hahaha","Хахаха","Hahaha"
+00002528,38,"「サンドイッチの具で好きなのは、何？」","What is your favorite sandwich ingredient?","«Какой ваш любимый ингредиент для сэндвичей?»","Was ist deine Lieblings-Sandwich-Zutat?"
+000025ac,38,"「今の季節なら、トマトとチーズとかね」","In this season, tomatoes and cheese.","«В этом сезоне помидоры и сыр».","In dieser Saison Tomaten und Käse."
+00002860,36,"「この間、ちょっと食べたんだけど…」","I ate a little during this time …","«Я мало ел за это время…»","Ich habe in dieser Zeit ein bisschen gegessen …"
+000028d0,38,"「フフッ、間食は食べすぎないようにね」","Huh, don't eat too much snacks.","«Ха, не ешь слишком много закусок».","Huh, iss nicht zu viele Snacks."
+000029e4,32,"「よかった、気に入ってもらえて」","I'm glad you liked it.","Я рад, что тебе понравилось.","Ich bin froh, dass es dir gefällt."
+00002cac,32,"「もうすぐ、肉まんの季節だなぁ」","It's the season for meat buns soon.","«Скоро сезон мясных булочек».","Es ist fast die Saison für Fleischbrötchen."
+00002d18,18,"「フフッ、そうね」","Huh, that's right.","Ха, верно.","Hm, das stimmt."
+00002e08,8,"「ええ」","yes","да","Jawohl"
+00002eec,40,"「そうね～。私も参考にする時があるわよ」","That's right. I sometimes refer to it.","«Правильно. Я иногда упоминаю об этом».","Das stimmt. Ich beziehe mich manchmal darauf."
+00002f80,12,"「例えば？」","for example?","Например?","zum Beispiel?"
+000030b4,28,"「コンビニの食べものって…」","What is food at convenience stores …","«Что такое еда в круглосуточных магазинах…»","Was ist Essen in Convenience Stores …"
 000002f0,75,"「ごちそうしてくれた、スコーンも、
-　マーマレードも、すごくおいしかったよ」","","",""
+　マーマレードも、すごくおいしかったよ」","The scones that gave me a feast,
+The marmalade was also very delicious. ","«Лепешки, которые устроили мне пир,
+Мармелад тоже был очень вкусным».","Die Scones, die mir ein Fest bereiteten,
+Auch die Marmelade war sehr lecker."
 000004ec,55,"「柚ノ木さんの手作りマーマレード、
-　おいしかったなぁ」","","",""
+　おいしかったなぁ」","Yuzunogi's handmade marmalade,
+It was delicious. ","Мармелад ручной работы Юзуноги,
+Было очень вкусно. ","Yuzunogis handgemachte Marmelade,
+Es hat sehr gut geschmeckt. "
 00000608,47,"「次は、ちゃんとお皿で出すから、
-　安心してね」","","",""
+　安心してね」","Next time, I'll serve it properly on a plate,
+Rest assured. ","В следующий раз я подам его как следует на тарелке,
+Будьте уверены. ","Nächstes Mal serviere ich es ordentlich auf einem Teller,
+Seien Sie versichert. "
 00000734,63,"「飲みものは、一緒に食べるものによって、
-　いろいろ変えてるの」","","",""
+　いろいろ変えてるの」","Drinks depend on what you eat together.
+I'm changing a lot. ","«Напитки зависят от того, что вы едите вместе.
+Я сильно меняюсь».","„Getränke hängen davon ab, was man zusammen isst.
+Ich verändere mich sehr."
 000007c4,74,"「ケーキには紅茶、
 　ドーナツには、コーヒーか牛乳。
-　和菓子には日本茶ね」","","",""
+　和菓子には日本茶ね」","Tea for cake,
+Coffee or milk for donuts.
+Japanese tea for Japanese sweets ","«Чай к пирогу,
+Кофе или молоко для пончиков.
+Японский чай к японским сладостям»","Tee zum Kuchen,
+Kaffee oder Milch für Donuts.
+Japanischer Tee für japanische Süßigkeiten "
 00000924,55,"「お菓子で好きなのは、ビスケットとか、
-　マドレーヌね」","","",""
+　マドレーヌね」","My favorite sweets are biscuits,
+Madeleine ","Мои любимые сладости - печенье,
+Мадлен","Meine Lieblingssüßigkeiten sind Kekse,
+Madeleine"
 00000a38,59,"「反対に難しいのがマカロン。
-　なかなかうまく膨らまなくて」","","",""
+　なかなかうまく膨らまなくて」","On the contrary, macaroons are difficult.
+It didn't swell very well 」","«Наоборот, миндальное печенье сложное.
+Он не очень хорошо набухал 」","„Im Gegenteil, Makronen sind schwierig.
+Es ist nicht sehr gut angeschwollen 」"
 00000b80,98,"「あんまりしないけど、ののちゃんに誘われて
 　商店街で、メンチカツを一緒に食べたことが
-　あるわよ」","","",""
+　あるわよ」","I don't do much, but I was invited by Nono-chan.
+Having eaten Menchi-katsu together in the shopping district
+There is. ","«Я мало что делаю, но меня пригласил Ноно-чан.
+Вместе съели мэнчи-кацу в торговом районе.
+Есть. ","„Ich mache nicht viel, aber ich wurde von Nono-chan eingeladen.
+Gemeinsam Menchi-katsu im Einkaufsviertel gegessen
+Es gibt. "
 00000c4c,59,"「ああ、いつも行列が出来てる店だよね？
-　俺も、よく食うよ」","","",""
+　俺も、よく食うよ」","Oh, it's a store that always has lines, right?
+I also eat a lot 」","«О, это магазин, в котором всегда есть очереди, верно?
+Я тоже много ем」","„Oh, es ist ein Laden, der immer Schlangen hat, richtig?
+Ich esse auch viel 」"
 00000de8,88,"「なるべくソーダ類は、
 　飲まないようにしてるわ。
-　糖分が多くて、太っちゃいそうだから」","","",""
+　糖分が多くて、太っちゃいそうだから」","As much as possible sodas
+I try not to drink it.
+Because it has a lot of sugar and seems to be fat 」","«Как можно больше газировки
+стараюсь не пить.
+Потому что в нем много сахара и он кажется жирным 」","„So viel Limonade wie möglich
+Ich versuche es nicht zu trinken.
+Weil es viel Zucker hat und fett zu sein scheint 」"
 00000f1c,47,"「あんまり食べ過ぎないように、
-　気をつけてね」","","",""
+　気をつけてね」","Don't eat too much
+ be careful","«Не ешь слишком много
+ будь осторожен","„Iss nicht zu viel
+ vorsichtig sein"
 00000fa0,88,"「柚ノ木さんって、赤ワイン煮を作ってて
 　酔っ払うぐらいだから、
-　お酒は飲めないかもね」","","",""
+　お酒は飲めないかもね」","Yuzunogi-san is making red wine simmered
+Because I got drunk
+You may not be able to drink alcohol. ","«Юзуноги-сан готовит красное вино на медленном огне.
+Потому что я напился
+Возможно, вам нельзя пить алкоголь».","„Yuzunogi-san macht gekochten Rotwein
+Weil ich betrunken war
+Sie dürfen möglicherweise keinen Alkohol trinken."
 000010d0,102,"「リキュールのきついケーキなんかを
 　食べても、フラフラする時があるし、
-　全然飲めないのかもしれない」","","",""
+　全然飲めないのかもしれない」","Liqueur's tight cake
+Even if you eat it, there are times when it flutters
+Maybe I can't drink at all ","Ликерный торт
+Даже если вы едите его, бывают моменты, когда он трепещет
+Может быть, я вообще не могу пить»","„Der enge Kuchen des Likörs
+Selbst wenn Sie es essen, gibt es Zeiten, in denen es flattert
+Vielleicht kann ich überhaupt nicht trinken "
 00001298,90,"「瑠宇ちゃんが、よくカフェラテを
 　飲む理由って、かつみさんが
-　コーヒー好きだからなのね」","","",""
+　コーヒー好きだからなのね」","Ru-chan often eats latte
+The reason for drinking is Katsumi
+Because I like coffee. ","Ру-чан часто ест латте
+Причина пьянства - Кацуми.
+Потому что я люблю кофе».","„Ru-chan isst oft Latte
+Der Grund für das Trinken ist Katsumi
+Weil ich Kaffee mag.“"
 00001414,63,"「汗をかいた後に飲むのって、
-　実は、水が一番うまい気がするよ」","","",""
+　実は、水が一番うまい気がするよ」","Drinking after sweating
+Actually, I feel that water is the best. ","«Выпивка после потоотделения
+На самом деле, я считаю, что лучше всего вода».","„Nach dem Schwitzen trinken
+Eigentlich habe ich das Gefühl, dass Wasser das Beste ist.“"
 0000149c,80,"「フフッ、そうよね。
 　変な後味が残らないし、冷たいお水が
-　一番おいしいわよね」","","",""
+　一番おいしいわよね」","Huh, that's right.
+No strange aftertaste left and cold water
+It ’s the most delicious, is n’t it? ”","Ха, верно.
+Не осталось странного послевкусия и холодная вода
+Это самое вкусное, не так ли?»","„Hm, stimmt.
+Kein seltsamer Nachgeschmack und kaltes Wasser
+Das ist das Leckerste, nicht wahr?“"
 00001580,73,"「料理もそうなのよ。合わせる飲みものが
-　思いつかない時は、お水にするの」","","",""
+　思いつかない時は、お水にするの」","It's the same with cooking.
+If you can't think of it, use water. ","То же самое и с готовкой.
+Если вы не можете думать об этом, используйте воду».","„Das ist beim Kochen genauso.
+Wenn es dir nicht einfällt, nimm Wasser.“"
 000017d0,59,"「果汁１００％の、ちょっと酸味が
-　強い感じのものが好きよ」","","",""
+　強い感じのものが好きよ」","100% fruit juice, a little sour
+I like something with a strong feeling. ","100% фруктовый сок, немного кислый
+Мне нравится что-то с сильным чувством».","„100 % Fruchtsaft, etwas säuerlich
+Ich mag etwas mit einem starken Gefühl.“"
 0000199c,57,"「ちょっとお腹が空いた時に、
-　よく食べるものってある？」","","",""
+　よく食べるものってある？」","When I'm a little hungry,
+What do you eat often? ","«Когда я немного проголодался,
+Что вы часто едите? ","„Wenn ich ein bisschen Hunger habe,
+Was isst du oft? "
 00001af0,80,"「クリームチーズを乗せて、
 　ハチミツをかけたり、
-　キウイとチーズを乗せたり…」","","",""
+　キウイとチーズを乗せたり…」","Put cream cheese on top
+Sprinkle honey,
+Put kiwi and cheese on it … ","«Сверху положите сливочный сыр
+Посыпать медом,
+Положите на него киви и сыр…","„Frischkäse darüber geben
+Honig bestreuen,
+Legen Sie Kiwi und Käse darauf … "
 00001cd0,59,"「お父さんも、お酒のおつまみにいいって
-　喜んでくれるのよ」","","",""
+　喜んでくれるのよ」","Dad is also good for a snack of sake
+You will be pleased. ","Папа тоже хорош на закуску сакэ
+Вы будете довольны».","„Vater ist auch gut für einen Sake-Snack
+Sie werden zufrieden sein.“"
 00001e08,59,"「フフッ、そういうお菓子って、
-　たまに食べたくなるわよね」","","",""
+　たまに食べたくなるわよね」","Huh, that kind of sweets
+I want to eat it once in a while. ","Ха, вот такие сладости
+Я хочу есть его время от времени».","„Huh, diese Art von Süßigkeiten
+Ich möchte es ab und zu essen."
 00001fd8,102,"「大きなオーブンがないと、あんな大きな
 　ピザは焼けないし、みんなでワイワイ
-　食べると、楽しいわよね」","","",""
+　食べると、楽しいわよね」","Without a big oven, it's that big
+Pizza is not baked and everyone is crazy
+It's fun to eat, isn't it? ","Без большой печи она такая большая
+Пицца не испечена, и все сошли с ума
+Приятно поесть, не так ли?»","„Ohne einen großen Ofen ist es so groß
+Pizza wird nicht gebacken und alle sind verrückt
+Es macht Spaß zu essen, nicht wahr?"
 00002158,71,"「よく食べるのは、チーズ味ね。
-　料理で使う時は、うすしお味にするけど」","","",""
+　料理で使う時は、うすしお味にするけど」","I often eat cheese.
+When using it in cooking, it tastes lighter. ","«Я часто ем сыр.
+При использовании в кулинарии вкус становится легче».","„Ich esse oft Käse.
+Beim Kochen schmeckt es leichter."
 000023c0,53,"「いや…その…その胸は、
-　やっぱり牛乳のたまもの…」","","",""
+　やっぱり牛乳のたまもの…」","No … that … that chest is
+After all milk tamamono … ","Нет… этот… этот сундук
+Ведь молоко тамамоно…","„Nein … das … diese Truhe ist
+Immerhin Milch Tamamono … "
 00002638,102,"「エビカツに自家製タルタルソースをかけて
 　レタスと一緒に挟んだりとかは、
-　一年を通じてよく作るわよ」","","",""
+　一年を通じてよく作るわよ」","Sprinkle homemade tartar sauce on shrimp cutlet
+For example, sandwiching it with lettuce
+I often make it all year round. ","«Посыпьте креветочную котлету домашним соусом тар-тар.
+Например, прослоить его салатом.
+Я часто делаю его круглый год».","Garnelenkotelett mit hausgemachter Remoulade bestreuen
+Zum Beispiel mit Salat belegen
+Ich mache es oft das ganze Jahr über.“"
 00002714,55,"「柚ノ木さんの作るものは、
-　どれもうまそうで困るなぁ」","","",""
+　どれもうまそうで困るなぁ」","What Mr. Yuzunogi makes is
+I'm in trouble because it looks so good. ","«То, что делает мистер Юдзуноги,
+У меня проблемы, потому что это выглядит так хорошо».","„Was Mr. Yuzunogi macht, ist
+Ich bin in Schwierigkeiten, weil es so gut aussieht."
 00002794,65,"「フフッ、別に困らなくても。
-　言ってくれれば、いつでも作るのに」","","",""
+　言ってくれれば、いつでも作るのに」","Huh, even if you don't have any problems.
+If you tell me, I can make it anytime. ","— Хм, даже если у тебя нет никаких проблем.
+Если ты скажешь мне, я могу сделать это в любое время».","„Hm, auch wenn du keine Probleme hast.
+Wenn du es mir sagst, kann ich es jederzeit machen."
 0000296c,47,"「微炭酸のオレンジジュース、
-　おいしかったよ」","","",""
+　おいしかったよ」","Slightly carbonated orange juice,
+It was delicious. ","Слегка газированный апельсиновый сок,
+Было очень вкусно. ","Leicht kohlensäurehaltiger Orangensaft,
+Es hat sehr gut geschmeckt. "
 00002a98,81,"「学園祭が終わったら、ひまわりバーガーと
-　セットで、みんなにも食べてもらいたい」","","",""
+　セットで、みんなにも食べてもらいたい」","When the school festival is over, with a sunflower burger
+I want everyone to eat it as a set. ","Когда школьный праздник закончится, с гамбургером из подсолнечника
+Я хочу, чтобы все съели его набором».","Wenn das Schulfest vorbei ist, mit einem Sonnenblumenburger
+Ich möchte, dass jeder es als Set isst.“"
 00002b7c,51,"「自動販売機に、温かい飲みものが
-　増え始めたね～」","","",""
+　増え始めたね～」","The vending machine has hot drinks
+It started to increase ~ ","В торговом автомате есть горячие напитки
+Он начал увеличиваться ~ ","Der Automat hat heiße Getränke
+Es begann zu steigen ~ "
 00002bf8,63,"「フフッ、冬の寒い日は、温かい缶コーヒーが
-　ありがたいわよね」","","",""
+　ありがたいわよね」","Huh, hot canned coffee on cold winter days
+Thank you. ","«Ха, горячий кофе в банках в холодные зимние дни
+Спасибо. ","„Huh, heißer Dosenkaffee an kalten Wintertagen
+Vielen Dank. "
 00002d78,61,"「学校帰りにコンビニで買って、
-　一緒に食べながら帰ろうか？」","","",""
+　一緒に食べながら帰ろうか？」","I bought it at a convenience store on my way home from school,
+Shall we go home while eating together? ","«Я купил его в магазине по дороге домой из школы,
+Пойдем домой, пока будем есть вместе? ","Ich habe es auf dem Heimweg von der Schule in einem Supermarkt gekauft,
+Sollen wir beim gemeinsamen Essen nach Hause gehen? "
 00002e5c,51,"「コンビニのおにぎりって、
-　すごく種類が多いよね」","","",""
+　すごく種類が多いよね」","Onigiri at convenience stores
+There are so many types. ","«Онигири в магазинах шаговой доступности
+Таких видов очень много».","Onigiri in Convenience-Stores
+Es gibt so viele Arten."
 00002fec,61,"「オムライスのおにぎりなんて、
-　かわいいなって思っちゃった」","","",""
+　かわいいなって思っちゃった」","Omurice rice balls
+I thought it was cute ","Омурис рисовые шарики
+Я подумал, что это мило»","Omurice Reisbällchen
+Ich fand es süß“"
 0000311c,53,"「フフッ、そうね。
-　時々食べるけど、おいしいわよね」","","",""
+　時々食べるけど、おいしいわよね」","Huh, that's right.
+I sometimes eat it, but it ’s delicious, is n’t it?”","Ха, верно.
+Я иногда ем его, но он вкусный, не так ли?»","„Hm, stimmt.
+Ich esse es manchmal, aber es ist köstlich, nicht wahr?“"

@@ -1,58 +1,104 @@
-00000174,26,"（ん？　本棚にいるのは…）","","",""
-00000234,42,"「え～と、この本は、か行だから……こっち」","","",""
-00000280,24,"「これは、た行だから…」","","",""
-000002c8,30,"「柚ノ木さん、何やってるの？」","","",""
-00000358,14,"「あ、\p01君」","","",""
+00000174,26,"（ん？　本棚にいるのは…）","Sorry, this entry is only available in Japanese.","Извините, этот техт доступен только в “Японский”.","Leider ist dieser Eintrag nur auf Japanisch
+verfügbar."
+00000234,42,"「え～と、この本は、か行だから……こっち」","
+“Ehhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh","
+hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh","
+hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh"
+00000280,24,"「これは、た行だから…」","This is a line…","Это линия…","Das ist eine Linie…"
+000002c8,30,"「柚ノ木さん、何やってるの？」","What is Yuzunoki?","Что такое Юзуноки?","Was ist Yuzunoki?"
 0000047c,73,"「本の並びがバラバラになってたから、
-　ちゃんと５０音順に並べ直してたの」","","",""
+　ちゃんと５０音順に並べ直してたの」","Since the line of books has become different, I
+reordered the order of 50 sounds.","«С линии книг стало разным, я перезаказывал
+приказ 50 звуков».","Da die Zeile der Bücher anders geworden ist,
+reordnete ich die Ordnung von 50 Klängen."
 000004f0,49,"「…柚ノ木さんって、
-　図書委員…じゃないよね？」","","",""
-00000580,18,"「ええ、違うわよ」","","",""
+　図書委員…じゃないよね？」","…Yuzunoki is not a library member…?","… Юзуноки не является членом библиотеки…?","… Yuzunoki ist kein Bibliotheksmitglied…?"
+00000580,18,"「ええ、違うわよ」","Yes, I'm different.","- Да, я разные.","Ja, ich bin anders."
 000005f8,74,"「私って、こういうのは、
 　ちゃんとしておかないと、
-　気が済まない人なの」","","",""
+　気が済まない人なの」","“I don’t like this, but I don’t like it.”","- Мне это не нравится, но мне это не нравится. »","„Ich mag das nicht, aber es gefällt mir nicht. „"
 000006f0,118,"「キッチンでも、調味料や調理器具を
 　いつも同じ位置に片付けてるし、コップや
-　お皿も、棚に並べてきちんと置いてあるし」","","",""
-00000800,24,"「結構几帳面なんだから」","","",""
-00000850,22,"「へ～っ、そうなんだ」","","",""
+　お皿も、棚に並べてきちんと置いてあるし」","In the kitchen, you can always clean up the
+seasonings and cookware in the same position, and
+the cups and plates are placed properly on the
+shelf.","На кухне вы всегда можете очистить приправы и
+посуду в той же позиции, и чашки и тарелки
+помещаются правильно на полке.","In der Küche können Sie immer die Gewürze und
+Kochgeschirr in der gleichen Position reinigen,
+und die Tassen und Teller werden richtig auf dem
+Regal platziert."
+00000800,24,"「結構几帳面なんだから」","“It’s a good work.”","«Это хорошая работа. »","„Es ist eine gute Arbeit. „"
+00000850,22,"「へ～っ、そうなんだ」","“Hey, it’s right!”","— Эй, это правильно!","„Hey, es ist richtig!“"
 00000a14,63,"「柚ノ木さん、あなたが時々、
-　本棚の整理をやってくれてたのね」","","",""
-00000a94,16,"「あ、室戸先輩」","","",""
-00000af8,16,"「生徒会長さん」","","",""
+　本棚の整理をやってくれてたのね」","Yuzunoki, you sometimes did organize
+bookshelves.","«Юзуноки, вы иногда организовали книги».","Yuzunoki, du hast manchmal Bücherregale
+organisiert."
+00000a94,16,"「あ、室戸先輩」","Oh, my seniors","«О, мои пожилые люди»","Oh, meine Senioren"
+00000af8,16,"「生徒会長さん」","Student Chairman","«Студенческий председатель»","Student Chairman"
 00000b70,69,"「ありがとうね。本来なら、図書委員が
-　先に気づいて、直すべきなのに」","","",""
+　先に気づいて、直すべきなのに」","Thank you. If you are a member of the library,
+you should not be aware of it and redo it.","Спасибо. Если вы являетесь членом библиотеки, вы
+не должны знать об этом и переделать ее.","Danke. Wenn Sie Mitglied der Bibliothek sind,
+sollten Sie sich dessen nicht bewusst sein und es
+neu machen."
 00000c18,106,"「ううん、図書委員の人も、ちゃんと
 　並べ直してますから。ただ、私が、
-　整理整頓にだけは、細かいだけで…」","","",""
+　整理整頓にだけは、細かいだけで…」","Yes, the members of the library are realigned
+properly. However, I'm just fine to organize and
+tidy…","«Да, члены библиотеки верны правильно. Тем не
+менее, я просто хорошо организовать и умирать…","Ja, die Mitglieder der Bibliothek werden richtig
+neu ausgerichtet. Aber es geht mir gut, zu
+organisieren und aufzuräumen…"
 00000d18,100,"「そうね、意外よね。どちらかというと
 　おっとりしているあなたが、
-　こういうことにはこだわるなんて」","","",""
+　こういうことにはこだわるなんて」","“Yes, it’s surprising. “I don’t know what you’re
+doing.”","- Да, это удивительно. «Я не знаю, что ты
+делаешь. »","„Ja, es ist überraschend. „Ich weiß nicht, was du
+tust. „"
 00000e24,90,"「料理をしてて、いつもの所に
 　調味料がないと、あたふたしてしまって、
-　すごく困るんです」","","",""
+　すごく困るんです」","I'm having a meal, and there is no seasoning in
+the usual place, I'm having a lot of trouble with
+it.","У меня есть еда, и нет приправ в обычном месте,
+у меня есть много неприятностей с ним.","Ich habe eine Mahlzeit, und es gibt keine Saison
+an der üblichen Stelle, ich habe viel Ärger
+damit."
 00000ee4,51,"「たぶん、そこから気になり始めたんだと
-　思います」","","",""
-00000f70,42,"「そう。料理への情熱が、高じてってわけね」","","",""
+　思います」","“I think I’ve started to care about it.”","«Я думаю, что я начал заботиться об этом. »","„Ich glaube, ich habe damit angefangen. „"
+00000f70,42,"「そう。料理への情熱が、高じてってわけね」","。 “The passion for cooking is high.”","。 «Страсть на приготовление пищи высока. »","。 „Die Leidenschaft für das Kochen ist hoch. „"
 00001040,65,"「そんな立派そうな理由じゃなくて、
-　ただ、料理が好きなだけで…」","","",""
+　ただ、料理が好きなだけで…」","It is not such a reason, but just like cooking
+…","Это не такая причина, но как приготовление пищи
+…","Es ist nicht so ein Grund, aber wie Kochen …"
 000010e8,65,"「いいじゃない、照れなくても。
-　几帳面なのはいいことなんだから」","","",""
+　几帳面なのはいいことなんだから」","It's not good, it's not illuminated. It’s a good
+thing.","«Это не хорошо, это не освещено. Это хорошо.","Es ist nicht gut, es ist nicht beleuchtet. Es
+ist eine gute Sache."
 00001190,80,"「私、あなたには期待してるのよ。
 　料理研究会を盛り立てて、
-　素敵な部にしてね」","","",""
-00001234,12,"「は、はい」","","",""
-00001294,20,"「それじゃ、またね」","","",""
-00001330,14,"「失礼します」","","",""
-00001330,14,"「失礼します」","","",""
-000014d4,34,"「はぁ…まだ部員が私１人なのに～」","","",""
-00001550,28,"「期待してるって言ってたよ」","","",""
-000015ac,28,"「あうぅ…プレッシャーだわ」","","",""
-00001624,14,"「ところで…」","","",""
-00001690,8,"「ん？」","","",""
-000016c4,38,"「本棚の整理は、どこまで終わったの？」","","",""
+　素敵な部にしてね」","I'm looking forward to you. Let’s have a great
+cooking class!”","Я с нетерпением жду вас. У нас есть отличный
+кулинарный класс!","Ich freue mich auf Sie. Lassen Sie uns eine tolle
+Kochklasse haben!“"
+00001234,12,"「は、はい」","」","」","!"
+00001294,20,"「それじゃ、またね」","It's it, it's it.","- Это, это.","Es ist es, es ist es."
+00001330,14,"「失礼します」","I'm sorry.","- Прости.","Es tut mir leid."
+00001330,14,"「失礼します」","I'm sorry.","- Прости.","Es tut mir leid."
+000014d4,34,"「はぁ…まだ部員が私１人なのに～」","
+Hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh","
+Hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh","Was ist los?"
+00001550,28,"「期待してるって言ってたよ」","“I’m looking forward to it.”","«Я с нетерпением жду этого. »","„Ich freue mich darauf. „"
+000015ac,28,"「あうぅ…プレッシャーだわ」","Oh… pressure curve","О… кривая давления","Oh… Druckkurve"
+00001624,14,"「ところで…」","」","」","!"
+00001690,8,"「ん？」","?」","?」","?"
+000016c4,38,"「本棚の整理は、どこまで終わったの？」","“Where is the book shelves organized?”","«Где организованы полки книг? »","„Wo sind die Buchregale organisiert? „"
 00001768,53,"「あ！　た、確かそのあたり…
-　うう、もうわかんない」","","",""
+　うう、もうわかんない」","“Oh! I’m sure… I’m not sure.”","«О! Я уверен… Я не уверен. »","„Oh! Ich bin sicher… Ich bin mir nicht sicher.
+„"
 00001848,67,"「わかんないから、もう今日は、
-　好きな本を読んで過ごすんだから！」","","",""
-000018c0,24,"「ははは、それがいいよ」","","",""
+　好きな本を読んで過ごすんだから！」","“I don’t know, so today I’m reading my favorite
+books!”","«Я не знаю, поэтому сегодня я читаю мои любимые
+книги!»","„Ich weiß nicht, also lese ich heute meine
+Lieblingsbücher!“"
+000018c0,24,"「ははは、それがいいよ」","“It’s good.”","«Это хорошо. »","„Es ist gut. „"

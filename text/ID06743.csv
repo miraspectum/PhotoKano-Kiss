@@ -1,80 +1,153 @@
-0000017c,38,"「フフッ、これでよし。すっきりしたわ」","","",""
-000001fc,30,"「柚ノ木さん、何やってるの？」","","",""
-0000028c,14,"「あ、\p01君」","","",""
+0000017c,38,"「フフッ、これでよし。すっきりしたわ」","F。, this is it. Close","F。, это. Закрыть","F。, das ist es. Schließen"
+000001fc,30,"「柚ノ木さん、何やってるの？」","What is Yuzunoki?","Что такое Юзуноки?","Was ist Yuzunoki?"
 00000390,63,"「保健室に貼られてるポスターが、
-　夏休み前のままだったから…」","","",""
+　夏休み前のままだったから…」","The poster attached to the health room was left
+before the summer vacation…","«Постер, прикрепленный к комнате здоровья, был
+оставлен до летнего отдыха…»","Das Poster, das am Gesundheitsraum angebracht
+ist, wurde vor dem Sommerurlaub verlassen…"
 00000428,53,"「保健の先生に、新しいのをもらって、
-　貼り直したの」","","",""
-00000494,34,"「柚ノ木さんって、保健体育委員？」","","",""
+　貼り直したの」","“I re-launched my health teacher with a new one.”","«Я перезапустил мой учитель здоровья с новым. »","„Ich habe meinen Gesundheitslehrer mit einem
+neuen neu belauscht. „"
+00000494,34,"「柚ノ木さんって、保健体育委員？」","“Yuzunoki-san is a health and sports member?”","«Юзуноки-сан является членом здравоохранения и
+спорта? »","„Yuzunoki-san ist ein Gesundheits- und
+Sportmitglied? „"
 00000514,71,"「ううん、違うわよ。うちのクラスの
-　保健体育委員は、ののちゃんだもの」","","",""
+　保健体育委員は、ののちゃんだもの」","Yes, it's different. The Health and Sports
+Committee members of our class are the ones of the
+no-chande","- Да, это другое. Члены комитета по здоровью и
+спорту нашего класса являются одними из
+непоколдов»","Ja, es ist anders. Die Mitglieder des
+Gesundheits- und Sportkomitees unserer Klasse sind
+die der no-chande"
 000005b0,75,"「そっか。中学の時から、あいつの
-　保健体育委員率はものすごく高いからなぁ」","","",""
-0000063c,32,"「ののちゃん？　ののかのこと？」","","",""
-000006bc,16,"「知ってるの？」","","",""
+　保健体育委員率はものすごく高いからなぁ」","。 From the middle school, the affirmation of the
+Health and Sports Committee is very high.","。 Из средней школы, утверждение Комитета
+здравоохранения и спорта очень высок.","。 Von der Mittelschule ist die Bestätigung des
+Gesundheits- und Sportausschusses sehr hoch."
+0000063c,32,"「ののちゃん？　ののかのこと？」","“What is your name?”","- Как тебя зовут? »","„Wie heißt du? „"
+000006bc,16,"「知ってるの？」","I know","Я знаю","Ich weiß."
 00000704,71,"「間咲ののかだよね？　知ってるも何も、
-　よく話すよ。同じ中学出身だし」","","",""
+　よく話すよ。同じ中学出身だし」","“Well, it’s like a flowering?” I know nothing, I
+speak well. I am from the same junior high school","— Ну, это как цветение? Я ничего не знаю, я
+хорошо говорю. Я из той же младшей школы","„Nun, es ist wie eine Blüte?“ Ich weiß nichts,
+ich spreche gut. Ich bin von der gleichen Junior
+High School"
 000007a8,80,"「そうなんだ～。私もののちゃんと
 　とっても仲がよくって、
-　よく一緒にいるのよ」","","",""
-00000830,42,"「へ～っ、そうだったんだ。それにしても…」","","",""
+　よく一緒にいるのよ」","It's right. I'm very close to me, and I'm working
+together well.","Это правильно. Я очень близко ко мне, и я работаю
+вместе хорошо.","Es stimmt. Ich bin mir sehr nahe und arbeite gut
+zusammen."
+00000830,42,"「へ～っ、そうだったんだ。それにしても…」","“Hey, it was.","— Эй, это было.","„Hey, das war es."
 00000888,116,"「ののかが保健体育委員ってのは、納得だよ。
 　中学の時から、あいつの保健体育委員率は、
-　ものすごく高かったからなぁ」","","",""
-00000960,42,"「フフッ、ののちゃん、運動神経いいものね」","","",""
+　ものすごく高かったからなぁ」","It is convin、 to be a health and sports member.
+Since I was a junior high school student, the rate
+of the  Health and Sports Committee was very high.","Это убеждено, быть членом здоровья и спорта. С
+нами Я был студентом средней школы, скорость
+комитета здравоохранения и спорта была очень
+высока.","Es ist überzeugend, ein Gesundheits- und
+Sportmitglied zu sein. Seit Ich war ein
+Junior-Hochschulstudent, die Rate des Gesundheits-
+und Sportkomitees war sehr hoch."
+00000960,42,"「フフッ、ののちゃん、運動神経いいものね」","Huffy, no-chan, kinetic nerve good thing","«Сухое, не-хорошее, кинетическое нервное хорошее
+дело»","Huffy, nochan, kinetic nerve good thing"
 000009ec,88,"「いつもダントツだよ。
 　あいつより運動神経のいい女子って、
-　あんまり見たことないなぁ」","","",""
+　あんまり見たことないなぁ」","“It’s always a dante.” I have never seen a good
+exercising neural woman.","- Это всегда данте. Я никогда не видел хорошую
+практикующую нейронную женщину.","„Es ist immer ein Dante.“ Ich habe noch nie eine
+gute trainierende neurale Frau gesehen."
 00000aa4,51,"「私も、一緒に体育の授業をやって
-　びっくりしたわ」","","",""
+　びっくりしたわ」","I was surprised to do sports class together","«С удовольствием занимаюсь спортивным классом»","Ich war überrascht, gemeinsam Sportunterricht zu
+machen"
 00000b3c,98,"「すごい瞬発力で、いつも飛び跳ねてて…、
 　まるでののちゃん自身が
-　ソフトボールみたいなんだもの」","","",""
-00000c08,10,"「ははは」","","",""
-00000c4c,10,"「フフッ」","","",""
+　ソフトボールみたいなんだもの」","It's amazing momentary power, always jumping…
+I'm like a softball.","«Удивительная моментальная сила, всегда прыгая…
+Мне нравится софтбол.","Es ist erstaunliche Momentkraft, immer zu
+springen… Ich bin wie ein Softball."
+00000c08,10,"「ははは」","」","」","!"
+00000c4c,10,"「フフッ」","」","」","!"
 00000cb0,75,"「けど、どうして保健体育委員でもないのに、
-　保健のポスターの張り替えを？」","","",""
+　保健のポスターの張り替えを？」","“But I’m not a health and sports member, but how
+do I change my health poster?”","«Но я не член здоровья и спорта, но как я могу
+изменить свой постер здоровья? »","„Aber ich bin kein Gesundheits- und
+Sportmitglied, aber wie ändere ich mein
+Gesundheitsplakat? „"
 00000d58,61,"「私、こういうことは、
-　ちゃんとしないと気が済まない人なの」","","",""
+　ちゃんとしないと気が済まない人なの」","“I don’t know that this is not true.”","«Я не знаю, что это не верно. »","„Ich weiß nicht, dass dies nicht wahr ist. „"
 00000dfc,122,"「教室のカレンダーも、１日になったら
 　真っ先にはがしちゃうし、雑巾とかほうきが
-　片付いてないと、どうしても気になって…」","","",""
-00000f1c,22,"「すぐ片付けちゃうの」","","",""
-00000f8c,32,"「…たぶん、料理のせいなのよね」","","",""
-00000fe4,28,"「料理のせい？　どうして？」","","",""
+　片付いてないと、どうしても気になって…」","If the calendar of the classroom is also one
+day, I will go out first, and if I don't have a
+draw or a spin, I'm worried about it …","«Если календарь классной комнаты тоже один день,
+я выхожу сначала, и если у меня нет ничья ничья
+нить, я беспокоюсь об этом …»","Wenn der Kalender des Klassenzimmers auch eines
+Tages ist, werde ich zuerst ausgehen, und wenn ich
+keine Ziehung oder einen Spin habe, mache ich mir
+Sorgen darüber…"
+00000f1c,22,"「すぐ片付けちゃうの」","Now to clean up","Теперь очистить","Now to clean up"
+00000f8c,32,"「…たぶん、料理のせいなのよね」","“… Maybe because of cooking.”","«… Может быть из-за приготовления. »","„… Vielleicht wegen Kochens. „"
+00000fe4,28,"「料理のせい？　どうして？」","“What is the reason for cooking?”","«Какова причина приготовления? »","„Was ist der Grund für das Kochen? „"
 00001060,88,"「例えば、お肉に火を通してる時に、
 　調味料がどこにあるのか
-　わからなかったりすると…」","","",""
+　わからなかったりすると…」","“For example, if you don’t know where the
+seasoning is, when you go through the meat…”","“Например, если вы не знаете, где приправа, когда
+вы идете через мясо… »","„Zum Beispiel, wenn Sie nicht wissen, wo die
+Gewürze sind, wenn Sie durch das Fleisch gehen…
+„"
 00001120,53,"「探してるうちに、
-　火を通しすぎたりするでしょう？」","","",""
+　火を通しすぎたりするでしょう？」","“When I’m looking for, will I go through fire?”","«Когда я ищу, я пойду через огонь? »","„Wenn ich suche, werde ich durch Feuer gehen? „"
 000011bc,108,"「だから、料理を毎日してると、
 　調味料や調理器具を、常に決められた位置に
-　戻すよう、心がけるようになるの」","","",""
+　戻すよう、心がけるようになるの」","“So if you’re eating every day, you’ll be able to
+keep the seasonings and cooking utensils back to
+the position you’ve always decided.”","« » Поэтому, если вы едите каждый день, вы
+сможете сохранить приправы и кулинарии обратно в
+позицию, которую вы всегда решили. »","„ Wenn Sie also jeden Tag essen, können Sie die
+Gewürze und Kochutensilien wieder an die Position
+halten, die Sie immer entschieden haben. „"
 000012d0,96,"「気づくと、何もかも整理整頓に
 　心がけるようになって…。
-　すっかり、クセみたいになっちゃった」","","",""
-000013bc,16,"「いいクセだね」","","",""
-0000141c,14,"「ありがとう」","","",""
+　すっかり、クセみたいになっちゃった」","When I noticed, I will be able to keep my heart
+organized. I was like to try it.","«Когда я заметил, я смогу сохранить мое сердце
+организованным. Мне понравилось попробовать.","Wenn ich bemerkte, kann ich mein Herz
+organisieren. Ich wollte es versuchen."
+000013bc,16,"「いいクセだね」","It's good!","«Это хорошо!»","Es ist gut!"
+0000141c,14,"「ありがとう」","Thank you","Спасибо","Danke."
 00001478,65,"「その割にはこの間、蒸し器を棚から
-　落としそうになってたけど？」","","",""
+　落としそうになってたけど？」","“I tried to remove the steamer from the shelf
+during this time?”","«Я пытался удалить пароварку из полки в это
+время? »","„Ich habe versucht, den Dampfer während dieser
+Zeit aus dem Regal zu entfernen? „"
 00001514,59,"「あれは、調理実習をした誰かが
-　適当に入れてたからなの！」","","",""
-000015ac,22,"「ははは、そうなんだ」","","",""
+　適当に入れてたからなの！」","It's because someone who did cooking practice
+was suitable!","Это потому, что кто-то, кто сделал практику
+приготовления, был подходящим!","Es ist, weil jemand, der Kochpraxis gemacht hat,
+geeignet war!"
+000015ac,22,"「ははは、そうなんだ」","It's right.","- Это правильно.","Es ist richtig."
 00001630,69,"「保健のポスターによると、
-　今月の標語は”ゆっくり睡眠を取ろう”よ」","","",""
-000016dc,86,"「まだまだ暑くて、夜、寝苦しいけど、
-　\p01君も、早く寝るようにして、
-　体を休めてね」","","",""
+　今月の標語は”ゆっくり睡眠を取ろう”よ」","According to health posters, this month's target
+is Let's take a slow sleep","Согласно медицинским плакатам, цель этого месяца
+- Пусть занять медленный сон","Nach Gesundheitsplakaten ist das Ziel dieses
+Monats Lasst uns langsam schlafen"
 000017a8,71,"「…努力するよ。って、ののかより
-　よっぽど保健体育委員みたいだけど？」","","",""
+　よっぽど保健体育委員みたいだけど？」","… I'm working hard. Well, it's like a health
+and sports member?","… Я упорно работаю. Ну, это как член здоровья
+и спорта?","… Ich arbeite hart. Es ist wie ein
+Gesundheits- und Sportmitglied?"
 0000184c,57,"「そんなことないわよ。
-　ののちゃん、しっかりしてるもの」","","",""
+　ののちゃん、しっかりしてるもの」","“I don’t know that.” No, I'm doing it well.","- Я не знаю, что. Нет, я делаю это хорошо.","„Das weiß ich nicht.“ Nein, ich mache es gut."
 000018bc,67,"「そうかなぁ？　あいつは、
-　保健…抜きの体育委員って感じがするよ」","","",""
+　保健…抜きの体育委員って感じがするよ」","“Well, right? Well, health… I feel that I’m a
+physical sports member.”","— Ну, правда? Ну, здоровье… Я чувствую, что я
+физический член спорта. »","„Nun, richtig? Nun, Gesundheit… Ich fühle, dass
+ich ein Sportmitglied bin. „"
 00001948,47,"「フフッ、元気いっぱいだものね、
-　ののちゃん」","","",""
-000019ec,20,"「あ、チャイムが…」","","",""
-00001a44,32,"「いけない。教室へ戻らないと…」","","",""
-00001a94,12,"「急ごう！」","","",""
-00001b00,8,"「ええ」","","",""
-00001b64,36,"こうして、一緒に急いで教室へ戻った。","","",""
+　ののちゃん」","Fフ, I'm full of energetic, no-chan","«ФБ, я полна энергичной, нет-чан»","Ich bin voller energischer, kein-chan"
+000019ec,20,"「あ、チャイムが…」","“Oh, chime…”","«О, chime…»","„Oh, Chime…“"
+00001a44,32,"「いけない。教室へ戻らないと…」","。 I don't go back to the classroom.","。 Я не возвращаюсь в класс.","Ich gehe nicht zurück in den Unterricht."
+00001a94,12,"「急ごう！」","!」","!」","!"
+00001b00,8,"「ええ」","Home","Начало","Home"
+00001b64,36,"こうして、一緒に急いで教室へ戻った。","I rushed back to the classroom.","Я бросил обратно в класс.","Ich eilte zurück in den Klassenraum."

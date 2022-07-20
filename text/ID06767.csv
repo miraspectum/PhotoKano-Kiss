@@ -1,43 +1,63 @@
-0000010c,32,"（うう…なんて暑さだ、今日は…）","","",""
+0000010c,32,"（うう…なんて暑さだ、今日は…）","Sorry, this entry is only available in 日本語.","Извините, этот техт доступен только в “日本語”.","Leider ist dieser Eintrag nur in 日本語 verfügbar."
 0000015c,55,"（風でも吹いてくれれば、
-　少しは涼しくなるんだけど…）","","",""
-000001e4,12,"（まさか…）","","",""
-00000204,22,"シャッターチャンスだ！","","",""
-00000344,20,"（撮るまでもないな）","","",""
-0000044c,24,"「きゃああああああっ！」","","",""
-00000590,14,"「\p01…君…」","","",""
-000005c0,14,"「や、やぁ…」","","",""
-0000062c,14,"「み、見た？」","","",""
-00000664,28,"「え～と……なんでスク水？」","","",""
-000006d4,36,"「み、見たのねっ！　エッチーーッ！」","","",""
-00000730,26,"「そんなこと言われても…」","","",""
+　少しは涼しくなるんだけど…）","(If the wind blows, it will cool a little…)","(Если ветер дует, это будет немного круто…)","(Wenn der Wind weht, wird er etwas kühlen…)"
+000001e4,12,"（まさか…）",")",")",")"
+00000204,22,"シャッターチャンスだ！","ter chance!","ter шанс!","Eine Chance!"
+00000344,20,"（撮るまでもないな）","(It is not until you take it)","(Это не до тех пор, пока вы не возьмете его)","(Es ist nicht, bis du es nimmst)"
+0000044c,24,"「きゃああああああっ！」","っ","ПРЯМО",","
+000005c0,14,"「や、やぁ…」","」","」","!"
+0000062c,14,"「み、見た？」","“I see it!”","«Я вижу это!»","„Ich sehe es!“"
+00000664,28,"「え～と……なんでスク水？」","“What’s Squid?”","«Что такое Squid? »","„Was ist Squid? „"
+000006d4,36,"「み、見たのねっ！　エッチーーッ！」","“I saw it! Echi-h!”","- Я видел это! Эчи-х!»","„Ich habe es gesehen! Echi-h!“"
+00000730,26,"「そんなこと言われても…」","I can say that …","Я могу сказать, что …","Ich kann das sagen…"
 0000079c,59,"「うぅ…今日はこのあと水泳があるから、
-　家から着てきたの」","","",""
-0000080c,28,"「なんだそっか。てっきり…」","","",""
-0000087c,14,"「てっきり？」","","",""
-000008c0,42,"「夏はいつも、下はスク水なのかと思ったよ」","","",""
+　家から着てきたの」","“Oh… I’ve come from home because I’ve been
+swimming today.”","«О… Я пришел из дома, потому что я плаваю
+сегодня. »","Oh… Ich komme von zu Hause, weil ich heute
+schwimmen war. „"
+0000080c,28,"「なんだそっか。てっきり…」","What is it?","Что это?","Was ist los?"
+0000087c,14,"「てっきり？」","?」","?」","?"
+000008c0,42,"「夏はいつも、下はスク水なのかと思ったよ」","I thought that summer is always a squeezed
+water.","- Я думал, что лето всегда сжатая вода.","Ich dachte, der Sommer ist immer ein gepresstes
+Wasser."
 00000948,53,"「そ、そんなわけないでしょう！
-　もう！　知らない！」","","",""
-000009cc,32,"（ちょっとからかいすぎたかな…）","","",""
+　もう！　知らない！」","“I don’t know it!”","- Не знаю! »","„Ich weiß es nicht! „"
+000009cc,32,"（ちょっとからかいすぎたかな…）","(I think it was too much…)","(Я думаю, что это было слишком много…)","(Ich glaube, es war zu viel…)"
 00000a78,98,"「それにしても…下がブルマだからって
 　スカートを押さえなかったののかと、
-　全然違う反応だったな」","","",""
-00000c38,36,"「スク水！　ファンタジーーーーー！」","","",""
-00000ce8,40,"「ああっ、九堂部長！　見てたんですか？」","","",""
-00000d50,22,"「ああ、一部始終をな」","","",""
+　全然違う反応だったな」","“Even if it was… I didn’t press the skirt
+because it was a burger, but it was totally
+different.”","“Даже если это было… Я не нажал на юбку, потому
+что это был бургер, но это было совершенно другое.
+»","„Auch wenn es… Ich habe den Rock nicht
+gedrückt, weil es ein Burger war, aber es war
+völlig anders. „"
+00000c38,36,"「スク水！　ファンタジーーーーー！」","Squash! Fantasy!","Сквош! Фантазия!","Squash! Fantasy!"
+00000ce8,40,"「ああっ、九堂部長！　見てたんですか？」","“Oh, Mr. Kudo! Have you seen it?”","«О, г-н Кудо! Ты видел это? »","„Oh, Mr. Kudo! Hast du es gesehen? „"
+00000d50,22,"「ああ、一部始終をな」","Oh, partially end","О, частично конец","Oh, teils Ende"
 00000e40,51,"「スカートがまくれ上がったとはいえ、
-　下はスク水」","","",""
+　下はスク水」","Skirt is shining up, but the bottom is
+scaffolding.","«Дух сияет, но дно скаффолдинг».","Skirt leuchtet auf, aber der Boden ist Gerüst."
 00000f20,61,"「見られて困るものではないのに、
-　思わず恥じらうあの仕草…」","","",""
+　思わず恥じらうあの仕草…」","“I don’t have a problem, but I’m so embarrassed
+to think…”","«У меня нет проблемы, но я так неловко думаю… »","“Ich habe kein Problem, aber ich bin so peinlich
+zu denken… „"
 00001000,49,"「まさにファンタジー。
-　スク水ファンタジーだ！」","","",""
-000010c0,30,"「どこかの誰かさんとは違うな」","","",""
-00001114,20,"「はは…そうですね」","","",""
+　スク水ファンタジーだ！」","“Fantage” Squash fantasy!","“Фантазия” Squash!","“Fantage” Squash Fantasie!"
+000010c0,30,"「どこかの誰かさんとは違うな」","It's different from someone somewhere","Это отличается от кого-то где-то","Es ist anders als jemand irgendwo"
+00001114,20,"「はは…そうですね」","It's right…","«Это правильно…»","Es ist richtig…"
 000011a8,94,"「スカートの下から、チラリとのぞく
 　スク水とは、まさに男の夢。
-　よくぞ、その瞬間を捉えたな」","","",""
+　よくぞ、その瞬間を捉えたな」","From the bottom of the skirt, the夢 of the chi夢i
+is the dream of a man. Well, I've captured that
+moment.","«Из дна юбки, 夢 chi thei - мечта человека. Ну, я
+запечатлел этот момент».","Von der Unterseite des Rocks, diei der Chi.i ist
+der Traum eines Mannes. Ich habe diesen Moment
+gefangen genommen."
 000012bc,51,"「まさに、ファンタジー。
-　スク水ファンタジーだ！」","","",""
-00001398,34,"「この調子で、より高みを目指せよ」","","",""
-00001420,18,"「では、失礼する」","","",""
-00001488,40,"（俺…どんどん写真部に染まってる気が…）","","",""
+　スク水ファンタジーだ！」","“Fantage” Squash fantasy!","“Фантазия” Squash!","“Fantage” Squash Fantasie!"
+00001398,34,"「この調子で、より高みを目指せよ」","With this tone, aim for higher","С этим тоном, цель для выше","Mit diesem Ton, Ziel für höher"
+00001420,18,"「では、失礼する」","I'm sorry.","- Прости.","Es tut mir leid."
+00001488,40,"（俺…どんどん写真部に染まってる気が…）","(I'm… I feel that I'm dyeing in the photo
+department…)","(Я… Я чувствую, что я крашу в фотоотделе…)","(Ich bin… Ich fühle, dass ich in der
+Fotoabteilung färbe…)"

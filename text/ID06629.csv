@@ -1,130 +1,249 @@
-0000033c,26,"「まぁ、あれぐらいはね…」","Well, that's about it …","",""
-000003b4,36,"「私、運動苦手だから、感心しちゃう」","I'm not good at exercising, so I'm impressed.","",""
-00000448,28,"「柚ノ木さんって、運動は…」","Yuzunogi-san is exercising …","",""
-000005f4,26,"「ははは、そうだったんだ」","Haha, that's right.","",""
-000006f4,36,"「夏の体育って、暑くて大変だよね～」","Summer physical education is hot and difficult, isn't it?","",""
-00000834,26,"「一番苦手な運動って何？」","What is your weakest exercise?","",""
-00000950,28,"「できるようになったんだ？」","You can do it now?","",""
-00000ab4,34,"「ちゃ、ちゃんと体操服着てたわよ」","Cha, I wore gym clothes properly.","",""
-00000af8,14,"「そ、そっか」","Oh, that's right","",""
-00000b64,16,"「もう…エッチ」","Already … etch","",""
-00000be4,20,"「この間、体育で…」","During this time, in physical education …","",""
-00000c3c,30,"「フフッ、夏の体育は大変よね」","Huh, summer physical education is hard, isn't it?","",""
-00000d58,30,"「う～ん…バレーボールかなぁ」","Hmm … I wonder if it's volleyball.","",""
-00000fd0,38,"「ふうん、そうなんだ。活発だったのね」","Yeah, that's right. It was active.","",""
-000012a8,32,"「好きなスポーツって何かある？」","What is your favorite sport?","",""
-00001614,40,"「まぁ、それなりに。止まるのヘタだけど」","Well, that's it. It's just a stop.","",""
-0000168c,34,"「すご～い。冬になったら教えてね」","Wow. Tell me when it's winter.","",""
-000016f0,18,"「運動と言えば…」","Speaking of exercise …","",""
-000018ec,30,"「ＤＸ合体？　なぁに？　それ」","DX union? What? That","",""
-0000192c,38,"「あぁあ、な、何でもない。こっちの話」","Ah, no, nothing. This story.","",""
-000019b0,10,"「そう？」","yes?","",""
-000019e8,30,"（やばいやばい、口に出てたよ）","(No, no, it was in my mouth)","",""
-00001a48,22,"「懸垂って難しいよね」","It's difficult to hang up, isn't it?","",""
-00001abc,18,"「そうなのよね～」","That's right ~","",""
-00001e4c,34,"「あ、ごめん、ゆっくり行こうか？」","Oh, sorry, let's go slowly?","",""
-00001fc8,36,"「運動が出来る女性って、憧れるわ～」","I long for women who can exercise","",""
-000020b4,26,"「そ、そう？　よかった…」","Well, that's right … I'm glad …","",""
-0000213c,30,"「体育で一番苦手なのって何？」","What is your weakest point in physical education?","",""
-000021b8,18,"「ソフトボールよ」","Softball","",""
-000024dc,14,"「運動って…」","Exercise …","",""
-00002548,36,"「そうね、私も体を動かすのは好きよ」","Well, I also like to move.","",""
-0000273c,32,"「ええ、私じゃ、絶対無理だもの」","Yes, I can't do it.","",""
-00002934,18,"「へ～っ、そっか」","Hey, that's right","",""
-000029f4,36,"「そうね～。私じゃ、絶対無理だもの」","That's right. I can't do it.","",""
-00002abc,30,"「体育で一番得意なのって何？」","What are you most good at in physical education?","",""
-00002b2c,12,"「応援…ね」","Support …","",""
-00002b68,38,"「ははは、本当に運動が苦手なんだなぁ」","Haha, I'm really bad at exercising.","",""
-00002c9c,38,"「春の体育祭では、何の種目に出たの？」","What kind of event did you participate in at the spring sports festival?","",""
-00002d04,42,"「…障害物リレーの、スプーン競争のところ」","… the place of the spoon competition of the obstacle relay","",""
-00002dac,28,"「ああ、料理が出来るから？」","Oh, can you cook?","",""
-00002e78,12,"「結果は？」","Result is?","",""
-00002fdc,10,"「ははは」","Hahaha","",""
-00003028,24,"「スポーツの秋だけど…」","It's autumn for sports …","",""
-000002cc,65,"「\p01君って、バスケットボール
-　上手なのね。びっくりしちゃった」","","",""
+0000033c,26,"「まぁ、あれぐらいはね…」","Well, that's about it …","Ну вот и все…","Nun, das war es …"
+000003b4,36,"「私、運動苦手だから、感心しちゃう」","I'm not good at exercising, so I'm impressed.","«Я не умею тренироваться, поэтому я впечатлен».","Ich bin nicht gut im Trainieren, also bin ich beeindruckt."
+00000448,28,"「柚ノ木さんって、運動は…」","Yuzunogi-san is exercising …","Юзуноги-сан тренируется…","„Yuzunogi-san trainiert …“"
+000005f4,26,"「ははは、そうだったんだ」","Haha, that's right.","«Ха-ха, верно».","Haha, das stimmt."
+000006f4,36,"「夏の体育って、暑くて大変だよね～」","Summer physical education is hot and difficult, isn't it?","«Летняя физкультура жаркая и трудная, не так ли?»","Der Sportunterricht im Sommer ist heiß und schwierig, nicht wahr?"
+00000834,26,"「一番苦手な運動って何？」","What is your weakest exercise?","«Какое ваше самое слабое упражнение?»","Was ist deine schwächste Übung?"
+00000950,28,"「できるようになったんだ？」","You can do it now?","— Ты можешь сделать это сейчас?","Du kannst es jetzt tun?"
+00000ab4,34,"「ちゃ、ちゃんと体操服着てたわよ」","Cha, I wore gym clothes properly.","«Ча, я правильно носил спортивную одежду».","Cha, ich habe richtig Sportklamotten getragen."
+00000af8,14,"「そ、そっか」","Oh, that's right","О, это правильно","Oh, das stimmt"
+00000b64,16,"「もう…エッチ」","Already … etch","Уже… травится","Schon … ätzen"
+00000be4,20,"「この間、体育で…」","During this time, in physical education …","«За это время в физкультуре…»","Während dieser Zeit im Sportunterricht …"
+00000c3c,30,"「フフッ、夏の体育は大変よね」","Huh, summer physical education is hard, isn't it?","«Хм, летняя физкультура — это тяжело, не так ли?»","Huh, Sportunterricht im Sommer ist hart, nicht wahr?"
+00000d58,30,"「う～ん…バレーボールかなぁ」","Hmm … I wonder if it's volleyball.","Хм… Интересно, это волейбол?","Hmm … ich frage mich, ob es Volleyball ist."
+00000fd0,38,"「ふうん、そうなんだ。活発だったのね」","Yeah, that's right. It was active.","«Да, верно. Он был активен».","Ja, das stimmt. Es war aktiv."
+000012a8,32,"「好きなスポーツって何かある？」","What is your favorite sport?","Какой твой любимый спорт?","Was ist dein Lieblingssport?"
+00001614,40,"「まぁ、それなりに。止まるのヘタだけど」","Well, that's it. It's just a stop.","— Ну вот и все. Это просто остановка.","Nun, das ist es. Es ist nur eine Haltestelle."
+0000168c,34,"「すご～い。冬になったら教えてね」","Wow. Tell me when it's winter.","«Вау. Скажи мне, когда будет зима».","Wow. Sag mir, wann es Winter ist."
+000016f0,18,"「運動と言えば…」","Speaking of exercise …","«Кстати, об упражнении…»","Apropos Übung …"
+000018ec,30,"「ＤＸ合体？　なぁに？　それ」","DX union? What? That","«DX-союз? Что? Это»","DX-Union? Was? Das"
+0000192c,38,"「あぁあ、な、何でもない。こっちの話」","Ah, no, nothing. This story.","Ах, нет, ничего. Эта история.","Ah, nein, nichts. Diese Geschichte."
+000019b0,10,"「そう？」","yes?","да?","Jawohl?"
+000019e8,30,"（やばいやばい、口に出てたよ）","(No, no, it was in my mouth)","(Нет, нет, это было у меня во рту)","(Nein, nein, es war in meinem Mund)"
+00001a48,22,"「懸垂って難しいよね」","It's difficult to hang up, isn't it?","Трудно повесить трубку, не так ли?","Es ist schwer aufzulegen, nicht wahr?"
+00001abc,18,"「そうなのよね～」","That's right ~","Правильно~","Das ist richtig ~"
+00001e4c,34,"「あ、ごめん、ゆっくり行こうか？」","Oh, sorry, let's go slowly?","— Ой, извините, давай потихоньку?","Oh, Entschuldigung, lass uns langsam gehen?"
+00001fc8,36,"「運動が出来る女性って、憧れるわ～」","I long for women who can exercise","«Я жажду женщин, которые могут заниматься спортом»","„Ich sehne mich nach Frauen, die Sport treiben können“"
+000020b4,26,"「そ、そう？　よかった…」","Well, that's right … I'm glad …","Ну, так и есть… Я рад…","Nun, das ist richtig … ich bin froh …"
+0000213c,30,"「体育で一番苦手なのって何？」","What is your weakest point in physical education?","«Какое ваше самое слабое место в физкультуре?»","Was ist Ihr schwächster Punkt im Sportunterricht?"
+000021b8,18,"「ソフトボールよ」","Softball","Софтбол","Weicher Ball"
+000024dc,14,"「運動って…」","Exercise …","Упражнение …","Übung …"
+00002548,36,"「そうね、私も体を動かすのは好きよ」","Well, I also like to move.","«Ну, я тоже люблю двигаться».","Nun, ich bewege mich auch gerne."
+0000273c,32,"「ええ、私じゃ、絶対無理だもの」","Yes, I can't do it.","«Да, я не могу этого сделать».","Ja, ich kann es nicht."
+00002934,18,"「へ～っ、そっか」","Hey, that's right","Эй, верно","Hey, das stimmt"
+000029f4,36,"「そうね～。私じゃ、絶対無理だもの」","That's right. I can't do it.","«Правильно. Я не могу этого сделать».","Das ist richtig. Ich kann es nicht tun."
+00002abc,30,"「体育で一番得意なのって何？」","What are you most good at in physical education?","«Что у тебя лучше всего получается в физкультуре?»","Was kannst du im Sportunterricht am besten?"
+00002b2c,12,"「応援…ね」","Support …","Поддерживать …","Die Unterstützung …"
+00002b68,38,"「ははは、本当に運動が苦手なんだなぁ」","Haha, I'm really bad at exercising.","«Ха-ха, я действительно плохо тренируюсь».","Haha, ich bin wirklich schlecht im Sport."
+00002c9c,38,"「春の体育祭では、何の種目に出たの？」","What kind of event did you participate in at the spring sports festival?","«В каком мероприятии вы участвовали на весеннем спортивном празднике?»","An welcher Art von Veranstaltung haben Sie beim Frühlingssportfest teilgenommen?"
+00002d04,42,"「…障害物リレーの、スプーン競争のところ」","… the place of the spoon competition of the obstacle relay","…место соревнований ложек эстафеты препятствий","… der Ort des Löffelwettkampfes der Hindernisstaffel"
+00002dac,28,"「ああ、料理が出来るから？」","Oh, can you cook?","— О, ты умеешь готовить?","Oh, kannst du kochen?"
+00002e78,12,"「結果は？」","Result is?","Результат?","Ergebnis ist?"
+00002fdc,10,"「ははは」","Hahaha","Хахаха","Hahaha"
+00003028,24,"「スポーツの秋だけど…」","It's autumn for sports …","Спортивная осень…","Es ist Herbst für den Sport …"
 000004c4,53,"「苦手なの。走るのも遅いし、
-　俊敏な方じゃないから」","","",""
+　俊敏な方じゃないから」","I'm not good at it. It's slow to run and it's slow.
+I'm not an agile person. ","«Я не силен в этом. Медленно бежит, и это медленно.
+Я не подвижный человек».","„Ich bin nicht gut darin. Es ist langsam zu laufen und es ist langsam.
+Ich bin kein agiler Mensch.“"
 0000053c,73,"「小さいころ、みんなで縄跳びやっても、
-　私がいつも引っかかっちゃって…」","","",""
+　私がいつも引っかかっちゃって…」","When I was little, even if everyone jumped rope,
+I always got caught … ","«Когда я был маленьким, даже если все прыгали через скакалку,
+Меня всегда ловили…»","Als ich klein war, auch wenn alle Seil gesprungen sind,
+Ich wurde immer erwischt … "
 0000066c,69,"「けど、体を動かすのは好きよ。
-　のんびり泳いだり、トスバレーしたり」","","",""
+　のんびり泳いだり、トスバレーしたり」","But I like to move.
+Swim leisurely or toss valley 」","Но я люблю двигаться.
+Неторопливо плывите или бросайте долину 」","„Aber ich bewege mich gerne.
+Schwimmen Sie gemächlich oder werfen Sie sich ins Tal 」"
 00000778,57,"「そうね～、立ってるだけでも、
-　汗が出てきちゃうものね」","","",""
+　汗が出てきちゃうものね」","Well, just standing up
+Sweat will come out 」","Ну, просто встал
+Пот выйдет 」","„Nun, steh einfach auf
+Schweiß kommt heraus 」"
 000008ac,67,"「鉄棒…。逆上がりを覚えるのに、
-　すっごく時間がかかったんだから」","","",""
+　すっごく時間がかかったんだから」","Horizontal bar … Even though I remember the back hip circle
+It took a lot of time. ","Турник… Хоть я и помню круг бедрами сзади
+Это заняло много времени».","„Horizontaler Balken … Obwohl ich mich an den hinteren Hüftkreis erinnere
+Es hat viel Zeit gekostet."
 000009bc,55,"「スカートを巻き付けて練習してるうちに、
-　なんとかね」","","",""
+　なんとかね」","While practicing with a skirt wrapped around,
+Somehow ","«Пока тренируюсь с обернутой вокруг юбкой,
+Как-то ","Beim Üben mit einem um den Rock gewickelten Rock,
+Irgendwie "
 00000a14,57,"「ス、スカート巻き付けてって、
-　それじゃパンツ丸出し…」","","",""
+　それじゃパンツ丸出し…」","Su, wrap your skirt around
+Then the pants are exposed … ","«Су, оберни юбку
+Потом штаны обнажаются…»","„Su, wickle deinen Rock herum
+Dann wird die Hose freigelegt … "
 00000cd8,61,"「運動が得意だったら、やってみたかった
-　スポーツってある？」","","",""
+　スポーツってある？」","If I was good at exercising, I wanted to try it.
+Is there sports? ","«Если я хорошо тренировался, я хотел попробовать.
+Есть спорт? ","„Wenn ich gut trainieren konnte, wollte ich es versuchen.
+Gibt es Sport? "
 00000e00,65,"「高～くジャンプして、スパイクを決めるの。
-　かっこいいわよね～」","","",""
-00000ef0,36,"「\p01君って、スポーツは得意な方？」","","",""
+　かっこいいわよね～」","Jump high and decide on spikes.
+It's cool ~ ","«Прыгай высоко и выбирай шипы.
+Это круто~","„Spring hoch und entscheide dich für Spikes.
+Es ist cool ~ "
 00000f44,61,"「そうでもないけど、サッカーは小学生のころ
-　よくやったなぁ」","","",""
+　よくやったなぁ」","Not really, but soccer was when I was in elementary school
+I did it well. ","«Не совсем, но футбол был, когда я учился в начальной школе.
+Я сделал это хорошо».","„Nicht wirklich, aber Fußball war, als ich in der Grundschule war
+Ich habe es gut gemacht."
 000010a0,108,"「ののちゃんって運動神経のかたまりよね～。
 　バスケットでも、バレーボールでも、
-　何でも出来ちゃうんだもん」","","",""
+　何でも出来ちゃうんだもん」","Nono-chan is a mass of motor nerves, isn't it?
+Whether it's basketball or volleyball
+You can do anything. ","— Ноно-тян — это масса двигательных нервов, не так ли?
+Будь то баскетбол или волейбол
+Ты можешь делать что угодно. ","Nono-chan ist eine Ansammlung motorischer Nerven, nicht wahr?
+Egal ob Basketball oder Volleyball
+Du kannst alles machen. "
 00001190,61,"「下手したら、部で毎日練習してるヤツらより
-　うまいからなぁ」","","",""
+　うまいからなぁ」","If you're not good, from the guys who practice every day in the club
+It ’s good. ”","«Если ты не хорош, от парней, которые каждый день тренируются в клубе
+Это хорошо. ","„Wenn du nicht gut bist, von den Jungs, die jeden Tag im Club trainieren
+Das ist gut. "
 0000121c,63,"「うん、体育で対戦する時なんか、
-　部の子たちは真剣勝負みたい」","","",""
+　部の子たちは真剣勝負みたい」","Yeah, when I play in physical education,
+The children of the club seem to be seriously fighting 」","Ага, когда я играю на физкультуре,
+Дети клуба, кажется, серьезно дерутся 」","Ja, wenn ich im Sportunterricht spiele,
+Die Kinder des Clubs scheinen sich ernsthaft zu streiten 」"
 00001328,96,"「みんなで遊べるスポーツが好きよ。
 　夏だと、海へ行ったり、
-　冬だと、スケートとか、スキーとか」","","",""
+　冬だと、スケートとか、スキーとか」","I like sports that everyone can play with.
+In summer, I went to the sea,
+In winter, skating, skiing, etc. ","«Мне нравятся виды спорта, в которые может играть каждый.
+Летом я ездил на море,
+Зимой на коньках, на лыжах и т. д.»","„Ich mag Sportarten, die jeder mitmachen kann.
+Im Sommer ging ich ans Meer,
+Im Winter Schlittschuhlaufen, Skifahren etc.“"
 0000140c,49,"「スキーが好きなんだ。
-　スノーボードじゃなく？」","","",""
+　スノーボードじゃなく？」","I like skiing.
+Isn't it snowboarding? ","Мне нравится кататься на лыжах.
+Разве это не сноубординг? ","Ich mag Ski fahren.
+Ist es nicht Snowboarden? "
 0000148c,79,"「スノーボードは両足の自由が利かないから、
-　怖くて。私、バランス感覚弱いから」","","",""
+　怖くて。私、バランス感覚弱いから」","Snowboarding doesn't have the freedom of both feet,
+ scared. I have a weak sense of balance. ","«В сноуборде нет свободы обеих ног,
+ напугана. У меня слабое чувство равновесия».","Snowboarden hat nicht die Freiheit beider Füße,
+ erschrocken. Ich habe einen schwachen Gleichgewichtssinn."
 0000153c,49,"「ああ、わかるわかる。
-　最初はちょっと怖いよね」","","",""
-000015cc,38,"「\p01君は、滑れるの？　スノーボード」","","",""
+　最初はちょっと怖いよね」","Oh, I understand.
+It ’s a little scary at first, is n’t it? ”","О, я понимаю.
+Сначала немного страшно, не так ли?»","Oh, ich verstehe.
+Am Anfang ist es ein bisschen beängstigend, oder?“"
 00001744,73,"「フフッ、私も、なるべく運動しなきゃって
-　思ってるんだけど、なかなかね」","","",""
+　思ってるんだけど、なかなかね」","Huh, I also have to exercise as much as possible.
+I'm thinking, but it's pretty good. ","«Ха, мне тоже нужно как можно больше тренироваться.
+Я думаю, но это довольно хорошо».","„Hm, ich muss mich auch so viel wie möglich bewegen.
+Ich denke, aber es ist ziemlich gut."
 00001840,90,"「ＤＸ合体…か。あいつら、意外と
 　運動神経いいよなぁ。水着を撮りたい
-　一心ってヤツか？」","","",""
+　一心ってヤツか？」","DX union …? They are surprisingly
+Motor nerves are good. I want to take a swimsuit
+Is it the one with all one's heart? ","DX union…? Они на удивление
+Двигательные нервы в порядке. я хочу взять купальник
+Это тот, от всего сердца? ","DX Union …? Sie sind überraschend
+Motorische Nerven sind gut. Ich möchte einen Badeanzug nehmen
+Ist es der mit ganzem Herzen? "
 00001b1c,104,"「自分の体を持ち上げられないなんて、
 　どうかと思うから、せめて１回は
-　出来るようになりたいんだけど…」","","",""
+　出来るようになりたいんだけど…」","I can't lift my body
+I don't know, at least once
+I want to be able to do it … ","«Я не могу поднять свое тело
+Я не знаю, по крайней мере один раз
+Я хочу уметь это делать…»","„Ich kann meinen Körper nicht heben
+Ich weiß nicht, mindestens einmal
+Ich will es können…"
 00001bfc,65,"「出来ない女の子って結構いるし、
-　気にしなくていいんじゃない？」","","",""
+　気にしなくていいんじゃない？」","There are quite a few girls who can't do it,
+You don't have to worry about it, right? ","«Есть довольно много девушек, которые не могут этого сделать,
+Вам не нужно беспокоиться об этом, верно? ","Es gibt ziemlich viele Mädchen, die das nicht können,
+Du musst dir keine Sorgen machen, oder? "
 00001c9c,53,"「そうかな？　……うん、
-　じゃあ、気にしないでおく」","","",""
-00001d74,80,"「フフッ、\p01君って、
-　歩くの速いわよね。
-　普通に歩いてると、少し遅れちゃう」","","",""
+　じゃあ、気にしないでおく」","Is that so? … Yeah,
+Then, don't worry about it. ","Это так?… Ага,
+Тогда не беспокойтесь об этом».","Ist das so? … Ja,
+Dann mach dir keine Sorgen."
 00001ec0,55,"「ううん、そのままでいい。
-　ついて行くの、楽しいから」","","",""
+　ついて行くの、楽しいから」","Yeah, you can leave it as it is.
+It ’s fun to follow you. ”","Да, можно оставить как есть.
+Приятно следить за тобой».","„Ja, du kannst es so lassen wie es ist.
+Es macht Spaß, dir zu folgen.“"
 0000201c,67,"「そう？　俺は、ちょっと出来ないぐらいが、
-　かわいいと思うけど？」","","",""
+　かわいいと思うけど？」","Yes? I can't do it for a while,
+I think it's cute? ","Да? Я не могу сделать это некоторое время,
+Я думаю, это мило? ","Ja? Ich kann es eine Weile nicht tun,
+Ich denke, es ist süß? "
 00002218,77,"「どんなにゆっくり投げてもらっても、
-　バットにボールが当たったことがないの」","","",""
+　バットにボールが当たったことがないの」","No matter how slowly you throw it
+The ball has never hit the bat. ","«Как бы медленно ты ни бросал
+Мяч ни разу не попал в биту».","„Egal wie langsam du es wirfst
+Der Ball hat noch nie den Schläger getroffen.“"
 0000230c,47,"「軽々打ち返すののちゃんって、
-　すごいと思う」","","",""
+　すごいと思う」","I'm gonna hit you back lightly
+I think it's amazing ","«Я ударю тебя в ответ слегка
+Я думаю, это потрясающе»","„Ich werde dich leicht zurückschlagen
+Ich finde es erstaunlich“"
 00002388,49,"「何か、２人でできる運動があれば、
-　いいよね～」","","",""
+　いいよね～」","If there is any exercise that two people can do,
+It's good ~ ","«Если есть какое-нибудь упражнение, которое могут выполнить два человека,
+Это хорошо~","„Wenn es eine Übung gibt, die zwei Personen machen können,
+Es ist gut ~ "
 00002414,55,"「うん、そうね。楽しくできることがあれば
-　いいわよね」","","",""
+　いいわよね」","Yeah, yeah. If there is something you can enjoy
+It ’s good, is n’t it? ”","«Да, да. Если есть что-то, чем ты можешь наслаждаться
+Это хорошо, не так ли?»","Ja, ja. Wenn es etwas gibt, das Sie genießen können
+Es ist gut, nicht wahr?“"
 000025ec,51,"「体育館で踊ってる舞衣ちゃんって、
-　きれいよね～」","","",""
+　きれいよね～」","Mai-chan dancing in the gymnasium
+It's beautiful, isn't it? ","Май-чан танцует в спортзале,
+Красиво, не правда ли?»","„Mai-chan tanzt in der Turnhalle
+Es ist wunderschön, oder?"
 000026a4,71,"「そうだね～。体操や、新体操が出来る人って
-　本当に運動神経がいいよね」","","",""
+　本当に運動神経がいいよね」","That's right. People who can do gymnastics and rhythmic gymnastics
+I really like motor nerves 」","Правильно. Люди, которые могут заниматься гимнастикой и художественной гимнастикой
+Мне очень нравятся двигательные нервы 」","Das stimmt. Leute, die Turnen und rhythmische Sportgymnastik können
+Ich mag die motorischen Nerven sehr 」"
 00002818,53,"「柚ノ木さんって、舞衣ちゃんのこと
-　知ってるんだ？」","","",""
+　知ってるんだ？」","Yuzunogi-san is Mai-chan.
+Do you know? ","«Юзуноги-сан — это Май-тян.
+Вы знаете? ","„Yuzunogi-san ist Mai-chan.
+Wissen Sie? "
 00002894,57,"「ええ、もちろん。時々、料理研究会にも
-　来てくれるのよ」","","",""
+　来てくれるのよ」","Yes, of course. Sometimes, even at cooking study groups
+Will you come? ","— Да, конечно. Иногда даже на кулинарных кружках
+Ты придешь? ","„Ja, natürlich. Manchmal sogar in Kochkreisen
+Wirst du kommen? "
 00002968,61,"「体操や、新体操が出来る人って、
-　本当に運動神経がいいよね」","","",""
+　本当に運動神経がいいよね」","People who can do gymnastics and rhythmic gymnastics
+I really like the motor nerves 」","«Люди, которые могут заниматься гимнастикой и художественной гимнастикой
+Мне очень нравятся двигательные нервы」","„Menschen, die Turnen und rhythmische Sportgymnastik können
+Ich mag die motorischen Nerven sehr 」"
 00002bec,65,"「だって、どんな競技も難しいんだもの。
-　いつもののちゃん任せよ」","","",""
+　いつもののちゃん任せよ」","Because any competition is difficult.
+Leave it to your usual chan ","«Потому что любые соревнования — это сложно.
+Оставь это своему обычному тяну»","„Weil jeder Wettbewerb schwierig ist.
+Überlassen Sie es Ihrem üblichen Chan "
 00002e0c,63,"「そう。料理研究会なら、
-　スプーンを使うのもうまいだろうって」","","",""
+　スプーンを使うのもうまいだろうって」","Yes. If it's a cooking study group,
+It would be good to use a spoon. ","Да. Если это группа по изучению кулинарии,
+Хорошо бы воспользоваться ложкой».","Ja. Wenn es eine Koch-Lerngruppe ist,
+Es wäre gut, einen Löffel zu benutzen."
 00002ed4,57,"「何度もピンポン球を落っことして、
-　ビリになっちゃった」","","",""
+　ビリになっちゃった」","I dropped the ping-pong ball many times,
+I've become a bummer 」","«Я много раз ронял шарик для пинг-понга,
+Я стал обломком」","Ich habe den Tischtennisball viele Male fallen lassen,
+Ich bin ein Mistkerl geworden 」"
 00002f68,71,"「あんな風にスプーンを使ったことなんか
-　ないんだから、仕方ないわよぉ」","","",""
+　ないんだから、仕方ないわよぉ」","I used a spoon like that.
+It can't be helped because it can't be helped. ","«Я использовал такую ложку.
+Этому нельзя помочь, потому что ему нельзя помочь».","„Ich habe so einen Löffel benutzt.
+Es kann nicht geholfen werden, weil es nicht geholfen werden kann."
 00003094,61,"「フフッ、そうよね。文化系の部は、
-　あんまり関係ないものね」","","",""
+　あんまり関係ないものね」","Huh, that's right. The cultural department is
+It doesn't really matter. ","Ха, верно. Отдел культуры
+Это не имеет большого значения».","„Hm, stimmt. Die Kulturabteilung schon
+Es ist eigentlich egal."

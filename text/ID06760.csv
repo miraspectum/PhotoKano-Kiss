@@ -1,51 +1,70 @@
-00000198,42,"「うぅ…どうしよう、ずっとあそこにいる～」","","",""
-000001f4,24,"「早くどこかへ行って～」","","",""
-0000023c,28,"「柚ノ木さん、どうしたの？」","","",""
-000002d4,14,"「あ、\p01君」","","",""
+00000198,42,"「うぅ…どうしよう、ずっとあそこにいる～」","Oh, I'm there forever.","- О, я там навсегда.","Oh, ich bin für immer da."
+000001f4,24,"「早くどこかへ行って～」","Go to somewhere early","Перейти куда-то рано","Go to some early"
+0000023c,28,"「柚ノ木さん、どうしたの？」","“How did you do it?”","— Как ты это сделал? »","„Wie hast du das gemacht? „"
 000003f8,77,"「教室のゴミを捨てに来たんだけど、
-　ゴミ捨て場の前に、大きなカラスがいて…」","","",""
+　ゴミ捨て場の前に、大きなカラスがいて…」","I came to throw away the garbage of the
+classroom, but there is a big cara…","«Я пришел, чтобы выбросить мусор класса, но есть
+большая кара…»","Ich kam, um den Müll des Klassenzimmers
+wegzuwerfen, aber es gibt eine große Cara…"
 000004fc,45,"「私が近寄ると、ギロッ！　って
-　にらむの～」","","",""
-000005b4,24,"「怖くて近寄れなくて…」","","",""
+　にらむの～」","When I get close, I'll go! I'll go!","«Когда я закроюсь, я пойду! Я пойду!","Wenn ich näher komme, gehe ich! Ich werde
+gehen!"
+000005b4,24,"「怖くて近寄れなくて…」","I'm scared and I'm not approaching …","Я боюсь, и я не приближаюсь …","Ich habe Angst und ich nähere mich nicht…"
 00000630,55,"「そっか…新しいゴミが来るのを
-　待ち構えてるのかもね」","","",""
-0000069c,22,"「ううぅ…どうしよう」","","",""
-00000718,30,"「俺が捨ててきてあげようか？」","","",""
-00000780,28,"「本当？　あ…けど、悪いわ」","","",""
+　待ち構えてるのかもね」","“Well… Maybe you can wait for new garbage to
+come.”","«Ну… Может быть, вы можете дождаться, чтобы
+новый мусор пришел. »","„Nun… Vielleicht kannst du warten, bis neuer
+Müll kommt. „"
+0000069c,22,"「ううぅ…どうしよう」","Well, let's do it!","- Ну, давай!","Nun, machen wir's!"
+00000718,30,"「俺が捨ててきてあげようか？」","I'm throwing away?","- Я бросаю?","Ich werfe weg?"
+00000780,28,"「本当？　あ…けど、悪いわ」","Are you true?","- Ты правда?","Sind Sie wahr?"
 00000818,67,"「カラスぐらい男の俺が行けば、
-　どっか飛んでいくよ。大丈夫だって」","","",""
-000008b8,12,"「本当に？」","","",""
-00000920,26,"「お願いしても…いいの？」","","",""
-00000964,12,"「もちろん」","","",""
-000009d0,14,"「ありがとう」","","",""
-00000a08,32,"「そこに置いてあるゴミ箱だよね」","","",""
-00000a7c,26,"「ええ。ごめんね、\p01君」","","",""
-00000acc,20,"「すぐ捨ててくるよ」","","",""
-00000b5c,28,"「おらっ！　どっか行けっ！」","","",""
+　どっか飛んでいくよ。大丈夫だって」","“If you go to me, you will fly. 」","«Если вы идете ко мне, вы будете летать. 」","„Wenn du zu mir gehst, wirst du fliegen. !"
+000008b8,12,"「本当に？」","“Really?”","— Реально? »","„Wirklich? „"
+00000920,26,"「お願いしても…いいの？」","“You can ask… right?”","- Вы можете спросить… правильно? »","„Du kannst dich fragen… richtig? „"
+00000964,12,"「もちろん」","Of course","Конечно","Natürlich"
+000009d0,14,"「ありがとう」","Thank you","Спасибо","Danke."
+00000a08,32,"「そこに置いてあるゴミ箱だよね」","“It’s a trash box in it.”","«В ней мусорная коробка. »","„Es ist eine Müllbox darin. „"
+00000acc,20,"「すぐ捨ててくるよ」","I'll throw away soon!","- Я скоро брошу!","Ich werde bald wegwerfen!"
+00000b5c,28,"「おらっ！　どっか行けっ！」","Oh! I can go!","О! Я могу пойти!","Oh, ich kann gehen!"
 00000bc8,47,"（ふてぶてしいなぁ、
-　ちょっとよけただけかよ）","","",""
+　ちょっとよけただけかよ）","(Well, it's a little bit ok)","(Ну, это немного в порядке)","(Nun, es ist ein wenig ok)"
 00000c24,55,"（カラスに荒らされないように、
-　きちんと捨てないとな）","","",""
-00000cd0,28,"「捨ててきたよ、柚ノ木さん」","","",""
-00000d40,43,"「ありがとう～、\p01君。
-　怖くなかった？」","","",""
-00000de0,10,"「べつに」","","",""
-00000e38,34,"「けど、襲ってきたらどうするの？」","","",""
-00000f40,26,"「そんなこと滅多にないよ」","","",""
-00000fb8,22,"「それはそうだけど…」","","",""
+　きちんと捨てないとな）","(Don’t discard it properly so that it doesn’t get
+rough)","(Не отключите его правильно, чтобы он не получил
+грубого)","(Verwerfen Sie es nicht richtig, damit es nicht
+rau wird)"
+00000cd0,28,"「捨ててきたよ、柚ノ木さん」","I've been thrown away, Mr. Yunoki","«Я отброшен, г-н Юноки»","Ich wurde weggeworfen, Mr. Yunoki"
+00000de0,10,"「べつに」","」","」","!"
+00000e38,34,"「けど、襲ってきたらどうするの？」","How do I do when I hit?","- Как мне делать, когда я ударил?","Wie mache ich, wenn ich treffe?"
+00000f40,26,"「そんなこと滅多にないよ」","“I don’t have to worry about it.”","- Мне не нужно беспокоиться об этом. »","„Ich muss mich nicht darum kümmern. „"
+00000fb8,22,"「それはそうだけど…」","It's so…","«Это так…»","Es ist so…"
 00000ff8,57,"「まぁ、男だからね。
-　カラスなんかに怖がってられないよ」","","",""
-00001090,24,"「そっか。頼もしいのね」","","",""
-000010fc,28,"「その時は、全力で逃げる！」","","",""
-00001164,24,"「フフッ、\p01君ったら」","","",""
-00001204,38,"「カラス殺法で血祭りに上げてやるよ！」","","",""
+　カラスなんかに怖がってられないよ」","“I’m a man. I can't be scared of something like a
+charas.","- Я мужчина. Я не могу бояться чего-то подобного
+хараса.","„Ich bin ein Mann. Ich kann keine Angst haben vor
+etwas wie einem Charas."
+00001090,24,"「そっか。頼もしいのね」","。","。","。"
+000010fc,28,"「その時は、全力で逃げる！」","At that time, I will run with my best!","В то время я буду бегать с моим лучшим!","Zu dieser Zeit werde ich mit meinem Besten
+laufen!"
+00001204,38,"「カラス殺法で血祭りに上げてやるよ！」","“We will raise the blood festival with the
+carrass killing method!”","«Мы поднимем кровяный фестиваль с методом
+убийства каррасов!»","„Wir werden das Blutfestival mit der
+Carrass-Tötungsmethode aufziehen!“"
 00001294,67,"「カラス殺法？　そんなのがあるの？
-　カラスに必ず勝てる拳法とか？」","","",""
+　カラスに必ず勝てる拳法とか？」","Karasu killing method? Is there such a thing? Is
+there a fist method that can win in Karas?","Карасу убивает метод? Есть ли такая вещь?
+Существует ли метод фиста, который может выиграть
+в Карасе?","Karasu-Tötungsmethode? Gibt es so etwas? Gibt es
+eine Faustmethode, die in Karas gewinnen kann?"
 00001390,57,"「…いや、そんなのないから。
-　冗談を真に受けられても…」","","",""
-00001430,28,"「じょ、冗談なの？　もう…」","","",""
+　冗談を真に受けられても…」","…I don't. Even if the談 is truly received …","…Я не. Даже если 談 действительно получил …","…ich nicht. Auch wenn die … wirklich
+empfangen wird …"
+00001430,28,"「じょ、冗談なの？　もう…」","I'm a談? It's a…","- Я? Это…","Ich bin a談? Es ist ein…"
 000014f0,59,"「アチョー、アチョーって、
-　カラスと戦うのかと思ったわよ」","","",""
-000015b0,28,"「ははは、そんな訳ないって」","","",""
-0000160c,38,"「さ、ゴミも捨てたし、教室へ戻ろうか」","","",""
-00001690,16,"「ええ、そうね」","","",""
+　カラスと戦うのかと思ったわよ」","“I thought that Acho, Acho, fighting Karas.”","«Я думал, что Ахо, Ачо, боевые Карас. »","„Ich dachte, Acho, Acho, kämpfe gegen Karas. „"
+000015b0,28,"「ははは、そんな訳ないって」","“I don’t know that.”","- Я не знаю, что. »","„Das weiß ich nicht. „"
+0000160c,38,"「さ、ゴミも捨てたし、教室へ戻ろうか」","Let’s throw away garbage and return to the
+classroom","Отбрасываем мусор и возвращаемся в класс","Lassen Sie uns Müll wegwerfen und in den
+Klassenzimmer zurückkehren"
+00001690,16,"「ええ、そうね」","Yes, it is.","- Да, это.","Ja, das ist es."

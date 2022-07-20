@@ -1,43 +1,60 @@
-00000138,18,"「あ、柚ノ木さん」","","",""
-0000026c,20,"「本を探してるの？」","","",""
-000002d4,8,"「ええ」","","",""
-00000314,36,"「どんな本？　あ、料理の本か何か？」","","",""
-00000378,22,"「ううん、犬か猫の本」","","",""
-000003f0,12,"「犬か猫？」","","",""
+00000138,18,"「あ、柚ノ木さん」","A, Yuzunoki-san","А, Юзуноки-сан","A, Yuzunoki-san"
+0000026c,20,"「本を探してるの？」","“Who are you looking for a book?”","«Кто ищете книгу? »","„Wer suchen Sie nach einem Buch? „"
+000002d4,8,"「ええ」","Home","Начало","Home"
+00000314,36,"「どんな本？　あ、料理の本か何か？」","“What is the book?”","— Что такое книга? »","„Was ist das Buch? „"
+00000378,22,"「ううん、犬か猫の本」","“Yes, I love dogs or cats.”","«Да, я люблю собак или кошек. »","„Ja, ich liebe Hunde oder Katzen. „"
+000003f0,12,"「犬か猫？」","Dog or Cat","Собака или кошка","Hund oder Katze"
 0000044c,61,"「ええ。うちって、お父さんが
-　ペット嫌いだから、飼えないの」","","",""
+　ペット嫌いだから、飼えないの」","Home I don’t want to keep my  because I don’t
+like it.”","Главная Я не хочу держать меня, потому что мне
+это не нравится. »","Home Ich will mich nicht halten, weil ich es
+nicht mag. „"
 000004e8,53,"「それで、本を見て、
-　飼ってる気分になろうかなって」","","",""
-00000578,36,"「\p01君は、犬と猫、どっちが好き？」","","",""
-000005d4,8,"「え…」","","",""
-00000690,10,"「犬かな」","","",""
+　飼ってる気分になろうかなって」","“So, I look at the book and feel like I’m
+keeping.”","«Так, я смотрю на книгу и чувствую, что я
+сохраняю. »","„Ich schaue mir das Buch an und fühle mich wie
+ich. „"
+000005d4,8,"「え…」","」","」","!"
+00000690,10,"「犬かな」","Dog","Собака","Hund"
 000006f8,55,"「そうなんだ～。
-　かわいいわよね、犬って。私も大好き」","","",""
-000007cc,40,"「猫も好きだけど、飼うなら絶対犬かなぁ」","","",""
-00000868,10,"「猫かな」","","",""
-000008d0,40,"「そうなんだ。私も好きよ、かわいくって」","","",""
-0000096c,30,"「けど、飼うなら犬の方かなぁ」","","",""
-000009d0,20,"「どっちも好きだよ」","","",""
-00000a44,28,"「あ～っ、優柔不断なんだぁ」","","",""
+　かわいいわよね、犬って。私も大好き」","It's right. It’s cute. I love","Это правильно. Это мило. Я люблю","Es stimmt. Es ist süß. Ich liebe"
+000007cc,40,"「猫も好きだけど、飼うなら絶対犬かなぁ」","“I like cats, but I’m a dog if I want to keep
+it.”","«Мне нравятся кошки, но я собака, если я хочу
+сохранить ее. »","„Ich mag Katzen, aber ich bin ein Hund, wenn ich
+es behalten will. „"
+00000868,10,"「猫かな」","「Cat」","「Cat」","ZEITSCHRIFTEN"
+000008d0,40,"「そうなんだ。私も好きよ、かわいくって」","That’s right. I also like it, I'm cute.","Это правильно. Мне тоже нравится, я милый.","Das stimmt. Mir gefällt es auch, ich bin süß."
+0000096c,30,"「けど、飼うなら犬の方かなぁ」","But if you want to keep a dog?","- Но если хочешь держать собаку?","Aber wenn du einen Hund behalten willst?"
+000009d0,20,"「どっちも好きだよ」","“I love it.”","«Я люблю это. »","„Ich liebe es. „"
+00000a44,28,"「あ～っ、優柔不断なんだぁ」","Oh, it's a good sever.","«О, это хороший сувер».","Oh, es ist ein guter Segen."
 00000a8c,51,"「そう言う、柚ノ木さんは、
-　どっちが好きなんだよ」","","",""
-00000b0c,20,"「私もどっちも好き」","","",""
-00000b44,30,"「人のこと言えないじゃないか」","","",""
-00000bac,42,"「フフッ、だってどっちもかわいいんだもん」","","",""
-0000096c,30,"「けど、飼うなら犬の方かなぁ」","","",""
-00000ccc,14,"「どうして？」","","",""
-00000d38,26,"「一緒にお散歩できるから」","","",""
+　どっちが好きなんだよ」","“Yuzunoki says that he likes it”","«Юзуноки говорит, что ему нравится»","„Yuzunoki sagt, dass er es mag“"
+00000b0c,20,"「私もどっちも好き」","“I love both me and me”","«Я люблю меня и меня»","„Ich liebe mich und mich“"
+00000b44,30,"「人のこと言えないじゃないか」","“I can’t say people.”","- Я не могу сказать людям. »","„Ich kann keine Menschen sagen. „"
+00000bac,42,"「フフッ、だってどっちもかわいいんだもん」","Fフ, I'm really cute.","ФБ, я действительно милый.","Ich bin wirklich süß."
+0000096c,30,"「けど、飼うなら犬の方かなぁ」","But if you want to keep a dog?","- Но если хочешь держать собаку?","Aber wenn du einen Hund behalten willst?"
+00000ccc,14,"「どうして？」","How do you do it?","Как это сделать?","Wie machst du das?"
+00000d38,26,"「一緒にお散歩できるから」","“You can walk together.”","«Вы можете ходить вместе. »","„Du kannst zusammen gehen. „"
 00000db8,57,"「私、ぽかぽかした暖かい日に、
-　散歩するのが大好きなの」","","",""
+　散歩するのが大好きなの」","I love to walk on a warm day.","«Я люблю ходить в теплый день».","Ich liebe es, an einem warmen Tag zu gehen."
 00000e4c,77,"「犬なら、いくらでもつき合ってくれる
-　じゃない？　犬はお散歩、大好きだもの」","","",""
-00000f10,20,"「ははは、そうだね」","","",""
+　じゃない？　犬はお散歩、大好きだもの」","“If you’re a dog, don’t you get enough of it?”
+Dogs are a walk and love.","«Если ты собака, не хватишь этого?» Собаки - это
+прогулка и любовь.","„Wenn du ein Hund bist, hast du nicht genug
+davon?“ Hunde sind ein Spaziergang und Liebe."
+00000f10,20,"「ははは、そうだね」","“Well, right?”","— Ну, правда? »","„Nun, richtig? „"
 00000f84,67,"「いつか、やんちゃな小型犬を飼って、
-　一緒にお散歩するのが夢なの」","","",""
-00001018,24,"「ビーグルがいいかなぁ」","","",""
+　一緒にお散歩するのが夢なの」","“I’m a dream to take a walk together with my
+little dog.”","«Я мечтаю прогуляться вместе с моей маленькой
+собакой. »","„Ich bin ein Traum, gemeinsam mit meinem kleinen
+Hund spazieren zu gehen. „"
+00001018,24,"「ビーグルがいいかなぁ」","I think beagle is good!","Я думаю, что beagle хорошо!","Ich glaube, Biber ist gut!"
 00001094,61,"（ビーグルと散歩する柚ノ木さんか…。
-　その写真、撮りたいな）","","",""
-000010f4,28,"「その夢、実現するといいね」","","",""
-000002d4,8,"「ええ」","","",""
-000011a4,18,"「じゃあ、またね」","","",""
-00001214,16,"「ええ、またね」","","",""
+　その写真、撮りたいな）","(Are you yuzunoki walking with beagle?) I want to
+take photos)","(Вы юзуноки гуляетесь с beagle?) Хочу
+фотографировать)","(Sind Sie yuzunoki zu Fuß mit Adler?) Ich will
+Fotos machen)"
+000010f4,28,"「その夢、実現するといいね」","It's dream, it's like to realize","«Это мечта, это как реализовать»","Es ist Traum, es ist wie zu realisieren"
+000002d4,8,"「ええ」","Home","Начало","Home"
+000011a4,18,"「じゃあ、またね」","Yes, I'm again.","- Да, я снова.","Ja, ich bin wieder."
+00001214,16,"「ええ、またね」","」","」","!"

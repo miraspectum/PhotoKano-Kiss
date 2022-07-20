@@ -1,26 +1,35 @@
-0000017c,14,"「あ、\p01君」","","",""
-000001b8,18,"「あ、柚ノ木さん」","","",""
-000002a0,36,"「あと１時間で今日の授業も終わりね」","","",""
+000001b8,18,"「あ、柚ノ木さん」","A, Yuzunoki-san","А, Юзуноки-сан","A, Yuzunoki-san"
+000002a0,36,"「あと１時間で今日の授業も終わりね」","“It’s the end of today’s class in one hour.”","«Это конец сегодняшнего класса за один час. »","„Es ist das Ende der heutigen Klasse in einer
+Stunde. „"
 00000334,49,"「今日は体育があったから、
-　少しつかれちゃった」","","",""
-000003e0,8,"「……」","","",""
-00000434,22,"シャッターチャンスだ！","","",""
-00000504,32,"「どうしたの？　いきなり撮って」","","",""
-00000570,20,"（撮るまでもないな）","","",""
-000005e4,28,"「どうしたの？　じっと見て」","","",""
-00000634,40,"「相当つかれてるみたいだね、柚ノ木さん」","","",""
-0000068c,32,"「うん、そうだけど…どうして？」","","",""
-00000720,36,"「授業中、居眠りしてたんじゃない？」","","",""
-00000798,26,"「ど、どうしてわかるの？」","","",""
-000007e8,26,"「おでこ、赤くなってるよ」","","",""
-00000880,32,"「あ！　机に突っ伏してたから…」","","",""
+　少しつかれちゃった」","“Today, I had a physical education, so I got a
+little bit.”","«Сегодня у меня было физическое образование, так
+что я немного получил. »","„Heute hatte ich eine körperliche Ausbildung,
+also bekam ich ein wenig. „"
+000003e0,8,"「……」","……","………","…"
+00000434,22,"シャッターチャンスだ！","ter chance!","ter шанс!","Eine Chance!"
+00000504,32,"「どうしたの？　いきなり撮って」","What do you do? I'm going to take a picture.","- Что вы делаете? Я собираюсь сфотографировать.","Was machst du? Ich werde ein Foto machen."
+00000570,20,"（撮るまでもないな）","(It is not until you take it)","(Это не до тех пор, пока вы не возьмете его)","(Es ist nicht, bis du es nimmst)"
+000005e4,28,"「どうしたの？　じっと見て」","What do you do? Look at it!","- Что вы делаете? Посмотри на это!","Was machst du? Sieh es dir an!"
+00000634,40,"「相当つかれてるみたいだね、柚ノ木さん」","It seems to be a good deal, Mr. Yunoki","«Мне кажется хорошим делом, г-н Юноки»","Es scheint eine gute Sache zu sein, Mr. Yunoki"
+0000068c,32,"「うん、そうだけど…どうして？」","Yes, it's not. Why?","- Да, это не так. Почему?","Ja, ist es nicht. Warum?"
+00000720,36,"「授業中、居眠りしてたんじゃない？」","“Did you sleep in class?”","- Ты спишь в классе? »","„Hast du im Unterricht geschlafen? „"
+00000798,26,"「ど、どうしてわかるの？」","How do you know?","Как вы знаете?","Woher weißt du das?"
+000007e8,26,"「おでこ、赤くなってるよ」","Odeko, I'm red.","- Одеко, я красная.","Odeko, ich bin rot."
+00000880,32,"「あ！　机に突っ伏してたから…」","Oh! I broke on the desk…","О! Я сломал на столе…","Oh! Ich brach auf dem Schreibtisch…"
 00000920,57,"「だ、だって、福沢先生が、
-　古文をゆっくり読むんだもの」","","",""
+　古文をゆっくり読むんだもの」","“T ’s why Mr. Fukuzawa reads the old text
+slowly.”","«Т почему г-н Фукузава читает старый текст
+медленно. »","“T ’ s, warum Mr. Fukuzawa den alten Text langsam
+liest. „"
 00000984,73,"「ああ、福沢先生か。あの先生って
-　ボソボソしゃべるから、眠気を誘うよね」","","",""
-00000a2c,22,"「そう！　そうなの！」","","",""
+　ボソボソしゃべるから、眠気を誘うよね」","“Oh, Mr. Fukuzawa?” That teacher is to talk to
+Bosoboso, so I will invite you to sleep.","«О, г-н Фукузава?» Этот учитель должен поговорить
+с Бособосо, поэтому я приглашу вас спать.","„Oh, Mr. Fukuzawa?“ Der Lehrer soll mit Bosoboso
+reden, also werde ich dich zum Schlafen einladen."
+00000a2c,22,"「そう！　そうなの！」","“Yes! That’s right!”","— Да! Это правильно!»","„Ja! Das stimmt!“"
 00000aa8,49,"「うう…恥ずかしい。
-　席でおとなしく座ってよう」","","",""
-00000b34,16,"「それじゃあね」","","",""
-00000b70,24,"「またね～、柚ノ木さん」","","",""
-00000be8,8,"「ええ」","","",""
+　席でおとなしく座ってよう」","I'm so embarrassed. Let's sit in a seat","- Я так смущен. Давайте сидеть в сидении","Ich bin so peinlich. Setzen wir uns."
+00000b34,16,"「それじゃあね」","It's it!","- Это!","Das ist es!"
+00000b70,24,"「またね～、柚ノ木さん」","Also, Yuzunoki-san","Также, Юзуноки-сан","Also, Yuzunoki-san"
+00000be8,8,"「ええ」","Home","Начало","Home"

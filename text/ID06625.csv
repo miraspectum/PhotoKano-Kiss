@@ -1,94 +1,181 @@
-00000448,42,"「柚ノ木さんがよく読む本って、どんなの？」","What kind of books does Yuzunogi often read?","",""
-000004c4,36,"「ファッション誌とか、料理の本とか」","Fashion magazines, cooking books, etc.","",""
-00000518,40,"「そっか、料理の本か。そりゃそうだよね」","Oh, it's a cooking book. That's right.","",""
-00000730,40,"「柚ノ木さんって、漫画の本とか読む方？」","Is Yunogi-san a person who reads manga books?","",""
-00000988,20,"「ははは、そうだね」","Haha, that's right.","",""
-00000a54,18,"「フフッ、そうね」","Huh, that's right.","",""
-00000bb0,32,"「柚ノ木さんって、本を読む方？」","Is Yunogi-san a person who reads books?","",""
-00000c24,32,"「月に１、２冊は、読んでるかな」","I wonder if I read one or two books a month.","",""
-00000c74,20,"「結構、読んでるね」","I'm reading it.","",""
-00000d9c,34,"「この間、読んだ漫画なんだけど…」","The manga I read the other day …","",""
-00000e10,32,"「フフッ、そうなんだ。面白そう」","Huh, that's right. It looks interesting.","",""
-00000f44,28,"「ええ、すごく載ってるわよ」","Yes, it's really on it.","",""
-00001088,34,"「ケータイ小説とかって、読む方？」","Who reads cell phone novels?","",""
-00001134,30,"「ううん、読んだことないわよ」","Yeah, I've never read it.","",""
-00001338,34,"「あ、検索したりとか、楽そうよね」","Oh, it looks like it's fun to search.","",""
-00001464,16,"「あ～、そっか」","Ah, that's right","",""
-00001578,20,"「結局、紙なのよね」","After all, it's paper, isn't it?","",""
-000015d0,16,"「本と言えば…」","Speaking of books …","",""
-000016b4,24,"「本屋にはよく行く方？」","Who often goes to bookstores?","",""
-00001720,20,"「ええ、行く方かな」","Yes, I wonder if I'm going","",""
-000019f4,24,"「４０冊ぐらいあるわよ」","There are about 40 books.","",""
-00001a30,14,"「そんなに？」","so much?","",""
-00001a9c,36,"「だって、どれも参考になるんだもの」","Because all of them are helpful.","",""
-00001b84,24,"「そうだね、結構読むよ」","That's right, I read quite a bit.","",""
-00001cd8,22,"「たまに読む本って…」","Books I read once in a while …","",""
-00001d30,32,"「フフッ、いいわよね、読書って」","Huh, that's good, reading","",""
-00001f08,30,"「あれって、いいサービスよね」","That's a good service, isn't it?","",""
-00001fcc,36,"「ええ。一緒に、のんびりしましょう」","Yes. Let's relax together.","",""
-0000237c,18,"「ははは、そっか」","Hahaha, that's right","",""
-000023d0,32,"「俺に合いそうな本があったら…」","If there is a book that seems to suit me …","",""
-00002450,32,"「いいわよ、探しておいてあげる」","Okay, I'll look for you.","",""
+00000448,42,"「柚ノ木さんがよく読む本って、どんなの？」","What kind of books does Yuzunogi often read?","«Какие книги часто читает Юзуноги?»","Welche Art von Büchern liest Yuzunogi oft?"
+000004c4,36,"「ファッション誌とか、料理の本とか」","Fashion magazines, cooking books, etc.","«Журналы мод, кулинарные книги и т. д.»","Modemagazine, Kochbücher etc."
+00000518,40,"「そっか、料理の本か。そりゃそうだよね」","Oh, it's a cooking book. That's right.","«О, это кулинарная книга. Верно».","„Oh, es ist ein Kochbuch."
+00000730,40,"「柚ノ木さんって、漫画の本とか読む方？」","Is Yunogi-san a person who reads manga books?","«Мистер Юзуноги читает мангу?»","Mr. Yuzunogi ist eine Person, die Manga-Bücher liest?"
+00000988,20,"「ははは、そうだね」","Haha, that's right.","«Ха-ха, верно».","Haha, das stimmt."
+00000a54,18,"「フフッ、そうね」","Huh, that's right.","Ха, верно.","Hm, das stimmt."
+00000bb0,32,"「柚ノ木さんって、本を読む方？」","Is Yunogi-san a person who reads books?","— Юноги-сан читает книги?","„Ist Yunogi-san eine Person, die Bücher liest?“"
+00000c24,32,"「月に１、２冊は、読んでるかな」","I wonder if I read one or two books a month.","«Интересно, читаю ли я одну или две книги в месяц?»","„Ich frage mich, ob ich ein oder zwei Bücher im Monat lese.“"
+00000c74,20,"「結構、読んでるね」","I'm reading it.","«Я читаю это».","Ich lese es."
+00000d9c,34,"「この間、読んだ漫画なんだけど…」","The manga I read the other day …","Манга, которую я прочитал на днях…","Der Manga, den ich neulich gelesen habe …"
+00000e10,32,"「フフッ、そうなんだ。面白そう」","Huh, that's right. It looks interesting.","«Ха, верно. Выглядит интересно».","Huh, das stimmt. Es sieht interessant aus."
+00000f44,28,"「ええ、すごく載ってるわよ」","Yes, it's really on it.","«Да, это действительно так».","Ja, es steht wirklich drauf."
+00001088,34,"「ケータイ小説とかって、読む方？」","Who reads cell phone novels?","«Кто читает романы о мобильных телефонах?»","Wer liest Handyromane?"
+00001134,30,"「ううん、読んだことないわよ」","Yeah, I've never read it.","«Да, я никогда не читал его».","Ja, ich habe es nie gelesen."
+00001338,34,"「あ、検索したりとか、楽そうよね」","Oh, it looks like it's fun to search.","«О, похоже, это весело искать».","Oh, es sieht so aus, als würde es Spaß machen, zu suchen."
+00001464,16,"「あ～、そっか」","Ah, that's right","Ах, верно","Ah, das stimmt"
+00001578,20,"「結局、紙なのよね」","After all, it's paper, isn't it?","В конце концов, это бумага, не так ли?","Schließlich ist es Papier, nicht wahr?"
+000015d0,16,"「本と言えば…」","Speaking of books …","«Кстати, о книгах…»","Apropos Bücher …"
+000016b4,24,"「本屋にはよく行く方？」","Who often goes to bookstores?","«Кто часто ходит в книжные магазины?»","Wer geht oft in Buchhandlungen?"
+00001720,20,"「ええ、行く方かな」","Yes, I wonder if I'm going","Да, интересно, пойду ли я","Ja, ich frage mich, ob ich gehe"
+000019f4,24,"「４０冊ぐらいあるわよ」","There are about 40 books.","«Есть около 40 книг».","Es gibt ungefähr 40 Bücher."
+00001a30,14,"「そんなに？」","so much?","так много?","so sehr?"
+00001a9c,36,"「だって、どれも参考になるんだもの」","Because all of them are helpful.","«Потому что все они полезны».","Weil sie alle hilfreich sind."
+00001b84,24,"「そうだね、結構読むよ」","That's right, I read quite a bit.","«Правильно, я читаю совсем немного».","Das stimmt, ich habe ziemlich viel gelesen."
+00001cd8,22,"「たまに読む本って…」","Books I read once in a while …","«Книги, которые я читаю время от времени…»","Bücher, die ich ab und zu lese …"
+00001d30,32,"「フフッ、いいわよね、読書って」","Huh, that's good, reading","Ха, это хорошо, чтение","Huh, das ist gut, lesen"
+00001f08,30,"「あれって、いいサービスよね」","That's a good service, isn't it?","— Хорошая услуга, не так ли?","Das ist ein guter Service, nicht wahr?"
+00001fcc,36,"「ええ。一緒に、のんびりしましょう」","Yes. Let's relax together.","«Да. Давай вместе отдохнем».","Ja. Lass uns zusammen entspannen."
+0000237c,18,"「ははは、そっか」","Hahaha, that's right","«Хахаха, верно»","Hahaha, stimmt"
+000023d0,32,"「俺に合いそうな本があったら…」","If there is a book that seems to suit me …","«Если есть книга, которая кажется мне подходящей…»","Wenn es ein Buch gibt, das zu mir zu passen scheint …"
+00002450,32,"「いいわよ、探しておいてあげる」","Okay, I'll look for you.","— Хорошо, я поищу тебя.","Okay, ich werde nach dir suchen."
 00000254,67,"「柚ノ木さんが、図書室の本棚を
-　整理してるなんて、知らなかったよ」","","",""
+　整理してるなんて、知らなかったよ」","Mr. Yuzunogi has a bookshelf in the library.
+I didn't know that it was organized. ","«У мистера Юзуноги есть книжная полка в библиотеке.
+Я не знал, что это было организовано».","„Herr Yuzunogi hat ein Bücherregal in der Bibliothek.
+Ich wusste nicht, dass es organisiert war.“"
 000002f4,53,"「私は…気づいた時に、
-　ちょっと直してるだけだから」","","",""
+　ちょっと直してるだけだから」","I … when I noticed
+It ’s just a little fixed. ”","«Я… когда заметил
+Это просто немного исправлено».","„Ich … als ich es bemerkte
+Es ist nur ein bisschen fixiert.“"
 00000378,77,"「のんびりしてるってよく言われるのに、
-　そういうところだけは、細かいのよね」","","",""
+　そういうところだけは、細かいのよね」","I'm often told that I'm laid back
+Only such a place is fine, isn't it? ","«Мне часто говорят, что я расслаблен
+Только такое место прекрасно, не так ли?»","„Mir wird oft gesagt, dass ich entspannt bin
+Nur so ein Ort ist in Ordnung, oder?"
 00000590,104,"「料理の本って、読み切れないぐらい
 　たくさん出てるし、１冊１冊が高くて、
-　そうそう買えないんだけど…」","","",""
+　そうそう買えないんだけど…」","I can't read a cookbook
+There are a lot of them out, and each one is expensive,
+I can't buy that much … ","«Я не могу читать кулинарную книгу
+Их много, и каждый дорог,
+Я столько не куплю…","„Ich kann kein Kochbuch lesen
+Es gibt viele davon, und jeder ist teuer,
+Ich kann nicht so viel kaufen … "
 000006a0,65,"「写真がきれいで、作り方が詳しい本は、
-　つい買いたくなっちゃう」","","",""
+　つい買いたくなっちゃう」","A book with beautiful pictures and detailed instructions on how to make it is
+I just want to buy it ","Книга с красивыми картинками и подробными инструкциями, как ее сделать.
+Я просто хочу купить его»","Ein Buch mit wunderschönen Bildern und ausführlichen Anleitungen zur Herstellung ist es
+Ich will es nur kaufen“"
 000007b8,102,"「ええ、読むわよ。よくドラマ化されたり、
 　映画化されたりしてるから、
-　気になって読んでみたりしてる」","","",""
+　気になって読んでみたりしてる」","Yes, I'll read it. It's often made into a drama,
+Because it was made into a movie,
+I'm curious and read it. ","«Да, прочту. Из нее часто делают драму,
+Потому что это было сделано в кино,
+Мне любопытно, и я прочитал это».","Ja, ich werde es lesen. Es wird oft zu einem Drama gemacht,
+Weil es verfilmt wurde,
+Ich bin neugierig und lese es.“"
 000008ac,110,"「ただ、人気のある漫画って、小説と違って
 　何冊も続くから、買いそろえると、
-　お小遣いがなくなっちゃうのよね」","","",""
+　お小遣いがなくなっちゃうのよね」","However, popular comics are different from novels.
+Because many books will continue, if you buy them all,
+You're running out of pocket money, right? ","«Однако популярные комиксы отличаются от романов.
+Потому что многие книги будут продолжены, если вы купите их все,
+У тебя заканчиваются карманные деньги, верно?»","„Allerdings unterscheiden sich populäre Comics von Romanen.
+Denn viele Bücher werden weitergehen, wenn du sie alle kaufst,
+Dir geht das Taschengeld aus, oder?“"
 000009e0,49,"「ファッション誌って、毎月、
-　一杯出てるよね～」","","",""
+　一杯出てるよね～」","Fashion magazines are every month
+It ’s full, is n’t it? ”","«Журналы мод каждый месяц
+Он полный, не так ли?»","Modezeitschriften gibt es jeden Monat
+Es ist voll, nicht wahr?“"
 00000b00,67,"「どうせなら、きれいな服で
-　街を歩きたいもの。流行りは気になるわ」","","",""
+　街を歩きたいもの。流行りは気になるわ」","Anyway, in clean clothes
+I want to walk around the city. I'm worried about the trend. ","Во всяком случае, в чистой одежде
+Я хочу прогуляться по городу. Меня беспокоит тенденция».","„Jedenfalls in sauberer Kleidung
+Ich möchte durch die Stadt laufen. Ich mache mir Sorgen um den Trend.“"
 00000cd8,65,"「煮込むのに時間がかかる料理を
-　待ってる時に、ちょうどいいのよ」","","",""
+　待ってる時に、ちょうどいいのよ」","Cooking that takes time to simmer
+It ’s just right when you ’re waiting. ”","«Приготовление пищи, требующее времени, чтобы закипеть
+Это правильно, когда ты ждешь».","Kochen, das Zeit braucht, um zu köcheln
+Es ist genau richtig, wenn man wartet.“"
 00000ea0,71,"「女性誌って、ダイエットの広告が
-　すごく多いって聞いたことあるけど…」","","",""
+　すごく多いって聞いたことあるけど…」","Women's magazines have diet ads
+I've heard that there are so many … ","«В женских журналах есть реклама диет
+Я слышал, что их так много…»","„Frauenmagazine haben Diät-Anzeigen
+Ich habe gehört, dass es so viele gibt … "
 00000fb0,71,"「気に入った服を着るために、
-　がんばってやせる。そんな感じね、きっと」","","",""
+　がんばってやせる。そんな感じね、きっと」","To wear the clothes you like
+Do your best to lose weight. I'm sure it's like that. ","«Чтобы носить одежду, которая тебе нравится
+Делайте все возможное, чтобы похудеть. Я уверен, что это так».","„Um die Kleidung zu tragen, die dir gefällt
+Geben Sie Ihr Bestes, um Gewicht zu verlieren. Ich bin mir sicher, dass es so ist."
 000011e0,67,"「やっぱり小説は、縦書きで読みたいし、
-　本になってる方が好きかな」","","",""
+　本になってる方が好きかな」","After all, I want to read the novel vertically,
+Do you like books? ","Ведь я хочу читать роман вертикально,
+Ты любишь книги?»","Schließlich möchte ich den Roman vertikal lesen,
+Magst du Bücher? "
 000012a4,53,"「料理の本って、電子化されると
-　便利そうじゃない？」","","",""
+　便利そうじゃない？」","When a cookbook is digitized,
+Doesn't it seem convenient? ","«Когда кулинарная книга оцифрована,
+Не кажется удобным? ","Wenn ein Kochbuch digitalisiert wird,
+Scheint es nicht bequem zu sein? "
 000013a8,90,"「けど、手が粉まみれだったり、
 　油が跳ねたりするから、パソコンって
-　台所に向かないのよ」","","",""
+　台所に向かないのよ」","But my hands are covered with powder,
+The oil splashes, so a personal computer
+It's not suitable for the kitchen. ","Но мои руки покрыты пудрой,
+Масло разбрызгивается, поэтому персональный компьютер
+Для кухни не годится».","Aber meine Hände sind mit Puder bedeckt,
+Das Öl spritzt, also ein Personal Computer
+Für die Küche nicht geeignet."
 000014d4,71,"「だから、ネットで見つけたレシピとかは、
-　プリントアウトして使ってる」","","",""
-00001640,51,"「ふうん、\p01君って、
-　そう言う本をよく読むんだ」","","",""
+　プリントアウトして使ってる」","So, the recipes I found online are
+I print it out and use it. ","«Итак, рецепты, которые я нашел в Интернете,
+Распечатываю и пользуюсь».","„Also, die Rezepte, die ich online gefunden habe, sind
+Ich drucke es aus und verwende es."
 000017c0,57,"「本屋で、偶然見かけた本に
-　惹かれることって、あるもの」","","",""
+　惹かれることって、あるもの」","In a book that I happened to see at a bookstore
+There is something that attracts you 」","«В книге, которую мне довелось увидеть в книжном магазине
+Есть что-то, что привлекает тебя 」","„In einem Buch, das ich zufällig in einer Buchhandlung gesehen habe
+Es gibt etwas, das dich anzieht 」"
 00001888,53,"「柚ノ木さんって、何冊ぐらい
-　料理の本を持ってる？」","","",""
+　料理の本を持ってる？」","How many books is Yuzunogi-san?
+Do you have a cooking book? ","«Сколько книг у Юзуноги-сан?
+У вас есть кулинарная книга? ","„Wie viele Bücher hat Yuzunogi-san?
+Hast du ein Kochbuch? "
 0000191c,69,"「数えたことないけど、気に入ったレシピが
-　載ってる雑誌を入れると…」","","",""
-00001b34,34,"「\p01君って、漫画をよく読むの？」","","",""
-00001bec,90,"「私が読んでおもしろそうなのがあったら、
-　教えてね。\p01君が好きな漫画、
-　読んでみたい」","","",""
+　載ってる雑誌を入れると…」","I haven't counted it, but my favorite recipe is
+If you put in the magazine that is on it … ","Я не считал, но мой любимый рецепт
+Если положить в него журнал, который на нем…»","„Ich habe es nicht gezählt, aber mein Lieblingsrezept ist
+Wenn Sie die Zeitschrift hineinlegen, die darauf steht … "
 00001e0c,122,"「ショッピングモールの本屋さんって、
 　コーヒーショップが併設されてるから、本を
-　読みながら、コーヒーが飲めるじゃない？」","","",""
+　読みながら、コーヒーが飲めるじゃない？」","A bookstore in a shopping mall
+There is a coffee shop, so you can buy a book
+You can drink coffee while reading, right? ","Книжный магазин в торговом центре
+Есть кофейня, так что можно купить книгу
+Вы можете пить кофе во время чтения, верно? ","„Ein Buchladen in einem Einkaufszentrum
+Es gibt ein Café, in dem Sie ein Buch kaufen können
+Beim Lesen kann man Kaffee trinken, oder? "
 00001f54,47,"「中間テストが終わったら、
-　一緒に行こうか？」","","",""
+　一緒に行こうか？」","Once the mid-term test is over,
+Shall we go together? ","«После того, как промежуточный тест закончится,
+Пойдем вместе? ","„Nach der Zwischenprüfung
+Sollen wir zusammen gehen? "
 0000209c,57,"「秋の夜長に、じっくり長編小説を
-　読んでみようかなって」","","",""
+　読んでみようかなって」","For the long autumn night, take your time to write a feature-length novel.
+Let's read it ","«Долгой осенней ночью найдите время, чтобы написать полнометражный роман.
+Давай прочитаем","„Nehmen Sie sich für die lange Herbstnacht Zeit, einen abendfüllenden Roman zu schreiben.
+Lass es uns lesen“"
 00002144,61,"「そっか、じゃあ俺も、短編を
-　１冊ぐらいは読んでみようかな」","","",""
+　１冊ぐらいは読んでみようかな」","Well, then I also have a short story
+Let's read about one book. ","Ну, тогда у меня тоже есть рассказ
+Давай прочитаем одну книгу».","„Nun, dann habe ich auch noch eine Kurzgeschichte
+Lass uns über ein Buch lesen."
 000021bc,47,"「フフッ、素敵な本だったら、
-　感想を教えてね」","","",""
+　感想を教えてね」","Huh, if it's a nice book,
+Please tell us your impressions. ","Ха, если это хорошая книга,
+Расскажите, пожалуйста, о своих впечатлениях».","„Hm, wenn es ein schönes Buch ist,
+Bitte teilen Sie uns Ihre Eindrücke mit."
 00002274,49,"「難しい本を読んでると、
-　眠くなったりしない？」","","",""
+　眠くなったりしない？」","When I read a difficult book,
+Do you feel sleepy? ","«Когда я читаю трудную книгу,
+Вы чувствуете сонливость? ","„Wenn ich ein schwieriges Buch lese,
+Fühlst du dich schläfrig? "
 000022dc,55,"「フフッ、ならないわよ
-　そんな難しい本、読まないもの」","","",""
+　そんな難しい本、読まないもの」","Huh, I won't be
+Such a difficult book, something you don't read ","Ха, я не буду
+Такая сложная книга, что-то ты не читал»","„Hm, das werde ich nicht
+So ein schwieriges Buch, etwas, das man nicht liest“"

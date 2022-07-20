@@ -1,119 +1,228 @@
-00000484,32,"「毎日が日曜日って、いいわよね」","Every day is Sunday, isn't it?","",""
-00000528,28,"「休みの日って何やってる？」","What are you doing on your day off?","",""
-00000668,36,"「柚ノ木さんって、どんな服が好み？」","What kind of clothes does Yuzunogi like?","",""
-000006ec,42,"「柔らかい布地の、フワッとした服が好きよ」","I like soft, fluffy clothes.","",""
-000007f4,22,"「へ～っ、そうなんだ」","Hey, that's right.","",""
-00000928,22,"「この間の休みの日…」","The day off during this time …","",""
-00000ac4,14,"「ま、まぁね」","Well, well","",""
-00000af4,32,"（飽きっぽいとも言うんだけど…）","(I'm tired of it …)","",""
-00000c58,28,"「ダーツ、楽しかったわね～」","Darts were fun ~","",""
-00000cd8,32,"「よかったよ、気に入ってくれて」","I'm glad you like it.","",""
-00000d58,24,"「また、連れて行ってね」","Take me again.","",""
-00000de4,32,"「ビリヤード、楽しかったわね～」","Billiards were fun ~","",""
-00000e74,32,"「ダーツとどっちが楽しかった？」","Which was more fun, darts?","",""
-00001190,40,"「料理以外で、好きなことって何かある？」","What do you like other than cooking?","",""
-00001218,18,"「私は、ピアノね」","I'm a piano","",""
-00001274,32,"「へ～っ、ピアノが弾けるんだ？」","Hey, can you play the piano?","",""
-000012fc,42,"「ええ、少しだけ。小さいころに習ったから」","Yes, just a little. I learned it when I was little.","",""
-0000143c,38,"「そっか、ピアノ、うまかったからなぁ」","Oh, the piano was good.","",""
-0000197c,28,"「趣味って、思うんだけど…」","I think it's a hobby …","",""
-00001bcc,40,"「柚ノ木さんって、パソコンは詳しい方？」","Is Mr. Yuzunoki familiar with personal computers?","",""
-00001c80,16,"「ううん、全然」","Yeah, at all","",""
-00001dd0,10,"「ははは」","Hahaha","",""
-00001e1c,38,"「ブログとか、ＳＮＳに興味はないの？」","Are you not interested in blogging or SNS?","",""
-00001ea0,16,"「興味あるわよ」","I'm interested","",""
-00001ffc,42,"「もっと、料理や文章がうまくなってからね」","After I get better at cooking and writing.","",""
-00002098,36,"「ね、ミントってすごい生命力なのよ」","Hey, mint is a great vitality.","",""
-000020ec,8,"「え？」","e?","",""
-00001dd0,10,"「ははは」","Hahaha","",""
-0000240c,30,"「週末には必ず掃除してるわよ」","I always clean it on weekends.","",""
-0000244c,22,"「毎週？　マメだね～」","Every week? It's a bean ~","",""
-000024c0,34,"「だって、ほこりっぽいの嫌だもの」","Because I hate dusty things","",""
-00002524,18,"「休日と言えば…」","Speaking of holidays …","",""
-00002678,36,"「遊園地、とっても楽しかったわね～」","The amusement park was really fun ~","",""
-0000270c,14,"「そうだね～」","That's right ~","",""
-000027bc,38,"「いや、新婚気分になれて、よかったよ」","No, I'm glad I felt like a newlywed.","",""
-00002824,22,"「あ……フフッ、私も」","Ah … huh, me too","",""
-000028cc,40,"「これからやってみたい趣味って、ある？」","Are there any hobbies you would like to try?","",""
-00002948,38,"「え～と…洋服を作ってみたいなぁって」","Well … I want to make clothes.","",""
-0000299c,24,"「えっ！？　洋服を！？」","Eh !? Clothes !?","",""
-00002b74,36,"「また、一緒にデート…したいなって」","I want to date together again …","",""
-00002bf8,30,"「うん、私も…また、誘ってね」","Yeah, I also … invite me again.","",""
-00002cc8,38,"「今年の冬休みは、一緒に…過ごせる？」","Can we spend this winter vacation together …?","",""
-00002d10,18,"「もちろんだよ！」","sure!","",""
-00002d80,20,"「クリスマス…も？」","Christmas … also?","",""
-00002db8,30,"「…柚ノ木さんさえ、よければ」","… If only Yuzunogi-san is okay","",""
-00002ea4,24,"「…誘うよ、絶対に誘う」","… I'll invite you, I'll definitely invite you","",""
-00002f24,18,"「うん…待ってる」","Yeah … I'm waiting","",""
-00002f78,28,"「中間テストが終わったら…」","When the mid-term test is over …","",""
-00002fe8,38,"「ええ、いろいろ一緒に行きたいなって」","Yes, I want to go with you.","",""
+00000484,32,"「毎日が日曜日って、いいわよね」","Every day is Sunday, isn't it?","Каждый день воскресенье, не так ли?","Jeder Tag ist Sonntag, nicht wahr?"
+00000528,28,"「休みの日って何やってる？」","What are you doing on your day off?","— Что ты делаешь в свой выходной?","Was machst du an deinem freien Tag?"
+00000668,36,"「柚ノ木さんって、どんな服が好み？」","What kind of clothes does Yuzunogi like?","«Какая одежда нравится Юзуноги?»","Welche Art von Kleidung mag Yuzunogi?"
+000006ec,42,"「柔らかい布地の、フワッとした服が好きよ」","I like soft, fluffy clothes.","«Я люблю мягкую, пушистую одежду».","Ich mag weiche, flauschige Kleidung."
+000007f4,22,"「へ～っ、そうなんだ」","Hey, that's right.","«Эй, верно».","He, das ist richtig."
+00000928,22,"「この間の休みの日…」","The day off during this time …","«Выходной день в это время…»","Der freie Tag in dieser Zeit …"
+00000ac4,14,"「ま、まぁね」","Well, well","Так так","Gut gut"
+00000af4,32,"（飽きっぽいとも言うんだけど…）","(I'm tired of it …)","(Я устал от этого …)","(Ich bin es leid …)"
+00000c58,28,"「ダーツ、楽しかったわね～」","Darts were fun ~","Дартс было весело~","„Dart hat Spaß gemacht ~“"
+00000cd8,32,"「よかったよ、気に入ってくれて」","I'm glad you like it.","Я рада что тебе нравиться.","Ich freu mich, dass es dir gefällt."
+00000d58,24,"「また、連れて行ってね」","Take me again.","«Возьми меня снова».","Nimm mich wieder."
+00000de4,32,"「ビリヤード、楽しかったわね～」","Billiards were fun ~","Бильярд был веселым~","„Billard hat Spaß gemacht ~“"
+00000e74,32,"「ダーツとどっちが楽しかった？」","Which was more fun, darts?","Что было веселее, дартс?","„Was hat mehr Spaß gemacht, Darts?“"
+00001190,40,"「料理以外で、好きなことって何かある？」","What do you like other than cooking?","«Что ты любишь, кроме готовки?»","Was magst du außer Kochen?"
+00001218,18,"「私は、ピアノね」","I'm a piano","«Я пианино»","Ich bin ein Klavier"
+00001274,32,"「へ～っ、ピアノが弾けるんだ？」","Hey, can you play the piano?","— Эй, ты умеешь играть на пианино?","Hey, kannst du Klavier spielen?"
+000012fc,42,"「ええ、少しだけ。小さいころに習ったから」","Yes, just a little. I learned it when I was little.","«Да, совсем немного. Я научился этому, когда был маленьким».","Ja, nur ein bisschen. Ich habe es gelernt, als ich klein war."
+0000143c,38,"「そっか、ピアノ、うまかったからなぁ」","Oh, the piano was good.","«О, пианино было хорошим».","Oh, das Klavier war gut."
+0000197c,28,"「趣味って、思うんだけど…」","I think it's a hobby …","Я думаю, что это хобби…","Ich denke, es ist ein Hobby …"
+00001bcc,40,"「柚ノ木さんって、パソコンは詳しい方？」","Is Mr. Yuzunoki familiar with personal computers?","«Г-н Юзуноки знаком с персональными компьютерами?»","„Kennt sich Mr. Yuzunoki mit PCs aus?“"
+00001c80,16,"「ううん、全然」","Yeah, at all","Да вообще","Ja, überhaupt"
+00001dd0,10,"「ははは」","Hahaha","Хахаха","Hahaha"
+00001e1c,38,"「ブログとか、ＳＮＳに興味はないの？」","Are you not interested in blogging or SNS?","«Вы не заинтересованы в ведении блога или SNS?»","Interessieren Sie sich nicht für Blogging oder SNS?"
+00001ea0,16,"「興味あるわよ」","I'm interested","Мне это интересно","Ich bin interessiert"
+00001ffc,42,"「もっと、料理や文章がうまくなってからね」","After I get better at cooking and writing.","«После того, как я стану лучше готовить и писать»","Nachdem ich besser kochen und schreiben kann."
+00002098,36,"「ね、ミントってすごい生命力なのよ」","Hey, mint is a great vitality.","«Эй, мята — отличная жизненная сила».","Hey, Minze ist eine großartige Vitalität."
+000020ec,8,"「え？」","e?","Э?","e?"
+00001dd0,10,"「ははは」","Hahaha","Хахаха","Hahaha"
+0000240c,30,"「週末には必ず掃除してるわよ」","I always clean it on weekends.","«Я всегда убираю его по выходным».","Ich putze es immer am Wochenende."
+0000244c,22,"「毎週？　マメだね～」","Every week? It's a bean ~","«Каждую неделю? Это фасоль~»","Jede Woche? Es ist eine Bohne ~"
+000024c0,34,"「だって、ほこりっぽいの嫌だもの」","Because I hate dusty things","«Потому что я ненавижу пыльные вещи»","Weil ich staubige Dinge hasse"
+00002524,18,"「休日と言えば…」","Speaking of holidays …","«Кстати, о праздниках…»","Apropos Urlaub …"
+00002678,36,"「遊園地、とっても楽しかったわね～」","The amusement park was really fun ~","«В парке развлечений было очень весело~»","Der Vergnügungspark hat wirklich Spaß gemacht ~"
+0000270c,14,"「そうだね～」","That's right ~","Правильно~","Das ist richtig ~"
+000027bc,38,"「いや、新婚気分になれて、よかったよ」","No, I'm glad I felt like a newlywed.","«Нет, я рад, что почувствовал себя новобрачным».","Nein, ich bin froh, dass ich mich wie frisch verheiratet gefühlt habe."
+00002824,22,"「あ……フフッ、私も」","Ah … huh, me too","А… ага, я тоже","Ah … huh, ich auch"
+000028cc,40,"「これからやってみたい趣味って、ある？」","Are there any hobbies you would like to try?","Есть какие-нибудь хобби, которые вы хотели бы попробовать?","Gibt es Hobbys, die Sie gerne ausprobieren würden?"
+00002948,38,"「え～と…洋服を作ってみたいなぁって」","Well … I want to make clothes.","«Ну… я хочу шить одежду».","Nun … ich möchte Kleider machen."
+0000299c,24,"「えっ！？　洋服を！？」","Eh !? Clothes !?","Э!? Одежда!?","Eh!? Klamotten!?"
+00002b74,36,"「また、一緒にデート…したいなって」","I want to date together again …","«Я хочу снова встречаться вместе…»","Ich möchte wieder zusammen ausgehen …"
+00002bf8,30,"「うん、私も…また、誘ってね」","Yeah, I also … invite me again.","Да, я тоже… приглашаю меня снова.","Ja, ich … lade mich auch wieder ein."
+00002cc8,38,"「今年の冬休みは、一緒に…過ごせる？」","Can we spend this winter vacation together …?","«Можем ли мы провести эти зимние каникулы вместе…?»","Können wir diesen Winterurlaub zusammen verbringen …?"
+00002d10,18,"「もちろんだよ！」","sure!","Конечно!","sicher!"
+00002d80,20,"「クリスマス…も？」","Christmas … also?","Рождество… тоже?","Weihnachten … auch?"
+00002db8,30,"「…柚ノ木さんさえ、よければ」","… If only Yuzunogi-san is okay","«… Если бы только Юзуноги-сан в порядке»","… wenn es nur Yuzunogi-san gut geht"
+00002ea4,24,"「…誘うよ、絶対に誘う」","… I'll invite you, I'll definitely invite you","…я тебя приглашу, обязательно приглашу","… ich werde dich einladen, ich werde dich auf jeden Fall einladen"
+00002f24,18,"「うん…待ってる」","Yeah … I'm waiting","Ага… жду","Ja … ich warte"
+00002f78,28,"「中間テストが終わったら…」","When the mid-term test is over …","Когда промежуточный тест закончится…","Wenn die Zwischenprüfung vorbei ist …"
+00002fe8,38,"「ええ、いろいろ一緒に行きたいなって」","Yes, I want to go with you.","— Да, я хочу пойти с тобой.","Ja, ich will mit dir gehen."
 000002fc,53,"「柚ノ木さんって、夏休みの間、
-　どんなことしてた？」","","",""
+　どんなことしてた？」","Yuzunogi-san, during the summer vacation
+What were you doing? ","Юзуноги-сан, во время летних каникул
+Что вы делали? ","„Yuzunogi-san, während der Sommerferien
+Was hast du gemacht? "
 00000390,84,"「のんびり過ごしてたわよ。
 　ののちゃんたちとお祭りへ行ったり、
-　遊びに出かけたり」","","",""
+　遊びに出かけたり」","I was spending time leisurely.
+Going to a festival with Nono-chan,
+Going out to play ","«Я проводил время неторопливо.
+Иду на фестиваль с Ноно-тян,
+Выхожу играть»","„Ich habe die Zeit gemächlich verbracht.
+Mit Nono-chan zu einem Festival gehen,
+Ausgehen zum Spielen“"
 000005a4,65,"「お部屋の掃除をしたり、近所に出かけたり。
-　のんびりしてるわよ」","","",""
+　のんびりしてるわよ」","Cleaning the room or going out to the neighborhood.
+I'm laid back. ","«Уборка комнаты или выход на улицу.
+Я расслаблен».","„Das Zimmer aufräumen oder in die Nachbarschaft gehen.
+Ich bin entspannt."
 00000788,61,"「私、家庭菜園が趣味で、
-　家のベランダでハーブを育ててるの」","","",""
+　家のベランダでハーブを育ててるの」","I have a hobby in the vegetable garden,
+I grow herbs on the balcony of my house. ","«У меня есть хобби в огороде,
+Я выращиваю травы на балконе своего дома».","Ich habe ein Hobby im Gemüsegarten,
+Ich baue Kräuter auf dem Balkon meines Hauses an.“"
 00000868,63,"「摘み立てのハーブで作る料理って、
-　とってもおいしいんだから」","","",""
+　とってもおいしいんだから」","Cooking with freshly picked herbs
+It ’s very delicious. ”","«Готовим со свежесобранными травами
+Это очень вкусно. ","„Kochen mit frisch gepflückten Kräutern
+Es ist sehr lecker. "
 00000980,55,"「フフッ、お休みの日はのんびり過ごすのが、
-　一番よね」","","",""
-00000a64,49,"「\p01君って、いろいろ趣味が
-　広い人だったのね」","","",""
+　一番よね」","Huh, spending a leisurely day off is
+It ’s the best. ”","Ха, провести неторопливый выходной - это
+Это лучшее. ","„Huh, einen gemütlichen freien Tag zu verbringen ist
+Es ist das Beste. "
 00000b64,49,"「ダーツにビリヤードかぁ…。
-　フフッ、楽しそう」","","",""
+　フフッ、楽しそう」","Darts and billiards …
+Huh, it looks fun ","Дартс и бильярд…
+Хах, выглядит весело","Dart und Billard …
+Huh, es sieht lustig aus "
 00000ef0,47,"「う～ん……どっちも。
-　また、連れて行ってね」","","",""
+　また、連れて行ってね」","Hmm … both.
+Please take me again. ","Хм… оба.
+Пожалуйста, возьми меня снова».","„Hm … beides.
+Bitte nimm mich wieder."
 00000fd4,49,"「文化系の部って、休日練習がないから
-　いいよね」","","",""
+　いいよね」","Because there is no holiday practice in the cultural department
+ It's good","Потому что в отделе культуры нет праздничной практики
+ Это хорошо","„Weil es im Kulturreferat keine Ferienpraxis gibt
+ Das ist gut"
 00001048,106,"「フフッ、そうね～。けど、うちの部は、
 　部員が増えたら、みんなでお弁当を作って、
-　ピクニックに行きたい」","","",""
+　ピクニックに行きたい」","Huh, that's right. But our part is
+When the number of members increased, everyone would make a lunch box,
+I want to go on a picnic ","Ха, правильно. Но наша часть
+Когда количество членов увеличилось, каждый сделал коробку для завтрака,
+Я хочу пойти на пикник»","„Huh, das stimmt. Aber unser Teil ist es
+Als die Zahl der Mitglieder zunahm, machte jeder eine Brotdose,
+Ich will picknicken“"
 0000138c,49,"「フフッ、女の子の習い事と言えば、
-　ピアノよね」","","",""
+　ピアノよね」","Huh, speaking of girls' lessons,
+It's a piano, isn't it? ","Ха, говоря об уроках для девочек,
+Это пианино, не так ли?»","Huh, wo wir gerade von Mädchenunterricht sprechen,
+Es ist ein Klavier, nicht wahr?"
 000014a4,59,"「もう、そんなこと…。
-　あれぐらい、たいしたことないのよ」","","",""
+　あれぐらい、たいしたことないのよ」","That's it …
+It's not that big of a deal. ","Вот и все …
+Это не такая уж большая проблема».","Das ist es …
+Es ist keine so große Sache."
 00001570,59,"「柚ノ木さんがよく見るサイトって、
-　やっぱり、料理関係？」","","",""
+　やっぱり、料理関係？」","The site that Yuzunogi often sees is
+After all, is it related to cooking? ","«Сайт, который часто видит Юзуноги,
+В конце концов, это связано с кулинарией? ","„Die Seite, die Yuzunogi oft sieht, ist
+Hat es doch etwas mit Kochen zu tun? "
 000015fc,57,"「ええ、料理研究家の人のブログとか、
-　レシピサイトとか」","","",""
+　レシピサイトとか」","Yes, the blog of a culinary expert,
+Recipe site etc. ","Да, блог кулинара,
+Сайт рецептов и т.д.»","Ja, der Blog eines kulinarischen Experten,
+Rezeptseite etc.“"
 000016c0,77,"「とってもきれいな料理の写真が載ってると、
-　それだけで、うれしくなっちゃう」","","",""
+　それだけで、うれしくなっちゃう」","When you see a picture of a very beautiful dish,
+That alone makes me happy. ","«Когда видишь на картинке очень красивое блюдо,
+Одно это делает меня счастливым».","Wenn Sie ein Bild von einem sehr schönen Gericht sehen,
+Das allein macht mich glücklich.“"
 000017cc,76,"「この間の休みの日、
 　とってもいいお天気だったから、
-　お布団を干したのよ」","","",""
+　お布団を干したのよ」","The day off during this time,
+Because it was a very nice weather
+I dried the futon. ","«Выходной день в это время,
+Потому что была очень хорошая погода
+Я высушил футон».","Der freie Tag in dieser Zeit,
+Denn es war ein sehr schönes Wetter
+Ich habe den Futon getrocknet."
 000018b8,67,"「お日様のにおいのするお布団って、
-　ふかふかで気持ちいいわよね～」","","",""
+　ふかふかで気持ちいいわよね～」","The futon that smells like the sun
+It feels soft and fluffy ~ ","Футон, который пахнет солнцем
+Он мягкий и пушистый~","Der Futon, der nach Sonne riecht
+Es fühlt sich weich und flauschig an ~ "
 000019ec,53,"「フフッ、まずはやってみないと、
-　わからないものね」","","",""
+　わからないものね」","Huh, I have to try it first.
+I don't know. ","«Хм, я должен сначала попробовать.
+Я не знаю. ","„Hm, das muss ich erst ausprobieren.
+Ich weiß nicht. "
 00001acc,53,"「また、一緒にダーツカフェで遊べて、
-　楽しかったわ」","","",""
+　楽しかったわ」","Also, let's play together at the darts cafe,
+It was fun ","Также поиграем вместе в дартс-кафе,
+Это было весело ","Außerdem lass uns zusammen im Darts-Café spielen,
+Es hat Spaß gemacht "
 00001b50,57,"「ダーツも、ビリヤードも、
-　すっかり趣味になったみたい」","","",""
+　すっかり趣味になったみたい」","Darts, billiards,
+It looks like it's become a hobby. ","«Дартс, бильярд,
+Похоже, это стало хобби».","Dart, Billard,
+Es sieht so aus, als wäre es ein Hobby geworden."
 00001d1c,69,"「設定とか、怖くて触れないから、
-　全部、お父さんにやってもらってる」","","",""
+　全部、お父さんにやってもらってる」","Because I'm scared of setting things, I won't touch them.
+Everything was done by my dad. ","«Я не трогаю настройки, потому что боюсь.
+Все сделал мой папа».","„Weil ich Angst davor habe, Dinge einzustellen, werde ich sie nicht anfassen.
+Alles wurde von meinem Vater gemacht.“"
 00001f00,86,"「いつか、かわいくて、おいしそうな
 　料理のブログを作りたいなぁって
-　思うんだけど…」","","",""
+　思うんだけど…」","Someday it looks cute and delicious
+I want to make a cooking blog
+I think … ","«Когда-нибудь это выглядит мило и вкусно
+Я хочу вести кулинарный блог
+Я думаю … ","„Eines Tages sieht es süß und lecker aus
+Ich möchte einen Kochblog machen
+Ich finde … "
 00002154,106,"「家のベランダで育ててるハーブなんだけど、
 　ミントだけは、間引いても、間引いても
-　どんどん生えてくるの」","","",""
+　どんどん生えてくるの」","It's an herb grown on the balcony of my house,
+Only mint can be thinned out or thinned out
+It grows steadily. ","«Это трава, выращенная на балконе моего дома,
+Только мята может быть прорежена или прорежена
+Он неуклонно растет».","Es ist ein Kraut, das auf dem Balkon meines Hauses wächst,
+Nur Minze kann ausgedünnt oder ausgedünnt werden
+Es wächst stetig.“"
 0000225c,88,"「そんなにエスニック料理とか、
 　ミントを使ったスイーツばかり、
-　作ってられないわよ～」","","",""
+　作ってられないわよ～」","So much ethnic food,
+Only sweets using mint,
+I can't make it ~ ","Так много национальной еды,
+Только сладости с использованием мяты,
+я не успеваю~","So viel ethnisches Essen,
+Nur Süßigkeiten mit Minze,
+Ich schaffe es nicht ~ "
 00002378,53,"「柚ノ木さんって、何日に１回、
-　部屋の掃除してる？」","","",""
+　部屋の掃除してる？」","Yuzunogi-san, once every day,
+Are you cleaning the room? ","«Юзуноги-сан, раз в день,
+Ты убираешься в комнате? ","„Yuzunogi-san, einmal am Tag,
+Räumst du das Zimmer auf? "
 00002594,49,"「そうね、どうせなら
-　楽しく過ごしたいわよね～」","","",""
+　楽しく過ごしたいわよね～」","Well, anyway
+I want to have a good time ~ ","Ну во всяком случае
+Я хочу хорошо провести время~","Naja, jedenfalls
+Ich möchte eine gute Zeit haben ~ "
 0000275c,49,"「妹がいてごめんなさい。
-　邪魔だったでしょう？」","","",""
+　邪魔だったでしょう？」","I'm sorry I have a sister.
+Was it an obstacle? ","Мне жаль, что у меня есть сестра.
+Было ли это препятствием? ","„Es tut mir leid, dass ich eine Schwester habe.
+War es ein Hindernis? "
 00002a04,57,"「ええ、型紙と好きな生地を買ってきて、
-　ミシンで縫うの」","","",""
+　ミシンで縫うの」","Yes, I bought a paper pattern and my favorite fabric,
+Sew with a sewing machine ","«Да, я купил бумажную выкройку и свою любимую ткань,
+Сшить на швейной машинке»","Ja, ich habe ein Schnittmuster und meinen Lieblingsstoff gekauft,
+Mit einer Nähmaschine nähen "
 00002a8c,65,"「最初は、失敗してもいいように、
-　室内着から挑戦してみようかな」","","",""
+　室内着から挑戦してみようかな」","At first, so that you can fail
+Let's try from indoor clothes. ","«Сначала, чтобы ты мог потерпеть неудачу
+Попробуем из домашней одежды».","„Zunächst, damit du scheitern kannst
+Versuchen wir es mal mit Indoor-Klamotten.“"
 00002afc,55,"（洋裁まで出来るようになる気か。
-　学園の嫁、恐るべし）","","",""
+　学園の嫁、恐るべし）","(Do you feel like you will be able to do dressmaking?
+The school's daughter-in-law, terrifying)","(Вы чувствуете, что сможете шить одежду?
+Школьная невестка, ужас)","(Haben Sie das Gefühl, dass Sie in der Lage sein werden, eine Schneiderei zu machen?
+Die Schwiegertochter der Schule, erschreckend)"
 00002e24,47,"「私は…もちろん、過ごしたいって…
-　思ってる」","","",""
+　思ってる」","I … of course I want to spend …
+I'm thinking ","«Я… конечно, я хочу провести…
+Я думаю ","Ich … natürlich möchte ich ausgeben …
+Ich denke "

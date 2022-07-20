@@ -1,180 +1,368 @@
-00000490,14,"「がんばって」","go for it","",""
-000004f0,22,"「ええ、がんばるわね」","Yes, I'll do my best","",""
-00000550,32,"「柚ノ木さんの得意料理って何？」","What is Yuzunogi's specialty?","",""
-00000644,26,"「肉じゃがかぁ、いいね～」","Nikujaga, I like it ~","",""
-0000074c,40,"「夏って、料理してると暑いんじゃない？」","Summer is hot when cooking, isn't it?","",""
-00000abc,34,"「柚ノ木さんの好きな料理って何？」","What is Yuzunogi's favorite dish?","",""
-00000bd4,38,"「なかなか、あの味を出せないのよね～」","It's hard to get that taste, right?","",""
-00000c44,38,"「柚ノ木さんって、家でも料理するの？」","Does Yuzunogi cook at home?","",""
-00000dc4,28,"「身近な、一番の先生だもの」","The most familiar and best teacher","",""
-00000e2c,32,"「この間、家で食べたんだけど…」","I ate at home the other day …","",""
-00000ffc,22,"「フフッ、でしょう？」","Huh, right?","",""
-0000136c,38,"「料理は、楽しみながら作るのが一番よ」","It's best to cook while having fun.","",""
-000013dc,40,"「マーマレードとスコーン、楽しみだなぁ」","Marmalade and scones, I'm looking forward to it.","",""
-00001574,24,"「ええ、楽しみにしてる」","Yes, I'm looking forward to it.","",""
-0000166c,42,"「そうなんだけど、なかなか決められなくて」","That's right, but it's hard to decide.","",""
-000016c0,34,"「食堂のメニューは参考になった？」","Did the dining room menu help you?","",""
-00001728,42,"「ええ、お肉を使った料理がいいのかなって」","Yes, I wonder if cooking with meat is good.","",""
-000017c0,42,"「いいね～肉料理か。試食は任せておいてよ」","Like-meat dishes? Leave the tasting to me.","",""
-00001834,22,"「フフッ、ありがとう」","Thank you, huh","",""
-00001aec,20,"「小学５年生からよ」","From the 5th grade of elementary school","",""
-00001cb0,24,"「ははは、そうだろうね」","Haha, that's right.","",""
-00001df8,38,"「酢豚のパイナップルって、許せる方？」","Who can forgive vineapple pineapple?","",""
-000020a8,28,"「その中からなら、洋食かな」","If it's from that, it's Western food.","",""
-00002234,18,"「ははは、そっか」","Hahaha, that's right","",""
-00002288,36,"「最近はまってる料理って何かある？」","Are there any dishes you're addicted to these days?","",""
-00002700,42,"「へ～っ、けど、俺はカンガルーに興味が…」","Hmm, but I'm interested in kangaroos …","",""
-00002788,22,"「もう、それはいいの」","It ’s okay.","",""
-000027e8,26,"「料理上手な女の子って…」","A girl who is good at cooking …","",""
-00002858,24,"「え…あ、ありがとう…」","Eh … oh, thank you …","",""
-000029d8,26,"「参考になってよかったよ」","I'm glad it was helpful.","",""
-00002e14,36,"「参考になったみたいで、よかったよ」","I'm glad it was helpful.","",""
-00002ff4,30,"「ううん、そんなことないわよ」","Yeah, that's not true.","",""
-000033fc,36,"「カレーライスの具なら、何がいい？」","What is the best curry rice ingredient?","",""
-00003480,20,"「私は、ポークかな」","I'm pork","",""
-000035b0,26,"「ラーメンは何味が好き？」","What taste do you like about ramen?","",""
-0000361c,28,"「コクのある醤油味が好きよ」","I like the rich soy sauce flavor.","",""
-00003670,16,"「コクのある？」","Is it rich?","",""
-000036e0,28,"「ええ、トンコツ醤油味とか」","Yes, tonkotsu soy sauce flavor","",""
-0000386c,34,"「料理してる時の柚ノ木さんって…」","Yuzunogi-san when cooking …","",""
-000038e0,24,"「フフッ、ありがとう…」","Thank you, huh …","",""
-00003970,38,"「料理コンテスト、予選突破おめでとう」","Cooking Contest, Congratulations on breaking through the qualifying","",""
-000039d4,16,"「ありがとう～」","Thank you ~","",""
-00003a48,24,"「冬の本戦が楽しみだね」","I'm looking forward to the main winter race.","",""
-00003dd4,34,"「Ｂ級グルメで好きなのって、何？」","What do you like about B-class gourmet?","",""
-00003e54,30,"「スパゲッティ・ナポリタンね」","Spaghetti Napolitan","",""
-00004090,32,"「へ～っ、すごいね。どんな味？」","Hey, that's amazing. What kind of taste is it?","",""
-000042a0,32,"「ええ、それだけは自慢できるの」","Yes, I can brag about that.","",""
-00004454,28,"「うん。だって、楽しいもの」","Yeah, because it's fun.","",""
+00000490,14,"「がんばって」","go for it","Действуй","Tue es"
+000004f0,22,"「ええ、がんばるわね」","Yes, I'll do my best","«Да, я сделаю все возможное»","Ja, ich werde mein Bestes geben"
+00000550,32,"「柚ノ木さんの得意料理って何？」","What is Yuzunogi's specialty?","«Какая специальность у Юзуноги?»","Was ist Yuzunogis Spezialität?"
+00000644,26,"「肉じゃがかぁ、いいね～」","Nikujaga, I like it ~","Никуджага, мне нравится~","Nikujaga, ich mag es ~"
+0000074c,40,"「夏って、料理してると暑いんじゃない？」","Summer is hot when cooking, isn't it?","«Лето жаркое, когда готовишь, не так ли?»","Der Sommer ist heiß beim Kochen, nicht wahr?"
+00000abc,34,"「柚ノ木さんの好きな料理って何？」","What is Yuzunogi's favorite dish?","«Какое любимое блюдо Юзуноги?»","Was ist Yuzunogis Lieblingsgericht?"
+00000bd4,38,"「なかなか、あの味を出せないのよね～」","It's hard to get that taste, right?","Трудно получить этот вкус, не так ли?","Es ist schwer, diesen Geschmack zu bekommen, oder?"
+00000c44,38,"「柚ノ木さんって、家でも料理するの？」","Does Yuzunogi cook at home?","«Юзуноги готовит дома?»","Koch Yuzunogi zu Hause?"
+00000dc4,28,"「身近な、一番の先生だもの」","The most familiar and best teacher","«Самый знакомый и лучший учитель»","Der vertrauteste und beste Lehrer"
+00000e2c,32,"「この間、家で食べたんだけど…」","I ate at home the other day …","Я ел дома на днях…","Ich habe neulich zu Hause gegessen …"
+00000ffc,22,"「フフッ、でしょう？」","Huh, right?","А, верно?","Hä, richtig?"
+0000136c,38,"「料理は、楽しみながら作るのが一番よ」","It's best to cook while having fun.","«Лучше всего готовить, развлекаясь».","Am besten kocht man mit Spaß."
+000013dc,40,"「マーマレードとスコーン、楽しみだなぁ」","Marmalade and scones, I'm looking forward to it.","«Мармелад и булочки, я с нетерпением жду этого».","Marmelade und Scones, ich freue mich darauf."
+00001574,24,"「ええ、楽しみにしてる」","Yes, I'm looking forward to it.","«Да, я с нетерпением жду этого».","Ja, ich freue mich darauf."
+0000166c,42,"「そうなんだけど、なかなか決められなくて」","That's right, but it's hard to decide.","— Верно, но трудно решить.","Das stimmt, aber es ist schwer zu entscheiden."
+000016c0,34,"「食堂のメニューは参考になった？」","Did the dining room menu help you?","— Вам помогло меню столовой?","Hat Ihnen die Speisekarte im Speisesaal geholfen?"
+00001728,42,"「ええ、お肉を使った料理がいいのかなって」","Yes, I wonder if cooking with meat is good.","«Да, интересно, хорошо ли готовить с мясом».","Ja, ich frage mich, ob Kochen mit Fleisch gut ist."
+000017c0,42,"「いいね～肉料理か。試食は任せておいてよ」","Like-meat dishes? Leave the tasting to me.","«Мясные блюда? Предоставьте дегустацию мне».","Gerichte wie Fleisch? Überlassen Sie die Verkostung mir."
+00001834,22,"「フフッ、ありがとう」","Thank you, huh","Спасибо, а","Danke, hm"
+00001aec,20,"「小学５年生からよ」","From the 5th grade of elementary school","«С 5 класса начальной школы»","Ab der 5. Klasse der Grundschule"
+00001cb0,24,"「ははは、そうだろうね」","Haha, that's right.","«Ха-ха, верно».","Haha, das stimmt."
+00001df8,38,"「酢豚のパイナップルって、許せる方？」","Who can forgive vineapple pineapple?","«Ананас уксусной свинины прощает?»","Wer kann Ananas verzeihen?"
+000020a8,28,"「その中からなら、洋食かな」","If it's from that, it's Western food.","«Если это от этого, это западная еда».","Wenn es davon kommt, ist es westliches Essen."
+00002234,18,"「ははは、そっか」","Hahaha, that's right","«Хахаха, верно»","Hahaha, stimmt"
+00002288,36,"「最近はまってる料理って何かある？」","Are there any dishes you're addicted to these days?","«Есть ли какие-нибудь блюда, от которых вы в последнее время пристрастились?»","Gibt es irgendwelche Gerichte, nach denen du heutzutage süchtig bist?"
+00002700,42,"「へ～っ、けど、俺はカンガルーに興味が…」","Hmm, but I'm interested in kangaroos …","Хм, а меня интересуют кенгуру…","Hmm, aber ich interessiere mich für Kängurus …"
+00002788,22,"「もう、それはいいの」","It ’s okay.","Все в порядке.","Es ist okay."
+000027e8,26,"「料理上手な女の子って…」","A girl who is good at cooking …","«Девушка, которая хорошо готовит…»","Ein Mädchen, das gut kochen kann …"
+00002858,24,"「え…あ、ありがとう…」","Eh … oh, thank you …","Э… о, спасибо…","Äh … oh, danke …"
+000029d8,26,"「参考になってよかったよ」","I'm glad it was helpful.","«Я рад, что это было полезно».","Ich bin froh, dass es hilfreich war."
+00002e14,36,"「参考になったみたいで、よかったよ」","I'm glad it was helpful.","«Я рад, что это было полезно».","Ich bin froh, dass es hilfreich war."
+00002ff4,30,"「ううん、そんなことないわよ」","Yeah, that's not true.","«Да, это неправда».","Ja, das ist nicht wahr."
+000033fc,36,"「カレーライスの具なら、何がいい？」","What is the best curry rice ingredient?","«Какой лучший ингредиент риса карри?»","Was ist die beste Zutat für Curryreis?"
+00003480,20,"「私は、ポークかな」","I'm pork","Я свинина","„Ich bin Schwein“"
+000035b0,26,"「ラーメンは何味が好き？」","What taste do you like about ramen?","«Какой вкус вам нравится в рамене?»","Welchen Geschmack magst du an Ramen?"
+0000361c,28,"「コクのある醤油味が好きよ」","I like the rich soy sauce flavor.","«Мне нравится насыщенный вкус соевого соуса».","Ich mag den reichhaltigen Sojasaucengeschmack."
+00003670,16,"「コクのある？」","Is it rich?","Это богато?","Ist es reich?"
+000036e0,28,"「ええ、トンコツ醤油味とか」","Yes, tonkotsu soy sauce flavor","Да, тонкоцу со вкусом соевого соуса","Ja, Tonkotsu-Sojasauce-Geschmack"
+0000386c,34,"「料理してる時の柚ノ木さんって…」","Yuzunogi-san when cooking …","Юзуноги-сан во время готовки…","Yuzunogi-san beim Kochen …"
+000038e0,24,"「フフッ、ありがとう…」","Thank you, huh …","Спасибо, а…","Danke, hm …"
+00003970,38,"「料理コンテスト、予選突破おめでとう」","Cooking Contest, Congratulations on breaking through the qualifying","«Кулинарный конкурс, Поздравляем с прохождением квалификации»","Kochwettbewerb, Glückwunsch zum Durchbruch der Qualifikation"
+000039d4,16,"「ありがとう～」","Thank you ~","Спасибо~","Danke ~"
+00003a48,24,"「冬の本戦が楽しみだね」","I'm looking forward to the main winter race.","«Я с нетерпением жду главной зимней гонки».","Ich freue mich auf das Hauptrennen im Winter."
+00003dd4,34,"「Ｂ級グルメで好きなのって、何？」","What do you like about B-class gourmet?","«Что вам нравится в гурманах B-класса?»","Was gefällt Ihnen an B-Klasse-Gourmet?"
+00003e54,30,"「スパゲッティ・ナポリタンね」","Spaghetti Napolitan","Спагетти Неаполитан","Spaghetti Napolitan"
+00004090,32,"「へ～っ、すごいね。どんな味？」","Hey, that's amazing. What kind of taste is it?","«Эй, это потрясающе. Что это за вкус?»","„Hey, das ist erstaunlich. Was für ein Geschmack ist das?“"
+000042a0,32,"「ええ、それだけは自慢できるの」","Yes, I can brag about that.","— Да, я могу этим похвастаться.","Ja, damit kann ich prahlen."
+00004454,28,"「うん。だって、楽しいもの」","Yeah, because it's fun.","«Да, потому что это весело».","Ja, weil es Spaß macht."
 000003e4,73,"「まさか、自分が料理コンテストに
-　挑戦するなんて、思ってもみなかったわ」","","",""
+　挑戦するなんて、思ってもみなかったわ」","No way, I was in a cooking contest
+I never thought I would try it. ","«Ни за что, я участвовал в кулинарном конкурсе.
+Я никогда не думал, что попробую это».","„Auf keinen Fall, ich war bei einem Kochwettbewerb
+Ich hätte nie gedacht, dass ich es versuchen würde."
 000005ac,51,"「いろいろあるわよ、オムレツから、
-　肉じゃがまで」","","",""
+　肉じゃがまで」","There are many things, from the omelet.
+Nikujaga ","Есть много вещей, начиная с омлета.
+Никуджага","Es gibt viele Dinge, vom Omelett.
+Nikujaga"
 000006a8,47,"「冷めてもおいしいし、
-　お弁当にもいいわよね」","","",""
+　お弁当にもいいわよね」","It ’s delicious even when it ’s cold.
+It's also good for lunch boxes, isn't it? ","Вкусно, даже когда холодно.
+Это также хорошо для ланч-боксов, не так ли?»","„Auch wenn es kalt ist, ist es lecker.
+Es eignet sich auch gut für Brotdosen, nicht wahr?"
 000007d4,71,"「ええ、煮物、焼き物は大変よ。
-　制服の下が汗でびっしょりになっちゃう」","","",""
+　制服の下が汗でびっしょりになっちゃう」","Yes, simmered and grilled foods are hard.
+The bottom of the uniform gets soaked with sweat 」","«Да, тушеные и приготовленные на гриле продукты твердые.
+Низ униформы промок от пота 」","„Ja, gekochte und gegrillte Speisen sind hart.
+Der untere Teil der Uniform wird schweißnass 」"
 000008a8,49,"「家庭科室にも、
-　クーラーがあればいいんだけど」","","",""
+　クーラーがあればいいんだけど」","In the home economics room,
+I wish I had a cooler. ","«В кабинете домоводства,
+Я бы хотел, чтобы у меня был кулер».","Im Hauswirtschaftsraum
+Ich wünschte, ich hätte einen Kühler."
 0000095c,49,"「柚ノ木さんって、和食と洋食、
-　どっちが好き？」","","",""
+　どっちが好き？」","Yuzunogi-san is Japanese and Western food,
+Which do you like better? ","«Юзуноги-сан — это японская и западная еда,
+Что вам больше нравится? ","„Yuzunogi-san ist japanisches und westliches Essen,
+Welches gefällt dir besser? "
 000009d8,90,"「どちらも好きよ。パンが続いたら、
 　ご飯を食べたくなるし、
-　どっちが好きって言えないわ」","","",""
+　どっちが好きって言えないわ」","I like both. If the bread continues,
+I want to eat rice,
+I can't say which one I like. ","«Мне нравятся оба. Если хлеб продолжится,
+Я хочу есть рис,
+Я не могу сказать, какой из них мне нравится».","Ich mag beides. Wenn das Brot weitergeht,
+Ich will Reis essen,
+Ich kann nicht sagen, welches mir gefällt."
 00000b3c,49,"「お母さんが作ってくれる
-　ハヤシライスが好きよ」","","",""
+　ハヤシライスが好きよ」","Mom makes it
+I like hayashi rice. ","«Мама готовит
+Мне нравится рис хаяши».","„Mama macht es
+Ich mag Hayashi-Reis.“"
 00000cbc,51,"「ええ、もちろん。
-　お母さんと一緒に作ってるわよ」","","",""
+　お母さんと一緒に作ってるわよ」","Yes, of course.
+I'm making it with my mom. ","Да, конечно.
+Я готовлю его с мамой».","Ja, natürlich.
+Ich mache es mit meiner Mutter."
 00000e98,59,"「フフッ、おいしそう。
-　家族みんなで食べるのが、一番よね」","","",""
+　家族みんなで食べるのが、一番よね」","Huh, it looks delicious.
+It ’s best to eat with the whole family. ”","Ха, выглядит аппетитно.
+Лучше всего есть всей семьей».","„Hm, sieht lecker aus.
+Am besten isst man mit der ganzen Familie.“"
 00000f70,67,"「料理コンテスト用に作る料理は、
-　ハンバーガーかぁ。いい題材だね」","","",""
+　ハンバーガーかぁ。いい題材だね」","The food we make for the cook-off is
+Is it a hamburger? That's a good subject. ","«Еда, которую мы готовим для приготовления пищи,
+Это гамбургер? Это хорошая тема».","„Das Essen, das wir für das Cook-off zubereiten, ist
+Ist es ein Hamburger? Das ist ein gutes Thema."
 00001090,59,"「がんばって、おいしいハンバーガー、
-　作っちゃうんだから」","","",""
+　作っちゃうんだから」","Good luck, delicious burgers,
+I'll make it. ","Удачи, вкусных бургеров,
+Я сделаю это».","Viel Glück, leckere Burger,
+Ich werde es schaffen. "
 00001120,67,"「パン生地をテーブルに叩きつけてた時は、
-　ちょっとびっくりしたよ」","","",""
+　ちょっとびっくりしたよ」","When I was hitting the bread dough on the table,
+I was a little surprised. ","«Когда я бил тесто по столу,
+Я был немного удивлен».","„Als ich den Brotteig auf den Tisch schlug,
+Ich war ein wenig überrascht.“"
 000011c0,65,"「料理って、時に大胆に調理した方が
-　おいしいから、面白いのよね」","","",""
+　おいしいから、面白いのよね」","Cooking is sometimes bolder
+It ’s delicious, so it ’s interesting. ”","«Готовить иногда смелее
+Это вкусно, поэтому интересно».","„Kochen ist manchmal mutiger
+Es ist köstlich, also ist es interessant.“"
 00001280,63,"「生地をパンの形に成形する時も、
-　粘土遊びみたいで楽しいし…」","","",""
+　粘土遊びみたいで楽しいし…」","When molding the dough into the shape of bread,
+It's fun like playing with clay … ","«Формируя тесто в форме хлеба,
+Это весело, как играть с пластилином…»","Beim Formen des Teigs in die Form von Brot,
+Es macht Spaß wie mit Ton zu spielen … "
 00001464,49,"「私は、いつでも作れるから、
-　いつでも言ってね」","","",""
+　いつでも言ってね」","I can make it anytime,
+ Say it anytime you'd like","«Я могу сделать это в любое время,
+Скажи это в любое время, когда захочешь».","„Ich kann es jederzeit schaffen,
+Sag es wann immer du willst"
 000014ec,63,"「料理のおいしい撮り方を勉強しておくから、
-　ちょっと待ってて」","","",""
+　ちょっと待ってて」","Because I'm studying how to take delicious food,
+Wait a minute ","«Потому что я учусь есть вкусно,
+Подождите минуту ","Weil ich lerne, wie man leckeres Essen zu sich nimmt,
+Warten Sie eine Minute "
 000015d8,53,"「コンテストに出す料理、
-　いいのが見つかるといいね」","","",""
+　いいのが見つかるといいね」","Cooking for the contest,
+I hope you find a good one. ","«Готовим на конкурс,
+Надеюсь, ты найдешь хороший».","Kochen für den Wettbewerb,
+Ich hoffe, Sie finden einen guten."
 000018cc,92,"「柚ノ木さんの料理がおいしいわけは、
 　おいしくなる魔法が、
-　かかってるからだったんだなぁ」","","",""
+　かかってるからだったんだなぁ」","The reason why Mr. Yuzunogi's food is delicious is
+The magic that makes it delicious
+It was because it was hanging. ","«Причина, по которой еда мистера Юзуноги вкусная, заключается в том,
+Магия, которая делает его вкусным
+Это потому, что оно висело».","„Der Grund, warum das Essen von Herrn Yuzunogi so köstlich ist, ist
+Die Magie, die es köstlich macht
+Es war, weil es hing.“"
 0000197c,51,"「…うん、そう言ってもらえると、
-　すごくうれしい」","","",""
+　すごくうれしい」","… Yeah, when you say that,
+I'm very happy. ","…Да, когда ты так говоришь,
+Я очень счастлив. ","… Ja, wenn du das sagst,
+Ich bin sehr glücklich. "
 00001a68,53,"「柚ノ木さんって、いつから
-　料理が好きになったの？」","","",""
+　料理が好きになったの？」","When did Yuzunogi-san start?
+Did you like cooking? ","Когда Юзуноги-сан начал?
+Тебе понравилось готовить? ","„Wann hat Yuzunogi-san angefangen?
+Hast du gerne gekocht? "
 00001b60,67,"「学校で家庭科の授業が始まって、
-　教わった料理を家で作ってみたの」","","",""
+　教わった料理を家で作ってみたの」","The home economics class started at school,
+I tried to cook the food I learned at home. ","«Урок домоводства начался в школе,
+Я пытался приготовить еду, которую выучил дома».","„Der Hauswirtschaftsunterricht begann in der Schule,
+Ich habe versucht, das Essen zu kochen, das ich zu Hause gelernt habe."
 00001bfc,61,"「そしたら、みんな喜んでくれて。
-　特にお父さんは喜んでたわ」","","",""
+　特にお父さんは喜んでたわ」","Then everyone will be happy.
+Especially my dad was happy 」","Тогда все будут довольны.
+Особенно мой папа был счастлив 」","„Dann sind alle glücklich.
+Besonders mein Vater hat sich gefreut 」"
 00001d18,88,"「それから、お母さんからも
 　教わるようになって、
-　どんどん料理が好きになっていったの」","","",""
+　どんどん料理が好きになっていったの」","And also from my mom
+Being taught,
+I became more and more fond of cooking. ","А еще от мамы
+Учат,
+Я все больше и больше увлекался кулинарией».","„Und auch von meiner Mutter
+Unterrichtet werden,
+Ich habe das Kochen immer mehr lieb gewonnen.“"
 00001e6c,53,"「私は、おいしいと思うけど？
-　お肉も柔らかくなるし」","","",""
+　お肉も柔らかくなるし」","I think it's delicious?
+Meat also becomes tender 」","Я думаю, это вкусно?
+Мясо тоже становится нежным」","„Ich finde es lecker?
+Auch Fleisch wird zart 」"
 00001f58,51,"「ご飯とは、あんまり合わないかもしれない
-　けどね」","","",""
+　けどね」","Maybe it doesn't go well with rice
+But ","Может быть, это не очень хорошо сочетается с рисом
+Но ","„Vielleicht passt es nicht gut zu Reis
+Aber "
 0000200c,63,"「和食、洋食、中華、いろいろあるけど、
-　どれを一番よく作る？」","","",""
+　どれを一番よく作る？」","There are various kinds of Japanese food, Western food, Chinese food, but
+Which one do you make best? ","«Существуют различные виды японской кухни, западной кухни, китайской кухни, но
+Какой из них вы делаете лучше всего? ","„Es gibt verschiedene Arten von japanischem Essen, westlichem Essen, chinesischem Essen, aber
+Welche machst du am besten? "
 0000212c,118,"「だって、フランス料理を作っても、
 　イタリア料理を作っても、スペイン料理を
-　作っても洋食でしょう？　幅広いんだもの」","","",""
+　作っても洋食でしょう？　幅広いんだもの」","Because even if you cook French food,
+Even if you cook Italian food, you can enjoy Spanish food
+Is it Western food even if you make it? It's a wide range. ","Потому что даже если ты готовишь французскую еду,
+Даже если вы готовите итальянскую еду, вы можете наслаждаться испанской едой.
+Это западная еда, даже если вы ее готовите? Это широкий диапазон».","„Denn selbst wenn du französisches Essen kochst,
+Auch wenn Sie italienisch kochen, können Sie spanisches Essen genießen
+Ist es westliches Essen, selbst wenn Sie es machen? Es ist eine breite Palette."
 0000230c,53,"「オーストラリア料理なんて、
-　いいなぁって思うわよ」","","",""
+　いいなぁって思うわよ」","Australian food
+I think it's good. ","Австралийская кухня
+Я думаю, что это хорошо. ","„Australisches Essen
+Ich denke es ist gut. "
 000023b8,45,"「オーストラリア？
-　カンガルーでも食うの？」","","",""
+　カンガルーでも食うの？」","Australia?
+Do you eat kangaroos? ","Австралия?
+Вы едите кенгуру? ","Australien?
+Isst du Kängurus? "
 00002444,84,"「ち、違うわよ！
 　…現地じゃ、食べるみたいだけど、
-　そこに興味があるんじゃなくて」","","",""
+　そこに興味があるんじゃなくて」","Well, it's different!
+It seems to be eaten locally,
+I'm not interested in that. ","«Ну, это другое!
+Кажется, его едят на месте,
+Меня это не интересует».","„Nun, es ist anders!
+Es scheint lokal gegessen zu werden,
+Das interessiert mich nicht."
 00002578,106,"「多国籍な文化の国だから、ヨーロッパの
 　料理と、アジアの料理が混ざった、
-　ちょっと面白いレシピが多いの」","","",""
+　ちょっと面白いレシピが多いの」","Because it is a country of multinational culture, Europe
+A mixture of food and Asian food 、
+There are many interesting recipes. ","«Потому что это страна многонациональной культуры, Европа
+Смесь еды и азиатской кухни 、
+Есть много интересных рецептов».","„Weil es ein Land der multinationalen Kultur ist, Europa
+Eine Mischung aus Essen und asiatischem Essen 、
+Es gibt viele interessante Rezepte."
 0000267c,77,"「コリアンダーとか、ニョクマムとか、
-　アジアでよく使う食材を使ったりとかね」","","",""
-0000292c,59,"「\p01君、ハンバーガーのヒントをくれて
-　本当にありがとう」","","",""
+　アジアでよく使う食材を使ったりとかね」","Coriander, fish sauce, etc.
+Using ingredients that are often used in Asia 」","Кориандр, рыбный соус и т.д.
+Использование ингредиентов, которые часто используются в Азии 」","„Koriander, Fischsauce usw.
+Verwendung von Zutaten, die oft in Asien verwendet werden 」"
 00002a3c,51,"「私、精一杯、おいしいハンバーガーを
-　作るからね」","","",""
+　作るからね」","I'll do my best to have a delicious burger
+I'll make it. ","Я сделаю все возможное, чтобы съесть вкусный бургер
+Я сделаю это».","„Ich werde mein Bestes tun, um einen leckeren Burger zu haben
+Ich werde es schaffen. "
 00002ac4,61,"「うちの学校にぴったりの料理だよね、
-　ひまわりバーガーって」","","",""
-00002b4c,53,"「\p01君のおかげよ。
-　あなたが…ヒントをくれたから」","","",""
+　ひまわりバーガーって」","It's the perfect dish for our school, isn't it?
+What is a sunflower burger? ","«Идеальное блюдо для нашей школы, не так ли?
+Что такое подсолнечный бургер?»","„Das ist das perfekte Gericht für unsere Schule, nicht wahr?
+Was ist ein Sonnenblumenburger?"
 00002bf8,106,"「いや、柚ノ木さんが、がんばったからだよ。
 　おいしいし、見た目もバツグンだし、
-　予選突破間違いなしだね」","","",""
-00002cac,22,"「\p01君…ありがとう」","","",""
-00002d68,75,"「\p01君、一緒に、みんなの好みの
-　ハンバーガーを聞いてくれて、ありがとう」","","",""
+　予選突破間違いなしだね」","No, because Mr. Yunogi did his best.
+It's delicious, it looks great,
+There is no doubt that it will break through the qualifying. ","«Нет, потому что мистер Юноги сделал все возможное.
+Вкусно, выглядит красиво,
+Нет сомнений, что он пробьет квалификацию».","„Nein, weil Mr. Yunogi sein Bestes gegeben hat.
+Es ist köstlich, es sieht toll aus,
+Dass er das Qualifying durchbrechen wird, steht außer Frage.“"
 00002e84,76,"「みんなが食べたくなるような
 　ハンバーガーを、
-　がんばって作らなくっちゃ」","","",""
+　がんばって作らなくっちゃ」","Everyone wants to eat
+Hamburger 、
+I have to do my best to make it ","«Все хотят есть
+Гамбургер,
+Я должен сделать все возможное, чтобы это сделать»","„Alle wollen essen
+Hamburger ,
+Ich muss mein Bestes geben, um es zu schaffen "
 00002f60,67,"「柚ノ木さんって、やっぱり…男も料理が
-　できた方がいいって思う？」","","",""
+　できた方がいいって思う？」","Yuzunogi-san, after all … a man also cooks
+Do you think it should be possible? ","Юзуноги-сан, ведь… мужчина тоже готовит
+Как вы думаете, это должно быть возможно? ","„Yuzunogi-san, schließlich … kocht auch ein Mann
+Meint ihr das sollte möglich sein? "
 000030a8,59,"「そりゃあ、一緒にキッチンに立つのは
-　楽しいと思うけど…」","","",""
+　楽しいと思うけど…」","Well, standing in the kitchen together
+I think it's fun … ","Ну, стоим на кухне вдвоем
+Я думаю, это весело…»","„Nun, wir stehen zusammen in der Küche
+Ich finde es lustig…"
 00003148,51,"「そばにいて、話しかけてくれるだけで、
-　私は十分」","","",""
+　私は十分」","Just be by your side and talk to me
+I am enough ","«Просто будь рядом и поговори со мной
+С меня хватит ","„Sei einfach an deiner Seite und rede mit mir
+Ich bin genug "
 00003210,59,"「インスタントラーメンって、
-　あんまり食べなさそうだよね」","","",""
+　あんまり食べなさそうだよね」","Instant noodles
+It looks like you do n’t eat much. ”","Лапша быстрого приготовления
+Я не думаю, что буду есть много».","Instant-Nudeln
+Es sieht so aus, als würdest du nicht viel essen.“"
 000032a8,71,"「そうね、あんまり食べないけど、
-　お鍋の締めに、乾麺をよく入れるわよ」","","",""
+　お鍋の締めに、乾麺をよく入れるわよ」","Yeah, I don't eat much, but
+I often put dried noodles in the end of the pot. ","«Да, я мало ем, но
+Я часто кладу сушеную лапшу в конец кастрюли».","„Ja, ich esse nicht viel, aber
+Ich lege oft getrocknete Nudeln ans Ende des Topfes.“"
 00003354,51,"「お出汁を吸って、
-　とってもおいしくなるのよね～」","","",""
+　とってもおいしくなるのよね～」","Suck the soup stock,
+It will be very delicious ~ ","«Соси суповой бульон,
+Будет очень вкусно~","Sauge den Suppenfond,
+Es wird sehr lecker ~ "
 00003530,53,"「豚肉の甘みいっぱいの、
-　コクのあるカレーが好きよ」","","",""
+　コクのあるカレーが好きよ」","The sweetness of pork is full.
+I like rich curry. ","«Сладость свинины полна.
+Я люблю густое карри».","Die Süße von Schweinefleisch ist voll.
+Ich mag reichhaltiges Curry.“"
 00003734,76,"「トンコツかぁ。意外だなぁ、
 　もっとあっさりした方が
-　好きかと思ってたよ」","","",""
+　好きかと思ってたよ」","Tonkotsu? Surprisingly,
+It ’s better to be lighter
+I thought I liked it. ","«Тонкоцу? Удивительно,
+Лучше быть легче
+Я думал, что мне это нравится».","„Tonkotsu? Überraschenderweise
+Es ist besser, leichter zu sein
+Ich dachte, es gefällt mir.“"
 000037e0,67,"「だって、濃厚なトンコツスープは、
-　家庭じゃ作れない味でしょう？」","","",""
+　家庭じゃ作れない味でしょう？」","Because the rich tonkotsu soup is
+It ’s a taste that you ca n’t make at home, right? ","«Потому что наваристый суп тонкоцу
+Это вкус, который вы не можете сделать дома, верно? ","„Weil die reichhaltige Tonkotsu-Suppe ist
+Es ist ein Geschmack, den Sie nicht zu Hause machen können, oder? "
 00003ac0,73,"「ええ。審査員の人にひまわりバーガーを
-　食べてもらえるなんて、うれしい」","","",""
+　食べてもらえるなんて、うれしい」","Yes. Give the judges a sunflower burger
+I'm glad you can eat it. ","«Да. Дайте судьям бургер с подсолнухами.
+Я рад, что ты можешь это есть».","Ja. Geben Sie den Richtern einen Sonnenblumenburger
+Ich bin froh, dass du es essen kannst."
 00003b60,59,"「まぁ、その前に俺は、学園祭の魔法喫茶が
-　楽しみだけどね」","","",""
-00003bec,24,"「もう、\p01君ってば…」","","",""
+　楽しみだけどね」","Well, before that, I had a magic cafe at the school festival.
+I'm looking forward to it. ","«Ну, а до этого у меня было волшебное кафе на школьном фестивале.
+Я с нетерпением жду этого».","„Nun, davor hatte ich ein magisches Café auf dem Schulfest.
+Ich freue mich darauf. "
 00003c5c,47,"「お弁当デーに、いっぱい人が集まると
-　いいね」","","",""
-00003ce8,81,"「ええ。みんなで楽しく、お弁当が食べたい。
-　\p01君と一緒に行った遊園地みたいに」","","",""
+　いいね」","When a lot of people get together on Bento Day
+ How nice","«Когда много людей собирается в день бенто
+ Как мило","„Wenn am Bento Day viele Menschen zusammenkommen
+ Wie schön"
 00003f0c,67,"「ケチャップだけじゃなく、
-　ウスターソースも混ぜるのがコツなのよ」","","",""
+　ウスターソースも混ぜるのがコツなのよ」","Not just ketchup
+The trick is to mix Worcestershire sauce as well. ","Не только кетчуп
+Хитрость заключается в том, чтобы смешать еще и вустерширский соус».","„Nicht nur Ketchup
+Der Trick besteht darin, auch Worcestershire-Sauce zu mischen.“"
 00003fa4,49,"「今まで作った中で、
-　一番凝ってる料理って何？」","","",""
+　一番凝ってる料理って何？」","I've made it so far
+What is the most elaborate dish? ","«Я сделал это до сих пор
+Какое самое изысканное блюдо? ","„Bis jetzt habe ich es geschafft
+Was ist das aufwendigste Gericht? "
 00004028,51,"「舌平目のパイ包み焼きを、
-　作ったことがあるわよ」","","",""
+　作ったことがあるわよ」","Pie-wrapped grilled tonguefish,
+I've made it before. ","Язык на гриле, завернутый в пирог,
+Я делал это раньше».","In Torte gewickelter gegrillter Zungenfisch,
+Ich habe es schon einmal geschafft."
 00004110,102,"「濃厚なクリームソースに、サクサクのパイと
 　ほくほくの舌平目を合わせて食べるの。
-　おいしいんだから」","","",""
+　おいしいんだから」","With a rich cream sauce and a crispy pie
+Eat with the flat tongue of the tonguefish.
+Because it's delicious ","С насыщенным сливочным соусом и хрустящим пирогом
+Ешьте плоским языком морского языка.
+Потому что вкусно","Mit einer reichhaltigen Sahnesauce und einem knusprigen Kuchen
+Essen Sie mit der flachen Zunge des Zungenfisches.
+Weil es lecker ist“"
 00004224,51,"「柚ノ木さんって、家庭科の成績、
-　良さそうだよね」","","",""
+　良さそうだよね」","Yuzunogi-san is a home economics grade,
+It looks good. ","«Юзуноги-сан — специалист по домоводству,
+Это выглядит хорошо. ","„Yuzunogi-san ist Hauswirtschaftswissenschaftlerin,
+Es sieht gut aus. "
 00004340,57,"「ずっと、一番いい評価しか、
-　もらったことないんだから」","","",""
+　もらったことないんだから」","Always the best evaluation,
+I've never received it. ","«Всегда лучшая оценка,
+Я никогда не получал его».","Immer die beste Bewertung,
+Ich habe es nie erhalten."
 000043d0,57,"「料理してる時の柚ノ木さんって、
-　本当に楽しそうだよね」","","",""
+　本当に楽しそうだよね」","Yuzunogi-san when cooking
+It looks really fun ","Г-н Юзуноги во время приготовления пищи
+Выглядит очень весело»","„Yuzunogi-san beim Kochen
+Es sieht wirklich lustig aus "

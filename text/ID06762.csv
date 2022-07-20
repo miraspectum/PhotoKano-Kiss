@@ -1,34 +1,60 @@
-00000128,36,"「柚ノ木さんいる？　…って、あれ？」","","",""
-000001a8,34,"「内田、どうしてここにいるんだ？」","","",""
-00000214,42,"「体育館で、シャッターチャンスを待ってた」","","",""
+00000128,36,"「柚ノ木さんいる？　…って、あれ？」","Are you yuzunoki? …?","- Ты юзуноки? …?","Sind Sie yuzunoki? …?"
+000001a8,34,"「内田、どうしてここにいるんだ？」","“How are you here?”","— Как ты здесь? »","„Wie geht es Ihnen? „"
+00000214,42,"「体育館で、シャッターチャンスを待ってた」","“I waited for a体育館 in the gymnasium.”","«Я ждал в гимназии. »","„Ich wartete auf eine Benachrichtigung im
+Gymnasium. „"
 00000284,61,"「そしたら、暇ならお茶しない？　って、
-　学園の嫁に誘われた」","","",""
+　学園の嫁に誘われた」","If you do not have tea, then you will be invited
+to the wedding of the school.","«Если у вас нет чая, то вас пригласят на свадьбу
+школы».","Wenn Sie keinen Tee haben, werden Sie zur
+Hochzeit der Schule eingeladen."
 0000031c,73,"「暇そうな人…って観点で捜されたら、
-　物陰に潜んでいる私は、恰好の的…」","","",""
-000003a0,20,"「ステルス…通じず」","","",""
-000003e4,18,"「ははは、そっか」","","",""
-0000058c,30,"「あ、\p01君。いらっしゃい～」","","",""
-000005e0,28,"「内田をお茶に誘ったんだ？」","","",""
+　物陰に潜んでいる私は、恰好の的…」","When I was looking for someone who seems to be a
+time …, I'm diving in the shade …","«Когда я искал кого-то, кто, кажется, время …,
+я дайвинг в тени …»","Als ich jemanden suchte, der eine Zeit zu sein
+scheint, tauche ich im Schatten…"
+000003a0,20,"「ステルス…通じず」","Stealth…Isssue","Сталь…Иссуэ","Stealth…Issue"
+000003e4,18,"「ははは、そっか」","He's like it!","«Он так!»","Er ist so!"
+000005e0,28,"「内田をお茶に誘ったんだ？」","“I invited Uchida to tea?”","«Я пригласил Учида на чай? »","„Ich habe Uchida zum Tee eingeladen? „"
 00000664,86,"「ええ。だって、１人で寂しそうに
 　体育館の隅で座ってるんだもの。
-　放っておけなくて」","","",""
-00000714,32,"「放っておいてくれた方が…いい」","","",""
+　放っておけなくて」","Home So I’m sitting in the corner of the gym. I
+don't have to leave","Home Так что я сижу в углу спортзала. Мне не
+нужно оставлять","Ich sitze in der Ecke des Fitnessstudios. Ich
+muss nicht gehen"
+00000714,32,"「放っておいてくれた方が…いい」","It is better to let me go…","«Лучше отпустить меня…»","Es ist besser, mich gehen zu lassen…"
 000007ac,65,"「どうして？　１人であんな所にいたって、
-　つまらないじゃない？」","","",""
-00000880,26,"「話が平行線…。私の負け」","","",""
-000008d4,42,"「ステルスが見破られてる時点で、完全敗北」","","",""
-00000964,34,"「ステルス？　負け？　何のこと？」","","",""
+　つまらないじゃない？」","“Who should I do? I don’t know if I’m in one
+place?”","«Кто мне делать? Я не знаю, если я в одном месте?
+»","„Wer sollte ich tun? Ich weiß nicht, ob ich an
+einem Ort bin? „"
+00000880,26,"「話が平行線…。私の負け」","The story of the line… My loss","История линии… Моя потеря","Die Geschichte der Linie… Mein Verlust"
+000008d4,42,"「ステルスが見破られてる時点で、完全敗北」","Full defeat at the time when stealth is broken","«Полное поражение в то время, когда красть
+сломана»","Full besiegen zu der Zeit, wenn Stealth
+gebrochen ist"
+00000964,34,"「ステルス？　負け？　何のこと？」","Stealth? Lost? What?","«Сталь? Потеряли? Что?","Stealth? Verloren?"
 000009e0,75,"「我々、写真部員が指すステルス性とは、
-　視覚的、音響的な発見の抑制を指す」","","",""
+　視覚的、音響的な発見の抑制を指す」","“We refer to the suppression of visual and
+discoveries in the stealth of the photographer’s
+point.”","«Мы ссылаемся на подавление визуальных и открытий
+в краже точки фотографа. »","„Wir verweisen auf die Unterdrückung von
+visuellen und Entdeckungen in der Stealth des
+Fotografen. „"
 00000a84,61,"「我々の鍛えられた技を、
-　学園の嫁に見抜かれるとは、想定外」","","",""
-00000b2c,49,"「\p01君、何を話しているのか
-　よくわからない～」","","",""
-00000b8c,30,"「ははは、気にしなくていいよ」","","",""
+　学園の嫁に見抜かれるとは、想定外」","“It’s unexpected to be seen in the school’s bride
+with our trained skills.”","«Неожидается увидеть в невесте школы с нашими
+обученными навыками. »","„Es ist unerwartet, in der Braut der Schule mit
+unseren geschulten Fähigkeiten zu sehen. „"
+00000b8c,30,"「ははは、気にしなくていいよ」","“I don’t care about it.”","- Не волнуюсь об этом. »","„Es ist mir egal. „"
 00000c04,77,"「そう？　…じゃあ、写真部と料理研究会の
-　親睦会を兼ねて、お茶にしましょう」","","",""
-00000cec,16,"「準備…手伝う」","","",""
+　親睦会を兼ねて、お茶にしましょう」","“Oh? … Let’s enjoy a tea party with photos and
+cooking workshops.”","«О? … Давайте наслаждаться чаепитием с
+фотографиями и кулинарными мастерскими. »","Oh… Lassen Sie uns eine Teeparty mit Fotos und
+Koch-Workshops genießen. „"
+00000cec,16,"「準備…手伝う」","Preparation: Help","Подготовка: Помощь","Vorbereitung: Hilfe"
 00000d60,79,"「ありがとう。じゃあ、お皿とフォークを
-　並べてくれる？　マドレーヌがあるから」","","",""
-00000df4,14,"「わかった…」","","",""
-00000fa8,26,"こうして、３人でお茶した。","","",""
+　並べてくれる？　マドレーヌがあるから」","Thank you. So, can you arrange plates and forks?
+Madreine","Спасибо. Итак, можете ли вы организовать тарелки
+и вилки? Мадреин","Danke. Können Sie Teller und Gabeln arrangieren?
+Madreine"
+00000df4,14,"「わかった…」","Wow…","Вау…","Wow…"
+00000fa8,26,"こうして、３人でお茶した。","I had three people.","У меня было три человека.","Ich hatte drei Leute."

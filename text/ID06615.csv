@@ -1,109 +1,213 @@
-000000f0,28,"（あれ？　誰か教室にいるぞ）","(Huh? Someone is in the classroom)","",""
-00000184,18,"（あ、深角さん…）","(Oh, Mr. Fukakaku …)","",""
-0000020c,22,"シャッターチャンスだ！","It's a photo opportunity!","",""
-000002d8,20,"（撮るまでもないな）","(No need to shoot)","",""
-00000328,14,"「う…うぅ…」","U … Uu …","",""
-00000364,26,"（あれ？　泣いてるのか？）","(Are you crying?)","",""
-00000510,8,"「あ…」","a…","",""
-00000510,8,"「あ…」","a…","",""
-000005ac,8,"「……」","「……」","",""
-000005e0,42,"「珍しいね、こんな遅くまで残ってるなんて」","It's rare, it's left until this late.","",""
-0000064c,30,"「ちょっと用事があったから…」","Because I had something to do …","",""
-0000068c,10,"「そっか」","I see","",""
-000005ac,8,"「……」","「……」","",""
-000005ac,8,"「……」","「……」","",""
-00000798,20,"「内緒にしておいて」","Keep it secret","",""
-000007e4,8,"「え？」","e?","",""
-000005ac,8,"「……」","「……」","",""
-000005ac,8,"「……」","「……」","",""
-00000b50,18,"「…なりたいのよ」","… I want to be","",""
-00000b8c,14,"「なりたい？」","want to become?","",""
-00000be8,22,"「そう。彼女みたいに」","Yes, like her.","",""
-000005ac,8,"「……」","「……」","",""
-00000ffc,22,"「けど、ぜんぜん無理」","But it's impossible at all","",""
-000005ac,8,"「……」","「……」","",""
-00001370,34,"「なんとなくわかるよ、その気持ち」","Somehow I understand that feeling","",""
-000013e4,28,"「ウソよ。わかるわけないわ」","It's a lie. I don't understand.","",""
-00001438,20,"「いや、わかるんだ」","No, I understand.","",""
-00001538,20,"「ひどいな…それは」","Terrible … that's it","",""
-000015a0,22,"「ええ、ひどいの…私」","Yes, it's terrible … I","",""
-000015ec,32,"「けど、俺も似たようなもんだよ」","But I'm similar.","",""
-000007e4,8,"「え？」","e?","",""
-000017fc,36,"「深角さんも、きれいだと思うけど？」","I think Mr. Fukakaku is also beautiful, right?","",""
-00001880,18,"「冗談はやめてよ」","Stop joking","",""
-000019e8,28,"「心が…優しい証拠だと思う」","I think my heart is … a gentle proof.","",""
-00001a54,16,"「そんなこと…」","Such a thing…","",""
-00001c84,12,"「…まあな」","… Well","",""
-00001e28,28,"「…つらい者同士ね、私たち」","… Hard people, we","",""
-00001e70,8,"「だな」","Dana","",""
-00001ecc,28,"「お互い、今日の話は内緒ね」","Everyone, today's story is a secret.","",""
-00001f20,12,"「もちろん」","of course","",""
-000005ac,8,"「……」","「……」","",""
-000005ac,8,"「……」","「……」","",""
-0000201c,22,"「じゃあ、また明日…」","See you tomorrow…","",""
-00002068,20,"「ああ、また明日な」","Oh, see you tomorrow","",""
+000000f0,28,"（あれ？　誰か教室にいるぞ）","(Huh? Someone is in the classroom)","(А? Кто-то в классе)","(Huh? Jemand ist im Klassenzimmer)"
+00000184,18,"（あ、深角さん…）","(Oh, Mr. Fukakaku …)","(О, мистер Фукакаку…)","(Oh, Herr Fukakaku …)"
+0000020c,22,"シャッターチャンスだ！","It's a photo opportunity!","Это возможность сфотографироваться!","Es ist eine Gelegenheit zum Fotografieren!"
+000002d8,20,"（撮るまでもないな）","(No need to shoot)","(Не надо стрелять)","(Keine Notwendigkeit zu schießen)"
+00000328,14,"「う…うぅ…」","U … Uu …","У… Уу…","U … Uu …"
+00000364,26,"（あれ？　泣いてるのか？）","(Are you crying?)","(Ты плачешь?)","(Weinen Sie?)"
+00000510,8,"「あ…」","a…","а…","a…"
+00000510,8,"「あ…」","a…","а…","a…"
+000005ac,8,"「……」","「……」","「……」","「……」"
+000005e0,42,"「珍しいね、こんな遅くまで残ってるなんて」","It's rare, it's left until this late.","«Это редкость, это осталось допоздна».","Es ist selten, es bleibt bis so spät."
+0000064c,30,"「ちょっと用事があったから…」","Because I had something to do …","Потому что у меня было кое-что сделать…","Weil ich etwas zu tun hatte …"
+0000068c,10,"「そっか」","I see","Я понимаю","Aha"
+000005ac,8,"「……」","「……」","「……」","「……」"
+000005ac,8,"「……」","「……」","「……」","「……」"
+00000798,20,"「内緒にしておいて」","Keep it secret","«Держите это в секрете»","Halte es geheim"
+000007e4,8,"「え？」","e?","Э?","e?"
+000005ac,8,"「……」","「……」","「……」","「……」"
+000005ac,8,"「……」","「……」","「……」","「……」"
+00000b50,18,"「…なりたいのよ」","… I want to be","… Я хочу быть","… Ich möchte sein"
+00000b8c,14,"「なりたい？」","want to become?","хочу стать?","werden wollen?"
+00000be8,22,"「そう。彼女みたいに」","Yes, like her.","— Да, как она.","Ja, wie sie."
+000005ac,8,"「……」","「……」","「……」","「……」"
+00000ffc,22,"「けど、ぜんぜん無理」","But it's impossible at all","«Но это вообще невозможно»","Aber es ist überhaupt unmöglich"
+000005ac,8,"「……」","「……」","「……」","「……」"
+00001370,34,"「なんとなくわかるよ、その気持ち」","Somehow I understand that feeling","«Почему-то я понимаю это чувство»","Irgendwie verstehe ich dieses Gefühl"
+000013e4,28,"「ウソよ。わかるわけないわ」","It's a lie. I don't understand.","«Это ложь. Я не понимаю».","Es ist eine Lüge. Ich verstehe nicht."
+00001438,20,"「いや、わかるんだ」","No, I understand.","— Нет, я понимаю.","Nein ich verstehe."
+00001538,20,"「ひどいな…それは」","Terrible … that's it","Ужасно… вот и все","Schrecklich … das ist es"
+000015a0,22,"「ええ、ひどいの…私」","Yes, it's terrible … I","Да, это ужасно… Я","Ja, es ist schrecklich … ich"
+000015ec,32,"「けど、俺も似たようなもんだよ」","But I'm similar.","— Но я похож.","Aber ich bin ähnlich."
+000007e4,8,"「え？」","e?","Э?","e?"
+000017fc,36,"「深角さんも、きれいだと思うけど？」","I think Mr. Fukakaku is also beautiful, right?","«Мне кажется, мистер Фукакаку тоже красивый, верно?»","Ich finde Mr. Fukakaku auch schön, oder?"
+00001880,18,"「冗談はやめてよ」","Stop joking","Хватит шутить","Hör auf zu scherzen"
+000019e8,28,"「心が…優しい証拠だと思う」","I think my heart is … a gentle proof.","Я думаю, что мое сердце… нежное доказательство.","Ich denke, mein Herz ist … ein sanfter Beweis."
+00001a54,16,"「そんなこと…」","Such a thing…","«Такое дело…»","Solch eine Sache…"
+00001c84,12,"「…まあな」","… Well","… Что ж","… Brunnen"
+00001e28,28,"「…つらい者同士ね、私たち」","… Hard people, we","…Жесткие люди мы","… Harte Leute, wir"
+00001e70,8,"「だな」","Dana","Дана","Dana"
+00001ecc,28,"「お互い、今日の話は内緒ね」","Everyone, today's story is a secret.","«Все, сегодняшняя история — секрет».","Alle zusammen, die heutige Geschichte ist ein Geheimnis."
+00001f20,12,"「もちろん」","of course","конечно","Natürlich"
+000005ac,8,"「……」","「……」","「……」","「……」"
+000005ac,8,"「……」","「……」","「……」","「……」"
+0000201c,22,"「じゃあ、また明日…」","See you tomorrow…","Увидимся завтра…","Bis morgen…"
+00002068,20,"「ああ、また明日な」","Oh, see you tomorrow","О, увидимся завтра","Oh, bis morgen"
 000001c4,55,"（あそこって、新見…さんの席だよな。
-　何してるんだ？）","","",""
+　何してるんだ？）","(That's Niimi's seat.
+What are you doing? )","(Это место Ниими.
+Что делаешь? )","(Das ist Niimis Platz.
+Was machst du? )"
 0000084c,88,"「新見さんの席に座ってたこと、
 　内緒にしておいて。
-　…特に、彼女には言わないで欲しい」","","",""
+　…特に、彼女には言わないで欲しい」","I was sitting at Mr. Niimi's seat,
+Keep it secret.
+… Especially, don't tell her. ","«Я сидел на месте мистера Ниими,
+Держите это в секрете.
+…Особенно, не говори ей».","Ich saß an Mr. Niimis Platz,
+Halte es geheim.
+… Vor allem, sag es ihr nicht.“"
 00000910,61,"「いいけど…何かあったのか？
-　泣いてた…ように見えたけど…」","","",""
+　泣いてた…ように見えたけど…」","OK, but … what happened?
+I was crying … it looked like … ","Хорошо, но… что случилось?
+Я плакала… было похоже…","„Okay, aber … was ist passiert?
+Ich habe geweint … es sah aus wie … "
 00000a00,49,"「理由を…言ったら、
-　内緒にしておいてくれる？」","","",""
+　内緒にしておいてくれる？」","If you tell me the reason …
+Can you keep it a secret? ","«Если вы скажете мне причину…
+Ты можешь держать это в секрете? ","„Wenn du mir den Grund sagst …
+Kannst du es geheim halten? "
 00000a60,110,"「あ、ああ…って、いや、べつに言わなくても
 　内緒にしておくけど、教えてくれるなら、
-　それも内緒にしておくよ」","","",""
+　それも内緒にしておくよ」","Oh, oh … no, I don't have to tell you
+I'll keep it a secret, but if you can tell me
+I'll keep that secret too. ","О, о … нет, я не должен тебе говорить
+Я сохраню это в секрете, но если ты скажешь мне
+Я тоже сохраню этот секрет».","„Oh, oh … nein, das muss ich dir nicht sagen
+Ich werde es geheim halten, aber wenn du es mir sagen kannst
+Auch das werde ich geheim halten."
 00000cc8,45,"「笑っちゃうでしょう？
-　なれっこないのにね」","","",""
+　なれっこないのにね」","Will you laugh?
+I can't get used to it. ","Будешь смеяться?
+Я не могу к этому привыкнуть».","„Wirst du lachen?
+Ich kann mich nicht daran gewöhnen."
 00000d5c,73,"「きれいで、明るくて、テニスが上手で、
-　頭がよくて、みんなの人気者で…」","","",""
+　頭がよくて、みんなの人気者で…」","Beautiful, bright, good at tennis,
+Being smart and popular with everyone … ","«Красивая, яркая, хорошо играющая в теннис,
+Быть умным и популярным у всех…»","Schön, hell, gut im Tennis,
+Clever sein und bei allen beliebt sein … "
 00000e40,57,"「そんな彼女の席に座って、彼女の視線で
-　世界を見れば…」","","",""
+　世界を見れば…」","Sit in her seat and look at her
+If you look at the world … ","Садись на ее место и посмотри на нее
+Если посмотреть на мир…»","„Setz dich auf ihren Platz und sieh sie an
+Wenn Sie sich die Welt ansehen … "
 00000f14,67,"「私でも…少しはあんな人の気持ちに
-　なれるかなって、思ったのよ…」","","",""
+　なれるかなって、思ったのよ…」","Even for me … a little bit like that person's feelings
+I was wondering if I could be … ","Даже для меня… немного похоже на чувства того человека
+Мне было интересно, могу ли я быть…","„Sogar für mich … ein bisschen wie die Gefühle dieser Person
+Ich habe mich gefragt, ob ich … "
 000010c4,90,"「むしろ、私にないものを、
 　すべて持ってる彼女が…
-　ねたましくなって、涙がこぼれてきた」","","",""
+　ねたましくなって、涙がこぼれてきた」","Rather, what I don't have
+She has everything …
+I became jealous and tears spilled. ","«Скорее то, чего у меня нет
+У нее есть все…
+Я стал ревновать и потекли слезы».","„Eher das, was ich nicht habe
+Sie hat alles …
+Ich wurde eifersüchtig und es flossen Tränen.“"
 000011fc,61,"「いつも彼女に優しくしてもらってるのに、
-　ひどいでしょう？」","","",""
+　ひどいでしょう？」","I always have her kind to me
+Isn't it terrible? ","«Я всегда добр ко мне
+Разве это не ужасно? ","Ich habe immer ihre Art zu mir
+Ist es nicht schrecklich? "
 0000147c,112,"「俺って、新見さんと幼なじみだろ？
 　だから、彼女とのギャップを感じて落ち込む
-　気持ちは、なんとなくわかるんだ」","","",""
+　気持ちは、なんとなくわかるんだ」","I'm a childhood friend of Niimi-san, right?
+Therefore, I feel a gap with her and feel depressed
+I can understand my feelings somehow. ","«Я друг детства Ниими-сана, верно?
+Поэтому я чувствую разрыв с ней и чувствую себя подавленным
+Я как-то могу понять свои чувства».","„Ich bin ein Jugendfreund von Niimi-san, richtig?
+Deshalb spüre ich eine Kluft zu ihr und fühle mich deprimiert
+Ich kann meine Gefühle irgendwie nachvollziehen.“"
 00001694,118,"「ほら、俺って、新見さんと幼なじみだろ？
 　だから、彼女とのギャップを感じて落ち込む
-　気持ちは、なんとなくわかるんだ」","","",""
+　気持ちは、なんとなくわかるんだ」","See, I'm a childhood friend of Niimi-san, right?
+Therefore, I feel a gap with her and feel depressed
+I can understand my feelings somehow. ","«Видишь ли, я друг детства Ниими-сана, верно?
+Поэтому я чувствую разрыв с ней и чувствую себя подавленным
+Я как-то могу понять свои чувства».","„Sehen Sie, ich bin ein Jugendfreund von Niimi-san, richtig?
+Deshalb spüre ich eine Kluft zu ihr und fühle mich deprimiert
+Ich kann meine Gefühle irgendwie nachvollziehen.“"
 00001758,90,"「声かけられても素直になれなかったり、
 　歯がゆかったり…。
-　つらいよな、そういうのって」","","",""
+　つらいよな、そういうのって」","I can't be honest even if I'm called out,
+The teeth are loose …
+It's hard, that's what it is. ","«Я не могу быть честным, даже если меня вызовут,
+Зубы расшатались…
+Тяжело, вот что это такое».","Ich kann nicht ehrlich sein, selbst wenn ich gerufen werde,
+Die Zähne sind locker…
+Es ist schwer, das ist es.“"
 000018c8,90,"「いや、冗談じゃないよ。
 　さっき、窓の外を見てる深角さんを見て、
-　そう思った。それに…」","","",""
+　そう思った。それに…」","No, I'm not kidding.
+A while ago, looking at Mr. Fukakaku looking out the window,
+ I thought so. in addition…","Нет, я не шучу.
+Некоторое время назад, глядя на мистера Фукакаку, смотрящего в окно,
+ Я так и думал. кроме того…","„Nein, ich scherze nicht.
+Vor einer Weile, als ich Herrn Fukakaku aus dem Fenster sah,
+ Ich dachte auch. zusätzlich…"
 00001950,116,"「新見さんに嫉妬してるってわかって、
 　つらいんだろ？　そんな風に思えるのは
-　相手の気持ちになれるってことだから…」","","",""
+　相手の気持ちになれるってことだから…」","I knew I was jealous of Mr. Niimi,
+Is it hard? It seems like that
+Because it means that you can feel the other person ’s feelings … 」","«Я знал, что завидую мистеру Ниими,
+Это сложно? Кажется, что
+Потому что это означает, что вы можете чувствовать чувства другого человека… 」","Ich wusste, dass ich eifersüchtig auf Mr. Niimi war,
+Ist es schwer? Es scheint so
+Weil es bedeutet, dass Sie die Gefühle der anderen Person fühlen können … 」"
 00001b4c,108,"「声かけられても素直になれなかったり、
 　自分のいたらなさが歯がゆかったり…。
-　つらいよな、そういうのって」","","",""
-00001c24,43,"「\p01君…。
-　そっか…あなたもつらいんだ」","","",""
-00001cf0,59,"「知らなかった…。\p01君がそんな風に
-　思い悩んでたなんて」","","",""
+　つらいよな、そういうのって」","I can't be honest even if I'm called out,
+My irritability made me feel sick …
+It's hard, that's what it is. ","«Я не могу быть честным, даже если меня вызовут,
+От моей раздражительности меня тошнило…
+Тяжело, вот что это такое».","Ich kann nicht ehrlich sein, selbst wenn ich gerufen werde,
+Meine Reizbarkeit machte mich krank …
+Es ist schwer, das ist es.“"
 00001d88,67,"「俺も、深角さんがそんな風に
-　思い悩んでたなんて、知らなかったよ」","","",""
+　思い悩んでたなんて、知らなかったよ」","I also like that, Mr. Fukakaku
+I didn't know that I was worried. ","«Мне это тоже нравится, мистер Фукакаку.
+Я не знал, что я волновался».","„Das gefällt mir auch, Herr Fukakaku
+Ich wusste nicht, dass ich mir Sorgen mache."
 00002188,142,"クラスの目立たない存在、深角友恵は言った。
 きれいで、明るくて、テニスが上手で、頭がよくて、
-みんなの人気者の新見遙佳が、ねたましくて泣いたと。","","",""
+みんなの人気者の新見遙佳が、ねたましくて泣いたと。","Tomoe Misumi, an unobtrusive presence in the class, said.
+Clean, bright, good at tennis, smart,
+Haruka Niimi, who is popular with everyone, cried with envy.","— сказала Томоэ Мисуми, ненавязчиво присутствующая в классе.
+Чистенький, умный, хорошо играющий в теннис, умный,
+Харука Ниими, популярная у всех, плакала от зависти.","sagte Tomoe Misumi, eine unauffällige Präsenz in der Klasse.
+Sauber, hell, gut im Tennis, schlau,
+Haruka Niimi, die bei allen beliebt ist, weinte vor Neid."
 00002244,89,"男子からすれば憧れの的。けど、彼女からしてみれば、
-常に自分との差を感じさせられる存在…。","","",""
+常に自分との差を感じさせられる存在…。","From a boy's point of view, it's a longing target. But from her point of view
+An existence that always makes you feel the difference with yourself.","С точки зрения мальчика, это страстная цель. Но с ее точки зрения
+Существование, которое всегда заставляет вас чувствовать разницу с самим собой.","Aus der Sicht eines Jungen ist es ein Sehnsuchtsziel. Aber aus ihrer Sicht
+Eine Existenz, die dich immer wieder den Unterschied zu dir selbst spüren lässt."
 000022cc,73,"新見遙佳が明るく振る舞えば振る舞うほど、
-話しかけられればかけられるほど…","","",""
+話しかけられればかけられるほど…","The brighter Haruka Niimi behaves, the more
+The more you talk to me …","Чем ярче ведет себя Харука Ниими, тем больше
+Чем больше ты говоришь со мной…","Je heller Haruka Niimi sich verhält, desto mehr
+Je mehr du mit mir redest…"
 00002344,59,"そっとしておいて欲しい…そんな気持ちに
-なるのかもしれない。","","",""
+なるのかもしれない。","I want you to leave it alone …
+It may be.","Я хочу, чтобы ты оставил это в покое…
+Может быть.","Ich möchte, dass du es in Ruhe lässt …
+Es kann sein."
 000023ac,98,"俺は、そんな深角友恵が嫌いじゃなかった。
 むしろ、彼女の内面に触れることができて、
-うれしく思えた。","","",""
+うれしく思えた。","I didn't hate Tomoe Misumi.
+Rather, I was able to touch her inside,
+I was happy.","Я не ненавидел Томоэ Мисуми.
+Вернее, я смог прикоснуться к ней внутри,
+Я был счастлив.","Ich hasste Tomoe Misumi nicht.
+Vielmehr konnte ich sie innerlich berühren,
+Ich war glücklich."
 0000243c,67,"誰にも明かさなかった自分の心情を、
-彼女に伝えてしまったというのに。","","",""
+彼女に伝えてしまったというのに。","My feelings that I didn't reveal to anyone
+I told her.","Мои чувства, которые я никому не открывал
+Я сказал ей.","Meine Gefühle, die ich niemandem offenbarte
+Ich sagte ihr."
 000024ac,79,"今日、ここで語り合ったことは、２人だけの秘密だ。
-誰にも言えない、寂しい秘密…。","","",""
+誰にも言えない、寂しい秘密…。","What we talked about here today is the secret of only two people.
+A lonely secret that no one can tell …","То, о чем мы говорили здесь сегодня, является секретом только двух человек.
+Одинокая тайна, которую никто не может рассказать…","Worüber wir heute hier gesprochen haben, ist das Geheimnis von nur zwei Personen.
+Ein einsames Geheimnis, das niemand verraten kann …"

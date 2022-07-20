@@ -1,32 +1,46 @@
-00000254,40,"「フフッ、楽しかったわね～、ののちゃん」","","",""
-000002d8,30,"「うんうん、盛り上がったねぇ」","","",""
-0000035c,36,"「ののちゃんと同じ班だと楽でいいわ」","","",""
-000003c8,30,"「エッヘン、私に任せなさい！」","","",""
-0000046c,18,"「クスッ。はぁい」","","",""
-000004bc,40,"「柚ノ木さん、ののか、体育だったのか？」","","",""
-0000058c,16,"「あ、だっつん」","","",""
-00000604,28,"「あ、\p01君。ええ、そうよ」","","",""
+00000254,40,"「フフッ、楽しかったわね～、ののちゃん」","Fフ, it was fun ~, no-chan","ФБ, это было весело ~, нет-чан","F Sultan, es war lustig ~, no-chan"
+000002d8,30,"「うんうん、盛り上がったねぇ」","Yes, it's upset!","- Да, это расстроено!","Ja, es ist verärgert!"
+0000035c,36,"「ののちゃんと同じ班だと楽でいいわ」","“It’s the same group as Nono-chan, so it’s easy
+to do.”","«Это такая же группа, как Nono-chan, так что это
+легко сделать. »","„Es ist die gleiche Gruppe wie Nono-chan, so ist
+es einfach zu tun. „"
+000003c8,30,"「エッヘン、私に任せなさい！」","Eachen, leave me!","«Каждый, оставь меня!»","Eachen, lass mich!"
+0000046c,18,"「クスッ。はぁい」","。 Home","。 Начало","。 Home"
+000004bc,40,"「柚ノ木さん、ののか、体育だったのか？」","“What was Yunoki?","— Что было Юноки?","„Was war Yunoki?"
+0000058c,16,"「あ、だっつん」","」","」","!"
 00000774,51,"「班別に分かれて、
-　バレーボールの試合をやったの」","","",""
-000007dc,34,"「へ～っ、どうだった？　勝った？」","","",""
+　バレーボールの試合をやったの」","I did a volleyball game by group","Я сделал волейбол игры группой","Ich habe ein Volleyballspiel nach Gruppe
+gemacht"
+000007dc,34,"「へ～っ、どうだった？　勝った？」","“How did you win?”","«Как ты выиграл? »","„Wie hast du gewonnen? „"
 0000085c,51,"「私がいるんだぞ。
-　勝つに決まってるじゃないかぁ」","","",""
+　勝つに決まってるじゃないかぁ」","I'm here. I'm determined to win.","Я здесь. Я решил выиграть.","Ich bin hier. Ich will gewinnen."
 000008f4,53,"「ええ。ののちゃんのおかげで、
-　１番になっちゃった」","","",""
+　１番になっちゃった」","Home Thanks to her, she became the first.","Начало Благодаря ей она стала первой.","Home Dank ihr wurde sie der Erste."
 00000994,67,"「トスを上げさえすれば、ののちゃんが
-　なんとかしてくれるんだもの」","","",""
-00000a44,34,"「へへ～っ、それほどでもあるけど」","","",""
+　なんとかしてくれるんだもの」","“If you raise the toss, you will be able to do
+it.”","«Если вы поднимаете тосс, вы сможете это сделать.
+»","„Wenn du den Toss aufhebst, wirst du es tun
+können. „"
+00000a44,34,"「へへ～っ、それほどでもあるけど」","“Hey, it’s not so much.”","«Он, это не так много. »","„Hey, es ist nicht so viel. „"
 00000ac4,49,"「バレー部の人も、
-　途中から本気出してたわよね」","","",""
+　途中から本気出してたわよね」","“T気 who live in the valley, I’m really excited
+about it.”","“T the, кто живет в долине, я очень взволнован об
+этом. »","„T Ausnahmen, die im Tal leben, ich bin wirklich
+begeistert davon. „"
 00000b5c,108,"「そうそう。あのブロックは、
 　大人げないよね～。あのタイミングと
-　動きは、毎日練習してないとできないよぉ」","","",""
+　動きは、毎日練習してないとできないよぉ」","“Yes. That block is not for adults. I can’t
+practice it every day.","— Да. Этот блок не для взрослых. Я не могу
+практиковать его каждый день.","„Ja. Dieser Block ist nicht für Erwachsene. Ich
+kann es nicht jeden Tag üben."
 00000c70,55,"「まぁ、本気出してくれた方が
-　面白くていいんだけどね」","","",""
+　面白くていいんだけどね」","“Well, I’m really looking for someone to be
+interesting.”","«Ну, я действительно ищу кого-то быть интересным.
+»","„Nun, ich suche wirklich jemanden, der
+interessant ist. „"
 00000cec,49,"「さ、りなち～、着替えに行こ。
-　汗かいちゃった」","","",""
-00000db0,24,"「ええ。またね、\p01君」","","",""
-00000e60,22,"「またね～、だっつん」","","",""
-00000eac,16,"「ああ、またな」","","",""
-000010a4,32,"（あの２人、本当に仲いいんだな）","","",""
-0000111c,26,"（あの２人、仲いいんだな）","","",""
+　汗かいちゃった」","I'll change my clothes. I sweated","Я буду менять одежду. Я поткнул","Ich ändere meine Kleider. ich schwitzte"
+00000e60,22,"「またね～、だっつん」","“Also, it is!”","«Так, это!»","„Also ist es!“"
+00000eac,16,"「ああ、またな」","」","」","!"
+000010a4,32,"（あの２人、本当に仲いいんだな）","(T仲 people are really good)","(Т people люди действительно хороши)","(T仲 Menschen sind wirklich gut)"
+0000111c,26,"（あの２人、仲いいんだな）","(T仲 people are good friends)","(Т people люди хорошие друзья)","(T仲 Leute sind gute Freunde)"

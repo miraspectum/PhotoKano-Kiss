@@ -1,217 +1,323 @@
-000000c8,24,"「柚ノ木さん、いる～？」","","",""
-00000110,14,"「あ、\p01君」","","",""
-0000018c,12,"「はふぅ…」","","",""
-000001c8,38,"「どうしたの？　ため息なんかついて…」","","",""
+000000c8,24,"「柚ノ木さん、いる～？」","Yuzunoki-san, I am~?","Юзуноки-сан, я~?","Yuzunoki-san, bin ich?"
+0000018c,12,"「はふぅ…」","」","」","!"
+000001c8,38,"「どうしたの？　ため息なんかついて…」","What do you do? I have a breath…","- Что вы делаете? У меня дыхание…»","Was machst du? Ich habe einen Atem…"
 00000228,79,"「ハンバーガーを作るって決めたものの、
-　どんなハンバーガーを作るか悩んでて…」","","",""
-00000298,24,"「どんなハンバーガー？」","","",""
+　どんなハンバーガーを作るか悩んでて…」","I decided to make a burger, but I was worried
+about how to make any burger…","«Я решил сделать бургер, но я волновался, как
+сделать любой бургер…»","Ich entschied mich, einen Burger zu machen, aber
+ich war besorgt darüber, wie man einen Burger
+macht…"
+00000298,24,"「どんなハンバーガー？」","What kind of burger?","- Какой бургер?","Was für ein Burger?"
 00000300,81,"「ええ。ハンバーガーって、パンにお肉を
-　挟むってところは変えられないでしょう？」","","",""
+　挟むってところは変えられないでしょう？」","Home Do you have a burger?","Начало У вас есть бургер?","Home Haben Sie einen Burger?"
 000003a0,65,"「だから、お肉以外に挟むものを
-　いろいろ工夫してみたんだけど…」","","",""
+　いろいろ工夫してみたんだけど…」","So I tried to make a variety of things that are
+sandwiched outside the meat …","«Так я пытался сделать различные вещи, которые
+сэндвичи вне мяса …»","So habe ich versucht, eine Vielzahl von Dingen
+zu machen, die außerhalb des Fleisches…"
 00000410,79,"「結局、どこかのお店で見かけるようなものに
-　なっちゃって…代わり映えしないの」","","",""
-0000048c,42,"「そっか。お店でやり尽くされてるのかもね」","","",""
-00000504,14,"「そうなの～」","","",""
-00000540,24,"「はふぅ…どうしよう…」","","",""
+　なっちゃって…代わり映えしないの」","In the end, I will be able to see something like
+somewhere in the shop … I will not reflect it
+instead.","«В конце концов, я смогу увидеть что-то подобное
+где-то в магазине … Я не буду отражать его
+вместо».","Endlich werde ich in der Lage sein, etwas wie
+irgendwo im Laden zu sehen… ich werde es
+stattdessen nicht reflektieren."
+0000048c,42,"「そっか。お店でやり尽くされてるのかもね」","。 What are you doing?","。 Что вы делаете?","。 Was machst du?"
+00000504,14,"「そうなの～」","」","」","!"
+00000540,24,"「はふぅ…どうしよう…」","What's happening?","- Что происходит?","Was ist los?"
 000005d0,49,"（柚ノ木さん、悩んでる…。
-　何か力になれれば…）","","",""
+　何か力になれれば…）","(Yuzunoki, I'm troubled…) If you can help
+you…)","(Юзуноки, мне трудно…) Если вы можете помочь
+вам…)","(Yuzunoki, ich bin beunruhigt…) Wenn Sie helfen
+können…)"
 00000630,90,"「そうだ！　ここでじっと悩んでるよりは、
 　みんなの意見を聞いてみれば
-　いいんじゃない？」","","",""
-00000724,20,"「みんなの意見を？」","","",""
+　いいんじゃない？」","“Yes, it’s right! I’m glad to hear everyone’s
+opinions rather than worrying about it.”","— Да, это правильно! Я рад услышать мнение
+каждого, а не беспокоиться об этом. »","„Ja, es ist richtig! Ich bin froh, die Meinungen
+aller zu hören, anstatt sich Sorgen darüber zu
+machen. „"
+00000724,20,"「みんなの意見を？」","“What do you think of everyone?”","— Что ты думаешь обо всем? »","„Was denken Sie an alle? „"
 00000768,92,"「そう。学園を回って、みんなの
 　ハンバーガーの好みを聞いてみるんだ。
-　きっと参考になるよ」","","",""
+　きっと参考になるよ」","。 I'm looking forward to hearing the burger's
+preferences. I'm sure you'll be helpful.","。 Я с нетерпением жду услышать предпочтения
+бургера. Я уверен, что вы будете полезны.","hearing Ich freue mich darauf, die Vorlieben des
+Burgers zu hören. Ich bin sicher, du wirst
+hilfreich sein."
 00000824,82,"「あ……うん！　すごくいいと思う！
 　聞いてみたい、
-　みんなの好みのハンバーガー」","","",""
-000008ec,30,"「じゃあ、さっそく行こうか？」","","",""
-00000968,8,"「ええ」","","",""
-00000b78,28,"「それで…どこから回るの？」","","",""
-00000bb8,34,"「テニスコートへ行ってみようか？」","","",""
-00000968,8,"「ええ」","","",""
+　みんなの好みのハンバーガー」","Oh… Yeah! I think it's so good! I want to
+hear, everyone's favorite burger","О… Да! Я думаю, что это так хорошо! Я хочу
+услышать, любимый гамбургер всех","Oh… ja! Ich glaube, es ist so gut! Ich will
+hören, alle Lieblingsburger"
+000008ec,30,"「じゃあ、さっそく行こうか？」","“Where should you go?”","— Куда ты должен идти? »","„Wo sollten Sie hin? „"
+00000968,8,"「ええ」","Home","Начало","Home"
+00000b78,28,"「それで…どこから回るの？」","“Where do you go?”","— Куда вы идете? »","„Wo gehst du hin? „"
+00000bb8,34,"「テニスコートへ行ってみようか？」","“Let’s go to a tennis court?”","— Пойдем в теннисный корт? »","„Wir gehen zu einem Tennisplatz? „"
+00000968,8,"「ええ」","Home","Начало","Home"
 00000ce0,61,"「え～と……お、いたいた。
-　お～い、果音、ちょっといいか？」","","",""
-00000e24,22,"「なあに～、にいやん」","","",""
-00000fb8,26,"「こんにちは、かのちゃん」","","",""
-00001054,30,"「あ、梨奈先輩。こんにちは～」","","",""
-00001100,32,"「あ、２人って知り合いだっけ？」","","",""
+　お～い、果音、ちょっといいか？」","。 Oh, right?","。 О, правда?","。 Ach ja?"
+00000e24,22,"「なあに～、にいやん」","」","」","!"
+00000fb8,26,"「こんにちは、かのちゃん」","Hi, Kano-chan","Hi, Kano-chan","Hi, Kano-chan"
+00001054,30,"「あ、梨奈先輩。こんにちは～」","Oh, Nina seniors. Hello!","«О, Нина старшие. Здравствуйте!","Oh, Nina Senioren. Hallo!"
+00001100,32,"「あ、２人って知り合いだっけ？」","“Oh, do you know two people?”","— А ты знаешь два человека? »","„Oh, kennst du zwei Leute? „"
 00001180,51,"「ええ、時々、料理研究会に
-　遊びに来てくれるから」","","",""
-000011e0,26,"「へ～っ、そうだったんだ」","","",""
+　遊びに来てくれるから」","Eh, sometimes I come to cooking workshops.","«Эх, иногда я приезжаю к кулинарным мастерским».","Ich komme manchmal zu Kochwerkstätten."
+000011e0,26,"「へ～っ、そうだったんだ」","“Hey, it’s right.”","«Он, это правильно. »","„Hey, es ist richtig. „"
 00001234,59,"「なあ、果音。お前の好きなハンバーガーって
-　どんなのだ？」","","",""
-000012e8,40,"「私の好きなハンバーガー？　私はねぇ…」","","",""
+　どんなのだ？」","Oh, sound. What is your favorite burger?","О, звук. Каков ваш любимый бургер?","Oh, Klang. Was ist Ihr Lieblingsburger?"
+000012e8,40,"「私の好きなハンバーガー？　私はねぇ…」","“My favorite burger? I’m…”","«Мой любимый бургер? Я…»","„Mein Lieblingsburger? Ich bin…“"
 000013c0,53,"「何と言っても、
-　テリヤキバーガーが一番好き～っ！」","","",""
+　テリヤキバーガーが一番好き～っ！」","Now, Teriyaki Burger likes the best!","«Сейчас Терияки Бургер любит лучших!»","Jetzt mag Teriyaki Burger das Beste!"
 00001460,77,"「あの甘～い、しょうゆ味のたれと、
-　マヨネーズのこってり感がいいんだよね～」","","",""
-00001508,24,"「なるほど、テリヤキか」","","",""
+　マヨネーズのこってり感がいいんだよね～」","“It’s sweet, soy sauce, and mayズise’s feeling is
+good.”","«Это сладкий, соевый соус, и ощущение майки
+хорошее. »","„Es ist süß, Sojasauce, und magiseises Gefühl ist
+gut. „"
+00001508,24,"「なるほど、テリヤキか」","I see Teriyaki?","- Я вижу Терияки?","Ich sehe Teriyaki?"
 0000156c,47,"「フフッ、おいしいわよね、
-　テリヤキバーガー」","","",""
+　テリヤキバーガー」","Fuffy, delicious, Teriyaki Burger","Фуфы, вкусные, Терияки Бургер","Fuffy, lecker, Teriyaki Burger"
 00001620,57,"「和風にアレンジ…ってところが
-　いいのかもしれないわね」","","",""
-000016a4,18,"「何か調べもの？」","","",""
+　いいのかもしれないわね」","Arrange it in Japanese style … may be good","Аранжируйте его в японском стиле … может быть
+хорошо","Arrange it in Japanese style … kann gut sein"
+000016a4,18,"「何か調べもの？」","“What are you looking for?”","«Что вы ищете? »","„Was suchst du? „"
 000016f0,79,"「ええ。みんなの好みのハンバーガーが
-　知りたくて、いろんな人に聞いてみてるの」","","",""
+　知りたくて、いろんな人に聞いてみてるの」","Home I want everyone's favorite burger to be
+helpful, and I can ask various people.","Home Я хочу, чтобы каждый любимый бургер был
+полезным, и я могу попросить различных людей.","Zuhause Ich will, dass jeder der Lieblingsburger
+hilfreich sein, und ich kann verschiedene Leute
+fragen."
 000017cc,67,"「あ、じゃあ、はるちゃんにも
-　聞いてみるといいよ。呼んでくるね～」","","",""
+　聞いてみるといいよ。呼んでくるね～」","Oh, I'm glad to hear it. Contact Us","«О, я рад его услышать. Связаться с нами","Oh, ich bin froh, es zu hören. Kontaktieren Sie
+uns"
 00001940,57,"「はるちゃ～ん、にいやんと梨奈先輩が
-　来てるんだけどぉ」","","",""
-000019a8,8,"「え？」","","",""
-00001b68,34,"「あ、\p01君。それに、柚ノ木さん」","","",""
-00001c1c,14,"「こんにちは」","","",""
-00001cc4,34,"「あれ？　２人は知り合いなんだ？」","","",""
+　来てるんだけどぉ」","I'm sorry, but my seniors come!","Я сожалею, но мои пожилые приходят!","Es tut mir leid, aber meine Senioren kommen!"
+000019a8,8,"「え？」","?」","?」","?"
+00001c1c,14,"「こんにちは」","Hello","Здравствуй","Hallo"
+00001cc4,34,"「あれ？　２人は知り合いなんだ？」","“Well? What are the two people?”","— Ну, что? Каковы два человека? »","„Nun? Was sind die beiden? „"
 00001d4c,49,"「ええ、よく料理研究会に
-　遊びに来てくれるのよ」","","",""
+　遊びに来てくれるのよ」","Yes, I will come to the cooking workshop well.","- Да, я приеду к кулинарной мастерской хорошо.","Ja, ich komme gut in die Kochwerkstatt."
 00001ddc,55,"「テニスの練習の合間にね、
-　よくおしゃべりしに行くの」","","",""
-000011e0,26,"「へ～っ、そうだったんだ」","","",""
+　よくおしゃべりしに行くの」","“Tennis practice, and go to chat well.”","«Теннисская практика, и сходить в чат хорошо. »","“Tennis-Praxis, und gehen Sie gut zu chatten. „"
+000011e0,26,"「へ～っ、そうだったんだ」","“Hey, it’s right.”","«Он, это правильно. »","„Hey, es ist richtig. „"
 00001e94,63,"「え～と…その…新見…さんって、
-　どんなハンバーガーが好き？」","","",""
-00001f64,38,"「私の好きなハンバーガー？　そうね…」","","",""
+　どんなハンバーガーが好き？」","“What kind of burger do you like?”","«Какой бургер вам нравится? »","„Was für ein Burger gefällt dir? „"
+00001f64,38,"「私の好きなハンバーガー？　そうね…」","My favorite burger? Well…","Мой любимый бургер? Ну…»","Mein Lieblingsburger? Nun…"
 00001fe8,86,"「私は、普通のハンバーガーが好きかな。
 　ハンバーグにレタスとトマトが
-　乗ってるやつ」","","",""
+　乗ってるやつ」","“I like ordinary burgers.” Lettuce and tomato on
+hamburg","- Мне нравятся обычные бургеры. Lettuce и помидор
+на гамбурге","„Ich mag gewöhnliche Burger.“ Salat und Tomaten
+auf Hamburg"
 000020d0,53,"「うんうん、お肉とお野菜のバランスって、
-　大切よね」","","",""
-00002144,32,"「これって、何かのアンケート？」","","",""
+　大切よね」","Yes, it is important to balance meat and
+vegetables.","«Да, важно балансировать мясо и овощи».","Ja, es ist wichtig, Fleisch und Gemüse
+auszugleichen."
+00002144,32,"「これって、何かのアンケート？」","“What is this questionnaire?”","— Что это за анкета? »","„Was ist dieser Fragebogen? „"
 000021b0,67,"「ええ。料理研究会で、何か新しい
-　ハンバーガーが作れないかなって」","","",""
+　ハンバーガーが作れないかなって」","Home “I can’t make something new burger”","Home “Я не могу сделать что-то новое бургер”","Home “Ich kann nicht etwas neues Burger machen”"
 00002230,55,"「へぇ～っ、楽しそう。
-　出来たら、私にも食べさせてね」","","",""
-000022b0,12,"「もちろん」","","",""
-000022fc,38,"「ありがとう。とっても参考になったわ」","","",""
-0000236c,20,"「どういたしまして」","","",""
-000024dc,26,"「さ、次は誰に聞こうか？」","","",""
-0000255c,32,"「私、ののちゃんに聞いてみたい」","","",""
+　出来たら、私にも食べさせてね」","Hey, I'm happy. I can eat it.","- Эй, я счастлив. Я могу есть.","Hey, ich bin glücklich. Ich kann es essen."
+000022b0,12,"「もちろん」","Of course","Конечно","Natürlich"
+000022fc,38,"「ありがとう。とっても参考になったわ」","Thank you. It was very helpful.","Спасибо. Это было очень полезно.","Danke. Es war sehr hilfreich."
+0000236c,20,"「どういたしまして」","What's it?","- Что это?","Was ist das?"
+000024dc,26,"「さ、次は誰に聞こうか？」","“Who will you hear?”","- Кто вы услышите? »","„Wer werden Sie hören? „"
+0000255c,32,"「私、ののちゃんに聞いてみたい」","I want to hear from me.","- Я хочу услышать от меня.","Ich will von mir hören."
 000025ac,55,"「いいね～。食べ物のことなら、
-　ののかに聞かないとね」","","",""
-0000268c,42,"「お～い、ののか～。今、ちょっといいか？」","","",""
+　ののかに聞かないとね」","Like If you’re food, don’t ask what you’re
+saying?","Нравится Если вы еда, не спросите, что вы
+говорите?","Wie Wenn Sie Essen sind, fragen Sie nicht, was
+Sie sagen?"
+0000268c,42,"「お～い、ののか～。今、ちょっといいか？」","。 Is it a little better?","。 Это немного лучше?","。 Ist es etwas besser?"
 0000282c,51,"「あ、だっつん、それに、りなち～。
-　どうしたの？」","","",""
+　どうしたの？」","Oh, it is, it is, it is. What is it?","О, это, это. Что это?","Oh, das ist es. Was ist los?"
 00002900,57,"「ね、ののちゃんの好きなハンバーガーって、
-　どんなの？」","","",""
+　どんなの？」","What is your favorite burger?","Каков ваш любимый бургер?","Was ist Ihr Lieblingsburger?"
 00002990,55,"「私の好きなハンバーガー？
-　そんなの決まってるって～」","","",""
+　そんなの決まってるって～」","“My favorite hamburger? It’s like that.”","«Мой любимый гамбургер? Это так. »","„Mein Lieblings Hamburger? So ist es. „"
 00002a54,61,"「なんたって、ダブルバーガー！
-　あのボリュームがいいよね～」","","",""
-00002b08,40,"「うんうん、食べ応えも大事ってことよね」","","",""
+　あのボリュームがいいよね～」","“What is double burger? That volume is good?”","«Что такое двойный бургер? Этот объем хорош? »","„Was ist Doppelburger? Das Volumen ist gut? „"
+00002b08,40,"「うんうん、食べ応えも大事ってことよね」","“Yes, you can eat it!”","- Да, можно есть!","„Ja, du kannst es essen!“"
 00002b7c,92,"「そうそう。普通のハンバーガーだと、
 　あっという間に食べ終わっちゃうから、
-　物足りなくて」","","",""
-00002c6c,28,"「女子とは思えない発言だな」","","",""
-00002d00,38,"「お腹が減るのは、男子も女子も一緒！」","","",""
+　物足りなくて」","“Yes. If you are a regular hamburger, you can eat
+it in a while, so you don't have enough food.","— Да. Если вы регулярный гамбургер, вы можете
+есть его в некоторое время, так что у вас нет
+достаточно пищи.","„Ja. Wenn Sie ein regelmäßiger Hamburger sind,
+können Sie es in einer Weile essen, also haben Sie
+nicht genug Essen."
+00002c6c,28,"「女子とは思えない発言だな」","“It’s a saying that I can’t think of a girl.”","«Я не могу думать о девушке. »","„Es ist ein Spruch, dass ich nicht an ein Mädchen
+denken kann. „"
+00002d00,38,"「お腹が減るのは、男子も女子も一緒！」","“I don’t have to worry about my abdo男子, and my
+men and women are together!”","«Мне не нужно беспокоиться о моем abdo子子, и мои
+мужчины и женщины вместе! »","„Ich muss mir keine Sorgen um meine Abdo子ÿege
+machen, und meine Männer und Frauen sind zusammen!
+„"
 00002d70,63,"「ののちゃんは運動してるし、それぐらいで
-　ちょうどいいわよね」","","",""
-00002e1c,24,"「エヘヘ、そういうこと」","","",""
-00002ea8,30,"「参考になったわ、ありがとう」","","",""
-00002f10,34,"「りなち～、ハンバーガー作るの？」","","",""
+　ちょうどいいわよね」","“No, I’m working, and I’m just right.”","«Нет, я работаю, и я просто прав. »","„Nein, ich arbeite, und ich habe Recht. „"
+00002e1c,24,"「エヘヘ、そういうこと」","“Ehhe, that’s what it means.”","«Эхе, это то, что это значит. »","„Ach, das bedeutet es. „"
+00002ea8,30,"「参考になったわ、ありがとう」","Thank you for your reference.","Спасибо за вашу ссылку.","Danke für deine Referenz."
+00002f10,34,"「りなち～、ハンバーガー作るの？」","“Rinachi: How to make a burger?”","«Риначи: Как сделать бургер? »","„Rinachi: Wie man einen Burger macht? „"
 00002f70,47,"「ええ。オリジナルハンバーガーに
-　挑戦中なの」","","",""
-00003014,42,"「あ、試食なら任せてよ。いつでも呼んで！」","","",""
-000030b4,32,"「うん。出来たらお願いするわね」","","",""
+　挑戦中なの」","Home Original hamburger","Home Оригинальный гамбургер","Home Original Hamburger"
+00003014,42,"「あ、試食なら任せてよ。いつでも呼んで！」","“Oh, let’s try it.” Contact Us","- О, давайте попробуем. Связаться с нами","„Oh, versuchen wir es.“ Kontaktieren Sie uns"
+000030b4,32,"「うん。出来たらお願いするわね」","Comment I will ask you if possible.","Комментарий Я буду просить вас, если это
+возможно.","Anmerkung Ich werde Sie fragen, wenn möglich."
 0000317c,53,"「ダブルバーガーとは、ののからしい答え
-　だったなぁ」","","",""
-00003210,18,"「フフッ、そうね」","","",""
-00003274,26,"「次は誰に聞いてみよう…」","","",""
+　だったなぁ」","“The double burger is a shy answer.”","«Двойной бургер – стеснительный ответ. »","„Der Doppelburger ist eine schüchterne Antwort. „"
+00003210,18,"「フフッ、そうね」","Fフ, it is.","«ФБ, это».","Vielleicht ist es."
+00003274,26,"「次は誰に聞いてみよう…」","“Let’s listen to anyone next…”","«Пусть слушать кого-то рядом… »","“Lass uns auf jeden anderen hören… „"
 000032bc,65,"「体育館へ行ってみない？
-　新体操部が練習してるんじゃないかな？」","","",""
+　新体操部が練習してるんじゃないかな？」","“I don’t go to the gymnasium?” Do you have a new
+gym?","«Я не хожу в гимназию?» У вас новый тренажерный
+зал?","„Ich gehe nicht ins Gymnasium?“ Haben Sie ein
+neues Fitnessstudio?"
 0000335c,47,"「あ、舞衣ちゃんね。
-　うんうん、聞いてみたい」","","",""
+　うんうん、聞いてみたい」","Oh, Mai-chan. Yes, I want to hear.","О, Май-Чан. Да, я хочу услышать.","Oh, Mai-chan. Ja, ich will es hören."
 00003458,82,"「新体操部って、体型を維持しなきゃ
 　ならないから、食事にも
-　気を遣ってるものね」","","",""
+　気を遣ってるものね」","“I have to keep my body shape in the gymnastics
+department, so I care about my diet.”","«Я должен держать свою форму тела в отделе
+гимнастики, поэтому я заботюсь о своей диете. »","„Ich muss meine Körperform im Gymnastikbereich
+behalten, also sorge ich mich um meine Ernährung.
+„"
 000034f8,57,"「あ、柚ノ木さんって、舞衣ちゃんのこと
-　知ってるんだ？」","","",""
+　知ってるんだ？」","“Oh, Yuzunoki knows about Maii-chan?”","«О, Юзуноки знает о Майя-чане? »","„Oh, Yuzunoki weiß von Maii-chan? „"
 00003584,53,"「ええ、時々、料理研究会に、
-　遊びに来てくれるのよ」","","",""
-000011e0,26,"「へ～っ、そうだったんだ」","","",""
+　遊びに来てくれるのよ」","Eh, sometimes, I will come to cooking
+workshops.","Эх, иногда, я приеду к кулинарным мастерским.","Ich komme manchmal zu Kochwerkstätten."
+000011e0,26,"「へ～っ、そうだったんだ」","“Hey, it’s right.”","«Он, это правильно. »","„Hey, es ist richtig. „"
 00003660,112,"「舞衣ちゃんの意見、楽しみだわ。
 　新体操部って、体型を維持しなきゃならない
-　から、食事にも気を遣ってるものね」","","",""
+　から、食事にも気を遣ってるものね」","Mai-chan's opinion and enjoyment. The new
+gymnastics club has to keep the body shape, so I
+care about the meal.","«Мнение и наслаждение Маи-Чан. Новый
+гимнастический клуб должен держать форму тела,
+поэтому я заботюсь о еде.","Mai-chans Meinung und Freude. Der neue
+Gymnastik-Club muss die Körperform behalten, also
+sorge ich mich um die Mahlzeit."
 00003850,63,"「お、やってるやってる。
-　お～い、舞衣ちゃん、ちょっといい？」","","",""
-00003920,16,"「あ、\p01先輩」","","",""
-000039cc,34,"「練習、見に来てくれたんですか？」","","",""
-00003a1c,34,"「え～と、今日はそうじゃなくて…」","","",""
-00003bc4,26,"「こんにちは、舞衣ちゃん」","","",""
-00003c3c,30,"「あ、梨奈先輩、こんにちは～」","","",""
+　お～い、舞衣ちゃん、ちょっといい？」","I'm doing it. Oh, Mai-chan, is it?","Я это делаю. О, Май-чан, это?","Ich mache es. Oh, Mai-chan, oder?"
+000039cc,34,"「練習、見に来てくれたんですか？」","“Who came to see me?”","- Кто пришел, чтобы увидеть меня? »","„Wer kam, um mich zu sehen? „"
+00003a1c,34,"「え～と、今日はそうじゃなくて…」","“I don’t do it today…”","«Я не делаю это сегодня… »","„Ich mache es heute nicht… „"
+00003bc4,26,"「こんにちは、舞衣ちゃん」","Hi, Mai-chan","Hi, Mai-chan","Hi, Mai-chan"
+00003c3c,30,"「あ、梨奈先輩、こんにちは～」","Oh, Nana senior, Hello~","О, Нана старший, Hello~","Oh, Nana Senior, Hallo"
 00003ca4,69,"「舞衣ちゃんの好きなハンバーガーって
-　どんなの？　教えてくれない？」","","",""
+　どんなの？　教えてくれない？」","What is Maii-chan's favorite burger?","Что такое любимый бургер Maii-chan?","Was ist Maii-chans Lieblingsburger?"
 00003d34,49,"「私が好きなハンバーガーですか？
-　そうですね…」","","",""
+　そうですね…」","“I like a burger that I love…”","«Мне нравится бургер, который я люблю… »","„Ich mag einen Burger, den ich liebe… „"
 00003df8,73,"「一番好きなハンバーガーは、エビのカツが
-　挟んであるやつなんですけど…」","","",""
+　挟んであるやつなんですけど…」","The most favorite hamburger is the fried shrimp
+cuts, but …","Самый любимый гамбургер - жареный креветки, но
+…","Der beliebteste Hamburger ist der gebratene
+Garnelenschnitt, aber …"
 00003e8c,47,"「あ、エビカツバーガーね。
-　おいしいわよね～」","","",""
+　おいしいわよね～」","“Oh, it’s a shrimp cutlet burger.” Delicious","«О, это креветка бургер». Вкусно","„Oh, es ist ein Garnelen-Schnellburger.“
+Köstlichkeiten"
 00003f40,79,"「はい。私、揚げものが大好きだから、
-　エビカツとかコロッケとかに目がなくて…」","","",""
+　エビカツとかコロッケとかに目がなくて…」","Yes. I love fried foods, so I don’t see shrimp
+cuts or croquettes…”","Да. Я люблю жареные продукты, поэтому я не вижу
+креветки разрезы или крокеты… »","Ja. Ich liebe gebratene Lebensmittel, also sehe
+ich keine Garnelenschnitte oder Kroketten… „"
 00004010,57,"「けど、ダイエットしてるし、
-　もうずっと食べてなくて…」","","",""
-00004094,12,"「大変ね…」","","",""
+　もうずっと食べてなくて…」","“But I’m dieting and I don’t eat anymore…”","- Но я диет, и я больше не ем… »","„Aber ich sterbe und esse nicht mehr… „"
+00004094,12,"「大変ね…」","」","」","!"
 000040fc,51,"「ううん、それは慣れっこだから
-　いいんですけど…」","","",""
+　いいんですけど…」","Yes, I'm good because it's used to it…","«Да, я хорошо, потому что он привык к нему…»","Ja, ich bin gut, weil es daran gewöhnt ist…"
 000041ec,63,"「ハンバーガーもカロリーが低めなのを
-　選ぶようにしてるんです」","","",""
+　選ぶようにしてるんです」","I'm trying to choose バーs that are low in
+burgers.","Я пытаюсь выбрать купе, которые низки в
+бургерах.","Ich versuche, sich für Burger zu entscheiden."
 00004274,96,"「だから、一番よく食べるのは、
 　和風のライスバーガーで、
-　きんぴらゴボウが挟んであるやつです」","","",""
+　きんぴらゴボウが挟んであるやつです」","“So, the best thing to eat is the Japanese-style
+rice burger, and the kinpira burdock is
+sandwiched.”","«Так, самое лучшее, что поесть, это японский
+рисовый гамбургер, и kinpira burdock сэндвич. »","„Das Beste, was man essen kann, ist der
+Reisburger im japanischen Stil, und der
+Kipira-Burdock ist belegt. „"
 0000434c,67,"「あ、ライスバーガーね。
-　そっか…バンズにも一工夫できるわよね…」","","",""
-00004408,30,"「ありがとう。参考になったわ」","","",""
-00004470,28,"「料理研究会の活動ですか？」","","",""
+　そっか…バンズにも一工夫できるわよね…」","“Oh, rice burger.” That’s it. You can devise it
+to buns…”","«О, рис бургер». Это. Вы можете разрушить его,
+чтобы булавки… »","„Oh, Reisburger.“ Das ist es. Sie können es zu
+Brötchen… „"
+00004408,30,"「ありがとう。参考になったわ」","Thank you. I have become a reference.","Спасибо. Я стал справкой.","Danke. Ich bin zu einem Hinweis geworden."
+00004470,28,"「料理研究会の活動ですか？」","What is the activity of the cooking workshop?","Какова деятельность кулинарной мастерской?","Was ist die Aktivität der Kochwerkstatt?"
 000044cc,73,"「ええ、そうなの。おいしいハンバーガーが
-　出来たら、ぜひ味見してみてね」","","",""
-000045a0,26,"「はい。楽しみにしてます」","","",""
-00004724,42,"「まぁ、こんなところかな。参考になった？」","","",""
-000047ac,18,"「ええ、とっても」","","",""
-000047f4,34,"「\p01先輩、私にも聞いてください」","","",""
-000049b0,12,"「あ、実原」","","",""
-000049f8,18,"「あ、さねちゃん」","","",""
+　出来たら、ぜひ味見してみてね」","Yes, it is. If you have a delicious burger,
+please try to taste it.","- Да, это. Если у вас вкусный бургер, пожалуйста,
+попробуйте попробовать его.","Ja, ist es. Wenn Sie einen köstlichen Burger
+haben, versuchen Sie es zu probieren."
+000045a0,26,"「はい。楽しみにしてます」","Yes. I look forward to","Да. Я с нетерпением жду","Ja. Ich freue mich auf"
+00004724,42,"「まぁ、こんなところかな。参考になった？」","“Where is this?” How did you find it?","— Где это? Как вы его нашли?","„Wo ist das?“ Wie hast du es gefunden?"
+000047ac,18,"「ええ、とっても」","」","」","!"
+000049b0,12,"「あ、実原」","“Oh, Imahara”","«О, Имахара»","„Oh, Imahara“"
+000049f8,18,"「あ、さねちゃん」","Oh, Sane-chan","О, Сан-Чан","Oh, Sane-chan"
 00004a88,67,"「好みのハンバーガーですよね？
-　私に聞かなくてどうするんですか？」","","",""
+　私に聞かなくてどうするんですか？」","“Is it a favorite burger?” What do you do not ask
+me?","- Это любимый бургер? Что ты меня не спрашивает?","„Ist es ein Lieblingsburger?“ Was fragst du mich
+nicht?"
 00004b58,61,"「さねちゃん！？　柚ノ木さん、
-　実原のこと知ってるんだ！？」","","",""
+　実原のこと知ってるんだ！？」","Sane-chan!? Yuzunoki-san, you know the real
+thing!?","- Сан-Чан!? Юзуноки-сан, ты знаешь реальную
+вещь!?","Sane-chan!? Yuzunoki-san, du weißt das
+wirkliche!?"
 00004bf4,75,"「知ってるも何も、さねちゃんは、
-　料理研究会をよくのぞきに来てくれるのよ」","","",""
+　料理研究会をよくのぞきに来てくれるのよ」","“I know nothing, Sane-chan will come to the
+cooking workshop well.”","«Я ничего не знаю, Sane-chan приедет к кулинарной
+мастерской хорошо. »","„Ich weiß nichts, Sane-chan wird gut in die
+Kochwerkstatt kommen. „"
 00004ca0,65,"「私は…柚ノ木先輩のお茶と、お菓子と、
-　手料理のファンですから」","","",""
-00004d10,18,"「そうだったのか」","","",""
+　手料理のファンですから」","I'm a fan of tea and sweets and hand-made
+dishes","Я фанат чая и сладостей и посуды ручной работы","Ich bin ein Fan von Tee und Süßigkeiten und
+handgemachten Gerichten"
+00004d10,18,"「そうだったのか」","“What was that?”","— Что это было? »","„Was war das? „"
 00004d60,57,"「まぁ…さねちゃんって呼ばれ方は、
-　不本意なわけですが」","","",""
-00004dfc,36,"「どうしてぇ？　かわいいと思うけど」","","",""
+　不本意なわけですが」","Oh, I'm not sure if you are called it,","О, я не уверен, если вы его называют,","Oh, ich weiß nicht, ob du es genannt wirst,"
+00004dfc,36,"「どうしてぇ？　かわいいと思うけど」","Why? I think it's cute.","«Почему? Я думаю, что это мило.","Warum? Ich glaube, es ist süß."
 00004e6c,53,"「私をちゃん付けで呼ぶのは、
-　柚ノ木先輩ぐらいです」","","",""
-00004ed0,38,"「俺も、さねちゃんって呼んでいいか？」","","",""
-00004f74,16,"「…怒りますよ」","","",""
-00004fb4,10,"「…悪い」","","",""
+　柚ノ木先輩ぐらいです」","I call me properly about Yuzunoki seniors.","- Я называю меня правильно о юзуноки старших.","Ich nenne mich richtig über Yuzunoki Senioren."
+00004ed0,38,"「俺も、さねちゃんって呼んでいいか？」","“Can I call you?”","- Могу ли я вам позвонить? »","„Kann ich dich anrufen? „"
+00004f74,16,"「…怒りますよ」","…A」.","«…А 」».","…A!"
+00004fb4,10,"「…悪い」","…bad","…плохо","…bad"
 0000503c,84,"「そんなことより、
 　好みのハンバーガーのことなら
-　どうして私に聞かないんですか？」","","",""
+　どうして私に聞かないんですか？」","“How do you ask me if you are a hamburger of your
+choice?”","«Как вы спрашиваете меня, если вы гамбургер по
+вашему выбору? »","„Wie fragen Sie mich, ob Sie ein Hamburger Ihrer
+Wahl sind? „"
 00005134,53,"「そうだよな。お前って、
-　ハンバーガー好きだもんな」","","",""
-000051f4,20,"「そういうことです」","","",""
-0000527c,38,"「お前ってハンバーガー、好きなのか？」","","",""
-00005300,42,"「ええ、ジャンクフードは全般好きですから」","","",""
+　ハンバーガー好きだもんな」","Yes, I'm. I love the burger I love.","- Да, я. Я люблю бургер, который я люблю.","Ja, bin ich. Ich liebe den Burger, den ich
+liebe."
+000051f4,20,"「そういうことです」","“It’s like that.”","- Это так. »","„So ist es. „"
+0000527c,38,"「お前ってハンバーガー、好きなのか？」","“Who do you like hamburgers?”","«Кто вам нравятся гамбургеры? »","„Wer gefällt dir Hamburger? „"
+00005300,42,"「ええ、ジャンクフードは全般好きですから」","“Eh, I like junk food in general.”","«Эх, я люблю кормить в целом. »","„Ich mag Schrottfutter im Allgemeinen. „"
 000053c0,73,"「フフッ、じゃあ、教えてくれる？
-　さねちゃんの好きなハンバーガーは何？」","","",""
-0000548c,28,"「食堂のビッグバーガーです」","","",""
-000054cc,40,"「あの、でかくて食べづらいバーガーか？」","","",""
-00005548,20,"「そこがいいんです」","","",""
+　さねちゃんの好きなハンバーガーは何？」","“Huffy, so tell me?” What is your favorite
+burger?","- Ну, так скажи мне? Каков ваш любимый бургер?","„Huffy, also sag es mir?“ Was ist Ihr
+Lieblingsburger?"
+0000548c,28,"「食堂のビッグバーガーです」","It is a big burger in the cafeteria","«Это большой бургер в кафетерии»","Es ist ein großer Burger in der Cafeteria"
+000054cc,40,"「あの、でかくて食べづらいバーガーか？」","“Are you a burger that is hard to eat?”","«Вы бургер, который трудно есть? »","„Sind Sie ein Burger, der schwer zu essen ist? „"
+00005548,20,"「そこがいいんです」","“It’s good.”","«Это хорошо. »","„Es ist gut. „"
 000055d4,59,"「ハンバーガーはアメリカの食べ物ですよ。
-　大きさも味です」","","",""
+　大きさも味です」","Hamburger is a food in the US. Size is also
+taste","Гамбургер - это еда в США. Размер также вкус","Hamburger ist ein Essen in den USA. Größe ist
+auch Geschmack"
 000056a8,75,"「大きさも味…。そうね、大きいと
-　いろんな味のハーモニーが楽しめるものね」","","",""
-000051f4,20,"「そういうことです」","","",""
+　いろんな味のハーモニーが楽しめるものね」","The size is also delicious. That’s right, you can
+enjoy a variety of flavors when it’s big.","Размер также вкусный. Это правильно, вы можете
+наслаждаться разнообразие вкусов, когда это
+большой.","Die Größe ist auch köstlich. Das ist richtig, Sie
+können eine Vielzahl von Aromen genießen, wenn es
+groß ist."
+000051f4,20,"「そういうことです」","“It’s like that.”","- Это так. »","„So ist es. „"
 000057cc,51,"「すごく参考になったわ。
-　ありがとう、さねちゃん」","","",""
-00005848,26,"「いえ。では、失礼します」","","",""
+　ありがとう、さねちゃん」","It was very helpful.」","Это было очень полезно.」","Es war sehr hilfreich."
+00005848,26,"「いえ。では、失礼します」","Home","Начало","Home"
 000059b4,55,"「どう？　いろいろ聞いて回ったけど、
-　参考になった？」","","",""
-00005a48,71,"「ええ、とっても。\p01君の言うとおり、
-　みんなに聞いてみてよかったわ」","","",""
-00005ab0,32,"「いいアイディア、出るといいね」","","",""
-00005b30,51,"「ええ、ありがとう、\p01君。
-　がんばってみるわね」","","",""
+　参考になった？」","“How did you hear a lot of things, but did you
+see it?”","«Как вы слышали много вещей, но вы его видели? »","„Wie hast du viel gehört, aber hast du es
+gesehen? „"
+00005ab0,32,"「いいアイディア、出るといいね」","“Good ideas and likes”","«Хорошие идеи и лайки»","„Gute Ideen und Vorlieben“"

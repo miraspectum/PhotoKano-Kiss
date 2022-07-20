@@ -1,169 +1,351 @@
-000005c8,8,"「あ…」","a…","",""
-00000600,16,"「どうかした？」","What's wrong?","",""
-000006c4,14,"「そ、そっか」","Oh, that's right","",""
-00000728,30,"「それも、男の人とだなんて…」","That's also a man …","",""
-00000818,30,"「チャイムの２０分前ぐらいよ」","About 20 minutes before the chime","",""
-00000858,30,"「へ～っ、早いね。余裕だなぁ」","Hey, it's fast. I can afford it.","",""
-0000094c,28,"「休み時間って、何してる？」","What is your break time?","",""
-00000c88,38,"「ああ、同じ中学出身で、よく話すんだ」","Oh, I'm from the same junior high school and I talk a lot.","",""
-00000dac,34,"「柚ノ木さんって、校則は守る方？」","Mr. Yuzunogi, who keeps the school rules?","",""
-00000e20,24,"「守る方だと思うけど？」","I think you're the one who protects it?","",""
-00000e68,42,"「そっか、廊下を走ったりしなさそうだしね」","I don't think I'm going to run in the corridor.","",""
-00000ee0,34,"「ええ、ぶつかったら、危ないもの」","Yes, if you hit it, it's dangerous.","",""
-00000f84,20,"「うちの学校って…」","What is our school …","",""
-000012f8,36,"「あ……もう、忘れて。恥ずかしい…」","Oh … forget it. It's embarrassing …","",""
-0000150c,26,"「昼休みって、何してる？」","What are you doing during your lunch break?","",""
-00001694,42,"「もちろん、家庭科室にいることも多いかな」","Of course, I often stay in the home economics room.","",""
-0000170c,34,"「学校で一番好きな場所ってどこ？」","What is your favorite place at school?","",""
-00001ae4,16,"「ええ、何にも」","Yes, anything","",""
-00001b6c,38,"「けど、部活動部長会に参加してるわよ」","But I'm participating in the club activities managers' meeting.","",""
-00001bc0,18,"「部活動部長会？」","Ministry of activity ministers?","",""
-00001e98,26,"「へ～っ、そうだったんだ」","Hey, that's right.","",""
-00002218,34,"「ああ、それは何となくわかるなぁ」","Oh, I can understand it somehow.","",""
-00002368,24,"「この間、休み時間に…」","During this time, during breaks …","",""
-00002604,16,"「そう信じてる」","I believe so","",""
-0000270c,12,"「そうだね」","I agree","",""
-0000275c,40,"「うちの学校の制服って、気に入ってる？」","Do you like our school uniform?","",""
-00002824,40,"「ええ、もちろん。だって、かわいいもの」","Yes, of course, because it's cute.","",""
-00002900,42,"「うちの学校の屋上って、息抜きにいいよね」","The rooftop of our school is a good place to take a break.","",""
-00002ce4,24,"「うちの学校と言えば…」","Speaking of our school …","",""
-00002d50,38,"「そうね～、のんびりしてていいわよね」","Yeah, it's okay to take it easy.","",""
-00002f9c,40,"「もう、すっごく恥ずかしかったんだから」","I was so embarrassed.","",""
-00003064,42,"「地震の時、駆けつけてくれて、ありがとう」","Thank you for rushing in the event of an earthquake.","",""
-000030bc,34,"「ちょうど通りがかってよかったよ」","I'm glad I just passed by.","",""
-00003198,36,"「まず身を守ることが大切だと思うよ」","I think it's important to protect yourself first.","",""
-00003200,30,"「うん、そうよね。…そうする」","Yeah, that's right …. I'll do it.","",""
-000032d8,42,"「学校の屋上から見る夕日も、きれいよね～」","The sunset seen from the roof of the school is beautiful, isn't it?","",""
-00003384,32,"「海で見た夕日を思い出しちゃう」","I remember the sunset I saw in the sea","",""
-000036f8,22,"「ははは、ちょっとね」","Haha, a little","",""
-0000375c,30,"「も～っ、人ごとだと思ってぇ」","Well, I think it's a person.","",""
-00003898,24,"「柚ノ木さん…俺もだよ」","Yuzunogi-san … I am too.","",""
-00003980,14,"「…そうだね」","…I agree","",""
-000039dc,42,"「最後まで、精一杯お世話してあげなくちゃ」","I have to take care of you until the end.","",""
-00003b78,12,"「俺もだよ」","Me too","",""
-0000270c,12,"「そうだね」","I agree","",""
-00003d5c,8,"「え…」","e…","",""
-00003db8,20,"「あ…目立って嫌？」","Ah … I hate it noticeably?","",""
-00003e30,32,"「そんなことないよ…うれしいよ」","That's not the case … I'm glad.","",""
-00003ea0,20,"「本当？　よかった」","Really? It was good.","",""
-00003f38,22,"「２人で話してると…」","When we talk with two people …","",""
-00003fa0,24,"「うん、とっても楽しい」","Yeah, it's so much fun","",""
+000005c8,8,"「あ…」","a…","а…","a…"
+00000600,16,"「どうかした？」","What's wrong?","Что случилось?","Was ist los?"
+000006c4,14,"「そ、そっか」","Oh, that's right","О, это правильно","Oh, das stimmt"
+00000728,30,"「それも、男の人とだなんて…」","That's also a man …","Это тоже человек…","Das ist auch ein Mann …"
+00000818,30,"「チャイムの２０分前ぐらいよ」","About 20 minutes before the chime","Примерно за 20 минут до звонка","Ungefähr 20 Minuten vor dem Glockenschlag"
+00000858,30,"「へ～っ、早いね。余裕だなぁ」","Hey, it's fast. I can afford it.","«Эй, это быстро. Я могу себе это позволить».","Hey, es ist schnell. Ich kann es mir leisten."
+0000094c,28,"「休み時間って、何してる？」","What is your break time?","«Какой у тебя перерыв?»","Was ist Ihre Pausenzeit?"
+00000c88,38,"「ああ、同じ中学出身で、よく話すんだ」","Oh, I'm from the same junior high school and I talk a lot.","«О, я из той же средней школы и много болтаю».","Oh, ich bin von der gleichen Junior High School und ich rede viel."
+00000dac,34,"「柚ノ木さんって、校則は守る方？」","Mr. Yuzunogi, who keeps the school rules?","«Господин Юзуноги, кто соблюдает школьные правила?»","Herr Yuzunogi, wer hält die Schulregeln ein?"
+00000e20,24,"「守る方だと思うけど？」","I think you're the one who protects it?","— Я думаю, это ты его защищаешь?","Ich denke, du bist derjenige, der es beschützt?"
+00000e68,42,"「そっか、廊下を走ったりしなさそうだしね」","I don't think I'm going to run in the corridor.","«Я не думаю, что буду бегать по коридору».","Ich glaube nicht, dass ich in den Korridor rennen werde."
+00000ee0,34,"「ええ、ぶつかったら、危ないもの」","Yes, if you hit it, it's dangerous.","«Да, если вы ударите его, это опасно».","Ja, wenn du es triffst, ist es gefährlich."
+00000f84,20,"「うちの学校って…」","What is our school …","«Что такое наша школа…»","Was ist unsere Schule …"
+000012f8,36,"「あ……もう、忘れて。恥ずかしい…」","Oh … forget it. It's embarrassing …","О… забудь. Это неловко…","Oh … vergiss es. Es ist peinlich …"
+0000150c,26,"「昼休みって、何してる？」","What are you doing during your lunch break?","— Что ты делаешь во время обеденного перерыва?","Was machst du in deiner Mittagspause?"
+00001694,42,"「もちろん、家庭科室にいることも多いかな」","Of course, I often stay in the home economics room.","«Конечно, я часто остаюсь в кабинете домоводства».","Natürlich bleibe ich oft im Hauswirtschaftsraum."
+0000170c,34,"「学校で一番好きな場所ってどこ？」","What is your favorite place at school?","«Какое твое любимое место в школе?»","Was ist dein Lieblingsplatz in der Schule?"
+00001ae4,16,"「ええ、何にも」","Yes, anything","Да что угодно","Ja alles"
+00001b6c,38,"「けど、部活動部長会に参加してるわよ」","But I'm participating in the club activities managers' meeting.","«Но я участвую в собрании менеджеров клубной деятельности».","„Aber ich nehme am Meeting der Clubaktivitäten-Manager teil.“"
+00001bc0,18,"「部活動部長会？」","Ministry of activity ministers?","Министерство активности министров?","Ministerium für Aktivität Minister?"
+00001e98,26,"「へ～っ、そうだったんだ」","Hey, that's right.","«Эй, верно».","He, das ist richtig."
+00002218,34,"「ああ、それは何となくわかるなぁ」","Oh, I can understand it somehow.","— О, я как-то это понимаю.","Oh, ich kann es irgendwie verstehen."
+00002368,24,"「この間、休み時間に…」","During this time, during breaks …","«В это время, в перерывах…»","Während dieser Zeit, in den Pausen …"
+00002604,16,"「そう信じてる」","I believe so","Я так считаю","Ich glaube schon"
+0000270c,12,"「そうだね」","I agree","Я согласен","Ich stimme zu"
+0000275c,40,"「うちの学校の制服って、気に入ってる？」","Do you like our school uniform?","— Тебе нравится наша школьная форма?","Gefällt dir unsere Schuluniform?"
+00002824,40,"「ええ、もちろん。だって、かわいいもの」","Yes, of course, because it's cute.","«Да, конечно, потому что это мило».","Ja, natürlich, weil es süß ist."
+00002900,42,"「うちの学校の屋上って、息抜きにいいよね」","The rooftop of our school is a good place to take a break.","«Крыша нашей школы — хорошее место для отдыха».","Das Dach unserer Schule ist ein guter Ort, um eine Pause einzulegen."
+00002ce4,24,"「うちの学校と言えば…」","Speaking of our school …","«Кстати, о нашей школе…»","Apropos Schule …"
+00002d50,38,"「そうね～、のんびりしてていいわよね」","Yeah, it's okay to take it easy.","— Да, можно успокоиться.","Ja, es ist okay, es ruhig angehen zu lassen."
+00002f9c,40,"「もう、すっごく恥ずかしかったんだから」","I was so embarrassed.","«Мне было так стыдно».","Es war mir so peinlich."
+00003064,42,"「地震の時、駆けつけてくれて、ありがとう」","Thank you for rushing in the event of an earthquake.","«Спасибо, что поспешили в случае землетрясения».","Danke, dass Sie sich im Falle eines Erdbebens beeilt haben."
+000030bc,34,"「ちょうど通りがかってよかったよ」","I'm glad I just passed by.","«Я рад, что только что прошел мимо».","Ich bin froh, dass ich gerade vorbeigekommen bin."
+00003198,36,"「まず身を守ることが大切だと思うよ」","I think it's important to protect yourself first.","«Я думаю, что важно защитить себя в первую очередь».","Ich denke, es ist wichtig, sich zuerst zu schützen."
+00003200,30,"「うん、そうよね。…そうする」","Yeah, that's right …. I'll do it.","Да, правильно…. Я сделаю это.","Ja, das ist richtig …. Ich werde es tun."
+000032d8,42,"「学校の屋上から見る夕日も、きれいよね～」","The sunset seen from the roof of the school is beautiful, isn't it?","Закат с крыши школы прекрасен, не так ли?","Der Sonnenuntergang vom Dach der Schule ist wunderschön, nicht wahr?"
+00003384,32,"「海で見た夕日を思い出しちゃう」","I remember the sunset I saw in the sea","«Я помню закат, который я видел в море»","Ich erinnere mich an den Sonnenuntergang, den ich im Meer gesehen habe"
+000036f8,22,"「ははは、ちょっとね」","Haha, a little","Ха-ха, немного","Haha, ein bisschen"
+0000375c,30,"「も～っ、人ごとだと思ってぇ」","Well, I think it's a person.","— Ну, я думаю, это человек.","Nun, ich denke, es ist eine Person."
+00003898,24,"「柚ノ木さん…俺もだよ」","Yuzunogi-san … I am too.","«Юзуноги-сан… Я тоже».","„Yuzunogi-san … bin ich auch.“"
+00003980,14,"「…そうだね」","…I agree","…Я согласен","…Ich stimme zu"
+000039dc,42,"「最後まで、精一杯お世話してあげなくちゃ」","I have to take care of you until the end.","«Я должен заботиться о тебе до конца».","Ich muss mich bis zum Ende um dich kümmern."
+00003b78,12,"「俺もだよ」","Me too","Я тоже","Ich auch"
+0000270c,12,"「そうだね」","I agree","Я согласен","Ich stimme zu"
+00003d5c,8,"「え…」","e…","э…","e…"
+00003db8,20,"「あ…目立って嫌？」","Ah … I hate it noticeably?","Ах… Я его заметно ненавижу?","Ah … ich hasse es merklich?"
+00003e30,32,"「そんなことないよ…うれしいよ」","That's not the case … I'm glad.","Это не так… Я рад.","Das ist nicht der Fall … Ich bin froh."
+00003ea0,20,"「本当？　よかった」","Really? It was good.","Правда? Это было хорошо.","Wirklich? Es war gut."
+00003f38,22,"「２人で話してると…」","When we talk with two people …","«Когда мы разговариваем с двумя людьми…»","Wenn wir mit zwei Leuten reden …"
+00003fa0,24,"「うん、とっても楽しい」","Yeah, it's so much fun","Да, это так весело","Ja, es macht so viel Spaß"
 000003b8,80,"「校舎裏にゴミを捨てに行く時、
 　かえって邪魔しちゃったみたいで、
-　ごめんねぇ」","","",""
+　ごめんねぇ」","When I go to the back of the school to throw away the trash,
+It seems that it got in the way
+I'm sorry ","«Когда я иду в заднюю часть школы, чтобы выбросить мусор,
+Кажется, это мешало
+Мне жаль ","„Wenn ich nach hinten in die Schule gehe, um den Müll wegzuwerfen,
+Es scheint, dass es im Weg war
+Es tut mir Leid "
 00000478,84,"「ははは、いいよいいよ。
 　柚ノ木さんがどんな感じなのか
-　よくわかって、よかったよ」","","",""
+　よくわかって、よかったよ」","Haha, it's good.
+What does Yuzunogi look like?
+I'm glad I understood it well. ","Ха-ха, это хорошо.
+Как выглядит Юзуноги?
+Я рад, что хорошо это понял».","„Hach, ist gut.
+Wie sieht Yuzunogi aus?
+Ich bin froh, dass ich es gut verstanden habe."
 0000051c,57,"「む～っ、あんな失敗ばかりしてるわけじゃ
-　ないわよ、私」","","",""
+　ないわよ、私」","Mmm, I'm just making such mistakes.
+I don't have it, I ","Ммм, я просто делаю такие ошибки.
+у меня его нет, я","„Mmm, ich mache einfach solche Fehler.
+Ich habe es nicht, ich "
 00000654,65,"「私、ののちゃん以外の人と
-　２人で帰るのって、あんまりないかも」","","",""
+　２人で帰るのって、あんまりないかも」","With people other than me, Nono-chan
+It may not be so much to go home with two people. ","«С людьми, кроме меня, Ноно-тян.
+Это может быть не так уж и много, чтобы пойти домой с двумя людьми».","„Mit anderen Leuten als mir, Nono-chan
+Es ist vielleicht nicht so viel, mit zwei Personen nach Hause zu gehen."
 00000788,51,"「柚ノ木さんって、毎朝何時ぐらいに
-　学校来てる？」","","",""
+　学校来てる？」","At what time every morning, Mr. Yuzunogi
+Are you coming to school? ","«В какое время каждое утро, мистер Юдзуноги
+Ты идешь в школу? ","„Zu welcher Zeit jeden Morgen, Mr. Yuzunogi
+Kommst du zur Schule? "
 000008d4,55,"「夜更かしせずに、
-　朝、ちゃんと起きるようにしてるの」","","",""
+　朝、ちゃんと起きるようにしてるの」","Without staying up late,
+I try to get up properly in the morning. ","«Не ложась спать допоздна,
+Я стараюсь правильно вставать по утрам».","Ohne lange aufzubleiben,
+Ich versuche, morgens richtig aufzustehen.“"
 000009c8,71,"「ののちゃんや、クラスの子たちと
-　おしゃべりしていることが、多いわね」","","",""
+　おしゃべりしていることが、多いわね」","With Nono-chan and the children in the class
+I'm often talking. ","«С Ноно-тян и детьми в классе
+Я часто говорю».","Mit Nono-chan und den Kindern in der Klasse
+Ich rede oft."
 00000a80,114,"「ののちゃんって、元気いっぱいだから、
 　みんなと話してると思ったら、いつの間にか
-　いなかったりして、楽しいのよ」","","",""
+　いなかったりして、楽しいのよ」","Because Nono-chan is full of energy
+If you thought you were talking to everyone, before you knew it
+It's fun because I'm not there. ","Потому что Ноно-чан полон энергии
+Если вы думали, что разговариваете со всеми, прежде чем вы это знали
+Это весело, потому что меня там нет».","„Weil Nono-chan voller Energie ist
+Wenn Sie dachten, Sie würden mit allen sprechen, bevor Sie es wussten
+Es macht Spaß, weil ich nicht da bin.“"
 00000b4c,71,"「そっか、柚ノ木さんとののかは、
-　同じクラスだからなぁ。仲いいんだ？」","","",""
-00000be0,68,"「ええ、とっても。
-　\p01君も、ののちゃんのこと、
-　知ってるんだ？」","","",""
+　同じクラスだからなぁ。仲いいんだ？」","Well, I don't know if you're with Yunogi-san.
+Because it's the same class. Are you on good terms ","— Ну, я не знаю, с Юноги-сан ли ты.
+Потому что это один и тот же класс. Вы в хороших отношениях ","„Nun, ich weiß nicht, ob Sie mit Yunogi-san zusammen sind.
+Weil es die gleiche Klasse ist. Haben Sie ein gutes Verhältnis "
 00000ce8,55,"「そっか。それで、ののちゃんのこと、
-　名前で呼ぶのね」","","",""
+　名前で呼ぶのね」","That's right. So, about Nonochan,
+Call it by name. ","«Правильно. Итак, о Ноночане,
+Назовите его по имени».","Das ist richtig. Also, über Nonochan,
+Nenn es beim Namen."
 00000ff8,49,"「そうね～、自然がいっぱいで、
-　心地いいわよね」","","",""
+　心地いいわよね」","Well, there is a lot of nature,
+It's comfortable, isn't it? ","«Ну, там много природы,
+Удобно, не так ли?»","Nun, es gibt viel Natur,
+Es ist bequem, nicht wahr?"
 00001078,61,"「柚ノ木さんが、中庭の花壇の水やりを
-　手伝ってたなんてなぁ」","","",""
+　手伝ってたなんてなぁ」","Mr. Yuzu nogi waters the flowerbed in the courtyard.
+I was helping you 」","«Господин Юноги поливает клумбу во дворе.
+Я тебе не помог».","„Herr Yunogi gießt das Blumenbeet im Hof.
+Ich habe dir nicht geholfen."
 00001114,49,"「だって、園芸部の人たちだけじゃ、
-　大変だもの」","","",""
+　大変だもの」","Because only the people in the gardening club,
+It's hard ","«Потому что только люди в клубе садоводов,
+Это сложно ","„Denn nur die Leute im Gartenverein,
+Es ist schwer "
 00001194,59,"「みんなの花壇だもの、
-　みんなでお世話してあげなくちゃね」","","",""
+　みんなでお世話してあげなくちゃね」","Everyone's flowerbed,
+We have to take care of everyone 」","«Каждая клумба,
+Мы должны заботиться обо всех 」","Jedermanns Blumenbeet,
+Wir müssen uns um alle kümmern 」"
 00001260,59,"「授業中、居眠りする時は、
-　おでこに跡が残らないようにね」","","",""
+　おでこに跡が残らないようにね」","When I fall asleep during class,
+Don't leave a mark on your forehead. ","«Когда я засыпаю во время урока,
+Не оставляй следа на лбу».","„Wenn ich während des Unterrichts einschlafe,
+Hinterlasse keine Spuren auf deiner Stirn."
 000013b4,53,"「校舎裏を掃除したし、
-　カラスが来なくなるといいね」","","",""
+　カラスが来なくなるといいね」","I cleaned the back of the school building and
+I hope the crows don't come. ","«Я убрал заднюю часть школьного здания и
+Надеюсь, вороны не прилетят».","Ich habe die Rückseite des Schulgebäudes gereinigt und
+Ich hoffe, die Krähen kommen nicht.“"
 00001448,55,"「ええ、ちゃんと掃除したもの。
-　きっと来なくなるわよ」","","",""
+　きっと来なくなるわよ」","Yes, it was cleaned properly.
+I'm sure it won't come. ","«Да, почистили нормально.
+Я уверен, что не придет».","„Ja, es wurde ordentlich geputzt.
+Ich bin sicher, es wird nicht kommen."
 00001584,98,"「ののちゃんとおしゃべりしたり、
 　図書室でのんびりしたり、
-　中庭でレシピを考えたり、いろいろよ」","","",""
+　中庭でレシピを考えたり、いろいろよ」","Talking with Nono-chan,
+Relaxing in the library,
+Thinking about recipes in the courtyard, various things 」","«Говоря с Ноно-тян,
+Отдыхая в библиотеке,
+Думая о рецептах во дворе, о разных вещах 」","Im Gespräch mit Nono-chan,
+Entspannen in der Bibliothek,
+Im Innenhof über Rezepte nachdenken, verschiedene Dinge 」"
 0000178c,98,"「もちろん、家庭科室よ。
 　オーブンも、調理器具も充実してるし、
-　料理をするのが楽しくなっちゃう」","","",""
+　料理をするのが楽しくなっちゃう」","Of course, it's a home economics room.
+The oven and cooking utensils are substantial,
+It will be fun to cook ","«Конечно, это кабинет домоводства.
+Духовка и посуда вместительны,
+Будет весело готовить»","„Natürlich ist es ein Hauswirtschaftsraum.
+Der Ofen und die Kochutensilien sind umfangreich,
+Es wird Spaß machen zu kochen "
 000018c4,53,"「光河学園のいいところって、
-　どんなとこだと思う？」","","",""
+　どんなとこだと思う？」","The good thing about Kogawa Gakuen is
+What do you think it is? ","«Что хорошо в Когава Гакуэн, так это
+Как ты думаешь, что это? ","„Das Gute an Kogawa Gakuen ist
+Was denkst du, ist es? "
 00001958,106,"「え～と…自然に囲まれてるところね。
 　中庭も、輝久万川のほとりも、
-　お花がいっぱい咲いて、きれいだもの」","","",""
+　お花がいっぱい咲いて、きれいだもの」","Well … it's surrounded by nature.
+The courtyard and the banks of the Terukuman River
+A lot of flowers are in full bloom and it is beautiful 」","«Ну… он окружен природой.
+Двор и берег реки Терукуман
+Много цветов в полном расцвете, и это красиво 」","„Nun … es ist von Natur umgeben.
+Der Innenhof und die Ufer des Flusses Terukuman
+Viele Blumen stehen in voller Blüte und es ist wunderschön 」"
 00001a6c,47,"「柚ノ木さんって、何か委員は
-　やってないの？」","","",""
+　やってないの？」","What kind of committee is Mr. Yuzunogi?
+Didn't you do it? ","«Что за комитет такой, мистер Юдзуноги?
+Разве ты не сделал этого? ","„Was für ein Komitee ist Herr Yuzunogi?
+Hast du es nicht getan? "
 00001c30,92,"「知らない？　生徒会執行部の
 　下にある組織で、部活の部長は、
-　必ず参加しなきゃならないの」","","",""
+　必ず参加しなきゃならないの」","Don't you know? The Student Organization Inside School
+In the organization below, the director of club activities is
+You must participate ","«Разве ты не знаешь? Студенческая организация внутри школы
+В приведенной ниже организации руководителем клубной деятельности является
+Вы должны участвовать»","„Weißt du nicht? Die Studentenorganisation in der Schule
+In der nachstehenden Organisation ist der Direktor für Clubaktivitäten
+Du musst mitmachen“"
 00001d54,94,"「他にも、クラス委員が集まる、
 　クラス委員会とか、風紀委員会、
-　図書委員会なんかがあって…」","","",""
+　図書委員会なんかがあって…」","In addition, class representatives gather,
+Class committee, discipline committee,
+There was a library committee … ","«Кроме того, представители класса собираются,
+Классная комиссия, дисциплинарная комиссия,
+Был библиотечный комитет…»","Außerdem versammeln sich Klassenvertreter,
+Klassenausschuss, Disziplinausschuss,
+Es gab einen Bibliotheksausschuss … "
 00001e34,53,"「学園の自治運営は、
-　すべてその会議で決まってるの」","","",""
+　すべてその会議で決まってるの」","The autonomous management of the school is
+It's all decided at that meeting. ","«Автономное управление школой
+Все решается на этой встрече».","„Die autonome Leitung der Schule ist
+Bei diesem Treffen wird alles entschieden."
 00001f00,98,"「生徒会長さんをはじめとする、
 　生徒会執行部の人たちは、
-　すべての会議に出てるから大変そうで…」","","",""
+　すべての会議に出てるから大変そうで…」","Including the student council president,
+The members of the Student Organization Inside School
+It seems to be difficult because I attend all meetings … ","«Включая президента школьного совета,
+Члены студенческой организации Inside School
+Это кажется трудным, потому что я посещаю все встречи…»","Einschließlich des Studentenratspräsidenten,
+Die Mitglieder der Schülerorganisation Inside School
+Es scheint schwierig zu sein, weil ich an allen Meetings teilnehme … "
 00001fdc,88,"「だから私も、部活動部長会に参加するのが
 　気後れするなんて
-　言ってられないんだけど…」","","",""
+　言ってられないんだけど…」","That's why I also participate in the club activities managers' meeting.
+To be disappointed
+I can't tell you … ","«Поэтому я также участвую в собрании руководителей деятельности клуба.
+Быть разочарованным
+Я не могу тебе сказать…","„Deshalb nehme ich auch am Managertreffen der Vereinsaktivitäten teil.
+Enttäuscht sein
+ich kann es dir nicht sagen…"
 000020c4,85,"「野球部とか、バレー部とか、新体操部とか、
-　そうそうたる部活の部長さんに混じって…」","","",""
+　そうそうたる部活の部長さんに混じって…」","Baseball club, volleyball club, rhythmic gymnastics club, etc.
+Mixed with the director of such a club activity … 」","Бейсбольный клуб, волейбольный клуб, клуб художественной гимнастики и т.д.
+Смешанный с директором клубной деятельности… 」","„Baseballverein, Volleyballverein, Verein für rhythmische Gymnastik usw.
+Gemischt mit dem Direktor einer solchen Clubaktivität … 」"
 0000215c,79,"「部員が１人の私が意見するのは、ちょっと…
-　って、どうしても思っちゃうのよね」","","",""
+　って、どうしても思っちゃうのよね」","I have one member, and I have a little opinion …
+I just think about it. ","У меня есть один член, и у меня есть небольшое мнение…
+Я просто думаю об этом».","„Ich habe ein Mitglied, und ich habe eine kleine Meinung …
+Ich denke nur darüber nach."
 00002298,78,"「けど、少しでも多く予算を
 　割り振ってもらわなきゃ困るし、
-　がんばらなきゃ」","","",""
+　がんばらなきゃ」","But spend as much as you can
+It would be a problem if I had to allocate it,
+I have to do my best ","«Но тратьте столько, сколько можете
+Было бы проблемой, если бы мне пришлось выделить его,
+Я должен сделать все возможное»","„Aber gib so viel aus, wie du kannst
+Es wäre ein Problem, wenn ich es zuordnen müsste,
+Ich muss mein Bestes geben“"
 000023d4,49,"「フフッ、そんなことがあったんだ。
-　楽しそう～」","","",""
+　楽しそう～」","Huh, that happened.
+It looks fun ~ ","Ха, это случилось.
+Выглядит весело~","„Hm, das ist passiert.
+Es sieht lustig aus ~ "
 000024a8,61,"「料理研究会のページを見て、
-　部員が入ってくれるといいね～」","","",""
+　部員が入ってくれるといいね～」","Look at the page of the cooking study group,
+It would be nice if a member could join us ~ ","Посмотрите на страницу кулинарной группы,
+Было бы неплохо, если бы к нам присоединился участник ~ ","Schauen Sie sich die Seite des Kochkreises an,
+Es wäre schön, wenn sich ein Mitglied uns anschließen könnte ~ "
 00002544,55,"「とっても素敵な写真だもの、
-　きっと来てくれると思う」","","",""
+　きっと来てくれると思う」","It ’s a very nice photo,
+I'm sure they will come. ","Очень красивое фото,
+Я уверен, что они придут».","„Es ist ein sehr schönes Foto,
+Ich bin sicher, sie werden kommen."
 0000267c,55,"「フフッ、こうして、一緒に帰るのって、
-　楽しいわよね」","","",""
+　楽しいわよね」","Huh, this way, I'm going home together
+It's fun, isn't it? ","Ха, сюда, я иду домой вместе
+Это весело, не так ли?»","„Huh, hier entlang, ich gehe zusammen nach Hause
+Es macht Spaß, oder?"
 000029c8,61,"「ええ。見晴らしいいし、お花は咲いてるし、
-　素敵な場所よね」","","",""
+　素敵な場所よね」","Yes. It's beautiful, the flowers are in bloom,
+It's a nice place, isn't it? ","Да. Красиво, цветы цветут,
+Хорошее место, не правда ли?»","Ja. Es ist schön, die Blumen blühen,
+Es ist ein schöner Ort, nicht wahr?"
 00002ac4,53,"「柚ノ木さんって、どうして光河学園を
-　受験したの？」","","",""
+　受験したの？」","Why did Yuzunogi-san go to Mitsukawa Gakuen?
+Did you take the exam? ","«Почему Юзуноги-сан пошел к Мицукаве Гакуен?
+Ты сдал экзамен? ","„Warum ist Yuzunogi-san zu Mitsukawa Gakuen gegangen?
+Hast du die Prüfung abgelegt? "
 00002b4c,84,"「駅前の高校よりは、
 　ちょっと離れたところにある高校に、
-　のんびり通いたかったの」","","",""
+　のんびり通いたかったの」","From the high school in front of the station
+In a high school a little far away,
+I wanted to go leisurely. ","«От гимназии напротив вокзала
+В старшей школе немного далеко,
+Я хотел идти не спеша».","Vom Gymnasium vor dem Bahnhof
+In einer etwas weit entfernten High School
+Ich wollte gemächlich gehen."
 00002c2c,53,"「毎日、河川敷を散歩できるなんて、
-　幸せじゃない？」","","",""
+　幸せじゃない？」","I can take a walk on the riverbed every day
+Isn't it happy? ","«Я могу каждый день гулять по руслу реки
+Разве это не счастье? ","„Ich kann jeden Tag am Flussbett spazieren gehen
+Ist es nicht glücklich? "
 00002df0,59,"「お弁当デーの校内放送、聞いたよ。
-　大胆な行動に出たね～」","","",""
+　大胆な行動に出たね～」","I heard the school broadcast on Bento Day.
+You took a bold action ~ 」","«Я слышал школьную трансляцию в День Бенто.
+Вы предприняли смелый поступок~」","„Ich habe die Schulsendung am Bento Day gehört.
+Du hast mutig gehandelt ~ 」"
 00002ec8,55,"「うん、生徒会長さんに、がんばりなさいって
-　言われて」","","",""
+　言われて」","Yeah, tell the student council president, do your best.
+Be told ","«Да, скажите президенту школьного совета, сделайте все возможное.
+Сказано ","„Ja, sag dem Studentenratsvorsitzenden, gib dein Bestes.
+gesagt werden "
 0000310c,51,"「怖いわね、地震って。
-　私、気が動転しちゃって…」","","",""
+　私、気が動転しちゃって…」","I'm scared, an earthquake.
+I was upset … ","«Я боюсь, землетрясение.
+Я была расстроена … ","Ich habe Angst, ein Erdbeben.
+Ich war verärgert … "
 000033f4,69,"「室戸先輩って、本気で柚ノ木さんを
-　次期生徒会長にしたいみたいだね」","","",""
+　次期生徒会長にしたいみたいだね」","Senior Muroto is serious about Mr. Yuzunogi.
+It seems that you want to be the next student president. ","«Сеньор Мурото серьезно относится к мистеру Юзуноги.
+Кажется, ты хочешь стать следующим студенческим президентом».","„Senior Muroto meint es ernst mit Mr. Yuzunogi.
+Es scheint, dass Sie der nächste Studentenpräsident werden wollen."
 00003498,49,"「生徒会長さんは、私のこと
-　買いかぶり過ぎなの」","","",""
+　買いかぶり過ぎなの」","The student council president is me
+I bought too much. ","«Президент студенческого совета — это я.
+Я купил слишком много».","„Der Schülerratsvorsitzende bin ich
+Ich habe zu viel gekauft."
 00003504,47,"「私なんかに生徒会長が、
-　務まるわけないのに」","","",""
+　務まるわけないのに」","I have a student council president
+I can't do my job. ","У меня есть президент студенческого совета
+Я не могу делать свою работу».","„Ich habe einen Studentenratsvorsitzenden
+Ich kann meinen Job nicht machen."
 0000358c,96,"「生ゴミ分解機は安く作れるし、
 　ゴミが減るし、生徒会長にふさわしい
-　アイディアだと思うけど？」","","",""
-00003640,73,"「む～っ、\p01君までそんなことを…。
-　からかって、楽しんでるでしょう？」","","",""
+　アイディアだと思うけど？」","Swill decomposers can be made cheaply,
+Garbage is reduced and suitable for the student council president
+I think it's an idea? ","Разлагатели помоев можно делать дешево,
+Мусор уменьшен и подходит для президента студенческого совета
+Я думаю, это идея? ","Speisezersetzer können billig hergestellt werden,
+Müll wird reduziert und für den Fachschaftspräsidenten geeignet
+Ich denke, es ist eine Idee? "
 000037dc,61,"「フフッ、こうして一緒に帰ってると、
-　幸せだなぁって思うの」","","",""
+　幸せだなぁって思うの」","Huh, when I go home together like this,
+I think I'm happy. ","Ха, когда я иду домой вместе вот так,
+Думаю, я счастлив».","Huh, wenn ich so zusammen nach Hause gehe,
+Ich glaube, ich bin glücklich.“"
 00003924,47,"「もうすぐ、中庭のひまわりが
-　枯れちゃうわね」","","",""
+　枯れちゃうわね」","Soon, the sunflowers in the courtyard
+It will wither. ","«Скоро подсолнухи во дворе
+Оно засохнет».","„Bald die Sonnenblumen im Hof
+Es wird verwelken."
 00003ac4,68,"「私ね、近ごろ、
 　光河学園に来てよかったって…、
-　よくそう思うの」","","",""
+　よくそう思うの」","I'm these days,
+I'm glad I came to Mitsukawa Gakuen …
+I often think so ","«Я в эти дни,
+Я рад, что попал в Mitsukawa Gakuen…
+Я часто так думаю»","Ich bin in diesen Tagen,
+Ich bin froh, dass ich zu Mitsukawa Gakuen gekommen bin …
+Ich denke oft so "
 00003bf8,47,"「来年は、２人同じクラスになれると
-　いいわね」","","",""
-00003ca8,69,"「フフッ、そうしたら私、\p01君の分も、
-　お弁当作ってきちゃおうかな」","","",""
+　いいわね」","Next year, if two people can be in the same class
+ Good","В следующем году, если два человека будут в одном классе
+ Хороший","„Nächstes Jahr, wenn zwei Leute in derselben Klasse sein können
+ Gut"

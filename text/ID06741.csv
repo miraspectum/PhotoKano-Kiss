@@ -1,59 +1,86 @@
 000001c4,90,"「ふぁ～～っ、今朝は余裕の登校だな。
 　このところ、早く起きるクセが
-　ついてるというか…」","","",""
-00000284,8,"「あ…」","","",""
-00000338,20,"「おはよう、\p01君」","","",""
-00000370,24,"「おはよう、柚ノ木さん」","","",""
-000003e8,28,"「ここで会うなんて、偶然ね」","","",""
+　ついてるというか…」","It is a school that can afford this morning.
+That's why you'll get up early…","Это школа, которая может позволить себе сегодня
+утром. Вот почему ты рано вставишь…","Es ist eine Schule, die sich heute Morgen leisten
+kann. Deshalb wirst du früh aufstehen…"
+00000284,8,"「あ…」","」","」","!"
+00000370,24,"「おはよう、柚ノ木さん」","Good morning, Yuzunoki-san","Доброе утро, Юзуноки-сан","Guten Morgen, Yuzunoki-san"
+000003e8,28,"「ここで会うなんて、偶然ね」","“It’s a coincidence to meet here.”","«Это совпадение, чтобы встретиться здесь. »","„Es ist ein Zufall, hier zu treffen. „"
 0000047c,98,"「そうだね。俺はいつももっと遅いんだけど、
 　柚ノ木さんは、だいたいこの時間に
-　ここを通る感じ？」","","",""
-0000053c,104,"「ええ、そうよ。いつもこれぐらいの時間に、
-　\p01君と会えないかな～って思いながら、
-　ここを歩いてるの」","","",""
-000006d0,16,"「柚ノ木さん…」","","",""
-00000740,12,"「なぁに？」","","",""
+　ここを通る感じ？」","“Yes, right?” I'm always slower, but Yuzunoki is
+going to go here for this time?","— Да, верно? Я всегда медленнее, но Yuzunoki
+собирается пойти сюда на это время?","„Ja, richtig?“ Ich bin immer langsamer, aber
+Yuzunoki wird für diese Zeit hier sein?"
+000006d0,16,"「柚ノ木さん…」","Yuzunoki …","Юзуноки …","Yuzunoki …"
+00000740,12,"「なぁに？」","?」","?」","?"
 00000784,77,"「べつに、会えないかな～って思わなくても
-　待ち合わせして来ればいいんじゃ…」","","",""
+　待ち合わせして来ればいいんじゃ…」","“I don’t think I can’t meet, but I can’t wait…”","«Я не думаю, что не могу встретиться, но я не
+могу ждать… »","„Ich glaube nicht, dass ich mich nicht treffen
+kann, aber ich kann nicht warten… „"
 00000820,86,"「あっ！　ああっ、そうよね！
 　一緒に登校したいんなら、
-　待ち合わせすればいいんだわ」","","",""
-000009c4,38,"「そんなことに気づかないなんて、私…」","","",""
+　待ち合わせすればいいんだわ」","Oh! Oh, yeah! If you want to join together, you
+can meet it!","О! О, да! Если вы хотите присоединиться, вы
+можете встретиться с ним!","Oh! Oh ja! Wenn Sie sich zusammenschließen
+möchten, können Sie es treffen!"
+000009c4,38,"「そんなことに気づかないなんて、私…」","“I don’t notice that…”","«Я не замечаю, что… »","„Ich merke nicht, dass… „"
 00000a60,81,"「いや、俺も柚ノ木さんと一緒にいたいのに、
-　１人で登校とか、抜けてるというか…」","","",""
-00000b00,22,"「フフッ、お互い様ね」","","",""
-00000b80,12,"「そうだね」","","",""
-00000bd4,14,"「フフフフッ」","","",""
-00000c2c,12,"「はははは」","","",""
+　１人で登校とか、抜けてるというか…」","“No, I want to be with Yuzunoki, but I want to go
+to school with one person, or go out.”","«Нет, я хочу быть с Юзуноки, но я хочу пойти в
+школу с одним человеком, или выйти. »","„Nein, ich will bei Yuzunoki sein, aber ich will
+mit einer Person zur Schule gehen oder rausgehen.
+„"
+00000b00,22,"「フフッ、お互い様ね」","Fフ, like each other","ФБ, как и друг друга","Füchse, wie einander"
+00000b80,12,"「そうだね」","I'm right.","- Я прав.","Ich habe recht."
+00000bd4,14,"「フフフフッ」","」","」","!"
+00000c2c,12,"「はははは」","」","」","!"
 00000c8c,61,"「じゃあ、月曜日から、待ち合わせて
-　一緒に登校してくれる？」","","",""
-00000d78,32,"「いいね、どこで待ち合わせる？」","","",""
-00000dec,16,"「ここがいいわ」","","",""
-00000e34,40,"「ここ？　もう学校がずいぶん近いけど？」","","",""
-00000ebc,16,"「そうだけど…」","","",""
+　一緒に登校してくれる？」","“Well, I’m waiting for you on Monday, and will
+you join us?”","- Ну, я жду вас в понедельник, и вы
+присоединитесь к нам? »","„Nun, ich warte am Montag auf dich und wirst du
+uns begleiten? „"
+00000d78,32,"「いいね、どこで待ち合わせる？」","“Where do you like?”","— Где вам нравится? »","„Wo magst du? „"
+00000dec,16,"「ここがいいわ」","I'm here","Я здесь","Ich bin hier"
+00000e34,40,"「ここ？　もう学校がずいぶん近いけど？」","“Here? It’s a little closer to school?”","— Вот? Это немного ближе к школе? »","„Hier? Ist es etwas näher an der Schule? „"
+00000ebc,16,"「そうだけど…」","Yes…","Да…","Ja…"
 00000f34,55,"「この河川敷で、季節を感じながら
-　あなたを待ちたいの」","","",""
+　あなたを待ちたいの」","I want to wait for you while feeling the season
+in this riverbed","«Хочу ждать вас, пока чувствуешь сезон в этой
+речке»","Ich will auf dich warten, während ich die Saison
+in diesem Flussbett fühle"
 00000ff4,61,"「そっか……じゃあ、この時間に
-　ここで待ち合わせしようか？」","","",""
-00001090,16,"「ええ、お願い」","","",""
-00001148,18,"「月曜日が楽しみ」","","",""
-00001264,8,"「……」","","",""
-0000129c,16,"「どうしたの？」","","",""
-000012f0,26,"「あのね、小指をつないで」","","",""
-000013ac,8,"「え？」","","",""
+　ここで待ち合わせしようか？」","“Well, right? Let’s meet this time?”","— Ну, правда? Давайте встретимся в этот раз? »","„Nun, richtig? Treffen wir uns diesmal? „"
+00001090,16,"「ええ、お願い」","Yes, please","Да, пожалуйста","Ja, bitte"
+00001148,18,"「月曜日が楽しみ」","Monday is fun","Понедельник - это весело","Montag macht Spaß"
+00001264,8,"「……」","……","………","…"
+0000129c,16,"「どうしたの？」","How do I do?","Как это сделать?","Wie mache ich das?"
+000012f0,26,"「あのね、小指をつないで」","“Oh, don’t connect a small finger.”","«О, не подключайте небольшой палец. »","„Oh, verbinden Sie keinen kleinen Finger. „"
+000013ac,8,"「え？」","?」","?」","?"
 00001414,61,"「周りからわからないくらい、
-　そっと手をつないで歩きたいの」","","",""
-00001520,10,"「ダメ？」","","",""
-000015fc,20,"「もちろん、いいよ」","","",""
-00001670,14,"「ありがとう」","","",""
-00001728,34,"こうして、小指をつないで登校した。","","",""
-0000179c,12,"「ダメだ！」","","",""
-00001810,22,"「え～っ、どうして？」","","",""
+　そっと手をつないで歩きたいの」","“I want to walk with my hands as I can’t know
+from around.”","«Хочу ходить с моими руками, так как я не могу
+знать от вокруг. »","„Ich will mit meinen Händen gehen, wie ich nicht
+von überall weiß. „"
+00001520,10,"「ダメ？」","?」","?」","?"
+000015fc,20,"「もちろん、いいよ」","“Of course, it’s good.”","«Конечно, это хорошо. »","„Natürlich ist es gut. „"
+00001670,14,"「ありがとう」","Thank you","Спасибо","Danke."
+00001728,34,"こうして、小指をつないで登校した。","In this way, I went to school with a small
+finger.","Таким образом, я пошел в школу с небольшим
+пальцом.","Auf diese Weise ging ich mit einem kleinen Finger
+zur Schule."
+0000179c,12,"「ダメだ！」","!」","!」","!"
+00001810,22,"「え～っ、どうして？」","“What do you do?”","- Что вы делаете? »","„Was machst du? „"
 00001890,71,"「小指だなんて、中途半端だよ。
-　どうせなら、堂々と手をつないで行こう」","","",""
-00000284,8,"「あ…」","","",""
+　どうせなら、堂々と手をつないで行こう」","It's a small finger. Let's go with your hands in
+the hall","«Это небольшой палец. Пойдем с руками в зале","Es ist ein kleiner Finger. Gehen wir mit den
+Händen in der Halle"
+00000284,8,"「あ…」","」","」","!"
 0000199c,67,"「…そうよね、べつに私たちのことを、
-　隠してるわけじゃないものね」","","",""
-00001ab4,36,"「…じゃあ、手を…つないでくれる？」","","",""
-00001b7c,12,"「もちろん」","","",""
-00001c2c,32,"こうして、手をつないで登校した。","","",""
+　隠してるわけじゃないものね」","… That's right, it's not something that hides
+us.","… Это правильно, это не то, что скрывает нас».","… Das stimmt, es ist nicht etwas, das uns
+verbirgt."
+00001ab4,36,"「…じゃあ、手を…つないでくれる？」","“…So, I’m going to connect my hands…?”","«… Итак, я собираюсь подключить руки…? »","„… Also werde ich meine Hände verbinden…? „"
+00001b7c,12,"「もちろん」","Of course","Конечно","Natürlich"
+00001c2c,32,"こうして、手をつないで登校した。","I got up with my hands.","У меня руки.","Ich bin mit den Händen aufgestanden."

@@ -1,43 +1,58 @@
-0000017c,24,"「さ～て、部活、部活と」","","",""
-00000298,26,"「\p01君、どこへ行くの？」","","",""
-000002e0,18,"「あ、喜多川先生」","","",""
+0000017c,24,"「さ～て、部活、部活と」","Something, club life, and life","«Что-то, клубная жизнь и жизнь»","Something, Clubleben und Leben"
+000002e0,18,"「あ、喜多川先生」","A, Mr. Kitagawa","А, г-н Китагава","A, Mr. Kitagawa"
 00000344,47,"「あなたは、今日、
-　教室の掃除当番でしょう？」","","",""
-000003a8,24,"「そ、そうでしたっけ？」","","",""
-00000414,24,"「そうよ、忘れてたの？」","","",""
-00000464,16,"「…すみません」","","",""
-000004d4,38,"「ダメねぇ、大事な当番を忘れるなんて」","","",""
+　教室の掃除当番でしょう？」","“You’re a cleaning class today?”","«Вы класс очистки сегодня? »","„Du bist heute eine Reinigungsklasse? „"
+000003a8,24,"「そ、そうでしたっけ？」","“Is it right?”","- Это правильно? »","„Ist es richtig? „"
+00000414,24,"「そうよ、忘れてたの？」","“I have forgotten it?”","- Я забыл? »","„Ich habe es vergessen? „"
+00000464,16,"「…すみません」","…I don't know","…Я не знаю","…ich weiß es nicht"
+000004d4,38,"「ダメねぇ、大事な当番を忘れるなんて」","“Well, don’t forget the fair number.”","«Ну, не забудьте справедливый номер. »","„Nun, vergessen Sie nicht die faire Nummer. „"
 00000554,61,"「罰として、一杯になったゴミ箱のゴミを、
-　捨ててくること！」","","",""
-000005c8,12,"「えっ！？」","","",""
-00000618,40,"「文句あるの？　掃除当番を忘れてた人が」","","",""
-00000670,36,"「…いえ、ありません。捨ててきます」","","",""
+　捨ててくること！」","As a penalty, I will throw away the garbage in
+the trash!","«Как штраф, я брошу мусор в мусоре!»","Als Strafe werde ich den Müll in den Müll
+werfen!"
+000005c8,12,"「えっ！？」","っ","ПРЯМО",","
+00000618,40,"「文句あるの？　掃除当番を忘れてた人が」","Do you have a complaint? A person who forgets
+the cleaning line","- У вас есть жалоба? Человек, который забудет
+линию очистки","Haben Sie eine Beschwerde? Eine Person, die die
+Reinigungslinie vergessen"
+00000670,36,"「…いえ、ありません。捨ててきます」","…I don't.","…Я не.","…ich nicht."
 000006f4,86,"「よろしい。
 　捨てたら、すぐ戻ってくるようにね。
-　まだ、掃除は終わってないんだから」","","",""
-00000840,26,"（仕方ない、捨ててくるか）","","",""
-000008b0,40,"「よっ…重っ！　マジで目一杯入ってるぞ」","","",""
-00000928,12,"「ったく…」","","",""
-00000980,8,"「あ…」","","",""
-00000a14,26,"「んっ……うまく取れな…」","","",""
-00000a40,22,"シャッターチャンスだ！","","",""
-00000af8,20,"（撮るまでもないな）","","",""
-00000b4c,24,"「柚ノ木さん、手伝うよ」","","",""
-00000ba0,26,"「あ、\p01君。ありがとう」","","",""
-00000bdc,34,"「俺が掃くから、ちりとりを構えて」","","",""
-00000c2c,8,"「ええ」","","",""
-00000ce0,26,"「ありがとう、助かったわ」","","",""
+　まだ、掃除は終わってないんだから」","。 When you throw it away, you should go back
+soon. I'm not cleaning.","。 Когда вы бросаете его, вы должны скоро
+вернуться. Я не уборка.","。 Wenn Sie es wegwerfen, sollten Sie bald zurück.
+Ich reinigung nicht."
+00000840,26,"（仕方ない、捨ててくるか）","(Isn’t tailoring or throwing away?)","(Не настраиваясь или выбрасывать?)","(Ist nicht zuschneiden oder wegwerfen?)"
+000008b0,40,"「よっ…重っ！　マジで目一杯入ってるぞ」","Yes… I'm too busy! I'm in the eye with magic.","- Да… Я слишком занят! Я в глазах с магией.","Ja… ich bin zu beschäftigt! Ich bin mit Magie
+im Auge."
+00000928,12,"「ったく…」","」","」","!"
+00000980,8,"「あ…」","」","」","!"
+00000a14,26,"「んっ……うまく取れな…」","I can do it well …","Я могу это сделать хорошо…","Ich kann es gut machen…"
+00000a40,22,"シャッターチャンスだ！","ter chance!","ter шанс!","Eine Chance!"
+00000af8,20,"（撮るまでもないな）","(It is not until you take it)","(Это не до тех пор, пока вы не возьмете его)","(Es ist nicht, bis du es nimmst)"
+00000b4c,24,"「柚ノ木さん、手伝うよ」","Yuzunoki, help you","Юзуноки, помочь","Yuzunoki, hilf dir"
+00000bdc,34,"「俺が掃くから、ちりとりを構えて」","I'm掃ing, I'mをing.","- Я, я, я.","Ich gehe, ich gehe."
+00000c2c,8,"「ええ」","Home","Начало","Home"
+00000ce0,26,"「ありがとう、助かったわ」","Thank you, it was helpful.","Спасибо, это было полезно.","Danke, es war hilfreich."
 00000d30,51,"「柚ノ木さんのクラスって、
-　階段の掃除担当なんだ」","","",""
-00000c2c,8,"「ええ」","","",""
+　階段の掃除担当なんだ」","Yuzunoki's class is the cleaning staff of the
+stairs.","«класс Юзуноки – это уборочный персонал лестниц».","Yuzunokis Klasse ist das Reinigungspersonal der
+Treppe."
+00000c2c,8,"「ええ」","Home","Начало","Home"
 00000ddc,77,"「ちょうど校舎裏に、ゴミを捨てに行く
-　ところだから、そのゴミも入れていいよ」","","",""
-00000e7c,22,"「え…そんなの悪いわ」","","",""
-00000f08,32,"「ついでだし、いいっていいって」","","",""
+　ところだから、そのゴミも入れていいよ」","I just go to the back of the school and throw
+away the garbage, so I can put the garbage in it.","«Я просто схожу к спине школы и выбрасывать
+мусор, так что могу положить мусор в нем».","Ich gehe einfach auf den Rücken der Schule und
+wirf den Müll weg, damit ich den Müll in ihn
+stecken kann."
+00000e7c,22,"「え…そんなの悪いわ」","Eh… I'm so bad.","Эх… я так плохо.","Ich bin so schlecht."
+00000f08,32,"「ついでだし、いいっていいって」","“I want to do it.”","«Хочу это сделать. »","„Ich will es tun. „"
 00000f7c,47,"「けど…そのゴミ箱、いっぱい入ってて
-　重そう」","","",""
-00000fe0,30,"「ちりとりのゴミぐらい入るよ」","","",""
-0000105c,14,"「ありがとう」","","",""
-000010bc,26,"「じゃあ、お言葉に甘えて」","","",""
-000011a4,32,"「じゃあ、行ってくるよ。またね」","","",""
-00001258,28,"「ええ、ありがとう。またね」","","",""
+　重そう」","But… I'm full of the trash can, and I'm
+overweight.","Но… Я полна мусора, и я избыточный.","Aber… ich bin voll von der Mülldose und bin
+übergewichtig."
+00000fe0,30,"「ちりとりのゴミぐらい入るよ」","I'll enter the dust and dirt.","- Я войду в пыль и грязь.","Ich betrete Staub und Schmutz."
+0000105c,14,"「ありがとう」","Thank you","Спасибо","Danke."
+000010bc,26,"「じゃあ、お言葉に甘えて」","Well, I can sweeten my words.","- Ну, я могу сладить мои слова.","Nun, ich kann meine Worte lieben."
+000011a4,32,"「じゃあ、行ってくるよ。またね」","I'm going to. Comment","Я собираюсь. Комментарий","Das werde ich. Anmerkung"
+00001258,28,"「ええ、ありがとう。またね」","Thank you. Comment","Спасибо. Комментарий","Danke. Anmerkung"

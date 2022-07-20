@@ -1,51 +1,92 @@
 00000210,55,"「柚ノ木さん、ありがとう。
-　ずいぶんきれいになったわ」","","",""
-0000029c,28,"「お役に立ててよかったです」","","",""
-0000030c,42,"「校舎裏こそ、きれいにしておかなきゃよね」","","",""
-0000036c,8,"「はい」","","",""
+　ずいぶんきれいになったわ」","Thank you for Mr. Yunoki. It was beautiful.","Спасибо, господин Юноки. Это было красиво.","Danke für Mr. Yunoki. Es war wunderschön."
+0000029c,28,"「お役に立ててよかったです」","Thank you for your understanding.","Спасибо за понимание.","Danke für Ihr Verständnis."
+0000030c,42,"「校舎裏こそ、きれいにしておかなきゃよね」","You have to clean the back of the school.","Вы должны очистить спину школы.","Du musst den Rücken der Schule reinigen."
+0000036c,8,"「はい」","Yes","Да","Ja"
 000003a4,47,"「柚ノ木さん、室戸先輩、
-　何やってるんです？」","","",""
-00000474,14,"「あ、\p01君」","","",""
+　何やってるんです？」","Yuzunoki, Muroto seniors, what are you doing?","«Юзуноки, пожилые люди Мурото, что вы делаете?»","Yuzunoki, Muroto Senioren, was machst du?"
 000005b8,53,"「生徒会長さんと一緒に、
-　校舎裏のお掃除をしてたの」","","",""
+　校舎裏のお掃除をしてたの」","I cleaned the back of the school with the
+student president.","«Я убирал спину школы со студенческим
+президентом».","Ich habe die Rückseite der Schule mit dem
+Studentenpräsidenten gereinigt."
 0000066c,53,"「ずいぶん散らかって、
-　カラスが出てたみたいだから」","","",""
+　カラスが出てたみたいだから」","“It’s because it seems to have come out.”","- Это потому, что, кажется, вышли. »","„Es ist, weil es scheint herausgekommen zu sein.
+„"
 000006f0,53,"「ああ、ちょっと前に、
-　柚ノ木さんが怖がってたよね」","","",""
-00000774,36,"「ええ。あの時はありがとう、\p01君」","","",""
+　柚ノ木さんが怖がってたよね」","“Oh, a little ago, Mr. Yunoki was scared.”","«О, немного назад г-н Юноки был страшен. »","„Vor ein wenig hatte Mr. Yunoki Angst. „"
 000007e4,45,"「柚ノ木さんって、
-　美化委員じゃないよね？」","","",""
+　美化委員じゃないよね？」","“Yuzunoki is not a beauty committee member?”","«Юзуноки не член комитета красоты? »","„Yuzunoki ist kein Mitglied des
+Schönheitskomitees? „"
 00000860,84,"「美化委員じゃなくても、
 　カラスを追い出すためならがんばるわ。
-　だって、怖いもの」","","",""
+　だって、怖いもの」","“I don’t have to be a Beautification Committee,
+but I can’t do it to get out of the charas.”","«Я не должен быть Комитетом по избежанию, но я не
+могу сделать это, чтобы выйти из хараса. »","„Ich muss kein Verschönerungskomitee sein, aber
+ich kann es nicht tun, um aus den Charas zu
+kommen. „"
 00000914,124,"「なかなかね、体操服に着替えてまでとなると
 　美化委員会の議決が必要だったりして、
-　思いついたら即行動って訳にいかないのよ」","","",""
+　思いついたら即行動って訳にいかないのよ」","“It’s hard to get into the gymnastics clothing
+and it’s necessary to make a decision of the
+Beautification Committee, and if you come up with
+it, you can’t act immediately.”","«С трудом попасть в гимнастическую одежду, и
+необходимо принять решение Комитета по избежанию,
+и если вы придумываете с ней, вы не можете
+действовать немедленно. »","„Es ist schwer, in die Gymnastikkleidung zu
+kommen und es ist notwendig, eine Entscheidung des
+Verschönerungsausschusses zu treffen, und wenn Sie
+mit ihm kommen, können Sie nicht sofort handeln. „"
 00000a38,84,"「なので、１人でやってたら、
 　柚ノ木さんが気づいて、
-　着替えてきてくれたってわけ」","","",""
+　着替えてきてくれたってわけ」","“So, when I do it with one person, I don’t like
+Yunoki, and I changed my clothes.”","“Так, когда я делаю это с одним человеком, я не
+люблю Yunoki, и я изменил мою одежду. »","„Als ich es mit einer Person mache, mag ich
+Yunoki nicht, und ich änderte meine Kleidung. „"
 00000b44,51,"「ありがとうね、柚ノ木さん。
-　本当に感謝してるわ」","","",""
+　本当に感謝してるわ」","Thank you, Mr. Yunoki. Thank you very much.","Спасибо, г-н Юноки. Большое спасибо.","Danke, Mr. Yunoki. Vielen Dank."
 00000bd0,88,"「いえ、私なんか…。
 　１人で掃除しようだなんて、
-　生徒会長さんの行動力はすごいと思う」","","",""
-00000cb0,42,"「これでカラスが来なくなるといいんだけど」","","",""
+　生徒会長さんの行動力はすごいと思う」","No, I… I think the student president’s
+behavior is amazing that it seems to be cleaned by
+one person.”","- Нет, я… Я думаю, что поведение студенческого
+президента удивительно, что, похоже, будет очищено
+одним человеком. »","Nein, ich… Ich denke, das Verhalten des
+Studentenpräsidenten ist erstaunlich, dass es von
+einer Person zu reinigen scheint. „"
+00000cb0,42,"「これでカラスが来なくなるといいんだけど」","“I’m sure that I can’t come up.”","«Я уверен, что не могу придумать. »","„Ich bin sicher, dass ich nicht kommen kann. „"
 00000d20,61,"「生ゴミのネットも直したし、
-　きっとこれで来なくなりますよ」","","",""
-00000db0,34,"「そうね。きっとカラス撲滅成功ね」","","",""
-00000dfc,38,"「じゃあ、記念に１枚撮りましょうか？」","","",""
-00000eac,30,"「あ、いいわね。お願いするわ」","","",""
+　きっとこれで来なくなりますよ」","The net of garbage has been reネットed, and I'm
+sure you will not come with it.","Сетка мусора была отремонтирована, и я уверен,
+что вы не придете с ним.","Das Netz des Mülls wurde zurückgenommen, und ich
+bin sicher, dass Sie nicht damit kommen."
+00000db0,34,"「そうね。きっとカラス撲滅成功ね」","“Yes.” I'm sure that I'll be able to eliminate my
+face.","— Да. Я уверен, что смогу устранить мое лицо.","„Ja.“ Ich bin sicher, dass ich mein Gesicht
+beseitigen kann."
+00000dfc,38,"「じゃあ、記念に１枚撮りましょうか？」","“Well, let’s take one photo for memorable time?”","— Ну, давайте сделаем одну фотографию за
+запоминающееся время? »","„Nun, nehmen wir ein Foto für unvergessliche
+Zeit? „"
+00000eac,30,"「あ、いいわね。お願いするわ」","“Oh, it’s good.” Contact Us","«О, это хорошо». Связаться с нами","„Oh, es ist gut.“ Kontaktieren Sie uns"
 00000f30,61,"「生徒会長さんとツーショットって、
-　初めてかも。うれしい～」","","",""
-00001050,18,"「ふに～～～～～」","","",""
-000010b0,20,"「ふ、ふに～～～？」","","",""
-00001210,26,"「いい写真が撮れましたよ」","","",""
+　初めてかも。うれしい～」","It may be the first time with the student
+president. HOME","Это может быть первый раз с студенческим
+президентом. дома","Es kann das erste Mal mit dem
+Studentenpräsidenten sein. HOME"
+00001050,18,"「ふに～～～～～」","」","」","!"
+000010b0,20,"「ふ、ふに～～～？」","?」","?」","?"
+00001210,26,"「いい写真が撮れましたよ」","I can take a good picture.","Я могу сделать хорошую картину.","Ich kann ein gutes Bild machen."
 00001288,100,"「本当にカラスが来なくなったら、
 　学園内のホームページに載せようかしら。
-　あとで画像をちょうだい」","","",""
-00001324,14,"「いいですよ」","","",""
-00001394,40,"「さ、着替えに戻りましょう、柚ノ木さん」","","",""
-00001418,8,"「ええ」","","",""
-000014c8,20,"「またね～、\p01君」","","",""
-00001500,10,"「またね」","","",""
-00001538,14,"「ええ、また」","","",""
+　あとで画像をちょうだい」","If you really don't come, please put it on the
+homepage of the school. Let’s make a picture
+later.","Если вы действительно не приходите, пожалуйста,
+поместите его на главную страницу школы. Сделаем
+картину позже.","Wenn Sie wirklich nicht kommen, bitte setzen Sie
+es auf die Homepage der Schule. Lassen Sie uns ein
+Bild später machen."
+00001324,14,"「いいですよ」","It's good!","«Это хорошо!»","Es ist gut!"
+00001394,40,"「さ、着替えに戻りましょう、柚ノ木さん」","Let's go back to change clothes, Yuzunoki-san","Пусть вернуться к смене одежды, Юзуноки-сан","Wir gehen zurück, um Kleidung zu wechseln,
+Yuzunoki-san"
+00001418,8,"「ええ」","Home","Начало","Home"
+00001500,10,"「またね」","」","」","!"
+00001538,14,"「ええ、また」","」","」","!"

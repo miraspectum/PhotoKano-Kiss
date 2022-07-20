@@ -7,15 +7,63 @@ const filesDescCsv = './text/files.csv';
 
 const availableLangs = ['en', 'ru', 'de'];
 
-const CHAR_LIMIT = 450000;
+const CHAR_LIMIT = 300000;
 let charCounter = 0;
 
+const phrasesByLangCounter = {};
+availableLangs.forEach(lang => phrasesByLangCounter[lang] = 0);
+
+const translateSystem = 'argos'; // 'google'
+
+function customTextSplitter(text, maxLineLength = 50) {
+    const words = text.replace(/[\n\r]/gi, '').split(' ');
+    const lines = [];
+
+    let line = '';
+    for (const word of words) {
+        const tmpLine = [line, word].join(' ');
+
+        if (tmpLine.length > maxLineLength) {
+            lines.push(line.trim());
+            line = word;
+            continue;
+        }
+
+        line = tmpLine;
+    }
+
+    if (line !== '') {
+        lines.push(line.trim());
+    }
+
+    return lines.join('\n');
+}
+
 async function translatePhrase(jp, lang) {
-    const translate = new v2.Translate();
-    let [translation] = await translate.translate(jp, lang);
-    let result = Array.isArray(translation) ? translation[0] : translation;
+    const startTime = process.hrtime();
+    let result;
+    switch (translateSystem) {
+        case 'google':
+        {
+            const translate = new v2.Translate();
+            let [translation] = await translate.translate(jp, lang);
+            result = Array.isArray(translation) ? translation[0] : translation;
+        }
+
+        case 'argos':
+        {
+            // We need to remove carriage return for execute command
+            // But we can write method to split text on lines
+            // Can`t return result here, problem with encoding (I can`t fix this...)
+            await Utils.executeCmd(`python ./scripts/translate.py \"${jp.replace(/\n/gi, '')}\" ja ${lang}`); 
+            result = customTextSplitter((await Utils.readFile('./ptr.txt')).toString());
+        }
+    }
+
     result = result.replace(/\"/gi, '').replace(/\.\.\./gi, '…');
-    logger.log('INFO', `Translated ${jp} - ${result}`);
+    const endTime = process.hrtime(startTime);
+    logger.log('INFO', `Translated ${jp} - ${result}; Time: ${endTime.join(',')}s`);
+    phrasesByLangCounter[lang]++;
     return result;
 }
 
@@ -25,6 +73,7 @@ async function savePatch(patch, translated) {
 
 async function translatePatch(patch) {
     logger.log('INFO', `Translating ${patch}`);
+    const startTime = process.hrtime();
     const phrases = await Utils.readCsv(`./text/${patch}.csv`);
     const translated = [];
 
@@ -48,7 +97,7 @@ async function translatePatch(patch) {
             if (!phraseData[lang]) {
                 charCounter += jpCharCount;
 
-                if (charCounter >= CHAR_LIMIT) {
+                if (charCounter >= CHAR_LIMIT && translateSystem === 'google') {
                     throw {
                         error: 'Character limit exceeded!',
                         unsaved: translated
@@ -70,21 +119,27 @@ async function translatePatch(patch) {
     }
 
     await savePatch(patch, translated);
+    const endTime = process.hrtime(startTime);
+    logger.log('INFO', `${patch} translated! Time: ${endTime.join(',')}s`);
 }
 
 async function main() {
     let result = 0;
     try {
+        const startTime = process.hrtime();
         const patches = await Utils.readCsv(filesDescCsv);
         
 
         for (let i = 0; i < patches.length; i++) {
             const [patch, ...other] = patches[i];
-            if (!patch.includes('ID0660')) { continue; }
+            if (!patch.includes('ID02688')) { continue; }
             await translatePatch(patch);
         }
 
-        console.log(charCounter);
+        logger.log('INFO', `Chars : ${charCounter}`);
+        logger.log('INFO', `PhrasesByLang: ${Object.entries(phrasesByLangCounter).map(entry => `${entry[0]}: ${entry[1]} `)}`);
+        const endTime = process.hrtime(startTime);
+        logger.log('INFO', `Total time: ${endTime.join(',')}s`);
 
     } catch (e) {
         console.log(e);

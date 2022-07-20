@@ -1,102 +1,176 @@
-00000310,8,"「あ…」","a…","",""
-00000384,38,"「ううん、もういいから。気にしないで」","Yeah, it's okay. Don't worry.","",""
-00000428,32,"「柚ノ木さんって、泳ぐの好き？」","Does Yuzunogi like to swim?","",""
-000004a8,32,"「ええ、好きよ。気持ちいいもの」","Yes, I like it. It feels good.","",""
-00000530,34,"「速く泳ぐのは、苦手なんだけどね」","I'm not good at swimming fast, though.","",""
-000005c8,42,"「柚ノ木さんって何メートルぐらい泳げる？」","How many meters can Yunogi-san swim?","",""
-000006bc,24,"「へ～っ、結構泳げるね」","Hey, you can swim pretty well.","",""
-00000734,28,"「すっごく遅いんだけれどね」","It's really slow, though.","",""
-000008c8,36,"「フフッ、そうね。気持ちいいものね」","Huh, that's right. It feels good.","",""
-00000964,26,"「この間、水泳の授業で…」","The other day, in a swimming class …","",""
-000009c8,26,"「フフッ、気持ちよさそう」","Huh, it looks good","",""
-00000ae8,30,"「どちらかというと、海かなぁ」","If anything, it's the sea.","",""
-00000b64,14,"「どうして？」","why?","",""
-00000ca0,36,"「柚ノ木さんって、飛び込みできる？」","Can Yunogi-san jump in?","",""
-00000e3c,42,"「だって、頭から水に入るなんて、無理よ～」","Because it's impossible to get into the water from your head ~","",""
-00000ec8,10,"「ははは」","Hahaha","",""
-00000ec8,10,"「ははは」","Hahaha","",""
-00001144,22,"「暑い日の水泳って…」","Swimming on a hot day …","",""
-000011a4,30,"「フフッ、気持ちいいわよね～」","Huh, it feels good ~","",""
-000012d4,20,"「え？　どうして？」","What? Why?","",""
-00001320,38,"「プールで１人残って、悩んでたよね？」","You were worried because you were left alone in the pool, right?","",""
-0000142c,26,"「いや、真剣だったから…」","No, I was serious …","",""
-00001680,34,"「釣りぐらいなら、つき合えるわよ」","If it's about fishing, you can go out with me.","",""
-00001850,26,"「暖かくて気持ちいいよね」","It's warm and comfortable, isn't it?","",""
-000018b4,18,"「ええ、とっても」","Yes, very","",""
-00001b3c,38,"「平泳ぎも、顔を上げたままで泳いでる」","Breaststroke is also swimming with your face raised.","",""
-00001b90,22,"「先生に怒られない？」","Can you get angry with the teacher?","",""
-00000ec8,10,"「ははは」","Hahaha","",""
-00001cec,28,"「水泳って全身運動だから…」","Because swimming is a whole body exercise …","",""
-00001d68,28,"「そうね、美容にもいいのよ」","Yeah, it's good for beauty.","",""
-00001e58,40,"「まぁ、普通に泳げるよ。苦手じゃないな」","Well, I can swim normally. I'm not bad at it.","",""
-00001ff0,32,"「フフッ、いいわね、温水プール」","Huh, nice, heated pool","",""
-000020fc,8,"「ええ」","yes","",""
-00002180,34,"「一緒に行った海…楽しかったわね」","The sea we went with … it was fun.","",""
-00002200,14,"「そうだね…」","I agree…","",""
-00002258,34,"「また、来年も一緒に行きたいなぁ」","I want to go with you again next year.","",""
-00000310,8,"「あ…」","a…","",""
-000023a4,22,"「フフッ、ありがとう」","Thank you, huh","",""
-000024b8,40,"「結構あるわよ。水着は毎年買ってるから」","There are quite a few. I buy swimwear every year.","",""
-0000254c,40,"「毎年？　やっぱり流行りとか気になる？」","Every year? Are you worried about the trend?","",""
-000025c8,42,"「それもあるんだけど、着られなくなるから」","There is that, but I can't wear it.","",""
-00002654,36,"「着られなく？　…あ！　成長して？」","Can't wear it? … Ah! Growing up?","",""
-000026bc,10,"「…ええ」","…yes","",""
-00002714,40,"「来年は…もう買う必要はないと思うけど」","Next year … I don't think I need to buy it anymore.","",""
-00002774,32,"（いや、まだまだわからないよな）","(No, I still don't understand)","",""
-000027d8,30,"「もうすぐプール納めだけど…」","I'm about to put it in the pool …","",""
-00002840,36,"「フフッ、泳いでると、肌寒いものね」","Huh, it's chilly when you swim.","",""
+00000310,8,"「あ…」","a…","а…","a…"
+00000384,38,"「ううん、もういいから。気にしないで」","Yeah, it's okay. Don't worry.","«Да, все в порядке. Не волнуйся».","„Ja, es ist okay."
+00000428,32,"「柚ノ木さんって、泳ぐの好き？」","Does Yuzunogi like to swim?","— Юзуноги любит плавать?","Schwimmt Yuzunogi gerne?"
+000004a8,32,"「ええ、好きよ。気持ちいいもの」","Yes, I like it. It feels good.","«Да, мне это нравится. Это приятно».","Ja, ich mag es. Es fühlt sich gut an."
+00000530,34,"「速く泳ぐのは、苦手なんだけどね」","I'm not good at swimming fast, though.","— Но я не умею быстро плавать.","Aber ich bin nicht gut darin, schnell zu schwimmen."
+000005c8,42,"「柚ノ木さんって何メートルぐらい泳げる？」","How many meters can Yunogi-san swim?","— Сколько метров может проплыть Юноги-сан?","Wie viele Meter kann Yunogi-san schwimmen?"
+000006bc,24,"「へ～っ、結構泳げるね」","Hey, you can swim pretty well.","— Эй, ты умеешь хорошо плавать.","Hey, du kannst ziemlich gut schwimmen."
+00000734,28,"「すっごく遅いんだけれどね」","It's really slow, though.","«Однако это очень медленно».","Es ist aber wirklich langsam."
+000008c8,36,"「フフッ、そうね。気持ちいいものね」","Huh, that's right. It feels good.","«Ха, правильно. Это приятно».","Huh, das ist richtig. Es fühlt sich gut an."
+00000964,26,"「この間、水泳の授業で…」","The other day, in a swimming class …","«На днях на уроке плавания…»","Neulich, in einem Schwimmkurs …"
+000009c8,26,"「フフッ、気持ちよさそう」","Huh, it looks good","Ха, выглядит хорошо","Hm, sieht gut aus"
+00000ae8,30,"「どちらかというと、海かなぁ」","If anything, it's the sea.","«Если что, то это море».","Wenn überhaupt, dann ist es das Meer."
+00000b64,14,"「どうして？」","why?","Почему?","warum?"
+00000ca0,36,"「柚ノ木さんって、飛び込みできる？」","Can Yunogi-san jump in?","— Юноги-сан может прыгнуть?","Kann Yunogi-san einspringen?"
+00000e3c,42,"「だって、頭から水に入るなんて、無理よ～」","Because it's impossible to get into the water from your head ~","Потому что невозможно залезть в воду с головы~","Weil es unmöglich ist, vom Kopf ins Wasser zu kommen ~"
+00000ec8,10,"「ははは」","Hahaha","Хахаха","Hahaha"
+00000ec8,10,"「ははは」","Hahaha","Хахаха","Hahaha"
+00001144,22,"「暑い日の水泳って…」","Swimming on a hot day …","«Купание в жаркий день…»","Schwimmen an einem heißen Tag …"
+000011a4,30,"「フフッ、気持ちいいわよね～」","Huh, it feels good ~","Хм, приятно~","Huh, es fühlt sich gut an ~"
+000012d4,20,"「え？　どうして？」","What? Why?","Что почему?","Was warum?"
+00001320,38,"「プールで１人残って、悩んでたよね？」","You were worried because you were left alone in the pool, right?","«Ты волновался, потому что остался один в бассейне, верно?»","Du hast dir Sorgen gemacht, weil du allein im Pool gelassen wurdest, oder?"
+0000142c,26,"「いや、真剣だったから…」","No, I was serious …","— Нет, я серьезно…","Nein, ich meinte es ernst …"
+00001680,34,"「釣りぐらいなら、つき合えるわよ」","If it's about fishing, you can go out with me.","«Если речь идет о рыбалке, ты можешь пойти со мной».","Wenn es ums Angeln geht, kannst du mit mir ausgehen."
+00001850,26,"「暖かくて気持ちいいよね」","It's warm and comfortable, isn't it?","— Тепло и удобно, не так ли?","Es ist warm und bequem, nicht wahr?"
+000018b4,18,"「ええ、とっても」","Yes, very","Да очень","Ja sehr"
+00001b3c,38,"「平泳ぎも、顔を上げたままで泳いでる」","Breaststroke is also swimming with your face raised.","«Брасс — это тоже плавание с поднятым лицом».","Brustschwimmen ist auch Schwimmen mit erhobenem Gesicht."
+00001b90,22,"「先生に怒られない？」","Can you get angry with the teacher?","«Можете ли вы разозлиться на учителя?»","Kannst du wütend auf den Lehrer werden?"
+00000ec8,10,"「ははは」","Hahaha","Хахаха","Hahaha"
+00001cec,28,"「水泳って全身運動だから…」","Because swimming is a whole body exercise …","«Потому что плавание — это упражнение для всего тела…»","Weil Schwimmen ein Ganzkörpertraining ist …"
+00001d68,28,"「そうね、美容にもいいのよ」","Yeah, it's good for beauty.","«Да, это хорошо для красоты».","Ja, es ist gut für die Schönheit."
+00001e58,40,"「まぁ、普通に泳げるよ。苦手じゃないな」","Well, I can swim normally. I'm not bad at it.","«Ну, я умею нормально плавать. У меня неплохо получается».","Nun, ich kann normal schwimmen. Ich bin nicht schlecht darin."
+00001ff0,32,"「フフッ、いいわね、温水プール」","Huh, nice, heated pool","Хм, классный бассейн с подогревом","Huh, schöner, beheizter Pool"
+000020fc,8,"「ええ」","yes","да","Jawohl"
+00002180,34,"「一緒に行った海…楽しかったわね」","The sea we went with … it was fun.","«Море, с которым мы плыли… было весело».","Das Meer, mit dem wir gefahren sind … es hat Spaß gemacht."
+00002200,14,"「そうだね…」","I agree…","Я согласен…","Ich stimme zu…"
+00002258,34,"「また、来年も一緒に行きたいなぁ」","I want to go with you again next year.","«Я хочу снова поехать с вами в следующем году».","Ich möchte nächstes Jahr wieder mit dir gehen."
+00000310,8,"「あ…」","a…","а…","a…"
+000023a4,22,"「フフッ、ありがとう」","Thank you, huh","Спасибо, а","Danke, hm"
+000024b8,40,"「結構あるわよ。水着は毎年買ってるから」","There are quite a few. I buy swimwear every year.","«Есть довольно много. Я покупаю купальники каждый год».","Es gibt ziemlich viele. Ich kaufe jedes Jahr Bademode."
+0000254c,40,"「毎年？　やっぱり流行りとか気になる？」","Every year? Are you worried about the trend?","«Каждый год? Вас беспокоит тенденция?»","Jedes Jahr? Machst du dir Sorgen über den Trend?"
+000025c8,42,"「それもあるんだけど、着られなくなるから」","There is that, but I can't wear it.","«Есть это, но я не могу носить это».","Da ist das, aber ich kann es nicht tragen."
+00002654,36,"「着られなく？　…あ！　成長して？」","Can't wear it? … Ah! Growing up?","«Нельзя носить?.. Ах! Взрослеете?»","Kannst du nicht tragen? … Ah! Erwachsen werden?"
+000026bc,10,"「…ええ」","…yes","…да","…Jawohl"
+00002714,40,"「来年は…もう買う必要はないと思うけど」","Next year … I don't think I need to buy it anymore.","«В следующем году… я не думаю, что мне нужно его больше покупать».","„Nächstes Jahr … ich glaube nicht, dass ich es mehr kaufen muss.“"
+00002774,32,"（いや、まだまだわからないよな）","(No, I still don't understand)","(Нет, я все еще не понимаю)","(Nein, ich verstehe immer noch nicht)"
+000027d8,30,"「もうすぐプール納めだけど…」","I'm about to put it in the pool …","Я собираюсь положить его в бассейн…","Ich stecke es gleich in den Pool …"
+00002840,36,"「フフッ、泳いでると、肌寒いものね」","Huh, it's chilly when you swim.","«Хм, холодно, когда ты плаваешь».","Huh, es ist kühl, wenn du schwimmst."
 00000264,71,"「え～と…その……今さらだけど、
-　水着の時にぶつかっちゃって、ごめん」","","",""
+　水着の時にぶつかっちゃって、ごめん」","Well … that … it's late, but
+I'm sorry I bumped into you when I was in a swimsuit. ","Ну… что… уже поздно, но
+Прости, что столкнулся с тобой, когда был в купальнике».","„Nun … das … es ist spät, aber
+Es tut mir leid, dass ich dich im Badeanzug getroffen habe."
 00000650,67,"「ゆっくりでいいなら、平泳ぎで、
-　２５メートルぐらいは泳げるわよ」","","",""
-000007f8,28,"「\p01君って、泳ぐの好き？」","","",""
+　２５メートルぐらいは泳げるわよ」","If you want to be slow, take a breaststroke,
+You can swim about 25 meters. ","«Хочешь быть медленным, бери брасс,
+Можно проплыть около 25 метров».","Wenn du langsam sein willst, schwimme Brust,
+Sie können etwa 25 Meter schwimmen.“"
 0000084c,49,"「もちろん。こう暑いと、毎日、
-　水泳でもいいよ」","","",""
+　水泳でもいいよ」","Of course. When it's so hot, every day
+You can swim. ","Конечно. Когда так жарко, каждый день
+Ты умеешь плавать. ","„Natürlich. Wenn es so heiß ist, jeden Tag
+Du kannst schwimmen. "
 00000a58,49,"「泳ぎに行くなら、海とプール、
-　どっちがいい？」","","",""
+　どっちがいい？」","If you go swimming, the sea and the pool,
+ which is good? ","«Если ты купаешься, море и бассейн,
+ и это хорошо? ","Wenn du schwimmen gehst, das Meer und der Pool,
+ was gut ist? "
 00000bd0,69,"「プールなら、学校にもあるでしょう？
-　出かけるなら海がいいかなって」","","",""
+　出かけるなら海がいいかなって」","If it's a pool, it's also in school, right?
+If you go out, the sea is good 」","«Если это бассейн, то это тоже в школе, верно?
+Если выйти, море хорошее」","„Wenn es ein Pool ist, ist es auch in der Schule, oder?
+Wenn Sie ausgehen, ist das Meer gut 」"
 00000d18,49,"「ううん、無理～。
-　怖いから、足から入っちゃう」","","",""
+　怖いから、足から入っちゃう」","Yeah, it's impossible.
+Because I was scared, I would enter from my feet 」","Да, это невозможно.
+Из-за того, что я боялся, я мог войти с ног 」","„Ja, es ist unmöglich.
+Weil ich Angst hatte, würde ich von meinen Füßen eintreten 」"
 00000dac,51,"「それ、飛び込むって言うより、
-　跳び落ちてるから」","","",""
+　跳び落ちてるから」","That's more than jumping in
+Because it's jumping down ","Это больше, чем прыгать в
+Потому что он прыгает вниз »","„Das ist mehr als reinspringen
+Weil es nach unten springt "
 00000f20,63,"「柚ノ木さんって、泳いだあと、
-　髪を乾かすのが大変そうだよね」","","",""
+　髪を乾かすのが大変そうだよね」","Yuzunogi-san, after swimming,
+It seems difficult to dry your hair. ","Юзуноги-сан, после купания,
+Кажется, трудно высушить волосы».","Yuzunogi-san, nach dem Schwimmen,
+Es scheint schwierig zu sein, Ihr Haar zu trocknen.“"
 00000fbc,59,"「そうなの～。シャワーを浴びて、
-　ドライヤーで乾かして…」","","",""
+　ドライヤーで乾かして…」","That's right. Take a shower,
+Dry with a hairdryer … ","Правильно. Прими душ,
+Высушить феном…»","Das ist richtig. Geh duschen,
+Mit einem Fön trocknen … "
 00001050,69,"「ののちゃんなんて、私の半分の時間で
-　すむのよ。もううらやましくて」","","",""
+　すむのよ。もううらやましくて」","Nono-chan is half my time
+I'm sorry. I'm jealous of you. ","«Ноно-тян — это половина моего времени.
+Мне жаль. Я ревную тебя. ","„Nono-chan ist die Hälfte meiner Zeit
+Es tut mir Leid. Ich bin neidisch auf dich. "
 00001238,63,"「料理コンテストのハンバーガー作りで、
-　悩みすぎないようにね」","","",""
+　悩みすぎないようにね」","By making a hamburger for a cooking contest,
+Don't worry too much ","Приготовив гамбургер для кулинарного конкурса,
+Не волнуйся слишком сильно»","Indem ich einen Hamburger für einen Kochwettbewerb mache,
+Mach dir nicht zu viele Sorgen "
 00001398,51,"「あ、見てたの？
-　声かけてくれればよかったのに…」","","",""
+　声かけてくれればよかったのに…」","Ah, did you see it?
+I wish I had called out … ","Ах, вы видели это?
+Я бы хотел, чтобы я позвал…","„Ach, hast du es gesehen?
+Ich wünschte, ich hätte gerufen … "
 00001480,73,"「ごめんね、思い詰めちゃって。
-　普段はそんなことないんだけど、時々…ね」","","",""
+　普段はそんなことないんだけど、時々…ね」","I'm sorry, I'm pondering.
+I don't usually do that, but sometimes … ","«Извините, я в раздумьях.
+Обычно я так не делаю, но иногда…","„Tut mir leid, ich überlege.
+Normalerweise mache ich das nicht, aber manchmal … "
 00001574,53,"「柚ノ木さんって、マリンスポーツには
-　興味ないの？」","","",""
+　興味ないの？」","Yuzunogi-san is for marine sports
+Are you not interested? ","«Юзуноги-сан для морских видов спорта.
+Вам не интересно? ","„Yuzunogi-san ist für den Wassersport
+Sie haben kein Interesse? "
 00001608,51,"「ええ、そんなに泳ぎが得意じゃないから、
-　怖くて」","","",""
+　怖くて」","Yes, I'm not that good at swimming,
+ scared","Да, я не так хорошо плаваю,
+ напугана","„Ja, ich bin nicht so gut im Schwimmen,
+ erschrocken"
 000016d8,61,"「ははは、スポーツはスポーツでも、
-　スポーツフィッシングだ」","","",""
+　スポーツフィッシングだ」","Haha, sports are sports,
+It's sports fishing. ","«Ха-ха, спорт есть спорт,
+Это спортивная рыбалка».","Haha, Sport ist Sport,
+Es ist Sportfischen.“"
 00001794,80,"「水泳の授業は、泳いでる時より、
 　休憩で寝そべってる時の方が
-　楽しいわよね～」","","",""
-00001978,45,"「\p01君って、泳いでる時、
-　目を開けてる？」","","",""
+　楽しいわよね～」","Swimming lessons are more than when swimming
+It ’s better when you lie down on a break
+It's fun ~ ","«Уроки плавания — это больше, чем при плавании
+Лучше, когда ты лежишь в перерыве
+Это весело~","„Schwimmunterricht ist besser als Schwimmen
+Es ist besser, wenn Sie sich in eine Pause legen
+Es macht Spaß ~ "
 000019dc,53,"「そりゃ、開けてるけど…もしかして
-　開けてないの？」","","",""
+　開けてないの？」","Well, it's open, but … maybe
+Can't you open it? ","Ну, она открыта, но… может быть,
+Вы не можете открыть его? ","„Nun, es ist offen, aber … vielleicht
+Kannst du es nicht öffnen? "
 00001a70,65,"「だって、痛いんだもの。
-　そもそも、顔を水につけるのが苦手で…」","","",""
+　そもそも、顔を水につけるのが苦手で…」","Because it hurts.
+In the first place, I'm not good at soaking my face in water … ","Потому что это больно.
+Во-первых, я не умею мочить лицо водой…»","„Weil es weh tut.
+Erstens bin ich nicht gut darin, mein Gesicht in Wasser einzuweichen … "
 00001bf8,71,"「怒られたら、ちょっとだけ水につけるの。
-　結構、要領いいんだから、私」","","",""
-00001e00,32,"「\p01君って、泳ぎは得意なの？」","","",""
+　結構、要領いいんだから、私」","If you get angry, just soak it in water.
+It ’s pretty good, I ’m","«Если вы злитесь, просто замочите его в воде.
+Это довольно хорошо, я","„Wenn du wütend wirst, tränke es einfach in Wasser.
+Es ist ziemlich gut, ich bin"
 00001ee0,51,"「そっか。…いつか、泳いでるとこ、
-　見てみたいな」","","",""
+　見てみたいな」","I see …. Someday, I'm swimming,
+I want to see it ","Вижу…. Когда-нибудь я плыву,
+Я хочу это увидеть ","Ich verstehe …. Eines Tages schwimme ich,
+Ich will es sehen "
 00001f70,55,"「そんなのいつでもいいよ。
-　今度、温水プールにでも…」","","",""
+　今度、温水プールにでも…」","It's always fine.
+Next time, even in a heated pool … ","Это всегда хорошо.
+В следующий раз, пусть даже в бассейне с подогревом…»","Es ist immer in Ordnung.
+Das nächste Mal sogar in einem beheizten Pool … "
 00002068,53,"「中間テストが終わって、
-　時間が出来たら行こうか？」","","",""
+　時間が出来たら行こうか？」","After the mid-term test,
+Shall we go when we have time? ","«После промежуточного испытания
+Пойдем, когда у нас будет время? ","„Nach der Zwischenprüfung
+Sollen wir gehen, wenn wir Zeit haben? "
 000022c4,47,"「海で着てきたビキニ、
-　とっても似合ってたよ」","","",""
+　とっても似合ってたよ」","The bikini I wore at the sea,
+It suits you very well. ","«Бикини, которое я носил на море,
+Тебе очень идет».","Der Bikini, den ich am Meer trug,
+Es steht dir sehr gut."
 00002428,49,"「柚ノ木さんって、何着ぐらい、
-　水着持ってる？」","","",""
+　水着持ってる？」","How many clothes does Yunogi-san wear?
+Do you have a swimsuit? ","«Сколько одежды носит Юноги-сан?
+У тебя есть купальник? ","„Wie viele Klamotten trägt Yunogi-san?
+Hast du einen Badeanzug? "

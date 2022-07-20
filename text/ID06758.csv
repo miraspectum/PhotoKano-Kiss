@@ -1,28 +1,36 @@
 00000100,47,"「やばい、トイレトイレ…。
-　もう授業が始まる」","","",""
-00000164,20,"タッタッタッタッタッ","","",""
-00000258,12,"「きゃっ！」","","",""
-000002c0,10,"「わっ！」","","",""
-000002f8,16,"「ご、ごめん！」","","",""
-000003b4,18,"「あ、柚ノ木さん」","","",""
+　もう授業が始まる」","Swimming, toilet …. More classes start","Свиминг, туалет …. Больше классов","Swimming, WC… Mehr Klassen beginnen"
+00000164,20,"タッタッタッタッタッ","Tatta Tatta","Татта Татта","Tatta Tatta"
+00000258,12,"「きゃっ！」","!」","!」","!"
+000002c0,10,"「わっ！」","っ","ПРЯМО",","
+000002f8,16,"「ご、ごめん！」","Go, sorry!","- Иди, извините!","Geh, tut mir leid!"
+000003b4,18,"「あ、柚ノ木さん」","A, Yuzunoki-san","А, Юзуноки-сан","A, Yuzunoki-san"
 00000430,59,"「ごめん、大丈夫？　ケガはない？
-　俺が走ったばっかりに…」","","",""
-000004c8,42,"「大丈夫よ。ちょっとぶつかっただけだから」","","",""
-00000530,20,"「そっか…よかった」","","",""
+　俺が走ったばっかりに…」","I'm sorry, it's okay? I don't have a ガga. When
+I ran…","- Извините, это нормально? У меня нет рига».
+Когда я побежал…","Es tut mir leid, es ist okay? Ich habe keine
+ガga. Als ich rannte…"
+000004c8,42,"「大丈夫よ。ちょっとぶつかっただけだから」","It's okay. It’s just a little bit hanged.”","Это нормально. Это просто немного повесили. »","Schon gut. Es ist nur ein bisschen hängen. „"
+00000530,20,"「そっか…よかった」","It's so good…","«Это так хорошо…»","Es ist so gut…"
 00000574,63,"（ちょっとっていうか、
-　結構ぶつかったんだけど…俺も痛くない）","","",""
+　結構ぶつかったんだけど…俺も痛くない）","Sorry, this entry is only available in 日本語.","Извините, этот техт доступен только в “日本語”.","Leider ist dieser Eintrag nur in 日本語 verfügbar."
 00000618,53,"（まさか……胸が…クッションになったって
-　ことか？）","","",""
-000006ac,67,"「どうかした？　\p01君。
-　あ…あなたこそ、どこかケガをしたとか…」","","",""
+　ことか？）","(Is my chest cushioned?)","(Я мой сундучок потушен?)","(Ist meine Brust gepolstert?)"
 00000774,43,"「い、いや、何ともなってないよ、
-　大丈夫」","","",""
-000007fc,20,"「そう？　よかった」","","",""
+　大丈夫」","No, no, no, no, it's okay.","- Нет, нет, нет, это нормально.","Nein, nein, nein, nein, es ist okay."
+000007fc,20,"「そう？　よかった」","“I’m so happy.”","- Я так счастлив. »","„Ich bin so glücklich. „"
 0000086c,59,"（柚ノ木さんの胸のおかげで助かったよ…
-　とは、言えない…）","","",""
+　とは、言えない…）","(It was helpful thanks to Mr. Yunogi's chest …
+I can not say …)","(Это было полезно благодаря г-ну Yunogi's chest
+… Я не могу сказать …)","(Es war dank Mr. Yunogis Brust hilfreich… ich
+kann nicht sagen…)"
 00000904,47,"「それで、走って
-　どこへ行くつもりだったの？」","","",""
+　どこへ行くつもりだったの？」","“Where was it going to run?”","— Где это было? »","„Wo wollte es laufen? „"
 00000954,61,"「あ！　そうだ！　急がないと！
-　ごめん、またね、柚ノ木さん」","","",""
-000009f0,20,"「え、ええ、またね」","","",""
-00000a60,36,"こうして、何とかトイレに間に合った。","","",""
+　ごめん、またね、柚ノ木さん」","“Oh! That’s right! If you don’t have a rush! I’m
+also a yuzunoki.”","«О! Это правильно! Если у вас нет спешки! Я также
+юзуноки. »","„Oh! Das stimmt! Wenn Sie keine Eile haben! Ich
+bin auch ein yuzunoki. „"
+000009f0,20,"「え、ええ、またね」","Yes, yeah, again","Да, да, опять","Ja, ja, wieder"
+00000a60,36,"こうして、何とかトイレに間に合った。","This way, it is suitable for the restroom.","Таким образом, он подходит для комнаты отдыха.","Auf diese Weise ist es für den Toilettenraum
+geeignet."

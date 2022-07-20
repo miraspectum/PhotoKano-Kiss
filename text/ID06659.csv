@@ -1,30 +1,48 @@
-00000104,30,"「見たい映画って、何かある？」","What movie do you want to watch?","",""
-0000016c,36,"「あなたにお任せよ。私は何でもいい」","Leave it to you. I can do anything.","",""
-00000210,12,"「そっか…」","I see…","",""
-000004e4,30,"「え？　お礼なら、とっくに…」","Eh? If you're thankful, it's already …","",""
-000004e4,30,"「え？　お礼なら、とっくに…」","Eh? If you're thankful, it's already …","",""
-00000e10,22,"「あなたの写真って…」","What is your photo …","",""
-00000e5c,36,"「ありがとう。これからもがんばるよ」","Thank you. I will continue to do my best.","",""
+00000104,30,"「見たい映画って、何かある？」","What movie do you want to watch?","Что такое короткий фильм?","Was ist ein Kurzfilm?"
+0000016c,36,"「あなたにお任せよ。私は何でもいい」","Leave it to you. I can do anything.","- Я счастлив с тобой. Я хочу что-нибудь сделать","Ich bin glücklich mit dir. Ich will alles tun"
+00000210,12,"「そっか…」","I see…","ПРЯМО",","
+000004e4,30,"「え？　お礼なら、とっくに…」","Eh? If you're thankful, it's already …","О, большое спасибо…","Oh, vielen Dank…"
+000004e4,30,"「え？　お礼なら、とっくに…」","Eh? If you're thankful, it's already …","О, большое спасибо…","Oh, vielen Dank…"
+00000e10,22,"「あなたの写真って…」","What is your photo …","«Ваши фотографии… »","„Ihre Fotos… „"
+00000e5c,36,"「ありがとう。これからもがんばるよ」","Thank you. I will continue to do my best.","Спасибо. Я буду продолжать делать все возможное.","Danke. Ich werde mein Bestes tun."
 00000274,49,"（とはいえ、女の子が好きそうな映画が
-　いいよな）","","",""
+　いいよな）","(動画)","(Видео)","(Mann)"
 00000308,57,"「フフッ、どんな映画に
-　連れて行ってくれるのか、楽しみ」","","",""
+　連れて行ってくれるのか、楽しみ」","“Fフ, what kind of film will you take?”","«ФБ, какой фильм ты возьмут? »","„F Sultan, welche Art von Film nehmen Sie? „"
 0000042c,57,"「ひまわりバーガーをきれいに撮ってくれて、
-　ありがとう」","","",""
+　ありがとう」","“Let’s take a clear picture of sunflower burger”","«Пусть сделать четкую картину подсолнечного
+бургера»","„Wir machen ein klares Bild von
+Sonnenblumenburger“"
 0000055c,55,"「また言いたくなったの。
-　だって、感謝してるんだもの」","","",""
+　だって、感謝してるんだもの」","“I want to say again.” “I’m so grateful.”","- Я хочу еще раз сказать. «Я так благодарен. »","„Ich möchte noch einmal sagen.“ „Ich bin so
+dankbar. „"
 000006a0,69,"「料理研究会のホームページの写真、
-　きれいに撮ってくれてありがとう」","","",""
+　きれいに撮ってくれてありがとう」","Thank you for taking photos of the homepage of
+the cooking workshop,","Спасибо за фото домашней страницы кулинарной
+мастерской,","Danke für Fotos von der Homepage der
+Kochwerkstatt,"
 0000094c,55,"「料理の写真を撮る時って、
-　どんなことを考えてるの？」","","",""
+　どんなことを考えてるの？」","What do you think when taking photos of dishes?","- Что вы думаете, когда фотографируете блюда?","Was denken Sie, wenn Sie Fotos von Gerichten
+machen?"
 00000a00,98,"「柚ノ木さんが作りながら込めた想いが
 　伝わるように…。
-　おいしく写れって、想いながら撮ってるよ」","","",""
+　おいしく写れって、想いながら撮ってるよ」","The thoughts that Yunogi made while conveying
+… I'm looking forward to seeing you.","«Мени, которые сделали Юноги, передав … Я с
+нетерпением жду встречи с вами.","Die Gedanken, die Yunogi während der Beförderung
+gemacht hat… Ich freue mich auf dich."
 00000ab8,65,"「そっか…、２人でおいしくなあれって
-　思ってたのね。うれしい…」","","",""
+　思ってたのね。うれしい…」","It's so… I thought it would be delicious with
+two people.","- Это так… Я думал, что это будет вкусно с
+двумя людьми.","Es ist so… Ich dachte, es wäre mit zwei Leuten
+lecker."
 00000be8,49,"「写真っていいわね
-　とっても素敵な趣味だと思う」","","",""
+　とっても素敵な趣味だと思う」","“I think it’s a very nice hobby.”","«Я думаю, что это очень приятное хобби. »","„Ich denke, es ist ein sehr schönes Hobby. „"
 00000ccc,110,"「料理もね。食べた人が笑顔になる、
 　素敵な趣味だよ。俺は、そんな柚ノ木さんの
-　料理を、ずっと撮っていきたい」","","",""
-00000d90,22,"「ありがとう…\p01君」","","",""
+　料理を、ずっと撮っていきたい」","Restaurant It is a wonderful hobby that the busy
+people smile. I would like to take a long time to
+see such a yuzunoki.","Ресторан Это замечательное хобби, которое занятые
+люди улыбаются. Я хотел бы долгое время увидеть
+такой юзуноки.","Restaurant Es ist ein wunderbares Hobby, das die
+beschäftigten Menschen lächeln. Ich möchte eine
+lange Zeit dauern, um so einen Yuzunoki zu sehen."

@@ -1,138 +1,215 @@
-000002b8,28,"「絶対領域って、知ってる？」","Do you know the absolute territory?","",""
-00000318,36,"「絶対領域？　ううん、知らないけど」","Absolute area? Yeah, I don't know.","",""
-000003d0,26,"「そっか、ならいいんだ…」","Oh, that's fine …","",""
-0000042c,36,"「そう？　何だか気になるんだけど…」","Yes? I'm curious about it …","",""
-000004cc,26,"「はは…そのうち教えるよ」","Haha … I'll teach you soon.","",""
-00000544,20,"「本当？　きっとよ」","Really? I'm sure.","",""
-00000754,14,"「そ、そっか」","Oh, that's right","",""
-000007c0,40,"「無理に話を合わせることは、あるけどね」","There are times when we are forced to talk to each other.","",""
-000008f4,20,"「パジャマだけど？」","Is it pajamas?","",""
-0000092c,12,"「どんな？」","what kind?","",""
-00000a78,34,"「薄い黄色の花柄で、ゆったり…か」","With a pale yellow floral pattern, it's relaxed …?","",""
-00000b74,40,"「も、もう…そんな話、ダメなんだからぁ」","Well … that's no good story.","",""
-00000c7c,8,"「あ…」","a…","",""
-00000cc4,24,"「うん、気をつけるわ…」","Yeah, be careful …","",""
-00000e8c,32,"「わかったら、気をつけるように」","If you understand, be careful","",""
-00000ee8,10,"「はぁい」","Yeesss","",""
-00000f34,38,"「料理する時、エプロンって大事だよね」","When cooking, an apron is important, isn't it?","",""
-00000fb8,42,"「それはそうだけど…いきなりどうしたの？」","That's right … what happened suddenly?","",""
-0000126c,28,"「え？　どんなところって…」","What kind of place …","",""
-000012d4,36,"「もう……そんな質問をするところよ」","Already … I'm about to ask such a question.","",""
-000013f8,42,"「え？　そ、そうね…夏服は生地が薄いし…」","Well, that's right … Summer clothes are thin …","",""
-000015ec,40,"「え？　それだと、果音ちゃんとお揃いよ」","Eh? That's the same match with Kaon-chan.","",""
-00000754,14,"「そ、そっか」","Oh, that's right","",""
-0000178c,10,"「はは…」","mother…","",""
-00001998,34,"「あ、あれは、たまたまなんだから」","Oh, that happened to happen.","",""
-000019e4,26,"「じゃあ、今は着てない？」","Then, aren't you wearing it now?","",""
-00001a50,30,"「当たり前でしょう！　も～っ」","It's natural!","",""
-00001ae0,10,"「ははは」","Hahaha","",""
-00001df0,12,"「えっ！？」","eh!?","",""
-00001ea4,38,"「もう…恥ずかしいこと聞くんだからぁ」","I'm already … I'm ashamed to hear that.","",""
-000021f0,42,"「ははは…そうだよね、アダルトすぎるよね」","Haha … That's right, it's too adult, isn't it?","",""
-00002278,18,"「エッチ～～ッ！」","Ecchi ~~!","",""
-0000238c,14,"「そ、そう？」","Oh, right?","",""
-00002564,30,"「ど、どうして、私に聞くの？」","Why do you ask me?","",""
-000025ac,34,"「そ、そりゃあ、柚ノ木さんは……」","Well, Mr. Yuzunogi …","",""
-00002624,32,"「もう…そんなの想像にお任せよ」","Already … leave it to that imagination.","",""
-000026e0,28,"「ちょっとエッチな話って…」","A little naughty story …","",""
-00002764,28,"「しなくていいの、そんな話」","You don't have to do that.","",""
-00000c7c,8,"「あ…」","a…","",""
-000028c0,22,"「うん、気をつける…」","Yeah, be careful …","",""
-0000294c,30,"「裸エプロンって、知ってる？」","Do you know a naked apron?","",""
-00001df0,12,"「えっ！？」","eh!?","",""
-00002adc,14,"「どうして？」","why?","",""
-00002ba0,30,"「けど、男は好きなんだよなぁ」","But I like guys.","",""
-00002c08,42,"「もう……時々、すごくエッチなんだから…」","Already … sometimes it's really naughty …","",""
-00002e5c,32,"「うぅ…ちょっと長くしようかな」","Uh … let's make it a little longer","",""
-00002f74,10,"「もう…」","Already…","",""
-00002fc0,42,"「柚ノ木さんって、その…どこまで許せる？」","Yuzunogi-san, that … how much can you forgive?","",""
-00001df0,12,"「えっ！？」","eh!?","",""
-000031ec,8,"「え？」","e?","",""
-000031ec,8,"「え？」","e?","",""
-0000327c,20,"「撮影の…話なの？」","Shooting … is it a story?","",""
-000032c8,32,"「そうだけど…何だと思ったの？」","That's right … what did you think?","",""
-0000344c,36,"「ちょっと、刺激的な話なんだけど…」","It's a little exciting story …","",""
+000002b8,28,"「絶対領域って、知ってる？」","Do you know the absolute territory?","«Я знаю абсолютную область? »","„Ich kenne den absoluten Bereich? „"
+00000318,36,"「絶対領域？　ううん、知らないけど」","Absolute area? Yeah, I don't know.","«Абсолютная зона? Да, я не знаю.","Absolute Fläche? Ja, ich weiß es nicht."
+000003d0,26,"「そっか、ならいいんだ…」","Oh, that's fine …","«Хочу это сделать…»","„Ich will es tun…“"
+0000042c,36,"「そう？　何だか気になるんだけど…」","Yes? I'm curious about it …","- Да? Мне интересно…»","Ja? Ich frage mich…"
+000004cc,26,"「はは…そのうち教えるよ」","Haha … I'll teach you soon.","Я сожалею…","Es tut mir leid…"
+00000544,20,"「本当？　きっとよ」","Really? I'm sure.","- Правда? Я уверен.","True? Ich bin sicher."
+00000754,14,"「そ、そっか」","Oh, that's right","」","!"
+000007c0,40,"「無理に話を合わせることは、あるけどね」","There are times when we are forced to talk to each other.","«Я сожалею об этом поговорить. »","„Es tut mir leid, darüber zu reden. „"
+000008f4,20,"「パジャマだけど？」","Is it pajamas?","— Я Паджама? »","„Ich bin Pajama? „"
+0000092c,12,"「どんな？」","what kind?","Что такое ","Was ist "
+00000a78,34,"「薄い黄色の花柄で、ゆったり…か」","With a pale yellow floral pattern, it's relaxed …?","Это светло-желтый цветочный узор, он рыхл…?","Es ist ein hellgelbes Blütenmuster, es ist
+locker…?"
+00000b74,40,"「も、もう…そんな話、ダメなんだからぁ」","Well … that's no good story.","«Я так много… Не знаю об этом. »","„Ich bin so sehr… Ich bin mir nicht sicher. „"
+00000c7c,8,"「あ…」","a…","」","!"
+00000cc4,24,"「うん、気をつけるわ…」","Yeah, be careful …","- Да, будьте осторожны…","Ja, sei vorsichtig…"
+00000e8c,32,"「わかったら、気をつけるように」","If you understand, be careful","- Если вы знаете, будьте осторожны.","Wenn du weißt, sei vorsichtig."
+00000ee8,10,"「はぁい」","Yeesss","」","!"
+00000f34,38,"「料理する時、エプロンって大事だよね」","When cooking, an apron is important, isn't it?","«Когда вы готовите, важно прощать. »","„Wenn Sie kochen, ist es wichtig, zu schürzen. „"
+00000fb8,42,"「それはそうだけど…いきなりどうしたの？」","That's right … what happened suddenly?","- Это правильно, но что ты сделал?","Es stimmt, aber was hast du getan?"
+0000126c,28,"「え？　どんなところって…」","What kind of place …","- Что это?","Was ist das?"
+000012d4,36,"「もう……そんな質問をするところよ」","Already … I'm about to ask such a question.","- О, я задаю такой вопрос.","Oh, ich werde eine solche Frage stellen."
+000013f8,42,"「え？　そ、そうね…夏服は生地が薄いし…」","Well, that's right … Summer clothes are thin …","Летняя одежда тонкой ткани…","Sommer Kleidung dünne Stoff…"
+000015ec,40,"「え？　それだと、果音ちゃんとお揃いよ」","Eh? That's the same match with Kaon-chan.","«О? Вот это, у вас будет вместе. »","„Oh? Das ist es, Sie werden es zusammen haben. „"
+00000754,14,"「そ、そっか」","Oh, that's right","」","!"
+0000178c,10,"「はは…」","mother…","」","!"
+00001998,34,"「あ、あれは、たまたまなんだから」","Oh, that happened to happen.","«О, это бессрочно. »","„Oh, es ist zeitlos. „"
+000019e4,26,"「じゃあ、今は着てない？」","Then, aren't you wearing it now?","- Я не ношу его сейчас? »","„Ich trage es jetzt nicht? „"
+00001a50,30,"「当たり前でしょう！　も～っ」","It's natural!","Это естественно! Это тоже!","Es ist natürlich! Es ist auch!"
+00001ae0,10,"「ははは」","Hahaha","」","!"
+00001df0,12,"「えっ！？」","eh!?","ПРЯМО",","
+00001ea4,38,"「もう…恥ずかしいこと聞くんだからぁ」","I'm already … I'm ashamed to hear that.","«О… Я слышал, что ты смущен. »","Oh… Ich hörte, du bist peinlich. „"
+000021f0,42,"「ははは…そうだよね、アダルトすぎるよね」","Haha … That's right, it's too adult, isn't it?","«Я не… Я слишком взрослый. »","„Ich bin nicht… Ich bin zu erwachsen. „"
+00002278,18,"「エッチ～～ッ！」","Ecchi ~~!","!」","!"
+0000238c,14,"「そ、そう？」","Oh, right?","— Что это? »","„Was ist das? „"
+00002564,30,"「ど、どうして、私に聞くの？」","Why do you ask me?","— Как ты слышишь меня? »","„Wie hörst du mich? „"
+000025ac,34,"「そ、そりゃあ、柚ノ木さんは……」","Well, Mr. Yuzunogi …","«Нет, так, Юзуноги…»","„Nein, also Yuzunogi…“"
+00002624,32,"「もう…そんなの想像にお任せよ」","Already … leave it to that imagination.","«О… Я не могу себе представить. »","„Oh… ich kann mir das nicht vorstellen. „"
+000026e0,28,"「ちょっとエッチな話って…」","A little naughty story …","Я говорю немного…","Ich rede ein wenig…"
+00002764,28,"「しなくていいの、そんな話」","You don't have to do that.","- Мне не нужно говорить об этом. »","„Ich muss nicht darüber reden. „"
+00000c7c,8,"「あ…」","a…","」","!"
+000028c0,22,"「うん、気をつける…」","Yeah, be careful …","- Да, будьте осторожны…","Ja, sei vorsichtig…"
+0000294c,30,"「裸エプロンって、知ってる？」","Do you know a naked apron?","«Я знаю, что Накед Абон? »","„Ich kenne Naked Apron? „"
+00001df0,12,"「えっ！？」","eh!?","ПРЯМО",","
+00002adc,14,"「どうして？」","why?","Как это сделать?","Wie machst du das?"
+00002ba0,30,"「けど、男は好きなんだよなぁ」","But I like guys.","«Я не люблю человека. »","„Ich mag keinen Mann. „"
+00002c08,42,"「もう……時々、すごくエッチなんだから…」","Already … sometimes it's really naughty …","“О… Я так краю…”","„Oh… ich habe so チ…“"
+00002e5c,32,"「うぅ…ちょっと長くしようかな」","Uh … let's make it a little longer","«О… Я собираюсь быть немного дольше. »","„Oh… ich werde etwas länger sein. „"
+00002f74,10,"「もう…」","Already…","」","!"
+00002fc0,42,"「柚ノ木さんって、その…どこまで許せる？」","Yuzunogi-san, that … how much can you forgive?","«Что такое Юноки? Как далеко я могу простить? »","„Was ist Yunoki? Wie weit kann ich mir verzeihen?
+„"
+00001df0,12,"「えっ！？」","eh!?","ПРЯМО",","
+000031ec,8,"「え？」","e?","?」","?"
+000031ec,8,"「え？」","e?","?」","?"
+0000327c,20,"「撮影の…話なの？」","Shooting … is it a story?","- Я говорю о фотографии? »","„Ich spreche von Fotografie? „"
+000032c8,32,"「そうだけど…何だと思ったの？」","That's right … what did you think?","— Ну, я думал, что это правильно? »","„Nun, ich dachte, es wäre richtig? „"
+0000344c,36,"「ちょっと、刺激的な話なんだけど…」","It's a little exciting story …","«Я немного стимулирую… »","„Ich bin ein bisschen anregend… „"
 000005f0,96,"「女子って、廊下の隅っことかで、結構、
 　エッチな話をしてたりするけど、
-　柚ノ木さんは…どう？」","","",""
+　柚ノ木さんは…どう？」","Women, like the corners of the corridor, I'm
+talking about it, but Yuzunogi is … How about
+it?","Женщины, как углы коридора, я говорю об этом, но
+Юзуноги … Как насчет этого?","Frauen, wie die Ecken des Korridors, ich rede
+davon, aber Yuzunogi ist… Wie wär's damit?"
 00000694,57,"「どうって言われても…。
-　私は…そう言う話、苦手だから」","","",""
+　私は…そう言う話、苦手だから」","What is said? I'm not good at talking about it.","- Что говорят? Я не хорошо говорить об этом.","Was sagt man? Ich bin nicht gut darüber zu
+reden."
 00000874,49,"「柚ノ木さんって、いつもどんな格好で
-　寝てる？」","","",""
+　寝てる？」","“What is Yuzunoki? What kind of cool do you
+sleep?”","«Что такое Юзуноки? Какой класс вы спите? »","„Was ist Yuzunoki? Was für cool schläfst du? „"
 00000998,67,"「一番気に入ってるのは、薄い黄色の花柄で、
-　ゆったりしたタイプね」","","",""
+　ゆったりしたタイプね」","I like the most, it is a light yellow flower
+pattern, it is a loose type.","«Мне нравится больше всего, это светло-желтый
+цветочный узор, это свободный тип».","Ich mag die meisten, es ist ein hellgelbes
+Blütenmuster, es ist eine lose Art."
 00000adc,49,"「この間、クラスのヤツらが
-　話してたんだけど…」","","",""
+　話してたんだけど…」","I'm talking about the class yats …","Я говорю о классе ит …","Ich rede von der Klasse Yats …"
 00000be8,61,"「着替え中は、いきなり教室に
-　入らないように、気をつけてね」","","",""
+　入らないように、気をつけてね」","Be careful not to enter the classroom while
+changing clothes.","Быть осторожным не входить в класс во время
+изменения одежды.","Sei vorsichtig, nicht in den Klassenzimmer
+einzusteigen, während die Kleidung verändert."
 00000d40,59,"「立場が逆だったら、職員室に
-　突き出されるところだからね」","","",""
+　突き出されるところだからね」","If the position is reversed, it is where the
+staff room is ex ded.","Если позиция обратная, то там, где комната
+персонала экс-дед.","Wenn die Position umgekehrt ist, ist es, wo das
+Personalzimmer ex ded ist."
 00000dc0,63,"「あ、本当ね。男子が女子の着替えなんか
-　のぞいたら、大変よね」","","",""
+　のぞいたら、大変よね」","“Oh, it’s true.” It’s hard to say that the men
+are changing their clothes.","«О, это правда». Сложно сказать, что мужчины
+меняют одежду.","„Oh, es ist wahr.“ Es ist schwer zu sagen, dass
+die Männer ihre Kleidung ändern."
 00001058,78,"「いや、エプロンつけずに、
 　ビショビショになってる柚ノ木さんを
-　思い出して」","","",""
+　思い出して」","“I remember Yuzunoki, who has become a viビ,
+without aprons.”","«Я помню, Юзуноки, который стал вириком, без
+пропанов. »","„Ich erinnere mich an Yuzunoki, der ohne Schürzen
+zu einem Vi-Etat geworden ist. „"
 000010fc,49,"「あ……もう、早く忘れて。
-　恥ずかしいんだから」","","",""
+　恥ずかしいんだから」","“Oh… I’m forgotten.” '","«О… Я забыл». « »","„Oh… ich bin vergessen.“ '"
 000011dc,57,"「柚ノ木さんって、男のどんなところが
-　エッチだと思う？」","","",""
+　エッチだと思う？」","“What is Yuzunoki? What is Ech?”","«Что такое Юзуноки? Что такое Ech? »","„Was ist Yuzunoki? Was ist Ech? „"
 00001370,59,"「うちの学校の制服って、
-　意外と…体のラインが出るよね？」","","",""
+　意外と…体のラインが出るよね？」","“Our school uniforms are surprisingly…the body
+line comes out?”","«Наша школа униформа удивительно … линия тела
+выходит? »","„Unsere Schuluniformen sind überraschend…die
+Körperlinie kommt raus? „"
 000014e0,55,"「もう…そんなこと言われたら、
-　意識しちゃうじゃない」","","",""
+　意識しちゃうじゃない」","“Oh… I don’t think of it if I say that.”","“О… Я не думаю об этом, если я это говорю. »","„Oh… ich denke nicht daran, wenn ich das sage.
+„"
 00001560,61,"「柚ノ木さんって、白ニーソも似合うと
-　思うんだけど、どう？」","","",""
+　思うんだけど、どう？」","Yuzunoki, I think that White Niso is similar,
+but what is it?","«Юзуноки, я думаю, что Белый Нисо похож, но что
+это?»","Yuzunoki, ich denke, dass White Niso ähnlich
+ist, aber was ist es?"
 000016e8,67,"「フフッ、彼女って、お兄さんの好みを、
-　すごくよくわかってるのね」","","",""
+　すごくよくわかってるのね」","Huffy, she, my brother's preferences, I'm very
+good!","«Она, она, предпочтения моего брата, я очень
+хорошо!»","Huffy, sie, die Vorlieben meines Bruders, ich
+bin sehr gut!"
 000017e4,47,"「ちょっと刺激が
-　強いかもしれないんだけど…」","","",""
+　強いかもしれないんだけど…」","It might be a strong stimulation …","Это может быть сильная стимуляция …","Es könnte eine starke Stimulation sein…"
 00001878,49,"「も～っ、恥ずかしがらせて、
-　どうするつもり？」","","",""
+　どうするつもり？」","“What do you do?”","- Что вы делаете? »","„Was machst du? „"
 000018f4,61,"「まさか、制服の下にスク水を着てるなんて、
-　びっくりしたよ」","","",""
+　びっくりしたよ」","“Well, I was surprised that I could wear a scrap
+under the uniform.”","«Ну, я был удивлен, что я мог бы носить лом под
+униформой. »","„Nun, ich war überrascht, dass ich einen Schrott
+unter der Uniform tragen konnte. „"
 00001b38,108,"「ののかのヤツ、柚ノ木さんの胸をうしろから
 　もみしだくとは、うらやまし…じゃなくて、
-　とんでもないヤツだ」","","",""
+　とんでもないヤツだ」","“It’s not a 胸endous guy, but a 胸endous guy.”","«Это не 胸endous парень, но .endous парень. »","„Es ist kein 胸endous Kerl, sondern ein 胸endous
+Kerl. „"
 00001c04,51,"「ののちゃんって、時々、ああいう
-　いたずらするの」","","",""
+　いたずらするの」","No-chan, sometimes, I'm shy.","Нет Чан, иногда, я стесняюсь.","Ich bin manchmal schüchtern."
 00001c9c,53,"「くすぐったいから、やめてって
-　言ってるんだけどね」","","",""
+　言ってるんだけどね」","I'm saying that I want to do it soon,","«Я говорю, что хочу это сделать в ближайшее
+время»,","Ich sage, dass ich es bald tun will,"
 00001d5c,63,"「柚ノ木さんって…その……いくつから、
-　胸が…大きくなった？」","","",""
+　胸が…大きくなった？」","What is Yunoki-san? How many times the chest
+became larger?","- Что такое Юноки-сан? Сколько раз сундук стал
+больше?","Was ist Yunoki-san? Wie oft wurde die Brust
+größer?"
 00001e20,53,"「あ！　ご、ごめん、変なこと聞いて！
-　聞き流して…」","","",""
+　聞き流して…」","Oh! I'm sorry, I'm listening to something
+strange! I'm listening…","О! Прости, я слушаю что-то странное! Я
+слушаю…","Oh! Tut mir leid, ich höre etwas Fremdes! Ich
+höre zu…"
 00001f88,67,"「…小学…６年生ぐらい…かな。
-　大きくなったなって、思ったのは…」","","",""
+　大きくなったなって、思ったのは…」","…Study … about 6th grader … kana. I
+thought that it became bigger.","…Студия … о 6-м классе … kana. Я думал,
+что это стало больше.","Study … ungefähr 6. Grader… kana. Ich
+dachte, es sei größer."
 00002098,73,"「その…柚ノ木さんの下着って、
-　もしかして、靴下と同じ黒だったりして…」","","",""
+　もしかして、靴下と同じ黒だったりして…」","“It’s…the underwear of Yuzunogi is black as a
+socks…”","“Это… нижнее белье Юзуноги черное как носки…
+»","„Es ist… die Unterwäsche von Yuzunogi ist
+schwarz als Socken… „"
 0000212c,63,"「そ、そんなことないわよ。
-　黒い下着なんて、持ってないもの！」","","",""
+　黒い下着なんて、持ってないもの！」","“I don’t know that.” I don’t have a black
+underwear!","- Я не знаю, что. У меня нет черного нижнего
+белья!","„Das weiß ich nicht.“ Ich habe keine schwarze
+Unterwäsche!"
 000022e0,76,"「柚ノ木さんって、
 　その辺のグラビアアイドルより、
-　全然スタイルいいよね」","","",""
+　全然スタイルいいよね」","Yuzunoki-san is better than the gravure idle on
+the side.","«Юзуноки-сан лучше, чем гравюра на стороне».","Yuzunoki-san ist besser als die Gravur auf der
+Seite."
 00002400,59,"「もう…そんな話、どう返事していいのか、
-　わからないわよ」","","",""
+　わからないわよ」","“Now… I don’t know how to tell you about it.”","«Сейчас… Я не знаю, как рассказать вам об этом.
+»","„Jetzt… Ich weiß nicht, wie ich dir davon
+erzählen soll. „"
 000024c4,67,"「そ、その…胸が大きいと肩が凝るって
-　言うけど…どうなんだろう？」","","",""
+　言うけど…どうなんだろう？」","“Now… I say that the shoulders are  gged when
+the chest is large… what?”","«Сейчас… Я говорю, что плечи помечены, когда
+сундук большой… что? »","„Jetzt… Ich sage, die Schultern sind
+geschlagen, wenn die Brust groß ist… was? „"
 000027cc,55,"「中庭は、いたずらな風が吹くから、
-　気をつけないとね」","","",""
+　気をつけないとね」","“I don’t take care of the courtyard because the
+wind blows away.”","«Я не позаботюсь о дворе, потому что ветер сдует.
+»","„Ich kümmere mich nicht um den Innenhof, denn der
+Wind weht weg. „"
 00002a10,63,"「…し、知ってるけど、
-　裸にエプロンだなんて、いけないと思う」","","",""
+　裸にエプロンだなんて、いけないと思う」","…I know, but I don't think it's an apron in
+naked.","… Я знаю, но я не думаю, что это фартук в
+обнаженном.","… Ich weiß, aber ich glaube nicht, dass es
+eine Schürze in nackt ist."
 00002b3c,47,"「だって、油が跳ねたら、
-　やけどしちゃうもの」","","",""
+　やけどしちゃうもの」","“Even if the oil is bounced, it is burned.”","“Даже если масло отварно, то оно сгорело. »","„Auch wenn das Öl geprallt wird, wird es
+verbrannt. „"
 00002cac,49,"「柚ノ木さんって、
-　その…スカート、短いよね？」","","",""
+　その…スカート、短いよね？」","Yuzunoki-san is that…the skirt is short,
+right?","Юзуноки-сан - это то, что… юбка короткая,
+правая?","Yuzunoki-san ist, dass… der Rock kurz ist,
+richtig?"
 00002d2c,47,"「そ、そう？　みんなこれぐらいだと
-　思うけど」","","",""
+　思うけど」","“No, it’s right? Everyone thinks about this.”","- Нет, это правильно? Все думают об этом. »","„Nein, ist es richtig? Jeder denkt darüber nach.
+„"
 00002dd4,63,"「柚ノ木さんはスタイルいいから、
-　余計短く見えるって言うか…」","","",""
+　余計短く見えるって言うか…」","Yuzunoki is a style, so do you say it looks too
+short?","Юзуноки - это стиль, так вы говорите, что это
+выглядит слишком коротко?","Yuzunoki ist ein Stil, also sagst du, es sieht
+zu kurz aus?"
 00002ef0,55,"「あぁっ！　ごめん！
-　そのまま！　そのままでいいよ！」","","",""
+　そのまま！　そのままでいいよ！」","Oh! I'm sorry! It's as it is! It's okay!","О! Извините! Это так! Это нормально!","Oh! Es tut mir leid! So wie es ist! Schon gut!"
 00003088,67,"「あうぅ……そ、そんなの…わからないわよ。
-　だって、経験ないし…」","","",""
+　だって、経験ないし…」","“Oh… I don’t know that. …","«О… Я не знаю, что. …","„Oh… das weiß ich nicht. …"
 0000314c,57,"「…そうだよね、大胆なポーズの経験なんて、
-　ないからね」","","",""
+　ないからね」","… Yeah, I don't have a bold pose experience.","… Да, у меня нет смелого опыта.","… Ja, ich habe keine fette Posen-Erfahrung."
 00003344,65,"「う、ううん、何でもない！
-　大胆なポーズなんて、無理よ、無理！」","","",""
+　大胆なポーズなんて、無理よ、無理！」","Yes, I don't have anything! It’s impossible to
+pose a bold pose!","- Да, у меня ничего нет! Невозможно позировать
+смелую позу!","Ja, ich habe nichts! Es ist unmöglich, eine
+fette Pose zu posieren!"
 000034d0,47,"「も～っ、すぐそういうこと、
-　言うんだからぁ」","","",""
+　言うんだからぁ」","“Now, I say that right away.”","«Сейчас я говорю, что сразу. »","„Jetzt sage ich das sofort. „"

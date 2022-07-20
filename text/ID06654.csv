@@ -1,20 +1,32 @@
-000000e8,24,"「テスト勉強、してる？」","Are you studying for a test?","",""
-00000264,28,"「来年は一緒に受験勉強だね」","Let's study for the exam together next year.","",""
-000002b8,42,"「ええ。一緒の大学へ行けるとうれしいなぁ」","Yes. I'm glad I can go to the same university.","",""
-00000394,24,"（猛勉強するしかないな）","(I have no choice but to study hard)","",""
-000003f4,42,"「教科書って、持って帰るとすごく重いよね」","Textbooks are very heavy when you bring them home.","",""
-00000734,40,"「たまには、一緒に勉強するのもいいよね」","Sometimes it's good to study together.","",""
-000008d0,14,"「勉強って…」","Study …","",""
-00000930,28,"「フフッ、テスト前だものね」","Huh, it's before the test.","",""
+000000e8,24,"「テスト勉強、してる？」","Are you studying for a test?","«Я изучаю тест? »","„Ich studiere Test? „"
+00000264,28,"「来年は一緒に受験勉強だね」","Let's study for the exam together next year.","«Я буду учиться в следующем году вместе. »","„Ich werde nächstes Jahr zusammen studieren. „"
+000002b8,42,"「ええ。一緒の大学へ行けるとうれしいなぁ」","Yes. I'm glad I can go to the same university.","Home Я хочу пойти в университет вместе.","Nach Hause will ich gemeinsam an eine Universität
+gehen."
+00000394,24,"（猛勉強するしかないな）","(I have no choice but to study hard)","(Я должен учиться трудно)","(Ich muss hart studieren)"
+000003f4,42,"「教科書って、持って帰るとすごく重いよね」","Textbooks are very heavy when you bring them home.","«Техническая книга очень тяжела, когда вы берете
+ее домой. »","„Das Lehrbuch ist sehr schwer, wenn Sie es nach
+Hause nehmen. „"
+00000734,40,"「たまには、一緒に勉強するのもいいよね」","Sometimes it's good to study together.","«О, важно учиться вместе. »","„Oh, es ist wichtig, gemeinsam zu studieren. „"
+000008d0,14,"「勉強って…」","Study …","Студия…","Study…"
+00000930,28,"「フフッ、テスト前だものね」","Huh, it's before the test.","«Довольно, это перед тестированием. »","„Huffy, es ist vor dem Testen. „"
 00000160,49,"「あんまり。根を詰めて勉強するのって、
-　苦手で」","","",""
+　苦手で」","Home The roots are packed and studied.","Начало Корни упакованы и изучены.","Home Die Wurzeln werden verpackt und untersucht."
 0000046c,72,"「そうね～、テスト前は、
 　おさらいに持って帰らなきゃだし、
-　大変よね」","","",""
+　大変よね」","Yes, before the test, you have to bring it back,
+it's hard.","Да, перед тестом, вы должны вернуть его, это
+трудно.","Ja, vor dem Test muss man es zurückbringen, es
+ist schwer."
 00000564,55,"「それで、肝心の授業の時、
-　持ってくるの忘れてたりね」","","",""
+　持ってくるの忘れてたりね」","“Therefore, I forget to bring my heart’s
+classes.”","«Поэтому, я забываю принести классы моего сердца.
+»","„Dazu vergesse ich, die Klassen meines Herzens zu
+bringen. „"
 000005f8,80,"「あ、あるある。こんなことなら
 　持って帰るんじゃなかったって、
-　後悔しちゃう」","","",""
+　後悔しちゃう」","。 I don't have to bring it, I regret it.","。 Мне не нужно принести его, я сожалею об этом.","Ich muss es nicht mitbringen."
 000007bc,67,"「私は、いつでも大丈夫よ。
-　あなたと一緒なら、何だって楽しいもの」","","",""
+　あなたと一緒なら、何だって楽しいもの」","I'm always okay. If you are with you, it’s fun
+to stop.","- Я всегда в порядке. Если вы с вами, это весело
+остановиться.","Ich bin immer okay. Wenn Sie bei Ihnen sind, ist
+es Spaß zu stoppen."

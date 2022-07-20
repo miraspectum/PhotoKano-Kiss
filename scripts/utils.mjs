@@ -1,6 +1,6 @@
 import * as fs from 'fs';
 import { parse } from 'csv-parse';
-import { exec } from 'child_process';
+import { exec, spawn } from 'child_process';
 
 export class Utils {
     static async readDir(path) {
@@ -51,6 +51,20 @@ export class Utils {
                 }
     
                 resolve(stdout);
+            });
+        });
+    }
+
+    static async spawnCmd(cmd, params) {
+        return new Promise((resolve, reject) => {
+            const spawned = spawn(cmd, params);
+            
+            spawned.stdout.on('data', (data) => {
+                resolve(data);
+            });
+            
+            spawned.stderr.on('data', (data) => {
+                reject(data.toString());
             });
         });
     }

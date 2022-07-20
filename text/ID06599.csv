@@ -1,65 +1,98 @@
-00000078,30,"１時間目が終わった休み時間―。","","",""
-000000ec,30,"（何かいい被写体はないかな…）","","",""
-00000138,32,"（ん？　階段を下りてくるのは…）","","",""
+00000078,30,"１時間目が終わった休み時間―。","The first time is closed.","Первый раз закрыт.","Das erste Mal ist geschlossen."
+000000ec,30,"（何かいい被写体はないかな…）","Sorry, this entry is only available in 日本語.","Извините, этот техт доступен только в “日本語”.","Leider ist dieser Eintrag nur in 日本語 verfügbar."
+00000138,32,"（ん？　階段を下りてくるのは…）","(Well, it is…)","(Ну, это…)","(Nun, es ist…)"
 000001d0,73,"（生徒会長の室戸先輩だ。あの人って、
-　学園始まって以来の秀才なんだよな）","","",""
+　学園始まって以来の秀才なんだよな）","(Students are seniors of Muroto.) That person, I
+am a good old man since I went to school)","(Студенты являются старшими Muroto.) Этот
+человек, я старик, так как я пошел в школу)","(Studenten sind Senioren von Muroto.) Diese
+Person, ich bin ein guter alter Mann, seit ich zur
+Schule ging)"
 00000248,51,"（テストで学年トップ以外、取ったこと
-　ないって…）","","",""
-0000028c,22,"シャッターチャンスだ！","","",""
-000002ac,16,"撮るまでもないな","","",""
-000004ac,38,"（…思わずシャッターを切ってしまった）","","",""
-00000518,22,"「む……今、撮った？」","","",""
-0000059c,12,"「は、はい」","","",""
+　ないって…）","(I don't have to take anything except for the
+first grade in the test…)","(не нужно ничего взять, кроме первого класса в
+тесте…)","(Ich muss nichts außer der ersten Klasse im
+Test…)"
+0000028c,22,"シャッターチャンスだ！","ter chance!","ter шанс!","Eine Chance!"
+000002ac,16,"撮るまでもないな","Not to take","Не принимать","Nicht zu nehmen"
+000004ac,38,"（…思わずシャッターを切ってしまった）","(… I cut off the))","(… Я отрезал))","(…) Ich schneide die)"
+00000518,22,"「む……今、撮った？」","“Well, right now?”","— Ну, сейчас? »","„Nun, jetzt? „"
+0000059c,12,"「は、はい」","」","」","!"
 000005fc,51,"「スカートの中を、撮ったんじゃ
-　ないでしょうね？」","","",""
-000006ac,26,"「と、撮ってないですよ！」","","",""
-00000718,32,"「疑わしいわね。君、何年何組？」","","",""
-000007a4,26,"「２年Ｂ組の\p01\p02です」","","",""
-0000081c,20,"「\p01君ね。私は…」","","",""
-0000089c,32,"「生徒会長の室戸先輩ですよね？」","","",""
-00000928,32,"「そう。知ってるなら話が早いわ」","","",""
-000009f0,42,"「何でこんな所でカメラを構えていたわけ？」","","",""
+　ないでしょうね？」","I'm not taking photos in the skirt?","- Я не фотографирую в юбке?","Ich mache keine Fotos im Rock?"
+000006ac,26,"「と、撮ってないですよ！」","“I don’t take it!”","- Я не принимаю это! »","„Ich nehme es nicht! „"
+00000718,32,"「疑わしいわね。君、何年何組？」","I'm sorry. How many years?","- Прости. Сколько лет?","Es tut mir leid. Wie viele Jahre?"
+0000089c,32,"「生徒会長の室戸先輩ですよね？」","“Is it a student president?","- Это студенческий президент?","„Ist es ein Student Präsident?"
+00000928,32,"「そう。知ってるなら話が早いわ」","。 If you know, the story is fast.","。 Если вы знаете, история быстрая.","。 Wenn Sie wissen, ist die Geschichte schnell."
+000009f0,42,"「何でこんな所でカメラを構えていたわけ？」","“What was the camera in this place?”","«Какова была камера в этом месте? »","„Was war die Kamera an diesem Ort? „"
 00000a84,69,"「何でって……学園生活の日常を
-　撮ろうというか…そんな感じですけど」","","",""
-00000b28,24,"「ふうん…怪しいわね…」","","",""
-00000bc8,24,"「怪しくないですって！」","","",""
-00000d4c,30,"「そこの君、何をしているの？」","","",""
-00000d8c,20,"「あ、生徒会長の…」","","",""
-00000e00,38,"「室戸亜岐よ。知ってるなら話が早いわ」","","",""
-00000ecc,18,"「君、何年何組？」","","",""
-000007a4,26,"「２年Ｂ組の\p01\p02です」","","",""
-00000f8c,61,"「\p01君ね。こんな所でカメラを構えて、
-　何を撮ってたわけ？」","","",""
+　撮ろうというか…そんな感じですけど」","What's it? … Let's take the everyday of school
+life … That’s it.","- Что это? … Давайте берем каждый день школьной
+жизни … Это.","Was ist los? … Nehmen wir den Schulalltag. Das
+ist es."
+00000b28,24,"「ふうん…怪しいわね…」","I'm sorry… I'm sorry…","- Прости… Прости…","Es tut mir leid… Es tut mir leid…"
+00000bc8,24,"「怪しくないですって！」","“I don’t know it!”","- Не знаю! »","„Ich weiß es nicht! „"
+00000d4c,30,"「そこの君、何をしているの？」","What do you do?","Что вы делаете?","Was machst du?"
+00000d8c,20,"「あ、生徒会長の…」","Oh, the president …","«О, президент …»","Oh, der Präsident…"
+00000e00,38,"「室戸亜岐よ。知ってるなら話が早いわ」","Akiyo Muroto If you know, the story is fast.","Акио Мурото Если вы знаете, история быстрая.","Akiyo Muroto Wenn Sie wissen, ist die
+Geschichte schnell."
+00000ecc,18,"「君、何年何組？」","How many years are you?","Сколько лет ты?","Wie viele Jahre bist du?"
 0000103c,57,"「何って…学園生活の日常というか…
-　そんな感じですけど」","","",""
-000010d4,12,"「ふうん…」","","",""
+　そんな感じですけど」","What is it? The everyday life of school life …
+I feel like that.","- Что это? Ежедневная жизнь школьной жизни … Я
+чувствую это.","Was ist das? Der Alltag des Schullebens… fühle
+ich mich so."
+000010d4,12,"「ふうん…」","」","」","!"
 0000112c,57,"「スカートの中を撮ろうとしてたんじゃ
-　ないでしょうね？」","","",""
-00001194,18,"「ち、違いますよ」","","",""
-00001204,14,"「疑わしい…」","","",""
+　ないでしょうね？」","“I don’t want to take the inside of the skirt?”","«Я не хочу брать внутрь юбки? »","„Ich will nicht die Innenseite des Rocks nehmen?
+„"
+00001194,18,"「ち、違いますよ」","I'm different.","- Я разные.","Ich bin anders."
+00001204,14,"「疑わしい…」","Suspicious …","Подозрительно…","Auffällig …"
 0000128c,85,"「ま、いいわ。個人の趣味をとやかくいうほど
-　この光河学園は堅苦しい学校じゃないから」","","",""
+　この光河学園は堅苦しい学校じゃないから」","“Well, it’s good.” This school is not a hard
+school because it is not a hard school.","— Ну, это хорошо. Эта школа не тяжелая школа,
+потому что это не тяжелая школа.","„Nun, es ist gut.“ Diese Schule ist keine harte
+Schule, weil es keine harte Schule ist."
 000013b8,96,"「学業はもちろん、部活も、趣味も、
 　生徒１人１人の才能をできるだけ
-　伸ばそうという方針だしね」","","",""
-000014c4,14,"「ですよね～」","","",""
+　伸ばそうという方針だしね」","It's a policy to grow as much as possible as
+possible, not only academics, but also club
+activities, hobby, and one student.","«Политика вырасти как можно больше, не только
+ученые, но и клубные мероприятия, хобби и один
+студент».","Es ist eine Politik, so viel wie möglich zu
+wachsen, nicht nur akademische, sondern auch
+Clubaktivitäten, Hobby und ein Student."
+000014c4,14,"「ですよね～」","“Is it?”","— Это? »","„Ist es? „"
 00001530,49,"「調子に乗らないで。
-　いい？　警告しておくわよ」","","",""
+　いい？　警告しておくわよ」","Don't get on tone. Good? Be warned.”","- Не дойди на тон. Хорошо? Предупреждение. »","Geh nicht auf Ton. Gut? Sei gewarnt. „"
 00001678,110,"「普通に写真を撮るならともかく、
 　スカートの中をわざわざのぞいて撮るような
-　行為は、盗撮よ。犯罪にあたるわ」","","",""
-0000059c,12,"「は、はい」","","",""
+　行為は、盗撮よ。犯罪にあたるわ」","If you take a picture normally, you can take a
+picture of the skirt. Cri","Если вы делаете картину нормально, вы можете
+сфотографировать юбку. Крики","Wenn Sie ein Bild normalerweise machen, können
+Sie ein Bild vom Rock nehmen. Artikel"
+0000059c,12,"「は、はい」","」","」","!"
 000017f8,51,"「学園の風紀を乱すような、
-　不埒なまねをしたら…」","","",""
+　不埒なまねをしたら…」","If you want to disturb the school's windbreaks,
+you want to do something…","Если вы хотите потревожить ветербры школы, вы
+хотите сделать что-то…","Wenn Sie die Windpausen der Schule stören
+wollen, wollen Sie etwas tun…"
 000018c4,55,"「私が容赦なく職員室へ突き出すから。
-　覚悟しておいて」","","",""
-00001970,20,"「わ、わかりました」","","",""
-000019e4,40,"「わかってくれればいいわ。それじゃあね」","","",""
+　覚悟しておいて」","I'm sorry for my mercy.","«Я сожалею о моей милости.","Es tut mir leid für meine Barmherzigkeit."
+00001970,20,"「わ、わかりました」","Wow, I'm sorry.","- К сожалению.","Wow, es tut mir leid."
+000019e4,40,"「わかってくれればいいわ。それじゃあね」","I want to see you. That's it!","- Я хочу тебя видеть. Это!","Ich will dich sehen. Das ist es!"
 00001b44,43,"「ふう…九堂だけでも
-　手を焼いてるのに…」","","",""
+　手を焼いてるのに…」","Foo…I want to burn my hands even if it is only
+Kudo …","Фо…Я хочу сжечь руки, даже если это только
+Кудо …","Foo… ich will meine Hände verbrennen, auch
+wenn es nur Kudo ist…"
 00001b9c,80,"（べつにスカートの中とか、
 　そんなエロい写真を撮りたい訳じゃないよ、
-　ったく）","","",""
+　ったく）","Sorry, this entry is only available in Japanese.","Извините, этот техт доступен только в “Японский”.","Leider ist dieser Eintrag nur auf Japanisch
+verfügbar."
 00001c1c,74,"（けど、偶然写ったときは、
 　どうすればいいんだ？
-　捨てるのも…何だよな）","","",""
+　捨てるのも…何だよな）","(How do I do when I accidentally appear? What do
+I throw away?)","(Как мне делать, когда я случайно появляюсь? Что
+я бросаю?)","(Wie mache ich, wenn ich versehentlich auftauche?
+Was werfe ich weg?)"
+000007a4,26,"「２年Ｂ組の\p01\p02です」","I ’m \p01 \p02 from GroupB2","Я \p01 \p02 из 2B","Ich bin \p01 \p02 aus 2B"

@@ -1,41 +1,80 @@
-000001e4,24,"「”お茶と読書の会”？」"," Tea and reading party ?","",""
-00000340,18,"「へ～っ、いいね」","Hey, I like it","",""
-000004b8,38,"「うわぁ、そうなってくれるとうれしい」","Wow, I'm glad if that happens.","",""
-00000628,34,"「え？　私が？　無理よ、そんなの」","Eh? I? I can't do that.","",""
-00000710,14,"「どうして？」","why?","",""
-00000a30,16,"「その意気だよ」","I'm willing to do that.","",""
-00000a94,28,"「うん、２人の…将来の夢ね」","Yeah, two people … a dream of the future.","",""
-00000db0,26,"「そっか、責任重大だな…」","Oh, responsibility is serious …","",""
-00000f84,38,"「料理漫画って、何か読んだことある？」","Have you read anything about cooking manga?","",""
-00001254,16,"「本と言えば…」","Speaking of books …","",""
-000012bc,36,"「そうね、いろいろ参考になるわよね」","Well, it's helpful in many ways.","",""
+000001e4,24,"「”お茶と読書の会”？」"," Tea and reading party ?","«Чай и читая вечеринка»","„Eine Tee- und Leseparty“"
+00000340,18,"「へ～っ、いいね」","Hey, I like it","Мне нравится!","Ich mag es!"
+000004b8,38,"「うわぁ、そうなってくれるとうれしい」","Wow, I'm glad if that happens.","«О, я думаю, что это правильно. »","„Oh, ich glaube, das stimmt. „"
+00000628,34,"「え？　私が？　無理よ、そんなの」","Eh? I? I can't do that.","- Что? Я? Извините. »","„Was? Ich? Es tut mir leid. „"
+00000710,14,"「どうして？」","why?","Как это сделать?","Wie machst du das?"
+00000a30,16,"「その意気だよ」","I'm willing to do that.","- Это удивительно.","Es ist überraschend."
+00000a94,28,"「うん、２人の…将来の夢ね」","Yeah, two people … a dream of the future.","«Да, два человека… будущие мечты»","Ja, zwei Menschen … zukünftige Träume"
+00000db0,26,"「そっか、責任重大だな…」","Oh, responsibility is serious …","«Это так важно быть ответственным… »","„Es ist so wichtig, verantwortlich zu sein… „"
+00000f84,38,"「料理漫画って、何か読んだことある？」","Have you read anything about cooking manga?","«Что ты читал о кулинарии манга? »","„Was hast du über Kochmanga gelesen? „"
+00001254,16,"「本と言えば…」","Speaking of books …","— Что такое книга? »","„Was ist das Buch? „"
+000012bc,36,"「そうね、いろいろ参考になるわよね」","Well, it's helpful in many ways.","- Да, это много справки.","Ja, es ist eine Menge Referenz."
 00000128,65,"「今度、料理研究会で、”お茶と読書の会”を
-　しようと思ってて…」","","",""
+　しようと思ってて…」","I want to make a tea and reading party at the
+cooking workshop this time …","«Хочу сделать чай и вечеринку для чтения в
+кулинарной мастерской в этот раз …»","Ich will diesmal eine Tee- und Leseparty in der
+Kochwerkstatt machen…"
 00000254,90,"「放課後集まって、おいしい紅茶と、
 　出来たての焼き菓子を食べながら、
-　好きな本を読むの」","","",""
+　好きな本を読むの」","After school gathering, delicious tea and
+freshly made  sweets to read favorite books","После сбора школы, вкусный чай и свежесделанные
+сладости, чтобы читать любимые книги","Nach der Schulversammlung, leckerer Tee und
+frisch gemacht Süßigkeiten, um Lieblingsbücher zu
+lesen"
 000003b0,47,"「部員以外の人も、
-　のぞきに来てくれるかな？」","","",""
+　のぞきに来てくれるかな？」","“Is it possible for people other than members to
+come to the club?”","— Возможно ли людям, кроме членов клуба? »","„Ist es möglich, dass andere Leute als Mitglieder
+in den Club kommen? „"
 0000043c,55,"「きっと来てくれるよ。
-　もっと部員が増えちゃうかもね」","","",""
+　もっと部員が増えちゃうかもね」","I'm sure to come. More staff may increase.","- Я обязательно приезжаю. Больше персонала может
+увеличиться.","Ich bin sicher zu kommen. Mehr Mitarbeiter
+können erhöhen."
 00000598,57,"「いつか、柚ノ木さんも、
-　料理の本を出版したりしてね？」","","",""
+　料理の本を出版したりしてね？」","“Are you going to publish cooking books?”","- Вы собираетесь публиковать книги о кулинарии? »","„Wirst du Kochbücher veröffentlichen? „"
 0000077c,71,"「だって、文章書くの苦手だし、
-　オリジナルのレシピなんて、ほとんど…」","","",""
+　オリジナルのレシピなんて、ほとんど…」","“I don’t like writing, but my original recipe is
+almost…”","«Я не люблю писать, но мой оригинальный рецепт
+почти… »","“Ich mag es nicht, zu schreiben, aber mein
+ursprüngliches Rezept ist fast… „"
 0000086c,59,"「写真なら任せて。
-　今よりバッチリ撮れるようにしておくよ」","","",""
+　今よりバッチリ撮れるようにしておくよ」","Please leave the photo. Let's take a b」 again
+now.","Пожалуйста, оставьте фотографию. Возьмем b」 снова
+сейчас.","Bitte hinterlassen Sie das Foto. Nehmen wir jetzt
+wieder einen Biz."
 000008f0,71,"「あ…そっか……２人の本になるんだ。
-　それなら私、がんばっちゃうかも」","","",""
+　それなら私、がんばっちゃうかも」","“Oh… I’m just two books.” That's it, I'm going
+to do it.","“О… Я просто две книги.” Это, я собираюсь
+сделать это.","„Oh… ich bin nur zwei Bücher.“ Das ist es, ich
+werde es tun."
 00000b64,57,"「実は、料理の本より、ネットの方が
-　レシピが多くない？」","","",""
+　レシピが多くない？」","“In fact, there aren’t many recipes on the net
+rather than cooking?”","«На самом деле, нет много рецептов в сети, а не
+приготовления? »","„In der Tat gibt es nicht viele Rezepte im Netz,
+anstatt zu kochen? „"
 00000bf4,63,"「あ、そうね。ブログで評判になって、
-　出版されることも多いし」","","",""
+　出版されることも多いし」","Oh, yeah. “It’s a lot of good news for my blog.”","О, да. «Это много хороших новостей для моего
+блога. »","Oh, ja. „Es ist eine Menge gute Nachrichten für
+meinen Blog. „"
 00000d0c,61,"「そういうブログって
-　写真がきれいなところがほとんどなのよ」","","",""
+　写真がきれいなところがほとんどなのよ」","“It’s a blog that’s pretty much what you’re
+doing.”","«Это блог, который довольно много, что вы
+делаете. »","“Es ist ein Blog, der ziemlich viel ist, was Sie
+tun. „"
 00000e28,81,"「私も、見ただけでおいしさが伝わるような、
-　そんな料理を目指して、がんばるわね」","","",""
+　そんな料理を目指して、がんばるわね」","I'm also trying to make such a dish that I can
+tell the deliciousness just by seeing it.","Я также пытаюсь сделать такое блюдо, которое я
+могу сказать вкусно, просто увидеть его.","Ich versuche auch, so ein Gericht zu machen,
+dass ich der Köstlichkeit nur sagen kann, indem
+ich es sehe."
 00001010,100,"「うん、いくつかあるわよ。
 　どんな味がするんだろうって、
-　ビックリするものから、本格的なものまで」","","",""
+　ビックリするものから、本格的なものまで」","Yes, there are a few. Whatever the taste you
+want, from something big to authentic.","- Да, есть несколько. Какой бы вкус вы ни хотели,
+от чего-то большого до подлинного.","Ja, es gibt ein paar. Was auch immer der
+Geschmack Sie wollen, von etwas Großem bis
+Authentizität."
 00001188,57,"「どの漫画もレシピにこだわりがあるから、
-　感心しちゃう」","","",""
+　感心しちゃう」","Every manga is sticking to the recipe, so I will
+be imp ed.","«Каждая манга прилипает к рецепту, так что я буду
+импед».","Jede Manga hält sich an das Rezept, also werde
+ich impfen."

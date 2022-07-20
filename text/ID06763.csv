@@ -1,221 +1,307 @@
-000000bc,34,"「ん？　こんな所に何か落ちてるぞ」","","",""
-00000114,36,"（何だこれ？　錠剤か？　蜜…ろう？）","","",""
-00000168,40,"（こんなものを落とすなんて…誰だろう？）","","",""
-000004ec,18,"（新見さん…かな）","","",""
-00000600,18,"（教室にいるかな）","","",""
-00000688,24,"「あ、いた……新見さん」","","",""
-0000077c,14,"「あ、\p01君」","","",""
-00000858,8,"「何？」","","",""
-00000898,34,"「これって、新見さんのじゃない？」","","",""
-0000090c,36,"「なぁに？　それ。……あ、蜜ろう？」","","",""
-0000099c,8,"「そう」","","",""
-00000a04,42,"「珍しいわね、学校にそんなのがあるなんて」","","",""
-00000a58,36,"「ってことは、新見さんのじゃない？」","","",""
-00000ad0,16,"「ええ、違うわ」","","",""
-00000b18,40,"「そっか…これって、何なのか知ってる？」","","",""
+000000bc,34,"「ん？　こんな所に何か落ちてるぞ」","“Well, you can fall in this place.”","«Ну, можно упасть в этом месте. »","„Nun, Sie können an diesem Ort fallen. „"
+00000114,36,"（何だこれ？　錠剤か？　蜜…ろう？）","(Is this right? Tablet? Honey?)","(Это правильно? Таблетка? Мёд?)","(Ist das richtig? Tablet? Schatz?)"
+00000168,40,"（こんなものを落とすなんて…誰だろう？）","(Who is it?)","(Кто это?)","(Wer ist es?)"
+000004ec,18,"（新見さん…かな）","(Shinmi-san … kana)","(Shinmi-san … kana)","(Shinmi-san … kana)"
+00000600,18,"（教室にいるかな）","(I'm in the classroom)","(Я в классе)","(Ich bin im Klassenzimmer)"
+00000688,24,"「あ、いた……新見さん」","Oh, I … Mr. Shinmi","О, я … г-н Шинми","Oh, ich… Mr. Shinmi"
+00000858,8,"「何？」","What's New","Что нового","Was ist neu?"
+00000898,34,"「これって、新見さんのじゃない？」","This is not Shinmi?","- Это не Шинми?","Das ist nicht Shinmi?"
+0000090c,36,"「なぁに？　それ。……あ、蜜ろう？」","。 ……Have you honey?","。 ……Вы мед?","Hast du Honig?"
+0000099c,8,"「そう」","」","」","!"
+00000a04,42,"「珍しいわね、学校にそんなのがあるなんて」","“It’s rare, it’s like a school.”","«Это редко, это как школа. »","„Es ist selten, es ist wie eine Schule. „"
+00000a58,36,"「ってことは、新見さんのじゃない？」","“What is Shinmi?”","«Что такое Shinmi? »","„Was ist Shinmi? „"
+00000ad0,16,"「ええ、違うわ」","I'm different.","- Я разные.","Ich bin anders."
+00000b18,40,"「そっか…これって、何なのか知ってる？」","“I know what this is?”","- Я знаю, что это такое? »","„Ich weiß, was das ist? „"
 00000ba0,98,"「蜜ろうは、確か…蜂の巣から取れるもので、
 　手作りのクリームとか、キャンドルに
-　よく使われるの」","","",""
-00000c74,10,"「へ～っ」","","",""
+　よく使われるの」","“Bees are sure… they are taken from bee’s、est,
+and they are often used for handmade creams
+andクリームs.”","«Пчелы уверены… они взяты из пчелы、est, и они
+часто используются для кремов ручной работы и
+リームs. »","„Bees sind sicher… sie werden von Bienen
+genommen, und sie werden oft für handgemachte
+Cremes und Milch-Mini-Datum verwendet. „"
+00000c74,10,"「へ～っ」","」","」","!"
 00000cc8,57,"「誰か、何かを作ろうとして、
-　落としたんじゃないかな？」","","",""
+　落としたんじゃないかな？」","“I wonder if I lost someone or something?”","— Интересно, что я потерял кого-то или что-то? »","„Ich frage mich, ob ich jemanden oder so verlor?
+„"
 00000d38,96,"「じゃあ、探してるだろうな。
 　…けど、手がかりもないし、
-　生徒会室の落とし物箱に入れておくよ」","","",""
-00000dd8,34,"「ええ、そうね。それがいいと思う」","","",""
-00000e50,14,"「それじゃ…」","","",""
-00000ebc,16,"「うん、またね」","","",""
-0000077c,14,"「あ、\p01君」","","",""
-00000858,8,"「何？」","","",""
-0000106c,32,"「その…これって、新見さんの？」","","",""
-0000090c,36,"「なぁに？　それ。……あ、蜜ろう？」","","",""
-00001170,10,"「…そう」","","",""
-00000a04,42,"「珍しいわね、学校にそんなのがあるなんて」","","",""
-0000122c,36,"「ってことは…新見さんのじゃない？」","","",""
-00000ad0,16,"「ええ、違うわ」","","",""
-000012ec,12,"「そっか…」","","",""
-0000133c,14,"「落とし物？」","","",""
+　生徒会室の落とし物箱に入れておくよ」","I'm looking for. …But I don’t have a clue, and
+I will put it in the dropbox of the student’s
+meeting room.”","Я ищу. …Но у меня нет подсказки, и я положу его
+в падение студенческой комнаты. »","Ich suche nach. …Aber ich habe keine Ahnung,
+und ich werde es in den Dropbox des Studenten
+Meeting-Raums setzen. „"
+00000dd8,34,"「ええ、そうね。それがいいと思う」","Yes, yeah. I think it is good","- Да, да. Я думаю, что это хорошо","Ja, ja. Ich glaube, es ist gut"
+00000e50,14,"「それじゃ…」","」","」","!"
+00000ebc,16,"「うん、またね」","」","」","!"
+00000858,8,"「何？」","What's New","Что нового","Was ist neu?"
+0000106c,32,"「その…これって、新見さんの？」","What is this?","- Что это?","Was ist das?"
+0000090c,36,"「なぁに？　それ。……あ、蜜ろう？」","。 ……Have you honey?","。 ……Вы мед?","Hast du Honig?"
+00001170,10,"「…そう」","…so","…так","…so"
+00000a04,42,"「珍しいわね、学校にそんなのがあるなんて」","“It’s rare, it’s like a school.”","«Это редко, это как школа. »","„Es ist selten, es ist wie eine Schule. „"
+0000122c,36,"「ってことは…新見さんのじゃない？」","“What’s New?”","- Что нового? »","„Was ist neu? „"
+00000ad0,16,"「ええ、違うわ」","I'm different.","- Я разные.","Ich bin anders."
+000012ec,12,"「そっか…」","っ","ПРЯМО",","
+0000133c,14,"「落とし物？」","“What is lost?”","- Что потеряно? »","„Was ist verloren? „"
 00001378,71,"「ああ…けど、誰のかわからないし
-　生徒会室の落とし物箱に入れておくよ」","","",""
-00000dd8,34,"「ええ、そうね。それがいいと思う」","","",""
-00000e50,14,"「それじゃ…」","","",""
-00000ebc,16,"「うん、またね」","","",""
-00001594,26,"（いったい誰のだろうな…）","","",""
-000015f4,16,"（室戸先輩かな）","","",""
-00001734,20,"（教室にいるかな？）","","",""
-000017c0,24,"（室戸先輩は…あ、いた）","","",""
-000017fc,34,"「室戸先輩、ちょっといいですか？」","","",""
-0000184c,8,"「え？」","","",""
-000018e4,24,"「\p01君、どうしたの？」","","",""
-00001934,36,"「これって、先輩のじゃないですか？」","","",""
-000019ac,22,"「蜜ろう？　違うわよ」","","",""
-000012ec,12,"「そっか…」","","",""
+　生徒会室の落とし物箱に入れておくよ」","Oh, but I don't know who you are, and I'll put
+it in the dropbox of the student party room.","«О, но я не знаю, кто вы, и я положу его в
+падение студенческой комнаты вечеринки».","Oh, aber ich weiß nicht, wer du bist, und ich
+lege es in die Dropbox des
+Studenten-Party-Zimmers."
+00000dd8,34,"「ええ、そうね。それがいいと思う」","Yes, yeah. I think it is good","- Да, да. Я думаю, что это хорошо","Ja, ja. Ich glaube, es ist gut"
+00000e50,14,"「それじゃ…」","」","」","!"
+00000ebc,16,"「うん、またね」","」","」","!"
+00001594,26,"（いったい誰のだろうな…）","(Who are you?)","(Кто ты?)","(Wer sind Sie?)"
+000015f4,16,"（室戸先輩かな）","(Muroto seniors)","(Мурото старшие)","(Muroto Senioren)"
+00001734,20,"（教室にいるかな？）","(Is it in the classroom?)","(Это в классе?)","(Ist es im Klassenzimmer?)"
+000017c0,24,"（室戸先輩は…あ、いた）","(Muroto seniors … Oh, I)","(Muroto seniors … О, я)","(Muroto Senioren… Oh, ich"
+000017fc,34,"「室戸先輩、ちょっといいですか？」","Muroto seniors, how about it?","«Мурото старшие, как насчет этого?»","Muroto Senioren, wie wär's damit?"
+0000184c,8,"「え？」","?」","?」","?"
+00001934,36,"「これって、先輩のじゃないですか？」","“Is this a senior?”","- Это старший? »","„Ist das ein Senior? „"
+000019ac,22,"「蜜ろう？　違うわよ」","I'll be honey?","- Я буду медом?","Ich werde Honig sein?"
+000012ec,12,"「そっか…」","っ","ПРЯМО",","
 00001a98,55,"「落とし物？　珍しいわね、
-　そんな物が落ちてるなんて」","","",""
-00001b44,28,"「これって、何なんですか？」","","",""
+　そんな物が落ちてるなんて」","“What is lost? It’s rare, it’s like that.”","- Что потеряно? Это редко, это так. »","„Was ist verloren? Es ist selten, es ist so. „"
+00001b44,28,"「これって、何なんですか？」","What is this?","Что это?","Was ist das?"
 00001bc0,83,"「蜜ろうは、蜂の巣から抽出される成分で、
-　化粧品や、ろうそくなんかに使われるのよ」","","",""
+　化粧品や、ろうそくなんかに使われるのよ」","Honey is a component extracted from the bee's
+est, which is used for cosmetics and化粧品s.","Honey - это компонент, выработанный из est
+пчелы, который используется для косметики и 品
+ячейки.","Honey ist eine Komponente, die aus der Est der
+Bienen gewonnen wird, die für Kosmetika und
+Ernährung verwendet wird."
 00001c78,86,"「たぶん、自分でろうそくか何かを
 　作ろうと持ってきて、
-　落としちゃったんじゃない？」","","",""
-00001d38,36,"「簡単にできるんですか？　そんなの」","","",""
+　落としちゃったんじゃない？」","“I’m sure you’re trying to make something that
+you’reそing yourself?”","«Я уверен, что ты пытаешься сделать что-то, что
+ты делаешь себя? »","“Ich bin sicher, dass Sie versuchen, etwas zu
+machen, das Sie selbst ?ing? „"
+00001d38,36,"「簡単にできるんですか？　そんなの」","“Is it easy?” Comment","- Легко? Комментарий","„Ist es einfach?“ Anmerkung"
 00001dbc,51,"「難しくないと思うわよ。
-　混ぜるだけだと思うから」","","",""
+　混ぜるだけだと思うから」","I think it is not difficult. I think you just
+mix it.","- Думаю, это не сложно. Я думаю, что вы просто
+смешиваете его.","Ich glaube, es ist nicht schwierig. Ich glaube,
+du mische es einfach."
 00001e24,51,"「作ったことはないから、
-　詳しくはわからないけど」","","",""
-00001eb0,10,"「ははは」","","",""
+　詳しくはわからないけど」","“I don’t know how to make it,”","“Я не знаю, как это сделать,”","„Ich weiß nicht, wie man es macht“,"
+00001eb0,10,"「ははは」","」","」","!"
 00001f18,69,"「生徒会室の前に落とし物箱があるから、
-　そこに入れておくといいわよ」","","",""
+　そこに入れておくといいわよ」","There is a drop box in front of the student's
+meeting room, so it's nice to go there.","Есть коробка капли перед конференц-залом
+студента, так что это приятно идти туда.","Es gibt eine Dropbox vor dem Konferenzraum des
+Schülers, also ist es schön, dorthin zu gehen."
 00001fb8,51,"「珍しいものだし、
-　落とし主が取りに来るでしょう」","","",""
-00002060,26,"「そうですね、そうします」","","",""
+　落とし主が取りに来るでしょう」","“It’s unusual, and it’s going to be removed.”","«Это необычно, и это будет удалено. »","„Es ist ungewöhnlich, und es wird entfernt
+werden. „"
+00002060,26,"「そうですね、そうします」","“Yes, I do it.”","— Да, я это делаю. »","„Ja, ich tue es. „"
 0000209c,49,"「じゃあ、さっそく入れてくるんで、
-　失礼します」","","",""
-00002118,34,"「フフッ、善は急げね。いいことよ」","","",""
-0000219c,16,"「それじゃあね」","","",""
-00001594,26,"（いったい誰のだろうな…）","","",""
-00002298,20,"（舞衣ちゃんかな？）","","",""
-00000600,18,"（教室にいるかな）","","",""
-0000242c,26,"「あ、いた、舞衣ちゃん！」","","",""
-000024f0,16,"「あ、\p01先輩」","","",""
-000025d0,22,"「どうかしましたか？」","","",""
-0000261c,36,"「これって、舞衣ちゃんのじゃない？」","","",""
-000026a0,36,"「何ですか？　それ？　みつ…ろう？」","","",""
-00002760,20,"「私のじゃないです」","","",""
-000012ec,12,"「そっか…」","","",""
+　失礼します」","Yes, I'll be rude and rude.","- Да, я буду грубым и грубым.","Ja, ich bin unhöflich und unhöflich."
+00002118,34,"「フフッ、善は急げね。いいことよ」","“I’m sorry, it’s good.” Good","— Простите, это хорошо. Хорошо","„Es tut mir leid, es ist gut.“ Gut."
+0000219c,16,"「それじゃあね」","It's it!","- Это!","Das ist es!"
+00001594,26,"（いったい誰のだろうな…）","(Who are you?)","(Кто ты?)","(Wer sind Sie?)"
+00002298,20,"（舞衣ちゃんかな？）","(Mai-chan?)","(Май-чан?)","(Mai-chan?)"
+00000600,18,"（教室にいるかな）","(I'm in the classroom)","(Я в классе)","(Ich bin im Klassenzimmer)"
+0000242c,26,"「あ、いた、舞衣ちゃん！」","“Oh, I’m Mai!”","«О, я май!»","„Oh, ich bin Mai!“"
+000025d0,22,"「どうかしましたか？」","What did you do?","Что ты сделал?","Was hast du getan?"
+0000261c,36,"「これって、舞衣ちゃんのじゃない？」","“This is Maii-chan?”","«Это Майя-Чан? »","„Das ist Maii-chan? „"
+000026a0,36,"「何ですか？　それ？　みつ…ろう？」","What is ? Is it?","Что такое ? Это?","Was ist ? Ist es das?"
+00002760,20,"「私のじゃないです」","I'm not my","Я не мой","Ich bin nicht mein"
+000012ec,12,"「そっか…」","っ","ПРЯМО",","
 0000280c,57,"「何だか薬みたいだし、化学か何かで
-　使うんでしょうか？」","","",""
-000028bc,22,"「う～ん、そうかもね」","","",""
+　使うんでしょうか？」","“Is it like a medicine or medicine, is it used
+for chemical or something?”","«Это как лекарство или лекарство, он используется
+для химиката или чего-то? »","„Ist es wie eine Medizin oder Medizin, wird es
+für Chemie oder so etwas verwendet? „"
+000028bc,22,"「う～ん、そうかもね」","Oh, it's okay!","«О, это нормально!»","Oh, es ist okay!"
 000028f4,63,"「よくわからないから、
-　生徒会室の落とし物箱に入れておくかな」","","",""
-0000297c,32,"「そうですね。それがいいですよ」","","",""
-000029f4,28,"「それじゃあね、舞衣ちゃん」","","",""
-00002a5c,20,"「はい、失礼します」","","",""
-00001594,26,"（いったい誰のだろうな…）","","",""
-00002b88,16,"（実原…かな？）","","",""
-00002c9c,24,"（教室にいるといいけど）","","",""
-00002d2c,26,"「あ、いた。おーい、実原」","","",""
-00002df0,12,"「\p01先輩」","","",""
-00002ecc,18,"「何か用ですか？」","","",""
-00002f14,32,"「これって、お前のじゃないか？」","","",""
-00002f94,26,"「蜜…ろう？　違いますよ」","","",""
-00003048,20,"「落とし物ですか？」","","",""
-00003088,8,"「ああ」","","",""
-000030f0,34,"「変わった物が落ちてたものですね」","","",""
-0000313c,10,"「だよな」","","",""
+　生徒会室の落とし物箱に入れておくかな」","“I don’t know it, so I’m going to go to the
+droplet box in the student’s room.”","“Я не знаю, так что я собираюсь пойти в коробку
+капель в студенческой комнате. »","“Ich weiß es nicht, also gehe ich in die
+Droplet-Box im Studentenzimmer. „"
+0000297c,32,"「そうですね。それがいいですよ」","Yes. That’s right.","Да. Это правильно.","Ja. Das stimmt."
+000029f4,28,"「それじゃあね、舞衣ちゃん」","Yes, Mai-chan","Да, Май-Чан","Ja, Mai-chan"
+00002a5c,20,"「はい、失礼します」","Yes, rude.","- Да, грубо.","Ja, unhöflich."
+00001594,26,"（いったい誰のだろうな…）","(Who are you?)","(Кто ты?)","(Wer sind Sie?)"
+00002b88,16,"（実原…かな？）","(Are you?)","(Вы?)","(Sind Sie?)"
+00002c9c,24,"（教室にいるといいけど）","Sorry, this entry is only available in Japanese.","Извините, этот техт доступен только в “Японский”.","Leider ist dieser Eintrag nur auf Japanisch
+verfügbar."
+00002d2c,26,"「あ、いた。おーい、実原」","。 Home","。 Начало","。 Home"
+00002ecc,18,"「何か用ですか？」","“What is it?”","— Что это? »","„Was ist das? „"
+00002f14,32,"「これって、お前のじゃないか？」","I'm not this?","- Я не это?","Ich bin das nicht?"
+00002f94,26,"「蜜…ろう？　違いますよ」","Honey… I'm different.","«Они… Я разные.","Honey… Ich bin anders."
+00003048,20,"「落とし物ですか？」","“What is lost?”","- Что потеряно? »","„Was ist verloren? „"
+00003088,8,"「ああ」","Home","Начало","Home"
+000030f0,34,"「変わった物が落ちてたものですね」","“It’s something that has changed.”","«Это то, что изменилось. »","„Es ist etwas, das sich verändert hat. „"
+0000313c,10,"「だよな」","」","」","!"
 000031a4,81,"「生徒会室の落とし物箱に入れておけば、
-　落とし主が取りに行くんじゃないですか？」","","",""
-00003260,40,"「そうだな、そうするよ。じゃあ、またな」","","",""
-000032e8,14,"「失礼します」","","",""
-00001594,26,"（いったい誰のだろうな…）","","",""
-000033e0,16,"（ののか…かな）","","",""
-00000600,18,"（教室にいるかな）","","",""
-00003554,30,"「あ、いた。お～い、ののか～」","","",""
-0000361c,18,"「あ、だっつん！」","","",""
-0000370c,24,"「何？　何？　何か用？」","","",""
-00002f14,32,"「これって、お前のじゃないか？」","","",""
-00003818,26,"「みつ…ろう？　何これ？」","","",""
-000038a8,10,"「さぁ？」","","",""
+　落とし主が取りに行くんじゃないですか？」","“If I go to the student’s room’s dropbox, will my
+der go?”","«Если я пойду в падение студенческой комнаты,
+пойдет ли мой де? »","“Wenn ich in die Dropbox des Schülers gehe, wird
+meine der gehen? „"
+00003260,40,"「そうだな、そうするよ。じゃあ、またな」","Yes, I do. Others","- Да, я делаю. Другие","Ja, das tue ich. Sonstige"
+000032e8,14,"「失礼します」","I'm sorry.","- Прости.","Es tut mir leid."
+00001594,26,"（いったい誰のだろうな…）","(Who are you?)","(Кто ты?)","(Wer sind Sie?)"
+000033e0,16,"（ののか…かな）",")",")",")"
+00000600,18,"（教室にいるかな）","(I'm in the classroom)","(Я в классе)","(Ich bin im Klassenzimmer)"
+00003554,30,"「あ、いた。お～い、ののか～」","。 Comment","。 Комментарий","。 Kommentar"
+0000361c,18,"「あ、だっつん！」","、","、","、"
+0000370c,24,"「何？　何？　何か用？」","What? What?","Что? Что?","Was? Was?"
+00002f14,32,"「これって、お前のじゃないか？」","I'm not this?","- Я не это?","Ich bin das nicht?"
+00003818,26,"「みつ…ろう？　何これ？」","What is this?","Что это?","Was ist das?"
+000038a8,10,"「さぁ？」","?」","?」","?"
 00003904,49,"「こんなわけのわかんないもん、
-　私んじゃないよ」","","",""
-0000396c,22,"「そっか…そうだよな」","","",""
-0000133c,14,"「落とし物？」","","",""
+　私んじゃないよ」","“I don’t know what is like this, I’m going to
+love you.”","«Я не знаю, что это такое, я буду любить вас. »","„Ich weiß nicht, was so ist, ich werde dich
+lieben. „"
+0000396c,22,"「そっか…そうだよな」","It's right… it's right.","Это правильно… это правильно.","Es ist richtig… Es ist richtig."
+0000133c,14,"「落とし物？」","“What is lost?”","- Что потеряно? »","„Was ist verloren? „"
 00003a24,96,"「そうなんだけど、誰が落としたのか
 　見当もつかないから、
-　生徒会室の落とし物箱に入れておくよ」","","",""
-00003ae4,34,"「うん、そうだね～、それがいいよ」","","",""
-00003b60,28,"「じゃあ、またね、だっつん」","","",""
-00003bb4,16,"「ああ、またな」","","",""
-00001594,26,"（いったい誰のだろうな…）","","",""
-00003ca8,22,"（柚ノ木さん…かな？）","","",""
-00000600,18,"（教室にいるかな）","","",""
-00003e2c,24,"「柚ノ木さん、いる～？」","","",""
-000018e4,24,"「\p01君、どうしたの？」","","",""
-00003f18,42,"「これ、落としたの、柚ノ木さんじゃない？」","","",""
+　生徒会室の落とし物箱に入れておくよ」","“Is it, but I don’t know who I dropped, so I’ll
+put it in the dropbox of the student group.”","“Я это, но я не знаю, кто я упал, так что я
+положу его в падение студенческой группы. »","„Ist es, aber ich weiß nicht, wer ich fallen
+gelassen habe, also werde ich es in die Dropbox
+der Studentengruppe setzen. „"
+00003ae4,34,"「うん、そうだね～、それがいいよ」","“Yes, it’s right!”","- Да, это правильно!","„Ja, es ist richtig!“"
+00003b60,28,"「じゃあ、またね、だっつん」","Yeah, again, it's it!","«Да, опять, это!»","Ja, wieder ist es!"
+00003bb4,16,"「ああ、またな」","」","」","!"
+00001594,26,"（いったい誰のだろうな…）","(Who are you?)","(Кто ты?)","(Wer sind Sie?)"
+00003ca8,22,"（柚ノ木さん…かな？）","(Yuzunogi … kana?)","(Юзуноги … кана?)","(Yuzunogi … kana?)"
+00000600,18,"（教室にいるかな）","(I'm in the classroom)","(Я в классе)","(Ich bin im Klassenzimmer)"
+00003e2c,24,"「柚ノ木さん、いる～？」","Yuzunoki-san, I am~?","Юзуноки-сан, я~?","Yuzunoki-san, bin ich?"
+00003f18,42,"「これ、落としたの、柚ノ木さんじゃない？」","“I’m not a yuzu-san who dropped it?”","«Я не юзу-сан, который его бросил? »","„Ich bin kein Yuzu-san, der es fallen ließ? „"
 00003f9c,55,"「あ、そう、私の！　探してたの～。
-　どこに落ちてた？」","","",""
-00004008,18,"「そこの階段だよ」","","",""
+　どこに落ちてた？」","“Oh, yes, I’m looking for it!” Where did you
+fall?","«О, да, я ищу это!» Где ты упал?","„Oh, ja, ich suche es!“ Wo bist du hingefallen?"
+00004008,18,"「そこの階段だよ」","“It’s aのircase.”","«Это абстракт. »","„Es ist ein Akt. „"
 0000406c,61,"「あ、あれ？　そんなすぐそばに？
-　何度も探しに行ったのに…」","","",""
-00004120,20,"「灯台もと暗しだね」","","",""
-00004174,18,"「フフッ、そうね」","","",""
-000041dc,32,"「ところで、その蜜ろうって何？」","","",""
-0000425c,38,"「あ…フフッ、男の人は知らないわよね」","","",""
+　何度も探しに行ったのに…」","Oh, it? It's just so close? I'm looking for many
+times…","- О, это? Это так близко? Я ищу много раз…","Oh, es? Es ist so nah dran? Ich suche viele
+Male…"
+00004120,20,"「灯台もと暗しだね」","The lighthouse is dark.","«Маяк темный».","Der Leuchtturm ist dunkel."
+00004174,18,"「フフッ、そうね」","Fフ, it is.","«ФБ, это».","Vielleicht ist es."
+000041dc,32,"「ところで、その蜜ろうって何？」","“Where is that molasses?”","«Где это моласы? »","„Wo ist diese Melasse? „"
+0000425c,38,"「あ…フフッ、男の人は知らないわよね」","“Oh… I don’t know a man.”","«О… Я не знаю человека. »","„Oh… ich kenne keinen Mann. „"
 0000431c,61,"「ミツバチの巣から取れる自然のろう…
-　つまり、ワックスなの」","","",""
-00000c74,10,"「へ～っ」","","",""
+　つまり、ワックスなの」","Nature braws that can be taken from the bee's
+est … That is, it is a wax","Природные смелости, которые можно взять с самого
+пчелы … То есть, это воск","Nature Braws, die aus der Est der Bienen
+genommen werden können… Das heißt, es ist ein
+Wachs"
+00000c74,10,"「へ～っ」","」","」","!"
 0000442c,61,"「アボカドオイルと混ぜて、
-　ハンドクリームを作ろうと思って」","","",""
-000044e0,20,"「アボカドオイル？」","","",""
+　ハンドクリームを作ろうと思って」","I want to make a hand cream by mixing with
+avocado oil","«Хочу сделать крем для рук путем смешивания с
+маслом авокадо»","Ich möchte eine Handcreme durch Mischen mit
+Avocadoöl machen"
+000044e0,20,"「アボカドオイル？」","“Avocado Oil”","«Авокадо Масло»","„Avocadoöl“"
 00004554,79,"「え～と…アボカドオイルは、名前の通り
-　アボカドから取れるオイルなんだけど…」","","",""
+　アボカドから取れるオイルなんだけど…」","
+“Ehhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh","
+hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh","
+hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh"
 00004608,79,"「アボカドは森のバターって言われるぐらい、
-　栄養があって、脂肪分が多いから…」","","",""
+　栄養があって、脂肪分が多いから…」","Avocado is said to be butter in the forest,
+because it is ritious and fatty …","«Авокадо говорит, что масло в лесу, потому что
+это ритуально и жирно …»","Avocado soll Butter im Wald sein, denn es ist
+ritisch und fett…"
 000046bc,69,"「口にしても大丈夫な、肌に優しい、
-　植物由来の天然オイルが取れるの」","","",""
+　植物由来の天然オイルが取れるの」","You can take natural oils  from plants, which
+are gentle on the skin, even if it is a mouth.","Вы можете принимать натуральные масла от
+растений, которые нежны на коже, даже если это
+рот.","Sie können natürliche Öle von Pflanzen nehmen,
+die sanft auf der Haut sind, auch wenn es ein Mund
+ist."
 00004758,63,"「ミツバチの巣から取れる蜜ろうも、
-　１００％天然素材だから…」","","",""
+　１００％天然素材だから…」","Bees from bee's、est are 100% natural…","Пчелы от пчелы、est являются 100% естественно…","Die Bienen von Bienen sind 100% natürlich…"
 000047e8,67,"「２つを混ぜると、とっても肌に優しい
-　ハンドクリームができるのよ」","","",""
-00004860,38,"「ふうん、ハンドクリームも手作りかぁ」","","",""
+　ハンドクリームができるのよ」","If you mix two, you can make a hand cream that
+is very gentle on the skin.","Если вы смешиваете два, вы можете сделать крем
+для рук, который очень нежный на коже.","Wenn Sie zwei mischen, können Sie eine Handcreme
+machen, die sehr sanft auf der Haut ist."
+00004860,38,"「ふうん、ハンドクリームも手作りかぁ」","I'm a hand cream, too.","- Я тоже крем для рук.","Ich bin auch eine Handcreme."
 000048e4,67,"「コスメも料理も、自分に合ったものが
-　作れるから、手作りが一番よ」","","",""
-000049cc,22,"「柚ノ木さんらしいね」","","",""
-00004a1c,22,"「フフッ、ありがとう」","","",""
-00004a80,26,"「それじゃ、教室へ戻るよ」","","",""
-00004ae4,32,"「ええ、届けてくれてありがとう」","","",""
-00004b90,42,"「だから、柚ノ木さんの肌はきれいなんだな」","","",""
-00004c04,8,"「え…」","","",""
-00004c30,30,"「あ…ご、ごめん。いきなり…」","","",""
-00004c98,28,"「う、ううん。ありがとう…」","","",""
-00004d0c,30,"「そ、それじゃ、教室へ戻るよ」","","",""
-00004ae4,32,"「ええ、届けてくれてありがとう」","","",""
-00004e24,18,"（深角さん…かな）","","",""
-00002c9c,24,"（教室にいるといいけど）","","",""
-00004fc8,22,"「あ、いた。深角さん」","","",""
-0000077c,14,"「あ、\p01君」","","",""
-00000858,8,"「何？」","","",""
-000051a4,34,"「これって、深角さんのじゃない？」","","",""
-00005218,20,"「…私のじゃないわ」","","",""
-000012ec,12,"「そっか…」","","",""
-0000133c,14,"「落とし物？」","","",""
-000052fc,26,"「ああ、屋上で拾ったんだ」","","",""
+　作れるから、手作りが一番よ」","The best way to make cosmetics and cooking is to
+make something that suits you.","Лучший способ сделать косметику и готовить - это
+сделать то, что вам подходит.","Der beste Weg, um Kosmetik und Kochen zu machen,
+ist etwas, das zu Ihnen passt."
+000049cc,22,"「柚ノ木さんらしいね」","“It’s like Yuzunoki.”","- Это как Юзуноки.","„Es ist wie Yuzunoki.“"
+00004a1c,22,"「フフッ、ありがとう」","Thank you very much","Спасибо большое","Danke sehr"
+00004a80,26,"「それじゃ、教室へ戻るよ」","It is, I will go to the classroom!","«Это, я пойду в класс!»","Ich gehe in den Klassenraum!"
+00004ae4,32,"「ええ、届けてくれてありがとう」","Yes, thank you for sending me.","- Да, спасибо, что отправили меня.","Ja, danke, dass du mich geschickt hast."
+00004b90,42,"「だから、柚ノ木さんの肌はきれいなんだな」","“So, I don’t have Yuzunogi’s skin clean.”","«Так, у меня нет кожи Юзуноги чистой. »","„So habe ich Yuzunogis Haut nicht sauber. „"
+00004c04,8,"「え…」","」","」","!"
+00004c30,30,"「あ…ご、ごめん。いきなり…」","Oh, sorry.","- О, извините.","Oh, tut mir leid."
+00004c98,28,"「う、ううん。ありがとう…」","。 Home","。 Начало","。 Home"
+00004d0c,30,"「そ、それじゃ、教室へ戻るよ」","Now, it's a class.","- Теперь это класс.","Jetzt ist es eine Klasse."
+00004ae4,32,"「ええ、届けてくれてありがとう」","Yes, thank you for sending me.","- Да, спасибо, что отправили меня.","Ja, danke, dass du mich geschickt hast."
+00004e24,18,"（深角さん…かな）","())","()","()"
+00002c9c,24,"（教室にいるといいけど）","Sorry, this entry is only available in Japanese.","Извините, этот техт доступен только в “Японский”.","Leider ist dieser Eintrag nur auf Japanisch
+verfügbar."
+00004fc8,22,"「あ、いた。深角さん」","。","。","。"
+00000858,8,"「何？」","What's New","Что нового","Was ist neu?"
+000051a4,34,"「これって、深角さんのじゃない？」","This is not a deep angle?","- Это не глубокий угол?","Das ist kein tiefer Winkel?"
+00005218,20,"「…私のじゃないわ」","… I'm not mine.","… Я не моя.","… Ich bin nicht mein."
+000012ec,12,"「そっか…」","っ","ПРЯМО",","
+0000133c,14,"「落とし物？」","“What is lost?”","- Что потеряно? »","„Was ist verloren? „"
+000052fc,26,"「ああ、屋上で拾ったんだ」","“Oh, I picked up on the rooftop.”","«О, я взял на крыше. »","„Oh, ich nahm auf dem Dach auf. „"
 00005374,61,"「生徒会室の、落とし物箱に
-　入れておくのがいいんじゃない？」","","",""
+　入れておくのがいいんじゃない？」","“Is it good to put in a dropbox in the student’s
+meeting room?”","«Хорошо ли поставить в дропбокс в конференц-зале
+студента? »","„Ist es gut, eine Dropbox in den Tagungsraum des
+Schülers einzufügen? „"
 000053dc,47,"「そうだよね…。
-　じゃあ、届けてくるよ。また」","","",""
-00005468,20,"「ええ、それじゃ…」","","",""
-000054d8,16,"（果音のかもな）","","",""
-00001734,20,"（教室にいるかな？）","","",""
-0000566c,26,"「あ、いた、お～い、果音」","","",""
-00005730,24,"「ふぇ？　あ、にいやん」","","",""
-00005828,28,"「どうしたの～？　何か用？」","","",""
-00002f14,32,"「これって、お前のじゃないか？」","","",""
+　じゃあ、届けてくるよ。また」","Yes, right? Let’s get back. Others","- Да, правда? Вернемся. Другие","Ja, richtig? Gehen wir zurück. Sonstige"
+00005468,20,"「ええ、それじゃ…」","Yes, it is…","«Да, это…»","Ja, es ist…"
+000054d8,16,"（果音のかもな）","(Sound)","(звук)","(Klang)"
+00001734,20,"（教室にいるかな？）","(Is it in the classroom?)","(Это в классе?)","(Ist es im Klassenzimmer?)"
+0000566c,26,"「あ、いた、お～い、果音」","“Oh, I, Oh, Oh, Oh!”","- О, я, О, О!","„Oh, ich, Oh, Oh, Oh!“"
+00005730,24,"「ふぇ？　あ、にいやん」","?","?","?"
+00005828,28,"「どうしたの～？　何か用？」","“What’s it?”","- Что это? »","„Was ist das? „"
+00002f14,32,"「これって、お前のじゃないか？」","I'm not this?","- Я не это?","Ich bin das nicht?"
 00005904,80,"「ん？　何それ？　みつ……ろう？
 　そんな訳のわかんないもん、
-　私んじゃないよ」","","",""
-0000396c,22,"「そっか…そうだよな」","","",""
-0000133c,14,"「落とし物？」","","",""
+　私んじゃないよ」","What is it? Sorry, this entry is only available
+in Japanese.","Что это? Извините, этот техт доступен только в
+“Японский”.","Was ist los? Leider ist dieser Eintrag nur auf
+Japanisch verfügbar."
+0000396c,22,"「そっか…そうだよな」","It's right… it's right.","Это правильно… это правильно.","Es ist richtig… Es ist richtig."
+0000133c,14,"「落とし物？」","“What is lost?”","- Что потеряно? »","„Was ist verloren? „"
 00005a64,98,"「ああ、階段に落ちてたんだけど、
 　誰のか見当もつかないし、
-　生徒会室の落とし物箱へ入れておくか」","","",""
-00005b18,40,"「うん、そうだね～。それがいいと思うよ」","","",""
-00005b6c,18,"「じゃあ、またな」","","",""
-00005bc8,18,"「うん、またね～」","","",""
-00005c60,42,"（大谷先生のかな？　職員室へ行ってみるか）","","",""
-00005dd4,38,"（あ、大谷先生、ちょうどいいところに）","","",""
-00005e48,30,"（え～と、周りに人がいるよな）","","",""
-00005e98,36,"「大谷先生～、ちょっといいですか？」","","",""
-0000184c,8,"「え？」","","",""
-00005fe4,28,"「あ、\p01君。どうしたの？」","","",""
-00006038,36,"「これって、先生のじゃないですか？」","","",""
-000060b0,26,"「なぁに？　それ。錠剤？」","","",""
-000060f4,34,"「蜜ろうって言うらしいんですけど」","","",""
-00006164,38,"「ううん、私のじゃないわ。落とし物？」","","",""
+　生徒会室の落とし物箱へ入れておくか」","“Oh, I fell on the stairs, but I can’t find
+anyone and put it in the dropbox of the student’s
+room.”","«О, я упал на лестницу, но я не могу найти никого
+и поставить его в дропбок студенческой комнаты. »","„Oh, ich fiel auf die Treppe, aber ich kann
+niemanden finden und es in die Dropbox des
+Studentenzimmers setzen. „"
+00005b18,40,"「うん、そうだね～。それがいいと思うよ」","“Yes, it’s right!” I think it is good.","- Да, это правильно! Я думаю, что это хорошо.","„Ja, es ist richtig!“ Ich glaube, es ist gut."
+00005b6c,18,"「じゃあ、またな」","」","」","!"
+00005bc8,18,"「うん、またね～」","」","」","!"
+00005c60,42,"（大谷先生のかな？　職員室へ行ってみるか）","(Are you a teacher of Otani?)","(Вы учитель Otani?)","(Sind Sie Lehrer von Otani?)"
+00005dd4,38,"（あ、大谷先生、ちょうどいいところに）","(Oya, just right)","(Оя, право)","(Oya, genau richtig)"
+00005e48,30,"（え～と、周りに人がいるよな）","Sorry, this entry is only available in 日本語.","Извините, этот техт доступен только в “日本語”.","Leider ist dieser Eintrag nur in 日本語 verfügbar."
+00005e98,36,"「大谷先生～、ちょっといいですか？」","Mr. Otani ~, how about it?","- Господин Отани ~, как насчет этого?","Mr. Otani, wie wär's damit?"
+0000184c,8,"「え？」","?」","?」","?"
+00006038,36,"「これって、先生のじゃないですか？」","“Is this a teacher?”","- Это учитель? »","„Ist das ein Lehrer? „"
+000060b0,26,"「なぁに？　それ。錠剤？」","。 Tablets?","。 Таблетки?","Tabletten?"
+000060f4,34,"「蜜ろうって言うらしいんですけど」","“I’m saying honey!”","- Я говорю мед! »","„Ich sage Honig! „"
+00006164,38,"「ううん、私のじゃないわ。落とし物？」","Yes, I'm not. What is lost?","- Да, я не. Что потеряно?","Ja, bin ich nicht. Was ist verloren?"
 000061f0,90,"「そうなんですけど、
 　誰のか見当もつかないから、
-　生徒会室の落とし物箱へ入れておきます」","","",""
+　生徒会室の落とし物箱へ入れておきます」","It's right, but I can't find anyone, so I put it
+in the dropbox of the student's room.","Это правильно, но я не могу найти никого,
+поэтому я положил его в падение студенческой
+комнаты.","Es ist richtig, aber ich kann niemanden finden,
+also lege ich es in die Dropbox des
+Studentenzimmers."
 000062a8,57,"「そうね、それがいいわね。
-　生徒会に任せておけば安心よ」","","",""
-0000219c,16,"「それじゃあね」","","",""
-000032e8,14,"「失礼します」","","",""
+　生徒会に任せておけば安心よ」","“Yes, it’s good.” Please leave it to the student
+party.","- Да, это хорошо. Пожалуйста, оставьте его на
+студенческую вечеринку.","„Ja, es ist gut.“ Bitte überlassen Sie es der
+Studentenparty."
+0000219c,16,"「それじゃあね」","It's it!","- Это!","Das ist es!"
+000032e8,14,"「失礼します」","I'm sorry.","- Прости.","Es tut mir leid."

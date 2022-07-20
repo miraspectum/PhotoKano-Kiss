@@ -1,39 +1,61 @@
-00000120,32,"「帰り際の雨、ビックリしたなぁ」","I was surprised at the rain on my way home.","",""
-000002dc,32,"「もう、恥ずかしかったんだから」","I was embarrassed already.","",""
-00000474,30,"「柚ノ木さんの冬服が新鮮だよ」","Yuzunogi's winter clothes are fresh.","",""
-000004e4,38,"「フフッ、私もあなたの冬服が新鮮で…」","Huh, my winter clothes are fresh …","",""
-000005b4,24,"「かっこいいって…思う」","I think it's cool …","",""
-00000670,30,"「あなたにとって、秋って何？」","What is autumn for you?","",""
-00000898,34,"「食欲の秋じゃなくて、料理の秋よ」","It's not the fall of appetite, it's the fall of cooking.","",""
-00000928,10,"「ははは」","Hahaha","",""
-000009f0,38,"「うん。秋だけじゃなく、冬も、春もね」","Yeah. Not only in autumn, but also in winter and spring.","",""
-00000b94,28,"「うん、私も。楽しかったわ」","Yeah, I also enjoyed it.","",""
-00000c60,30,"「また、来年も行きましょうね」","Let's go again next year.","",""
-00000cec,12,"「もちろん」","of course","",""
-00000fc8,32,"「また、３人で遊びに行きたいね」","I want to go play with three people again.","",""
-00001034,12,"「いいの？」","okay?","",""
-0000106c,38,"「もちろん。また、新婚さんごっこだな」","Of course. Also, it's a newlyweds pretend.","",""
-000010e8,10,"「あ……」","a……","",""
-00001144,32,"「フフッ、いいわよ、あ・な・た」","Huh, that's okay, oh …","",""
-0000120c,16,"「秋といえば…」","Speaking of autumn …","",""
-0000127c,38,"「フフッ、いい写真、いっぱい撮ってね」","Huh, take a lot of good pictures.","",""
+00000120,32,"「帰り際の雨、ビックリしたなぁ」","I was surprised at the rain on my way home.","Вернуться на путь назад, я был удивлен.","Auf dem Rückweg war ich überrascht."
+000002dc,32,"「もう、恥ずかしかったんだから」","I was embarrassed already.","- Я так смущен. »","„Ich bin so peinlich. „"
+00000474,30,"「柚ノ木さんの冬服が新鮮だよ」","Yuzunogi's winter clothes are fresh.","Зимняя одежда Юзуноки - свежая","Die Winterkleidung von Yuzunoki ist frisch"
+000004e4,38,"「フフッ、私もあなたの冬服が新鮮で…」","Huh, my winter clothes are fresh …","ФБ, я тоже в зимней одежде…","Ich bin auch in deinen Winterkleidung…"
+000005b4,24,"「かっこいいって…思う」","I think it's cool …","“Я думаю, что это круто… »","„Ich glaube, es ist cool… „"
+00000670,30,"「あなたにとって、秋って何？」","What is autumn for you?","Что такое падение для вас?","Was ist der Fall für dich?"
+00000898,34,"「食欲の秋じゃなくて、料理の秋よ」","It's not the fall of appetite, it's the fall of cooking.","«Это не аппетитное падение, это кулинарное
+падение».","Es ist kein Appetitfall, es ist ein Kochfall."
+00000928,10,"「ははは」","Hahaha","」","!"
+000009f0,38,"「うん。秋だけじゃなく、冬も、春もね」","Yeah. Not only in autumn, but also in winter and spring.","。 Зима и Весна","。 Winter und Frühling"
+00000b94,28,"「うん、私も。楽しかったわ」","Yeah, I also enjoyed it.","- Да, я. Это было весело","Ja, bin ich. Es war lustig"
+00000c60,30,"「また、来年も行きましょうね」","Let's go again next year.","«Пусть в следующем году!»","„Wir gehen nächstes Jahr!“"
+00000cec,12,"「もちろん」","of course","Конечно","Natürlich"
+00000fc8,32,"「また、３人で遊びに行きたいね」","I want to go play with three people again.","«Хочу поиграть с 3 людьми».","Ich will mit 3 Leuten spielen."
+00001034,12,"「いいの？」","okay?","- Что хорошего? »","„Was ist gut? „"
+0000106c,38,"「もちろん。また、新婚さんごっこだな」","Of course. Also, it's a newlyweds pretend.","- Конечно. Также, она медовый месяц","Natürlich. Auch ist sie eine Flitterwochen"
+000010e8,10,"「あ……」","a……","………","…"
+00001144,32,"「フフッ、いいわよ、あ・な・た」","Huh, that's okay, oh …","“F」, я хорошо, я хорошо. »","„Ich bin gut, ich bin gut. „"
+0000120c,16,"「秋といえば…」","Speaking of autumn …","«Осенний фестиваль…»","Autumn Festival…"
+0000127c,38,"「フフッ、いい写真、いっぱい撮ってね」","Huh, take a lot of good pictures.","ФБ, хорошее фото, полный выстрел","Füchlein, gutes Foto, voller Schuss"
 00000188,49,"「あ、大変だったわね。
-　びっしょり濡れちゃって」","","",""
+　びっしょり濡れちゃって」","It was hard.","Это было трудно.","Es war hart."
 0000024c,57,"「おかげで、シャツ一枚の柚ノ…いや、
-　梨奈が撮れたけど」","","",""
+　梨奈が撮れたけど」","Thanks to you, one shirt Yuzuno … I'm not,
+I've taken the pina","Спасибо вам, одна рубашка Юзуно … Я не, я
+взяла свину","Danke an dich, ein Hemd Yuzuno… ich bin nicht,
+ich habe die Pina genommen"
 000003a8,47,"「衣替えが終わると、秋だなぁって
-　感じがする」","","",""
+　感じがする」","“I feel it is autumn when I change clothes.”","«Я чувствую, что это осень, когда я меняю одежду.
+»","„Ich fühle, dass es Herbst ist, wenn ich Kleidung
+ändere. „"
 000006fc,71,"「俺にとって秋は……芸術の秋だな。
-　いい写真をもっともっと撮りたいよ」","","",""
+　いい写真をもっともっと撮りたいよ」","“Autumn is the fall of art for me.” I want to
+take more good photos.","«Осень – это падение искусства для меня». Я хочу
+сделать более хорошие фотографии.","„Autumn ist der Fall der Kunst für mich.“ Ich
+will mehr gute Fotos machen."
 000007a0,57,"「そっか。私も負けずに、
-　おいしい料理を作らなくっちゃ」","","",""
+　おいしい料理を作らなくっちゃ」","。 I don’t lose, I don’t make delicious dishes.”","。 Я не теряю, я не делаю вкусные блюда. »","。 Ich verliere nicht, ich mache keine köstlichen
+Gerichte. „"
 0000096c,61,"「２人で楽しい夏だったけど、
-　秋はもっと楽しく過ごしたいね」","","",""
+　秋はもっと楽しく過ごしたいね」","It was a fun summer with two people, but it is
+more fun in autumn","«Это было весело лето с двумя людьми, но это
+больше удовольствия осенью»","Es war ein lustiger Sommer mit zwei Leuten, aber
+es ist mehr Spaß im Herbst"
 00000b00,61,"「夏の思い出といえば、何といっても、
-　一緒に行った海だなぁ」","","",""
+　一緒に行った海だなぁ」","It's the sea that I went with, no matter what I
+remember in summer.","- Это море, с которым я пошел, независимо от
+того, что я помню летом.","Es ist das Meer, mit dem ich ging, egal was ich
+im Sommer erinnere."
 00000d40,65,"「夏の思い出といえば、何といっても、
-　一緒に行った遊園地だなぁ」","","",""
+　一緒に行った遊園地だなぁ」","“It’s an  park where I went together for summer
+memories.”","«Это парк, где я собрался вместе для летних
+воспоминаний. »","„Es ist ein Park, in dem ich für
+Sommererinnerungen zusammen ging. „"
 00000dd8,57,"「あ……あの時はありがとう。
-　絵梨奈もすっごく喜んでた」","","",""
+　絵梨奈もすっごく喜んでた」","Thank you very much. I was very happy with Erina.","Большое спасибо. Я был очень счастлив с Эриной.","Vielen Dank. Ich war sehr glücklich mit Erina."
 00000ecc,71,"「今でも、あの時のことを話すのよ。
-　お兄ちゃんと３人で楽しかったって」","","",""
+　お兄ちゃんと３人で楽しかったって」","“I’m still talking about that. It was fun with
+three brothers.","- Я до сих пор говорю об этом. Это было весело с
+тремя братьями.","„ Davon rede ich immer noch. Es war lustig mit
+drei Brüdern."
