@@ -1,94 +1,179 @@
-000001d4,36,"（ん？　水音が聞こえる。水泳部かな）","","",""
-00000238,42,"「失礼しま～す。撮影許可、もらえますか～」","","",""
-0000049c,40,"「あ！　室戸先輩！　それに、大谷先生！」","","",""
-0000051c,14,"「あ、\p01君」","","",""
-00000580,32,"「どうしたの？　こんなところへ」","","",""
+000001d4,36,"（ん？　水音が聞こえる。水泳部かな）","I hear water sounds. Swimming","Я слышу звуки воды. Плавание","Ich höre Wasserklänge. Schwimmbäder"
+00000238,42,"「失礼しま～す。撮影許可、もらえますか～」","。 Is it possible to take a photo?","。 Можно ли фотографировать?","。 Kann man ein Foto machen?"
+0000049c,40,"「あ！　室戸先輩！　それに、大谷先生！」","Oh! Mr. Muroto! And Mr. Otani!","О! Г-н Мурото! И г-н Отани!","Mr. Muroto! Und Mr. Otani!"
+00000580,32,"「どうしたの？　こんなところへ」","How did you do this?","- Как ты это сделал?","Wie hast du das gemacht?"
 00000608,61,"「水音がしたんで、水泳部が練習中かなと
-　思ったんですけど…」","","",""
+　思ったんですけど…」","I thought that the water sound was playing, and
+the swimming part was running…","«Я думал, что звук воды играл, и плавательная
+часть была запущена…»","Ich dachte, der Wasserklang spielte, und der
+Schwimmteil lief…"
 000006b0,82,"「水泳部の練習なら、
 　さっき終わったところ。
-　今日は軽めのメニューだったみたい」","","",""
+　今日は軽めのメニューだったみたい」","If you want to practice swimming, you're done. It
+seems we can’t find what you’re looking for.","Если вы хотите заниматься плаванием, вы делаете.
+Кажется, мы не можем найти то, что вы ищете.","Wenn Sie schwimmen wollen, sind Sie fertig. Es
+scheint, dass wir nicht finden können, was Sie
+suchen."
 000007c4,61,"「何で２人で……あ！
-　これから、大谷先生の水泳特訓ですか？」","","",""
-0000084c,16,"「ええ、そうよ」","","",""
+　これから、大谷先生の水泳特訓ですか？」","“What are two people? What are the special
+lessons for Mr. Otani?”","— Что такое два человека? Какие специальные уроки
+для мистера Отани? »","„Was sind zwei Menschen? Was sind die besonderen
+Lektionen für Mr. Otani? „"
+0000084c,16,"「ええ、そうよ」","Yes, it is.","- Да, это.","Ja, das ist es."
 00000914,78,"「大谷先生には、いつも勉強を
 　教えていただいてるから、
-　そのお礼代わりにね」","","",""
-00000a08,32,"「けど、何で競泳水着なんです？」","","",""
+　そのお礼代わりにね」","“Otani teaches us about studying, so instead of
+thank you.”","«Отани учит нас об изучении, поэтому вместо того,
+чтобы поблагодарить вас. »","„Otani lehrt uns über das Studium, also statt
+danke. „"
+00000a08,32,"「けど、何で競泳水着なんです？」","“What is the swimsuit?”","«Что такое купальник? »","„Was ist der Badeanzug? „"
 00000a8c,90,"「あ、私、水泳部の後輩にお願いして、
 　時々、部活のあと、
-　泳がせてもらうことにしたのよ」","","",""
-00000b80,20,"「そうなんですか！」","","",""
+　泳がせてもらうことにしたのよ」","“Oh, I asked the juniors of the swimming club,
+and sometimes I decided to swim after the
+revitalization.”","«О, я спросил юниоров плавательного клуба, а
+иногда решил поплавать после оживления. »","„Oh, ich fragte die Junioren des Schwimmclubs,
+und manchmal entschied ich mich, nach der
+Revitalisierung zu schwimmen. „"
+00000b80,20,"「そうなんですか！」","“Is it?”","— Это? »","„Ist es? „"
 00000be0,71,"「ええ、勉強や生徒会の仕事ばかりで、
-　根を詰めすぎるのもよくないから」","","",""
-00000c80,26,"「すごくいいですよ、それ」","","",""
-00000cf0,14,"「でしょう？」","","",""
+　根を詰めすぎるのもよくないから」","“Eh, I’m just studying and working in a student
+group, so I don’t get too much root.”","«Эх, я просто учусь и работаю в студенческой
+группе, поэтому я не получаю слишком много корня.
+»","„Ich studiere und arbeite nur in einer
+Studentengruppe, also bekomme ich nicht zu viel
+Wurzel. „"
+00000c80,26,"「すごくいいですよ、それ」","“It’s really good.”","«Это действительно хорошо. »","„Es ist wirklich gut. „"
+00000cf0,14,"「でしょう？」","“Is it?”","— Это? »","„Ist es? „"
 00000d54,106,"「大谷先生には、いつも勉強を
 　教えていただいてるから、お礼に、
-　ちゃんと水泳特訓につき合いたかったし…」","","",""
-00000e4c,22,"「ちょうどよかったわ」","","",""
+　ちゃんと水泳特訓につき合いたかったし…」","I wanted to meet the special lessons of swimming
+with Mr. Otani because I always taught me the
+study …","«Я хотел встретиться со специальными уроками
+плавания с г-ном Отани, потому что я всегда
+преподаю мне исследование …»","Ich wollte die speziellen Lektionen des
+Schwimmens mit Mr. Otani treffen, weil ich mir
+immer die Studie beigebracht habe…"
+00000e4c,22,"「ちょうどよかったわ」","It's just good!","Это просто хорошо!","Es ist einfach gut!"
 00000f34,51,"「そっか。…で、なんで、
-　２人で水着なんですか？」","","",""
+　２人で水着なんですか？」","。 … So why do you swim with two people?","… Почему ты плаваешь с двумя людьми?","。 … Warum schwimmen Sie mit zwei Leuten?"
 00000fbc,55,"「室戸さんにお願いして、
-　泳ぎを教えてもらってるのよ」","","",""
+　泳ぎを教えてもらってるのよ」","“Muroto asks me to swim.”","«Мурото просит меня плавать. »","„Muroto bittet mich zu schwimmen. „"
 000010a8,80,"「そっか。…で、なんで、
 　２人で水着なんですか？
-　しかも、室戸先輩は競泳水着」","","",""
+　しかも、室戸先輩は競泳水着」","。 … So why do you swim with two people? In
+addition, Murodo seniors swimsuit","… Почему ты плаваешь с двумя людьми? Кроме
+того, купальник для пожилых людей Murodo","。 … Warum schwimmen Sie mit zwei Leuten?
+Zusätzlich, Murodo Seniors Badeanzug"
 00001150,92,"「あ、私？　私は、水泳部の後輩に
 　お願いして、放課後、
-　時々泳がせてもらうことにしたのよ」","","",""
-00000b80,20,"「そうなんですか！」","","",""
+　時々泳がせてもらうことにしたのよ」","Oh, I? I asked the juniors of the swimming
+department and decided to swim from time to time
+after school.","«О, я? Я спросил юниоров отдела плавания и решил
+плавать время от времени после школы».","Oh, ich? Ich fragte die Junioren der
+Schwimmabteilung und entschied mich, von Zeit zu
+Zeit nach der Schule zu schwimmen."
+00000b80,20,"「そうなんですか！」","“Is it?”","— Это? »","„Ist es? „"
 00000be0,71,"「ええ、勉強や生徒会の仕事ばかりで、
-　根を詰めすぎるのもよくないから」","","",""
-00000c80,26,"「すごくいいですよ、それ」","","",""
-00000cf0,14,"「でしょう？」","","",""
+　根を詰めすぎるのもよくないから」","“Eh, I’m just studying and working in a student
+group, so I don’t get too much root.”","«Эх, я просто учусь и работаю в студенческой
+группе, поэтому я не получаю слишком много корня.
+»","„Ich studiere und arbeite nur in einer
+Studentengruppe, also bekomme ich nicht zu viel
+Wurzel. „"
+00000c80,26,"「すごくいいですよ、それ」","“It’s really good.”","«Это действительно хорошо. »","„Es ist wirklich gut. „"
+00000cf0,14,"「でしょう？」","“Is it?”","— Это? »","„Ist es? „"
 000013e0,51,"「私は、室戸さんに、
-　泳ぎを教えてもらってるのよ」","","",""
-000014c0,30,"「あ、教員試験の特訓ですか？」","","",""
-00001548,18,"「ええ、そうなの」","","",""
+　泳ぎを教えてもらってるのよ」","“I teach Murodo to swim.”","«Я преподаю Муродо плавать. »","„Ich bringe Murodo zum Schwimmen bei. „"
+000014c0,30,"「あ、教員試験の特訓ですか？」","“Are you a special lesson for a teacher exam?”","«Вы специальный урок для экзамена по
+преподавателю? »","„Sind Sie eine spezielle Lektion für eine
+Lehrerprüfung? „"
+00001548,18,"「ええ、そうなの」","Eh, it's right.","- Да, это правильно.","Es stimmt."
 000015b0,96,"「室戸さんってすっごいスパルタなのよ。
 　今までのどんなスイミングスクールより、
-　きついぐらい」","","",""
-000016d8,32,"「だから、ついて行くのが大変で」","","",""
-00001750,42,"「手心を加えたら、特訓にならないですから」","","",""
-00001814,34,"「大谷先生って泳げないんですか？」","","",""
+　きついぐらい」","Muroto is a wonderful slider. From what kind of
+school you have ever seen, it's more like you.","Мурото - замечательный слайдер. Из какой школы
+вы когда-либо видели, это больше похоже на вас.","Muroto ist ein wunderbarer Slider. Von der
+Schule, die du je gesehen hast, ist es eher wie
+du."
+000016d8,32,"「だから、ついて行くのが大変で」","“So it’s hard to get around.”","«Так что трудно обойти. »","„So ist es schwer, umherzukommen. „"
+00001750,42,"「手心を加えたら、特訓にならないですから」","If you add your hand, it will be useful for
+special lessons.","Если вы добавите руку, это будет полезно для
+специальных уроков.","Wenn Sie Ihre Hand hinzufügen, wird es für
+spezielle Lektionen nützlich sein."
+00001814,34,"「大谷先生って泳げないんですか？」","“Do you not swim with Dr. Otani?”","«Не купишь с доктором Отани? »","„Schweigen Sie nicht mit Dr. Otani? „"
 000018a0,94,"「そうなの～。けど、室戸さんが
 　親身に教えてくれてるから、
-　少し泳げるようになってきたのよ」","","",""
+　少し泳げるようになってきたのよ」","That's right. However, Mr. Muroto taught me to my
+parents, so I was able to swim a little.","Это правильно. Однако г-н Мурото научил меня
+своим родителям, так что я смог немного
+поплавать».","Das stimmt. Aber Mr. Muroto hat mich meinen
+Eltern beigebracht, also konnte ich etwas
+schwimmen."
 00001a1c,55,"「いつも、いろいろ勉強を
-　教えていただいてるお礼です」","","",""
-00001afc,40,"「お礼だなんて。教師として当然のことよ」","","",""
+　教えていただいてるお礼です」","I'm always thankful for teaching a variety of
+study.","Я всегда благодарен за преподавание
+разнообразного исследования.","Ich bin immer dankbar für die Lehre einer
+Vielzahl von Studien."
+00001afc,40,"「お礼だなんて。教師として当然のことよ」","Thank you. It is natural as a teacher.","Спасибо. Это естественно как учитель.","Danke. Es ist natürlich als Lehrer."
 00001bd4,100,"「いえ、私…本当に感謝してるんです。
 　放課後や昼休み、いつ質問に行っても、
-　快く答えてくださって」","","",""
-00001cd0,26,"「教育実習で大変なのに…」","","",""
+　快く答えてくださって」","“No, I’m really grateful.” After school, lunch
+break, and whenever you need a question, you can
+answer it.","- Нет, я очень благодарен. После школы, обеденный
+перерыв, и когда вам нужен вопрос, вы можете
+ответить на него.","„Nein, ich bin wirklich dankbar.“ Nach der
+Schule, Mittagspause und wann immer Sie eine Frage
+benötigen, können Sie es beantworten."
+00001cd0,26,"「教育実習で大変なのに…」","“It’s hard to learn about education…”","«О образовании трудно узнать… »","„Es ist schwer, über Bildung zu lernen… „"
 00001d40,73,"「ううん、私の受験の知識が役に立つなら
-　うれしいから、どんどん聞いてね」","","",""
-00001e28,24,"「ありがとうございます」","","",""
+　うれしいから、どんどん聞いてね」","“Yes, if my knowledge is helpful, I’ll hear it
+from you.”","«Да, если мои знания полезны, я слышу это от вас.
+»","„Ja, wenn mein Wissen hilfreich ist, werde ich es
+von Ihnen hören. „"
+00001e28,24,"「ありがとうございます」","Thank you","Спасибо","Danke."
 00001e98,88,"「私にできることなんて、
 　泳ぎを教えることぐらいしかないですけど、
-　教えるからには…」","","",""
+　教えるからには…」","“I don’t know what I can do, but I don’t know how
+to swim…”","«Я не знаю, что могу сделать, но не знаю, как
+плавать… »","„Ich weiß nicht, was ich tun kann, aber ich weiß
+nicht, wie man schwimmen kann… „"
 00001f9c,55,"「絶対に５０メートルは、
-　泳げるようにしてみせます！」","","",""
-00002060,38,"「ありがとう～。私こそ、感謝、感謝よ」","","",""
+　泳げるようにしてみせます！」","“You can swim at least 50 meters!”","«Вы можете плавать не менее 50 метров! »","„Sie können mindestens 50 Meter schwimmen! „"
+00002060,38,"「ありがとう～。私こそ、感謝、感謝よ」","Thank you Thank you very much.","Спасибо Большое спасибо.","Danke. Vielen Dank."
 00002114,61,"「さ、練習、続けますよ。
-　次のメニューは、ビート板なしです」","","",""
-000021e0,40,"「ビ、ビート板なし？　それじゃ、沈む…」","","",""
+　次のメニューは、ビート板なしです」","“I’ll continue to practice.” The next menu is
+without a beet board.","«Я буду продолжать практиковать». Следующее меню
+без доски свеклы.","„Ich werde weiter üben.“ Das nächste Menü ist
+ohne ein Wettbrett."
+000021e0,40,"「ビ、ビート板なし？　それじゃ、沈む…」","Bie, no beat board? That's it…","Так, не бить доску? Это…","Bie, kein Schlagbrett? Das ist es…"
 000022d0,96,"「沈みません。そう思い込んでるから、
 　余計な力が入るんです。
-　大谷先生なら、絶対に浮きますよ」","","",""
-00002440,18,"「そう？　絶対？」","","",""
-000024ec,12,"「絶対です」","","",""
-00002540,32,"「…じゃあ、がんばってみるわね」","","",""
+　大谷先生なら、絶対に浮きますよ」","No sinking. That’s why I’ll have extra power.
+Otani teacher will definitely float.”","Нет тонуть. Вот почему я буду иметь
+дополнительную мощность. Учитель Otani обязательно
+будет плавать. »","Nicht sinken. Deshalb werde ich zusätzliche
+Macht haben. Otani Lehrer wird definitiv schweben.
+„"
+00002440,18,"「そう？　絶対？」","“Oh???”","— А?? »","Oh??? „"
+000024ec,12,"「絶対です」","Absolute","Абсолют","Absolute"
+00002540,32,"「…じゃあ、がんばってみるわね」","…I see it!","…Я вижу это!","…ich sehe es!"
 00002600,67,"「水中では怖がらずに、目を開いて、
-　正面を見る。わかってますね？」","","",""
-000026f0,28,"「え、ええ。お手柔らかに～」","","",""
-000027e4,26,"「もが…ふぐ……あっぷ！」","","",""
+　正面を見る。わかってますね？」","In the water, look at the front without fear.
+What do you think?","«В воде смотреть на фронт без страха. Что вы
+думаете?","Im Wasser sehen Sie sich die Front ohne Angst
+an. Was denkst du?"
+000026f0,28,"「え、ええ。お手柔らかに～」","Home Soft","Главная Soft","Zuhause weich"
+000027e4,26,"「もが…ふぐ……あっぷ！」","っ","ФУТБОЛ",","
 0000282c,55,"「そう！　大きく腕で水をかいて！
-　１、２！　１、２！」","","",""
-000028a4,26,"「あうう、おぼれちゃう～」","","",""
+　１、２！　１、２！」","Yes! I'm thinking big with my arms! 1、2! 1、2!","Да! Я думаю, что большой с моими объятиями! 1、2!
+1、2!","Ja! Ich denke groß an meine Arme! 1、2! 1、2!"
+000028a4,26,"「あうう、おぼれちゃう～」","Oh, I'll be","«О, я буду»","Oh, ich werde sein"
 000028ec,57,"「ほら、足が止まってますよ！
-　膝を曲げずに水を叩いて！」","","",""
-00002954,32,"「あぐ…もが…ふが…ぶくぶく…」","","",""
-000029a4,22,"「１、２！　１、２！」","","",""
-00002a5c,20,"「スパルタだなぁ…」","","",""
+　膝を曲げずに水を叩いて！」","I'm sorry, my legs are coming! Don’t bend your
+knees!","Я сожалею, мои ноги приходят! Не сгибайте
+колени!","Es tut mir leid, meine Beine kommen! Beugen Sie
+Ihre Knie nicht!"
+00002954,32,"「あぐ…もが…ふが…ぶくぶく…」","Agu … Moga … Fuga … Bakubuku …","«Агу … Мога … Фуга … Бакубуку …»","Agu… Moga … Fuga … Bakubuku …"
+000029a4,22,"「１、２！　１、２！」","1, 2! 1, 2!","«1, 2! 1, 2!»","1, 2! 1, 2!"
+00002a5c,20,"「スパルタだなぁ…」","It's Sparta…","«Это Спарта…»","Es ist Sparta…"

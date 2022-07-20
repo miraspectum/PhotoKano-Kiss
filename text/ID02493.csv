@@ -1,26 +1,43 @@
-000001dc,16,"「あ、室戸先輩」","","",""
-00000290,14,"「あ、\p01君」","","",""
-000002fc,8,"「む…」","","",""
-000003b0,18,"「その格好は何？」","","",""
-000003f0,26,"「何って、制服ですけど？」","","",""
-00000468,24,"「それはわかってるわよ」","","",""
+000001dc,16,"「あ、室戸先輩」","Oh, my seniors","«О, мои старшие»","Oh, meine Senioren"
+000002fc,8,"「む…」","」","」","!"
+000003b0,18,"「その格好は何？」","What do you like?","- Что вам нравится?","Was gefällt dir?"
+000003f0,26,"「何って、制服ですけど？」","“What is the uniform?”","«Что такое форма? »","„Was ist die Uniform? „"
+00000468,24,"「それはわかってるわよ」","“It’s a good idea.”","«Это хорошая идея. »","„Es ist eine gute Idee. „"
 000004c4,61,"「そうじゃなくて、シャツがだらしなく
-　ズボンから出てるわよ」","","",""
-00000570,28,"「あ、さっき体育だったから」","","",""
+　ズボンから出てるわよ」","“I don’t like that, I don’t have a shirt, but I’m
+going out of my pants.”","«Я не люблю это, у меня нет рубашки, но я иду из
+моих брюк. »","“Ich mag das nicht, ich habe kein Hemd, aber ich
+gehe aus meiner Hose. „"
+00000570,28,"「あ、さっき体育だったから」","“Oh, it was a sport.”","«О, это был спорт. »","„Oh, es war ein Sport. „"
 000005e8,57,"「生徒手帳、２３ページの生徒心得４、
-　『服装等』第３項」","","",""
+　『服装等』第３項」","Student book, 23 pages of student acquiring 4,
+Cloth of Apparel, etc.","«Студентная книга, 23 страницы студента,
+приобретающего 4, «Одежда одежды и т.д.».","Schülerbuch, 23 Seiten des Schülers erwerben 4,
+Klar der Kleidung, etc."
 000006c4,88,"「服装は、その人の人格、
 　教養の表れであることを理解し、
-　常に端正、清潔を旨としよう」","","",""
+　常に端正、清潔を旨としよう」","“I understand that the apparel is the personality
+of the person and the expression of the teaching,
+and always try to be清潔 and clean.”","«Я понимаю, что одежда является личностью
+человека и выражением преподавания, и всегда
+стараюсь быть 潔 и чисто. »","„Ich verstehe, dass die Kleidung die
+Persönlichkeit der Person und der Ausdruck der
+Lehre ist, und versuche immer, klar und sauber zu
+sein. „"
 000007ac,61,"「わかった？　光河学園の生徒としての、
-　自覚が足りないわよ」","","",""
-00000858,34,"「すみません…。じゃあ、直します」","","",""
-00000924,10,"ゴソゴソ…","","",""
-000009a4,42,"「ちょ、ちょっと！　ここで直さないでよ！」","","",""
-00000b10,42,"「トイレへ行って直すのが、礼儀でしょう？」","","",""
-00000b8c,18,"「す、すみません」","","",""
-00000c04,14,"「まったく…」","","",""
-00000c70,38,"「校内の風紀を、乱さないで欲しいわね」","","",""
-00000cf8,10,"「…はい」","","",""
-00000dc4,16,"「それじゃあね」","","",""
-00000ecc,38,"（乱してるつもりはないんだけどなぁ…）","","",""
+　自覚が足りないわよ」","“Wow? As a student of Koga Gakuen, I don’t have
+enough self-awareness.”","«Вау? Как студент Koga Gakuen, у меня нет
+достаточного самосознания. »","„Wow? Als Student von Koga Gakuen habe ich nicht
+genug Selbstbewusstsein. „"
+00000858,34,"「すみません…。じゃあ、直します」","I don't know. That’s right.","Не знаю. Это правильно.","Ich weiß es nicht. Das stimmt."
+00000924,10,"ゴソゴソ…","Home","Начало","Home"
+000009a4,42,"「ちょ、ちょっと！　ここで直さないでよ！」","“T!」’s a little! Don’t fix it here!”","“T!」 немного! Не фиксируйте его здесь! »","„T! Nicht hier reparieren! „"
+00000b10,42,"「トイレへ行って直すのが、礼儀でしょう？」","“Is it a courtesy to go to the toilet?”","«Есть ли вежливость, чтобы пойти в туалет? »","„Ist es eine Höflichkeit, zur Toilette zu gehen?
+„"
+00000b8c,18,"「す、すみません」","“I don’t know it.”","«Я не знаю. »","„Ich weiß es nicht. „"
+00000c04,14,"「まったく…」","」","」","!"
+00000c70,38,"「校内の風紀を、乱さないで欲しいわね」","I want to do not disturb the culture in the
+school.","«Хочу не беспокоить культуру в школе».","Ich will die Kultur in der Schule nicht stören."
+00000cf8,10,"「…はい」","…Yes.","-- Да.","Ja."
+00000dc4,16,"「それじゃあね」","It's it!","- Это!","Das ist es!"
+00000ecc,38,"（乱してるつもりはないんだけどなぁ…）","Sorry, this entry is only available in 日本語.","Извините, этот техт доступен только в “日本語”.","Leider ist dieser Eintrag nur in 日本語 verfügbar."

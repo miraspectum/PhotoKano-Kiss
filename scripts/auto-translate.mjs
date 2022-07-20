@@ -61,6 +61,9 @@ async function translatePhrase(jp, lang) {
                 from: 'ja',
                 to: lang
             });
+            if (!result) {
+                return '';
+            }
             result = customTextSplitter(result);
         }
     }
@@ -114,6 +117,8 @@ async function translatePatch(patch) {
                 } catch (e) {
                     throw {
                         error: e,
+                        patch: patch,
+                        jp: jp,
                         unsaved: translated
                     };
                 }
@@ -130,28 +135,30 @@ async function translatePatch(patch) {
 
 async function main() {
     let result = 0;
+
     try {
         const startTime = process.hrtime();
         const patches = await Utils.readCsv(filesDescCsv);
         
-
+    
         for (let i = 0; i < patches.length; i++) {
             const [patch, ...other] = patches[i];
-            if (!patch.includes('ID02400')) { continue; }
-            await translatePatch(patch);
+            try {
+                if (!patch.includes('ID02')) { continue; }
+                await translatePatch(patch);
+            } catch (e) {
+                console.log(e);
+                if (e.unsaved && e.unsaved.length > 0) {
+                    await savePatch(patch, e.unsaved);
+                }
+            }
         }
-
+    
         logger.log('INFO', `Chars : ${charCounter}`);
         logger.log('INFO', `PhrasesByLang: ${Object.entries(phrasesByLangCounter).map(entry => `${entry[0]}: ${entry[1]} `)}`);
         const endTime = process.hrtime(startTime);
         logger.log('INFO', `Total time: ${endTime.join(',')}s`);
-
     } catch (e) {
-        console.log(e);
-        if (e.unsaved && e.unsaved.length > 0) {
-            await savePatch(patch, e.unsaved);
-        }
-
         logger.log('FAIL', `${e.error || e}`);
         result = 1;
     }

@@ -1,106 +1,145 @@
-000000c0,26,"（さて、そろそろ帰るか…）","","",""
-00000154,32,"（何だか、雲行きがあやしいな…）","","",""
-000002cc,38,"「うわ！　雨だ！　一気に降ってきた！」","","",""
-00000320,22,"「いったん、校舎へ…」","","",""
-00000388,20,"バシャバシャバシャ…","","",""
-0000048c,16,"「あ、\p01君！」","","",""
-000004ec,30,"「室戸先輩！　見回りですか？」","","",""
-00000558,32,"「ええ、突然降ってくるなんて…」","","",""
+000000c0,26,"（さて、そろそろ帰るか…）","(Isn’t it?)","(Не так ли?)","(Nicht wahr?)"
+00000154,32,"（何だか、雲行きがあやしいな…）","(Is it easy to go to the cloud…)","(Я легко ходить в облако…)","(Ist es einfach, in die Cloud zu gehen…)"
+000002cc,38,"「うわ！　雨だ！　一気に降ってきた！」","Wow! It's raining! It's raining at once!","Вау! Это дождь! Это дождь сразу!","Wow! Es regnet! Es regnet sofort!"
+00000320,22,"「いったん、校舎へ…」","Well, to the school building …","«Ну, в здание школы…»","Nun, zum Schulgebäude …"
+00000388,20,"バシャバシャバシャ…","シャ","Россия","pentinen"
+000004ec,30,"「室戸先輩！　見回りですか？」","Muroto seniors! Looking around?","Мурото старшие! Глядя вокруг?","Muroto Senioren! Umher schauen?"
+00000558,32,"「ええ、突然降ってくるなんて…」","Yes, I suddenly descend…","- Да, я вдруг спустюсь…","Ja, ich bin plötzlich herabgestiegen…"
 0000059c,49,"「下駄箱へ戻りましょう！
-　俺の鞄を傘代わりに！」","","",""
-00000620,36,"「い、いいわよ。自分で使いなさいよ」","","",""
+　俺の鞄を傘代わりに！」","Go back to the box!鞄 bag instead of umbrella!","Вернитесь в коробку! bag мешок вместо зонтика!","Zurück in die Box!鞄 Tasche statt Regenschirm!"
+00000620,36,"「い、いいわよ。自分で使いなさいよ」","I'm good. Use it yourself","- Я хорошо. Используйте сами","Ich bin gut. Verwenden Sie es selbst"
 0000069c,57,"「いいから！　こんなことしてる間に
-　もっと濡れますよ！」","","",""
-00000730,28,"「…そ、そうね…ありがとう」","","",""
-00000388,20,"バシャバシャバシャ…","","",""
-000008d0,16,"「はぁ…はぁ…」","","",""
-000008d0,16,"「はぁ…はぁ…」","","",""
-0000097c,28,"「ふう…ずいぶん濡れたわね」","","",""
-000009f4,10,"「ですね」","","",""
-00000a2c,40,"（カメラは無事か？　…よし、濡れてない）","","",""
+　もっと濡れますよ！」","It's good! It's getting wet while doing this!","Это хорошо! Это становится влажным во время
+этого!","Es ist gut! Es wird nass, während es das macht!"
+00000730,28,"「…そ、そうね…ありがとう」","…Thank you so much…","… Большое спасибо…»","… Vielen Dank…"
+00000388,20,"バシャバシャバシャ…","シャ","Россия","pentinen"
+000008d0,16,"「はぁ…はぁ…」","」","」","!"
+000008d0,16,"「はぁ…はぁ…」","」","」","!"
+0000097c,28,"「ふう…ずいぶん濡れたわね」","Well… I'm wet.","Ну… Я влажн.","Nun… Ich bin nass."
+000009f4,10,"「ですね」","」","」","!"
+00000a2c,40,"（カメラは無事か？　…よし、濡れてない）","(Is the camera safe?)","(Я камера безопасна?)","(Ist die Kamera sicher?)"
 00000bd8,55,"「また、いきなり撮ったわね。
-　もう、こんなところを…」","","",""
+　もう、こんなところを…」","“I’ve taken it again.” …","- Я снова взял это. …","„Ich habe es wieder aufgenommen.“ …"
 00000c70,55,"「…すみません。
-　カメラをチェックした流れで、つい…」","","",""
-00000d04,22,"「つい…って、もう…」","","",""
-00000dac,20,"（撮るまでもないな）","","",""
+　カメラをチェックした流れで、つい…」","…I don't know. I checked the camera.","… Не знаю. Я проверил камеру.","… Ich weiß nicht. Ich habe die Kamera
+überprüft."
+00000d04,22,"「つい…って、もう…」","I'm going to be…","Я собираюсь быть…","Ich werde sein…"
+00000dac,20,"（撮るまでもないな）","(It is not until you take it)","(Это не до тех пор, пока вы не возьмете его)","(Es ist nicht, bis du es nimmst)"
 00000ec8,55,"「それにしても、まいったわね。
-　突然降ってくるなんて」","","",""
-00000f7c,14,"「そうですね」","","",""
+　突然降ってくるなんて」","I'm sure I'm doing it. I suddenly descend","- Я уверен, что делаю это. Вдруг спустится","Ich bin sicher, dass ich es tue. Ich bin
+plötzlich herabgestiegen"
+00000f7c,14,"「そうですね」","“Yes, right?”","— Да, правда? »","„Ja, richtig? „"
 00000fdc,90,"「天気予報なんて、つくづく
 　あてにならないわ。
-　ネットによると、今日の降水確率は０％よ」","","",""
-000010ac,28,"「ゲリラ豪雨ってヤツですよ」","","",""
-00001154,24,"「眼鏡が濡れちゃって…」","","",""
-00001190,8,"「あ…」","","",""
-000011e8,8,"「え？」","","",""
-0000124c,26,"（シャッターチャンスだ！）","","",""
-000012ec,34,"「な、なに撮ろうとしてるのよ！？」","","",""
+　ネットによると、今日の降水確率は０％よ」","We are looking forward to seeing you. According
+to the net, today's precipitation probability is
+0%.","«Мы с нетерпением ждем встречи с вами». Согласно
+сети, сегодня вероятность осадков составляет 0%.","Wir freuen uns auf Sie. Laut Netz beträgt die
+heutige Niederschlagswahrscheinlichkeit 0%."
+000010ac,28,"「ゲリラ豪雨ってヤツですよ」","Gerilla heavy rain is aツ.","Герилла тяжелый дождь - ツ.","Gerilla ist ein starker Regen."
+00001154,24,"「眼鏡が濡れちゃって…」","“Glasses are wet…”","«Очки влажные… »","„Glas sind nass… „"
+00001190,8,"「あ…」","」","」","!"
+000011e8,8,"「え？」","?」","?」","?"
+0000124c,26,"（シャッターチャンスだ！）","(Shutter chance!)","(Шутер шанс!)","(Shutter Chance!)"
+000012ec,34,"「な、なに撮ろうとしてるのよ！？」","“What’s it?”","- Что это? »","„Was ist das? „"
 0000137c,59,"「この間、素顔を撮らせてくれるって
-　言ったじゃないですか」","","",""
-000013f8,36,"「今はダメよ。雨で濡れてるんだから」","","",""
-0000144c,24,"「ですよね、雨で濡れ…」","","",""
-000014ac,24,"（う…制服が透けてる…）","","",""
-00001500,38,"「ちょ、ちょっと！　どこ見てるのよ！」","","",""
-000015a0,20,"「す、すみません！」","","",""
-000015f0,32,"「まったく…油断も隙もないわね」","","",""
-0000166c,26,"「そんなこと言われても…」","","",""
-000016b4,36,"（目が行っちゃうのは仕方ないよなぁ）","","",""
-00001190,8,"「あ…」","","",""
-00001790,22,"「どうかしましたか？」","","",""
+　言ったじゃないですか」","I'm not saying that I will take a face in this
+time.","- Я не говорю, что я возьму лицо в это время.","Ich sage nicht, dass ich in dieser Zeit ein
+Gesicht nehmen werde."
+000013f8,36,"「今はダメよ。雨で濡れてるんだから」","I'm sorry now. I'm getting wet by rain.","- Прости сейчас. Я смачу дождь.","Es tut mir jetzt leid. Ich werde durch Regen
+nass."
+0000144c,24,"「ですよね、雨で濡れ…」","It's rainy…","Это дождь…","Es ist regnerisch…"
+000014ac,24,"（う…制服が透けてる…）","(Well…You can have a uniform…)","(Ну… Вы можете иметь форму…)","(Nun…) Sie können eine Uniform…)"
+00001500,38,"「ちょ、ちょっと！　どこ見てるのよ！」","I'm a little! Where to see!","- Я немного! Где посмотреть!","Ich bin ein wenig! Wo zu sehen!"
+000015a0,20,"「す、すみません！」","“I don’t know it!”","- Не знаю! »","„Ich weiß es nicht! „"
+000015f0,32,"「まったく…油断も隙もないわね」","No, there is no gap between oil and oil.","- Нет, нет разрыва между маслом и маслом.","Nein, es gibt keine Lücke zwischen Öl und Öl."
+0000166c,26,"「そんなこと言われても…」","I can say that …","Я могу сказать, что …","Ich kann das sagen…"
+000016b4,36,"（目が行っちゃうのは仕方ないよなぁ）","(I don’t want to do my eyes)","(Я не хочу делать глаза)","(Ich will meine Augen nicht machen)"
+00001190,8,"「あ…」","」","」","!"
+00001790,22,"「どうかしましたか？」","What did you do?","Что ты сделал?","Was hast du getan?"
 000017f4,53,"「さっき撮った写真…制服が透けてない
-　でしょうね？」","","",""
+　でしょうね？」","I took a photo… I can't see the uniform?","Я взял фото… Я не вижу униформу?","Ich habe ein Foto gemacht… Ich kann die Uniform
+nicht sehen?"
 0000184c,65,"「そ、そんな透けてるってほど
-　じゃないですよ。大丈夫ですって！」","","",""
-000018dc,42,"「…まぁ、確かに、見えるほどじゃないわね」","","",""
-00001a50,38,"「はぁ…なかなか止みそうにないわね…」","","",""
-00001aa4,12,"「ですね…」","","",""
-00001b78,12,"「室戸先輩」","","",""
-00001bd4,8,"「何？」","","",""
+　じゃないですよ。大丈夫ですって！」","Now, it's not so clear. It's okay!","«Сейчас это не так ясно. Это нормально!","Jetzt ist es nicht so klar. Schon gut!"
+000018dc,42,"「…まぁ、確かに、見えるほどじゃないわね」","… Well, it's certainly not as visible.","… Ну, это, конечно, не так видимо.","… Es ist sicher nicht so sichtbar."
+00001a50,38,"「はぁ…なかなか止みそうにないわね…」","I'm… I can't wait…","- Я… Я не могу ждать…","Ich bin… Ich kann nicht warten…"
+00001aa4,12,"「ですね…」","」","」","!"
+00001b78,12,"「室戸先輩」","Muroto seniors","Мурото старшие","Muroto Senioren"
+00001bd4,8,"「何？」","What's New","Что нового","Was ist neu?"
 00001c2c,47,"「俺、室戸先輩のこと、
-　すごいって思いますよ」","","",""
-00001cc8,10,"「え…？」","","",""
+　すごいって思いますよ」","“I think it’s amazing about my seniors.”","«Я думаю, что это удивительно о моих пожилых. »","„Ich denke, es ist erstaunlich an meine Senioren.
+„"
+00001cc8,10,"「え…？」","?」","?」","?"
 00001d2c,65,"「俺って、学園を良くしようなんて、
-　考えたこともなかったから…」","","",""
+　考えたこともなかったから…」","“I didn’t have any idea to make a good school…”","«У меня не было идеи сделать хорошую школу… »","„Ich hatte keine Ahnung, eine gute Schule zu
+machen… „"
 00001d90,83,"「学園のために、みんなのためにがんばってる
-　先輩を見てると、俺も見習わなきゃって」","","",""
-00001e48,28,"「私は好きでやってるだけよ」","","",""
+　先輩を見てると、俺も見習わなきゃって」","“I’m working for the school, and I have to look
+at my seniors.”","«Я работаю в школе, и я должен смотреть на своих
+старших. »","„Ich arbeite für die Schule, und ich muss mir
+meine Senioren ansehen. „"
+00001e48,28,"「私は好きでやってるだけよ」","“I’m just doing it”","«Я просто делаю это»","“Ich mache es nur”"
 00001e90,77,"「自主的ってことですよね。余計すごいです。
-　…まさに、完璧な生徒会長ですね」","","",""
-00001f1c,26,"「完璧、か…。ありがとう」","","",""
+　…まさに、完璧な生徒会長ですね」","“It’s important to be biological.” It is amazing.
+…It’s the perfect student president.","«Важно быть биологическим». Это удивительно.
+…Это идеальный студенческий президент.","„Es ist wichtig, biologisch zu sein.“ Es ist
+erstaunlich. …Es ist der perfekte Student
+Präsident."
+00001f1c,26,"「完璧、か…。ありがとう」","Perfect,? Pets","- Верно,? Домашние животные","Perfekt? Haustiere"
 00001ff0,63,"「そう、私は、何事においても、
-　完璧でありたいって思ってるの」","","",""
-00002094,42,"「けど、水泳部を辞めてたのだけが残念で…」","","",""
-0000212c,14,"「どうして？」","","",""
+　完璧でありたいって思ってるの」","“I think I want to be perfect for anything.”","«Я думаю, что хочу быть идеальным для всего. »","„Ich denke, ich will perfekt für alles sein. „"
+00002094,42,"「けど、水泳部を辞めてたのだけが残念で…」","But I just 水泳 the swim…","Но я просто 水 the плавать…","Aber ich habe nur das Schwimmen…"
+0000212c,14,"「どうして？」","How do you do it?","Как это сделать?","Wie machst du das?"
 00002188,51,"「先輩の飛び込む姿を、ちゃんと見たかった
-　ですよ」","","",""
-00002220,8,"「……」","","",""
+　ですよ」","I wanted to see the appearance of the seniors
+jumping properly.","«Я хотел видеть внешний вид пожилых людей,
+прыгающих правильно».","Ich wollte sehen, wie die Senioren richtig
+springen."
+00002220,8,"「……」","……","………","…"
 00002280,63,"「そんなこと言って…私の素顔を撮りたいだけ
-　なんじゃないの？」","","",""
+　なんじゃないの？」","“T ’s what you say… I want to take my face?”","«Ты что ты говоришь… Я хочу взять лицо? »","“T ’ s, was Sie sagen… Ich will mein Gesicht
+nehmen? „"
 000022ec,77,"「バレましたか？　しかも、水着ですからね。
-　まさにシャッターチャンスです！」","","",""
-00002368,18,"「クスッ、フフ…」","","",""
-000023d4,10,"「ははは」","","",""
+　まさにシャッターチャンスです！」","I'm sorry? It is a swimsuit. It’s aシャッター!","- Простите? Это купальник. Это спектакль!","Es tut mir leid? Es ist ein Badeanzug. Es ist
+ein heißer Geschmack!"
+00002368,18,"「クスッ、フフ…」","“Ksuku, Fufu…”","«Ксуку, Фуфу…»","„Ksuku, Fufu…“"
+000023d4,10,"「ははは」","」","」","!"
 0000240c,85,"「けど、マジな話、先輩が飛び込んでる姿を、
-　ちゃんと写真に収めたいってのは本当です」","","",""
+　ちゃんと写真に収めたいってのは本当です」","“But it’s true that I want to capture the magical
+story and the figure that my seniors jumped into
+the picture.”","«Но это правда, что я хочу запечатлеть волшебную
+историю и фигуру, которую мои пожилые прыгали на
+картинку. »","“Aber es ist wahr, dass ich die magische
+Geschichte und die Figur, die meine Senioren in
+das Bild gesprungen. „"
 00002490,77,"「…まぁ、もっとも、動く被写体を捉えるのは
-　俺にはまだまだ難しいんですけど」","","",""
+　俺にはまだまだ難しいんですけど」","“… Well, it’s still difficult to catch a moving
+subject.”","«… Ну, это еще трудно поймать движущуюся
+предмет. »","„… Nun, es ist immer noch schwierig, ein
+bewegtes Thema zu fangen. „"
 00002544,69,"「私が飛び込んでる姿を…か。
-　そんなこと、考えたこともなかったわね」","","",""
-00002220,8,"「……」","","",""
-00002220,8,"「……」","","",""
+　そんなこと、考えたこともなかったわね」","I'm flying…? Sorry, this entry is only
+available in 日本語.","- Я летаю…? Извините, этот техт доступен только
+в “日本語”.","Ich fliege…? Leider ist dieser Eintrag nur in
+日本語 verfügbar."
+00002220,8,"「……」","……","………","…"
+00002220,8,"「……」","……","………","…"
 000026e4,100,"「そうそう、お礼を言っておかないとね。
 　鞄、貸してくれてありがとう。
-　おかげで頭は濡れなかったわ」","","",""
-00002800,26,"「意外と女性に優しいのね」","","",""
-00002844,20,"「意外は余計ですよ」","","",""
-00002894,30,"「フフッ、そうね。ありがとう」","","",""
-00002950,24,"「あ、雨がやんできたわ」","","",""
+　おかげで頭は濡れなかったわ」","“I don’t say thank you. Thank you for your
+understanding. My head was not wet.","«Я не говорю спасибо. Спасибо за понимание. Моя
+голова не влажная.","„Ich sage nicht, danke. Danke für Ihr
+Verständnis. Mein Kopf war nicht nass."
+00002800,26,"「意外と女性に優しいのね」","“It’s surprisingly female-friendly.”","«Это удивительно женский. »","„Es ist überraschend weiblich-freundlich. „"
+00002844,20,"「意外は余計ですよ」","“It’s an extra charge”","«Это дополнительная плата»","„Es ist eine zusätzliche Gebühr“"
+00002894,30,"「フフッ、そうね。ありがとう」","“I’m sorry. Pets","— Прости. Домашние животные","„Es tut mir leid. Haustiere"
+00002950,24,"「あ、雨がやんできたわ」","“Oh, it was rainy.”","«О, это было дождливо. »","„Oh, es war regnerisch. „"
 00002998,63,"「あれだけの雨がいきなりやむなんて。
-　まさにゲリラ豪雨ですね」","","",""
-00002a04,10,"「本当ね」","","",""
-00002aa0,24,"「じゃあ、俺は帰ります」","","",""
-00002afc,16,"「気をつけてね」","","",""
-00002b3c,32,"「先輩こそ、風邪引かないように」","","",""
-00002bb8,20,"「大丈夫よ。またね」","","",""
-00002bfc,14,"「ええ、また」","","",""
+　まさにゲリラ豪雨ですね」","“It’s raining.” It’s a rainy season.","- Это дождь. Это сезон дождей.","„Es regnet.“ Es ist eine Regenzeit."
+00002a04,10,"「本当ね」","True","Труэ","True"
+00002aa0,24,"「じゃあ、俺は帰ります」","“Oh, I’m back.”","«О, я вернулся. »","„Oh, ich bin wieder da. „"
+00002afc,16,"「気をつけてね」","Be careful","Быть осторожным","Sei vorsichtig"
+00002b3c,32,"「先輩こそ、風邪引かないように」","“The seniors should not catch colds.”","«Пожилые не должны ловить простуды. »","„Die Senioren sollten keine Erkältungen fangen. „"
+00002bb8,20,"「大丈夫よ。またね」","It's okay. Comment","Это нормально. Комментарий","Schon gut. Anmerkung"
+00002bfc,14,"「ええ、また」","」","」","!"

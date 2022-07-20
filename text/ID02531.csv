@@ -1,168 +1,287 @@
 00000264,84,"「なかなか感心ね、自分の成績が
 　落ちてることを自覚して、
-　参考書を買おうだなんて」","","",""
-00000318,18,"「それほどでも…」","","",""
+　参考書を買おうだなんて」","I'm very imp ed, I'm aware that my results can
+fall, and I'm going to buy a reference book.","Я очень импон ed, я знаю, что мои результаты
+могут падать, и я собираюсь купить справочную
+книгу.","Ich bin sehr imp ed, ich bin mir bewusst, dass
+meine Ergebnisse fallen können, und ich werde ein
+Referenzbuch kaufen."
+00000318,18,"「それほどでも…」","」","」","!"
 00000358,65,"（まっすぐ帰るのも何なので、
-　とっさに言っただけとは言えない…）","","",""
+　とっさに言っただけとは言えない…）","Sorry, this entry is only available in 日本語. )","Извините, этот техт доступен только в “日本語”. )","Leider ist dieser Eintrag nur in 日本語 verfügbar. )"
 000003ec,71,"「商店街の本屋は品揃えも豊富だから、
-　きっといい参考書が見つかるわよ」","","",""
-000004bc,10,"「はぁ…」","","",""
-00000568,22,"「さ、入りましょうか」","","",""
-000005b4,14,"「そうですね」","","",""
-000006b8,45,"「\p01君って、ここの本屋には
-　よく来るの？」","","",""
-0000071c,38,"「来ますよ。カメラ本とかが見たいんで」","","",""
-000007a0,36,"「そっか、カメラを覚えたてだものね」","","",""
+　きっといい参考書が見つかるわよ」","The shop has a variety of items, so you can find
+a good reference book.","Магазин имеет различные предметы, так что вы
+можете найти хорошую справочную книгу.","Der Shop hat eine Vielzahl von Artikeln, so dass
+Sie ein gutes Referenzbuch finden können."
+000004bc,10,"「はぁ…」","」","」","!"
+00000568,22,"「さ、入りましょうか」","“Let’s go!”","- Поехали!","„Lass los!“"
+000005b4,14,"「そうですね」","“Yes, right?”","— Да, правда? »","„Ja, richtig? „"
+0000071c,38,"「来ますよ。カメラ本とかが見たいんで」","Come The camera book, etc.","Come Книга камеры и т.д.","Come Das Kamerabuch, etc."
+000007a0,36,"「そっか、カメラを覚えたてだものね」","“I remember the camera.”","«Я помню камеру. »","„Ich erinnere mich an die Kamera. „"
 00000860,55,"（む、見たことのないカメラのムック本が。
-　気になる…）","","",""
-000009ac,40,"「何やってるの？　参考書コーナーは奥よ」","","",""
-00000a44,18,"「あ、今行きます」","","",""
+　気になる…）","This is a mock book of a camera that has never
+been seen.","Это макетная книга камеры, которую никогда не
+видели.","Das ist ein Mockbuch einer Kamera, die noch nie
+gesehen wurde."
+000009ac,40,"「何やってるの？　参考書コーナーは奥よ」","What are you doing?","- Что ты делаешь?","Was machst du da?"
+00000a44,18,"「あ、今行きます」","Oh, go now","О, идти сейчас","Oh, geh jetzt"
 00000af8,51,"「それで、選んで欲しい教科は何？
-　数学？　英語？」","","",""
-00000bb0,20,"「え～と…数学かな」","","",""
-00000c18,40,"「かなって…欲しい教科がわからないの？」","","",""
-00000cb8,14,"「い、いや…」","","",""
-00000cf4,10,"（やばい）","","",""
+　数学？　英語？」","“What do you want to choose? Mathematics?
+English?”","- Что вы хотите выбрать? Математика? Русский? »","„Was willst du wählen? Mathematik? Englisch? „"
+00000bb0,20,"「え～と…数学かな」","
+“Ehhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh","
+«Ehhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh","
+hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh"
+00000c18,40,"「かなって…欲しい教科がわからないの？」","“I don’t know what textbooks you want?”","«Я не знаю, какие учебники вы хотите? »","„Ich weiß nicht, welche Lehrbücher Sie wollen? „"
+00000cb8,14,"「い、いや…」","」","」","!"
+00000cf4,10,"（やばい）","Home","Начало","Home"
 00000d20,73,"「全教科、ひと揃い買いたいんですけど、
-　とりあえず数学を買おうかなと…」","","",""
-00000dc8,36,"「そんなに参考書を買い込むつもり？」","","",""
-00000e18,24,"「まぁ、そんなとこで…」","","",""
+　とりあえず数学を買おうかなと…」","I want to buy a whole textbook, but I want to buy
+mathematics…","Хочу купить весь учебник, но хочу купить
+математику…","Ich möchte ein ganzes Lehrbuch kaufen, aber ich
+möchte Mathematik kaufen…"
+00000dc8,36,"「そんなに参考書を買い込むつもり？」","“I’m going to buy a reference book?”","«Я собираюсь купить справочную книгу? »","„Ich werde ein Referenzbuch kaufen? „"
+00000e18,24,"「まぁ、そんなとこで…」","“Well, it’s like that…”","«Ну, это так… »","„Nun, so ist es… „"
 00000e90,51,"「ますます感心ね。
-　これは、私も本気で選ばないと」","","",""
-00000f40,12,"「ははは…」","","",""
-00000fac,30,"「数学ね。ちょっと待ってよ…」","","",""
-00001118,38,"「数学なら…この参考書はどうかしら…」","","",""
+　これは、私も本気で選ばないと」","“I’m more imp。ed.” “I don’t really choose it.”","- Я более подразумеваю. «Я действительно не
+выбираю его. »","„Ich bin imp。ed.“ „Ich wähle es nicht wirklich. „"
+00000f40,12,"「ははは…」","」","」","!"
+00000fac,30,"「数学ね。ちょっと待ってよ…」","“Math. I'm waiting for you.","«Мат. Я жду тебя.","Math. Ich warte auf dich."
+00001118,38,"「数学なら…この参考書はどうかしら…」","If you are mathematics … How about this
+reference book …","Если вы математика … Как насчет этой справочной
+книги …","Wenn Sie Mathematik sind… Wie wäre es mit
+diesem Referenzbuch?"
 000011b4,100,"「…イマイチね。参考書とはいえ、
 　もっと問題をたくさん載せてくれないと、
-　応用力が身につかないわ」","","",""
-00001248,14,"「こっちは…」","","",""
+　応用力が身につかないわ」","…I'm right. If you don’t have more problems,
+you can’t find the power of application.","… Я прав. Если у вас нет больше проблем, вы не
+можете найти силу приложения.","… Ich habe recht. Wenn Sie nicht mehr Probleme
+haben, können Sie die Leistung der Anwendung nicht
+finden."
+00001248,14,"「こっちは…」","」","」","!"
 000012cc,88,"「ダメね、要点の色分けがわかりづらい。
 　これじゃ、ポイントを的確に
-　捉えられないわね」","","",""
+　捉えられないわね」","“It’s hard to understand the coloring of the key
+points.” Now I can’t accurately capture the
+points.”","«Сложно понять раскраски ключевых моментов».
+Теперь я не могу точно захватить точки. »","„Es ist schwer, die Färbung der Schlüsselpunkte
+zu verstehen.“ Jetzt kann ich die Punkte nicht
+genau erfassen. „"
 00001360,55,"（うわ～、すごく細かくチェックして
-　選んでくれてるよ）","","",""
-000013b8,18,"「この参考書は…」","","",""
-000013f8,12,"「室戸先輩」","","",""
-00001428,22,"「こっちの参考書は…」","","",""
-000013f8,12,"「室戸先輩」","","",""
+　選んでくれてるよ）","(Wow~, you can check very fine and choose it)","(Вау~, вы можете проверить очень штраф и выбрать
+его)","(Wow~, Sie können sehr gut überprüfen und wählen
+es)"
+000013b8,18,"「この参考書は…」","This reference is…","Эта ссылка…","Dieser Bezug ist…"
+000013f8,12,"「室戸先輩」","Muroto seniors","Мурото пожилых людей","Muroto Senioren"
+00001428,22,"「こっちの参考書は…」","This reference book is…","Эта справочная книга…","Dieses Referenzbuch ist…"
+000013f8,12,"「室戸先輩」","Muroto seniors","Мурото пожилых людей","Muroto Senioren"
 000014a8,102,"（すごく集中してる。まだ選ぶのに時間が
 　かかりそうだな。ちょっと、さっきの
-　カメラ本を立ち読みに…）","","",""
-0000158c,32,"（え～と、さっき見かけた本は…）","","",""
+　カメラ本を立ち読みに…）","(I'm very focused) It seems that it takes time to
+choose it. Just read the camera book.)","(Я очень сфокусирован) Кажется, что время
+выбрать. Просто прочитайте камерную книгу.)","(Ich bin sehr fokussiert) Es scheint, dass es
+Zeit braucht, um es zu wählen. Lesen Sie einfach
+das Kamerabuch.)"
+0000158c,32,"（え～と、さっき見かけた本は…）","(Ehhhhh)","(Ehhhhhh)","(Hhhhhhhhhhh)"
 000015dc,76,"（お、これだ、これ。
 　『実践！　ポートレート撮影術』か。
-　俺向きな本だな）","","",""
+　俺向きな本だな）","This is “Practical! Portrait Photography”?
+Beautiful book)","Это «Практическое! Портретная фотография?
+Красивая книга)","Das ist „Practical! Porträtfotografie“? Schönes
+Buch)"
 000016a0,71,"（ふむふむ…大切なのはアングルと
-　ライティングか…。まぁ、そうだよな）","","",""
+　ライティングか…。まぁ、そうだよな）","(Fumefum…Is it important to angle and writing?)
+Well, yeah)","(Fumefum…Важно ли угла и писать?) Ну, да)","(Fumefum… Ist es wichtig, Winkel und
+Schreiben?) Ja."
 0000175c,69,"（適正露出で被写体を明るくきれいに…か。
-　わかっちゃいるんだけど…）","","",""
+　わかっちゃいるんだけど…）","(Is the subject bright and clean with proper
+exposure?)","(является ли предмет ярким и чистым с надлежащей
+экспозицией?)","(Ist das Thema hell und sauber mit richtiger
+Belichtung?)"
 00001818,57,"（ローアングルで足を長く見せる…か。
-　なるほどなるほど）","","",""
+　なるほどなるほど）","(I see it long with low angle…?) I see)","(Я вижу это долго с низким углом…?) Я вижу)","(Ich sehe es lang mit niedrigem Winkel…?) Ich
+verstehe."
 00001900,98,"（シャッタースピードを上げて、
 　一瞬を捉える…か。ジャンプして空中で
-　止まってるような写真だな）","","",""
-00001984,12,"「\p01君！」","","",""
-000019c0,14,"「は、はい！」","","",""
-00001ac4,16,"「あ、室戸先輩」","","",""
-00001b24,30,"「あ、室戸先輩、じゃないわよ」","","",""
+　止まってるような写真だな）","(Scale up theか speed and capture the moment…?)
+I jumped in the sky.","(Выкапливайте скорость и захватите момент…?) Я
+прыгнул в небо.","(Skalieren Sie die Geschwindigkeit und fangen Sie
+den Moment…?) Ich sprang in den Himmel."
+000019c0,14,"「は、はい！」","“Yes!”","«Да!»","„Ja!“"
+00001ac4,16,"「あ、室戸先輩」","Oh, my seniors","«О, мои старшие»","Oh, meine Senioren"
+00001b24,30,"「あ、室戸先輩、じゃないわよ」","“Oh, my seniors, I’m not.”","«О, мои старшие, я не. »","„Oh, meine Senioren, bin ich nicht. „"
 00001be0,94,"「いったいどういうつもり！？
 　私にだけ参考書を探させて、
-　君はカメラの本を立ち読みだなんて」","","",""
-00001ca8,26,"「す、すみません、つい…」","","",""
-00001d20,28,"「つい…じゃないわよ、もう」","","",""
+　君はカメラの本を立ち読みだなんて」","“What do you think? I’m looking for a reference
+only to me and you’re reading the camera?”","« » Что вы думаете? Я ищу ссылку только для меня,
+и вы читаете камеру? »","„ Was denkst du? Ich suche nach einer Referenz
+nur auf mich und Sie lesen die Kamera? „"
+00001ca8,26,"「す、すみません、つい…」","I'm sorry, I'm sorry…","Я сожалею, я сожалею…","Es tut mir leid, es tut mir leid…"
+00001d20,28,"「つい…じゃないわよ、もう」","I'm not. I'm not.","- Я не. Я не.","Ich bin es nicht. Nein."
 00001ddc,49,"「ちゃんと参考書を選ぶ気がないなら、
-　帰るわよ」","","",""
-00001e44,42,"「選びます！　選ぶんでつき合ってください」","","",""
+　帰るわよ」","“If you don’t want to choose your reference book,
+you can go back.”","«Если вы не хотите выбирать свою справочную
+книгу, вы можете вернуться. »","„Wenn Sie Ihr Referenzbuch nicht auswählen
+möchten, können Sie zurückgehen. „"
+00001e44,42,"「選びます！　選ぶんでつき合ってください」","Select Please select","Выбрать Пожалуйста, выберите","Wählen Bitte wählen"
 00001ec8,63,"「まったく…２冊に絞ったから、
-　どっちがいいか選んでくれる？」","","",""
+　どっちがいいか選んでくれる？」","“Are you sure you choose what you want?”","- Вы уверены, что хотите? »","„Sind Sie sicher, dass Sie wählen, was Sie
+wollen? „"
 00001f9c,69,"「あ、選んでくれたんですか？　すみません、
-　俺がサボってたってのに」","","",""
+　俺がサボってたってのに」","How did you choose? I don't know, I'm sorry, ","Как вы выбрали? Я не знаю, извините, ","Wie hast du dich entschieden? Ich weiß nicht, es
+tut mir leid, "
 00002030,67,"「本当よ。せっかく選んだんだから、
-　ちゃんと買って、勉強してよね」","","",""
-000020fc,10,"「…はい」","","",""
-00002154,32,"こうして、一緒に本屋で過ごした。","","",""
+　ちゃんと買って、勉強してよね」","Truly. I chose it so I bought it and studied
+it.","Трули. Я выбрал его, чтобы я купил его и изучал
+его.","Truly. Ich habe es gewählt, damit ich es
+gekauft habe und es studiert habe."
+000020fc,10,"「…はい」","…Yes.","-- Да.","Ja."
+00002154,32,"こうして、一緒に本屋で過ごした。","Let’s go to the bookstore together.","Пойдем в книжный магазин вместе.","Gehen wir gemeinsam in die Buchhandlung."
 00002238,63,"「この間選んだ参考書、
-　気に入ってくれたみたいで、うれしいわ」","","",""
+　気に入ってくれたみたいで、うれしいわ」","I like you like to like the reference book that I
+chose during this time,","Мне нравится вам, как ссылка книги, которую я
+выбрал в это время,","Ich mag, dass du das Referenzbuch magst, das ich
+während dieser Zeit gewählt habe,"
 000022e4,114,"「まだ、ちょっとしかやってないんですけど、
 　要点がわかりやすいし、構成が教科書に
-　沿ってるし、使いやすいですよ」","","",""
+　沿ってるし、使いやすいですよ」","“I’m still doing a little, but it’s easy to
+understand the key points, and the composition is
+in the textbook and it’s easy to use.”","«Я все еще делаю немного, но это легко понять
+ключевые моменты, и состав находится в учебнике, и
+это легко использовать. »","„Ich mache noch ein wenig, aber es ist einfach,
+die wichtigsten Punkte zu verstehen, und die
+Zusammensetzung ist im Lehrbuch und es ist einfach
+zu bedienen. „"
 000023a8,53,"「せっかく選んだのに、
-　ちょっとしかやってないの？」","","",""
-00002414,12,"（やばい…）","","",""
+　ちょっとしかやってないの？」","“I chose it, but I can only do it?”","- Я выбрал это, но я могу сделать это только? »","„Ich habe es gewählt, aber ich kann es nur tun? „"
+00002414,12,"（やばい…）",")",")",")"
 00002450,59,"「いや、その…じっくり取り組むタイプ
-　なんですよ、俺って」","","",""
+　なんですよ、俺って」","No, it's a type that works well, I'm.","Нет, это тип, который хорошо работает, я.","Nein, es ist ein Typ, der gut funktioniert, ich
+bin."
 000024e8,122,"「参考書は、ボロボロになるまで使い倒して、
 　初めて身につくのよ。本棚に置いてるだけ
-　じゃ、成績なんか上がらないんだから」","","",""
-000025f0,24,"「わ、わかってますって」","","",""
-00002668,12,"「本当～？」","","",""
+　じゃ、成績なんか上がらないんだから」","Reference books are used until you become a
+beginner, and you will learn for the first time. I
+just put it in the book shelves, so I don’t get up
+with my results.”","Ссылочные книги используются до начала, и вы
+узнаете впервые. Я просто положил его в полки
+книги, так что я не получаю с моими результатами.
+»","Referenzbücher werden verwendet, bis Sie ein
+Anfänger werden, und Sie werden zum ersten Mal
+lernen. Ich lege es einfach in die Buchregale,
+also komme ich nicht mit meinen Ergebnissen auf. „"
+000025f0,24,"「わ、わかってますって」","“Well, I know.”","— Ну, я знаю. »","„Nun, ich weiß. „"
+00002668,12,"「本当～？」","“What’s true?”","- Что правда? »","„Was ist wahr? „"
 000026a0,57,"「さ、店に入りませんか？
-　ここで立ち話してても何なんで」","","",""
-00002738,14,"「いいけど…」","","",""
-00002824,42,"「室戸先輩は雑誌とかは読まないんですか？」","","",""
+　ここで立ち話してても何なんで」","Why don’t you enter the store? What are you
+talking about here?","Почему вы не входите в магазин? Что ты говоришь
+здесь?","Warum betrittst du nicht den Laden? Wovon redest
+du hier?"
+00002738,14,"「いいけど…」","」","」","!"
+00002824,42,"「室戸先輩は雑誌とかは読まないんですか？」","“Do you not read magazines?","«Не читаете ли вы журналы?","„Lesen Sie keine Zeitschriften?"
 000028ac,67,"「あまり読まないわね。ファッションも芸能も
-　そんなに興味がないし」","","",""
-00002988,42,"「これといった趣味があるわけじゃないのよ」","","",""
-000029e8,18,"「そっか……ん？」","","",""
+　そんなに興味がないし」","“I don’t read much.” Fashion and entertainment
+are not interested in it.","- Я не много читал. Мода и развлечения не
+заинтересованы в этом.","„Ich lese nicht viel.“ Mode und Unterhaltung sind
+nicht daran interessiert."
+00002988,42,"「これといった趣味があるわけじゃないのよ」","“I don’t have such a hobby.”","«У меня нет такого хобби. »","„Ich habe kein solches Hobby. „"
+000029e8,18,"「そっか……ん？」","“What’s it?”","- Что это? »","„Was ist das? „"
 00002a28,106,"（うおっ！　レジ横で平積みになってるのは、
 　ＮＯ．１巨乳グラビアアイドルの写真集。
-　表紙が手ブラって！）","","",""
+　表紙が手ブラって！）","No.1 Giant Milkビアure Idol The cover is handy!)","No.1 Гигант Молокодиатра Идол Обложка удобная!)","No.1 Riesige Milch Reinigungsmittel Idol Die
+Abdeckung ist praktisch!)"
 00002af0,63,"「ほら、何立ち止まってるのよ。
-　参考書コーナーは一番奥……あ」","","",""
+　参考書コーナーは一番奥……あ」","I'm standing. The reference book corner is the
+back of the…","- Я стою. Справочный уголок является задней
+частью…","Ich stehe. Die Referenzbuchecke ist die
+Rückseite der…"
 00002c14,59,"「もう、恥ずかしいわね。
-　そんな写真集をじっと見ないでよ」","","",""
+　そんな写真集をじっと見ないでよ」","“I’m so embarrassed.” Don’t see such a photo
+book!","- Я так смущен. Не видите такую фотокнигу!","„Ich bin so peinlich.“ Sehen Sie kein solches
+Fotobuch!"
 00002cc4,82,"「す、すみません、つい。
 　カメラを始めてから、写真集が
-　気になるようになって…」","","",""
+　気になるようになって…」","I don't know, I'm finally. After starting the
+camera, the photo book seems to be concerned …","- Я не знаю, я наконец. После запуска камеры,
+фотокнига, кажется, обеспокоена …","Ich weiß nicht, ich bin endlich. Nach dem Start
+der Kamera scheint das Fotobuch besorgt zu sein
+…"
 00002d70,51,"「男子って、何でそういう写真に
-　興味があるのよ？」","","",""
-00002e18,24,"「何でって言われても…」","","",""
-00002e84,43,"「\p01君もそういう写真が
-　撮りたいわけ？」","","",""
-00002ee4,16,"「え…それは…」","","",""
-00002ffc,36,"「撮れるものなら…撮りたいですけど」","","",""
+　興味があるのよ？」","“Men are interested in such a photo?”","«Мужчина интересуется такой фотографией? »","„Men interessieren sich für ein solches Foto? „"
+00002e18,24,"「何でって言われても…」","What is said?","- Что говорят?","Was sagt man?"
+00002ee4,16,"「え…それは…」","」","」","!"
+00002ffc,36,"「撮れるものなら…撮りたいですけど」","If you can take it, I want to take it.","Если вы можете взять его, я хочу взять его.","Wenn du es nimmst, will ich es nehmen."
 00003070,71,"「はぁ…正直ねぇ。フォト部はそういう写真を
-　撮るための部じゃないわよ」","","",""
-00003130,22,"「はは…そうですよね」","","",""
-00003184,24,"「そんなわけないですよ」","","",""
-000031e8,26,"「そうよね、ホッとしたわ」","","",""
-00003280,30,"「撮らせてくれるんですか！？」","","",""
-000032fc,42,"「なっ！？　そ、そんなわけないでしょう！」","","",""
+　撮るための部じゃないわよ」","I'm so honest. The photo is not part of taking
+such a photo.","- Я так честно. Фотография не является частью
+фотографии.","Ich bin so ehrlich. Das Foto ist nicht Teil
+eines solchen Fotos."
+00003130,22,"「はは…そうですよね」","It's right…","«Это правильно…»","Es ist richtig…"
+00003184,24,"「そんなわけないですよ」","“I don’t do that.”","- Я это не делаю. »","„Das tue ich nicht. „"
+000031e8,26,"「そうよね、ホッとしたわ」","“Yes, I’m so happy.”","- Да, я так счастлив. »","„Ja, ich bin so glücklich. „"
+00003280,30,"「撮らせてくれるんですか！？」","“Do you take photos?”","- Вы фотографируете? »","„Haben Sie Fotos? „"
+000032fc,42,"「なっ！？　そ、そんなわけないでしょう！」","“What? It’s not that!”","— Что? Это не так! »","„Was? Das ist es nicht! „"
 000033e4,61,"「フォト部はそんなことのために
-　設立させた部じゃないわよ！」","","",""
-00003480,32,"「わ、わかってますよ、冗談です」","","",""
-000034f8,40,"「もう…年上をからかうもんじゃないわよ」","","",""
-00003594,10,"「はい…」","","",""
+　設立させた部じゃないわよ！」","“The photo department is not the established part
+for that purpose!”","«Фотоотдел не является созданной частью этой
+цели!»","„Die Fotoabteilung ist dafür nicht der etablierte
+Teil!“"
+00003480,32,"「わ、わかってますよ、冗談です」","I know, I'm談.","- Я знаю, я.","Ich weiß, ich bin."
+000034f8,40,"「もう…年上をからかうもんじゃないわよ」","Oh… I'm happy to take care of the year.","О… Я рад позаботиться о году.","Oh… ich freue mich, mich um das Jahr zu
+kümmern."
+00003594,10,"「はい…」","Yes…","Да…","Ja…"
 000035dc,59,"「その…何て言うか、あれだけ大きいと
-　気になるというか…」","","",""
-00003674,24,"「大きいとって……あ…」","","",""
+　気になるというか…」","“What do you say? What do you think that it is
+bigger?”","— Что ты говоришь? Что вы думаете, что это
+больше? »","„Was sagst du? Was glauben Sie, dass es größer
+ist? „"
+00003674,24,"「大きいとって……あ…」","“What is big?”","- Что такое большой? »","„Was ist groß? „"
 00003760,55,"「ちょ、ちょっと！　どこ見てるのよ！
-　比べないでよ！」","","",""
-000037c4,26,"「す、すみません。つい…」","","",""
+　比べないでよ！」","I'm a little! Where to see! I don't compare!","- Я немного! Где посмотреть! Не сравниваю!","Ich bin ein wenig! Wo zu sehen! Ich vergleiche
+nicht!"
+000037c4,26,"「す、すみません。つい…」","I don't know. Close","Не знаю. Закрыть","Ich weiß es nicht. Schließen"
 000038d0,63,"「つい…じゃないわよ、まったく。
-　参考書を買う気あるわけ！？」","","",""
-00003980,36,"「あります！　よろしくお願いします」","","",""
-00003a00,34,"「もう…さっさと店の奥へ行くわよ」","","",""
-00002154,32,"こうして、一緒に本屋で過ごした。","","",""
-00003ccc,30,"「さ、奥の参考書コーナーへ…」","","",""
+　参考書を買う気あるわけ！？」","I'm not. I'm not. Do you want to buy a reference
+book?","- Я не. Я не. Хотите купить справочную книгу?","Ich bin es nicht. Nein. Möchten Sie ein
+Referenzbuch kaufen?"
+00003980,36,"「あります！　よろしくお願いします」","Thank you for your understanding.","Спасибо за понимание.","Danke für Ihr Verständnis."
+00003a00,34,"「もう…さっさと店の奥へ行くわよ」","“Oh… I’m looking forward to seeing you soon!”","«О… Я с нетерпением жду встречи с вами в
+ближайшее время!»","„Oh… ich freue mich, dich bald zu sehen!“"
+00002154,32,"こうして、一緒に本屋で過ごした。","Let’s go to the bookstore together.","Пойдем в книжный магазин вместе.","Gehen wir gemeinsam in die Buchhandlung."
+00003ccc,30,"「さ、奥の参考書コーナーへ…」","Go to the reference book corner …","Перейти в справочную книгу…","Gehen Sie zur Referenzbuchecke …"
 00003d18,51,"（あ…表紙が手ブラの写真集、
-　まだレジ横にあるな）","","",""
+　まだレジ横にあるな）","(Oh…The cover is on the side of the screen.)","(О…Покрытие на стороне экрана.)","(Oh…Die Abdeckung ist auf der Seite des
+Bildschirms.)"
 00003da4,67,"「もう！　またその写真集をチラチラ見て！
-　そんなに気になるわけ？」","","",""
-00003e5c,26,"「そ、そんなつもりじゃ…」","","",""
-00003f00,28,"「だから、私の胸を見ない！」","","",""
-00003f4c,16,"「すみません！」","","",""
+　そんなに気になるわけ？」","“Oh! I’m looking at the photo book again! Do you
+like that?”","«О! Я смотрю на фотокнигу снова! Вам это
+нравится? »","„Oh! Ich sehe das Fotobuch wieder an! Gefällt dir
+das? „"
+00003e5c,26,"「そ、そんなつもりじゃ…」","I'm going to do that…","Я собираюсь сделать это…","Ich werde das tun…"
+00003f00,28,"「だから、私の胸を見ない！」","“So I don’t see my chest!”","«Так что я не вижу своего сундука!»","„So sehe ich meine Brust nicht!“"
+00003f4c,16,"「すみません！」","“I don’t know it!”","“Я не знаю! »","„Ich weiß es nicht! „"
 00004044,75,"「そうやって、私の胸と見比べるために、
-　連れてきてるんじゃないでしょうね」","","",""
-00004104,18,"「ち、違いますよ」","","",""
+　連れてきてるんじゃないでしょうね」","“I think you can take it to compare it with my
+chest.”","“Я думаю, что вы можете взять его, чтобы сравнить
+его с моим сундуком. »","„Ich denke, du kannst es nehmen, um es mit meiner
+Brust zu vergleichen. „"
+00004104,18,"「ち、違いますよ」","I'm different.","- Я разные.","Ich bin anders."
 00004178,55,"「どうだか。私が選んだ参考書、
-　ちゃんとやってるの？」","","",""
+　ちゃんとやってるの？」","What is it? I chose a reference book, do you do
+it?","Что это? Я выбрал справочную книгу, вы это
+делаете?","Was ist los? Ich habe ein Referenzbuch gewählt,
+oder?"
 00004248,63,"「すみません…何か買っただけで、
-　やった気分になっちゃって…」","","",""
+　やった気分になっちゃって…」","… I just bought something, I felt like I
+did…","… Я просто что-то купил, я чувствовал, как я
+сделал…","… Ich habe gerade etwas gekauft, ich fühlte
+mich wie ich…"
 000042e4,51,"「やってないの？　それじゃ、
-　お金のムダじゃない」","","",""
+　お金のムダじゃない」","“I don’t do it? That’s not the money.”","- Я не делаю это? Это не деньги. »","„Ich mache es nicht? Das ist nicht das Geld. „"
 00004390,51,"「ちゃんとやります！
-　なので今日も選んでください」","","",""
-0000441c,42,"「仕方ないわねぇ。ほら、さっさと行くわよ」","","",""
-000044c8,8,"「はい」","","",""
-00002154,32,"こうして、一緒に本屋で過ごした。","","",""
+　なので今日も選んでください」","I will do it! So please choose it today","- Я сделаю это! Поэтому, пожалуйста, выберите его
+сегодня","Ich werde es tun! Also bitte wählen Sie es heute"
+0000441c,42,"「仕方ないわねぇ。ほら、さっさと行くわよ」","I don't have to do it. I'm going to go soon.","- Мне не нужно это делать. Я скоро пойду.","Ich muss es nicht tun. Ich gehe bald."
+000044c8,8,"「はい」","Yes","Да","Ja"
+00002154,32,"こうして、一緒に本屋で過ごした。","Let’s go to the bookstore together.","Пойдем в книжный магазин вместе.","Gehen wir gemeinsam in die Buchhandlung."

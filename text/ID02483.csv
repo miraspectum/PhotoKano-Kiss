@@ -1,308 +1,406 @@
-00000088,24,"「ん？　何か落ちてるぞ」","","",""
+00000088,24,"「ん？　何か落ちてるぞ」","“What? You’ll fall down.”","— Что? Ты упадешь. »","„Was? Du wirst fallen. „"
 00000108,63,"（女子が使いそうなシャーペンだな。
-　アホ毛あっぴ～がついてる）","","",""
+　アホ毛あっぴ～がついてる）","(It is a chapen that women use.) Aho hair ぴup","(это часовня, которую женщины используют.) Aho
+волосы  up","(Es ist ein Chapen, dass Frauen verwenden.) Aho
+Haar ぴup"
 00000194,67,"（女子が使いそうなシャーペンだな。
-　生意気そうなあひるがついてる）","","",""
-00000214,42,"（こんなシャーペンを使ってそうなのって…）","","",""
-0000059c,18,"（新見さん…かな）","","",""
-000006ac,18,"（教室にいるかな）","","",""
-0000074c,24,"「あ、いた……新見さん」","","",""
-00000820,14,"「あ、\p01君」","","",""
-000008c8,8,"「何？」","","",""
-00000918,34,"「これって、新見さんのじゃない？」","","",""
+　生意気そうなあひるがついてる）","(It is a chapen that women use.) I'm so happy.","(это часовня, которую женщины используют.) Я так
+счастлив.","(Es ist ein Chapen, dass Frauen verwenden.) Ich
+bin so glücklich."
+00000214,42,"（こんなシャーペンを使ってそうなのって…）","(It seems to be using this chapen…)","(Это кажется, использовать эту часовню…)","(Es scheint mit diesem Chapen zu sein…)"
+0000059c,18,"（新見さん…かな）","(Shinmi-san … kana)","(Shinmi-san … kana)","(Shinmi-san … kana)"
+000006ac,18,"（教室にいるかな）","(I'm in the classroom)","(Я в классе)","(Ich bin im Klassenzimmer)"
+0000074c,24,"「あ、いた……新見さん」","Oh, I… Mr. Shinmi","О, я… г-н Шинми","Oh, ich… Mr. Shinmi"
+000008c8,8,"「何？」","What is ?","Что такое ?","Was ist ?"
+00000918,34,"「これって、新見さんのじゃない？」","This is not Shinmi?","- Это не Шинми?","Das ist nicht Shinmi?"
 0000098c,49,"「あ、アホ毛あっぴ～のシャーペン。
-　かわいい～」","","",""
-000009f4,20,"（かわいい…かなぁ）","","",""
-00000a5c,24,"「けど、私のじゃないわ」","","",""
-00000aac,12,"「そっか…」","","",""
+　かわいい～」","Sherpen of Aho Hair Aっ Cute","Шерпен Aho Hair ASH Cute","Sherpen von Aho Hair A dich"
+000009f4,20,"（かわいい…かなぁ）","(Cute…)","(Город…)","(Cute…)"
+00000a5c,24,"「けど、私のじゃないわ」","“But I’m not my.”","- Но я не мой. »","„Aber ich bin nicht meine. „"
+00000aac,12,"「そっか…」","っ","ФУТБОЛ",","
 00000b08,57,"「このキャラクターって、
-　アホ毛あっぴ～っていうんだ？」","","",""
+　アホ毛あっぴ～っていうんだ？」","“This character is Aho hairy!”","“Этот характер Aho hairy!”","“Dieser Charakter ist Aho hairy!”"
 00000b94,69,"「そうよ。女子の間で流行ってる
-　キャラクターなの。かわいいでしょ？」","","",""
-00000c10,26,"「何か生意気そうだけど？」","","",""
-00000c7c,22,"「そこがかわいいのよ」","","",""
-00000cc8,34,"（女子の趣味は、よくわからないな）","","",""
-00000d4c,24,"「持ち主を捜してるの？」","","",""
-00000d90,28,"「ああ、階段に落ちてたから」","","",""
-00000e0c,34,"「そっか、誰が落としたんだろう…」","","",""
+　キャラクターなの。かわいいでしょ？」","“Yes.” It is a popular character among women. Is
+it cute?","— Да. Это популярный характер среди женщин. Это
+мило?","„Ja.“ Es ist ein beliebter Charakter unter
+Frauen. Ist es süß?"
+00000c10,26,"「何か生意気そうだけど？」","“I’m so happy about something?”","- Я так счастлива о чем-то? »","„Ich bin so glücklich über etwas? „"
+00000c7c,22,"「そこがかわいいのよ」","It's cute.","- Это мило.","Es ist süß."
+00000cc8,34,"（女子の趣味は、よくわからないな）","(Women's hobby is not sure)","(Женское хобби не уверено)","(Frauen Hobby ist nicht sicher)"
+00000d4c,24,"「持ち主を捜してるの？」","“I’m looking for the owner?”","«Я ищу владельца? »","„Ich suche den Besitzer? „"
+00000d90,28,"「ああ、階段に落ちてたから」","“Oh, I fell into the stairs.”","«О, я упал в лестницу. »","„Oh, ich fiel in die Treppe. „"
+00000e0c,34,"「そっか、誰が落としたんだろう…」","“Who has lost…”","«Кто потерял… »","„Wer hat verloren… „"
 00000e58,57,"「手がかりないし、生徒会室の
-　落とし物箱に入れておくよ」","","",""
-00000ef0,26,"「うん、それがいいと思う」","","",""
-00000f34,14,"「それじゃ…」","","",""
-00000fa0,16,"「うん、またね」","","",""
-00001050,26,"（いったい誰のだろうな…）","","",""
-00000820,14,"「あ、\p01君」","","",""
-000008c8,8,"「何？」","","",""
-00001194,32,"「その…これって、新見さんの？」","","",""
+　落とし物箱に入れておくよ」","I don't know, I'll go to the dropbox of the
+student's meeting room.","Я не знаю, я поеду в дропбокс комнаты собрания
+студента.","Ich weiß nicht, ich gehe in die Dropbox des
+Konferenzraums des Schülers."
+00000ef0,26,"「うん、それがいいと思う」","“Yes, I think it’s good.”","- Да, я думаю, что это хорошо. »","„Ja, ich denke, es ist gut. „"
+00000f34,14,"「それじゃ…」","」","」","!"
+00000fa0,16,"「うん、またね」","」","」","!"
+00001050,26,"（いったい誰のだろうな…）","(Who are you?)","(Кто ты?)","(Wer sind Sie?)"
+000008c8,8,"「何？」","What is ?","Что такое ?","Was ist ?"
+00001194,32,"「その…これって、新見さんの？」","What is this?","- Что это?","Was ist das?"
 0000098c,49,"「あ、アホ毛あっぴ～のシャーペン。
-　かわいい～」","","",""
-00000a5c,24,"「けど、私のじゃないわ」","","",""
-00000aac,12,"「そっか…」","","",""
+　かわいい～」","Sherpen of Aho Hair Aっ Cute","Шерпен Aho Hair ASH Cute","Sherpen von Aho Hair A dich"
+00000a5c,24,"「けど、私のじゃないわ」","“But I’m not my.”","- Но я не мой. »","„Aber ich bin nicht meine. „"
+00000aac,12,"「そっか…」","っ","ФУТБОЛ",","
 00001358,67,"「知ってる？　このキャラクターって、
-　アホ毛あっぴ～っていうのよ」","","",""
-000013d0,12,"「ふうん…」","","",""
-0000143c,42,"「女子の間で、とっても流行ってるんだから」","","",""
-00000d4c,24,"「持ち主を捜してるの？」","","",""
-00001514,28,"「ああ…階段に落ちてたから」","","",""
-00000e0c,34,"「そっか、誰が落としたんだろう…」","","",""
+　アホ毛あっぴ～っていうのよ」","I know? This character is Aho Hairy","- Я знаю? Этот персонаж Aho Hairy","Ich weiß? Dieser Charakter ist Aho Hairy"
+000013d0,12,"「ふうん…」","」","」","!"
+0000143c,42,"「女子の間で、とっても流行ってるんだから」","It is very popular among women","Это очень популярно среди женщин","Es ist sehr beliebt bei Frauen"
+00000d4c,24,"「持ち主を捜してるの？」","“I’m looking for the owner?”","«Я ищу владельца? »","„Ich suche den Besitzer? „"
+00001514,28,"「ああ…階段に落ちてたから」","Oh… I fell into the stairs.","«О… я упал в лестницу».","Oh… ich fiel in die Treppe."
+00000e0c,34,"「そっか、誰が落としたんだろう…」","“Who has lost…”","«Кто потерял… »","„Wer hat verloren… „"
 00000e58,57,"「手がかりないし、生徒会室の
-　落とし物箱に入れておくよ」","","",""
-00000ef0,26,"「うん、それがいいと思う」","","",""
-00000f34,14,"「それじゃ…」","","",""
-00000fa0,16,"「うん、またね」","","",""
-00001050,26,"（いったい誰のだろうな…）","","",""
-00001834,16,"（室戸先輩かな）","","",""
-00001944,20,"（教室にいるかな？）","","",""
-000019d4,26,"「室戸先輩～、いますか？」","","",""
-00001ab4,24,"「\p01君、どうしたの？」","","",""
-00001b08,40,"「これって、室戸先輩のじゃないですか？」","","",""
-00001b84,42,"「あ！　探してたのよ！　どこに落ちてた？」","","",""
-00001c20,34,"「２年教室のそばの階段ですけど？」","","",""
+　落とし物箱に入れておくよ」","I don't know, I'll go to the dropbox of the
+student's meeting room.","Я не знаю, я поеду в дропбокс комнаты собрания
+студента.","Ich weiß nicht, ich gehe in die Dropbox des
+Konferenzraums des Schülers."
+00000ef0,26,"「うん、それがいいと思う」","“Yes, I think it’s good.”","- Да, я думаю, что это хорошо. »","„Ja, ich denke, es ist gut. „"
+00000f34,14,"「それじゃ…」","」","」","!"
+00000fa0,16,"「うん、またね」","」","」","!"
+00001050,26,"（いったい誰のだろうな…）","(Who are you?)","(Кто ты?)","(Wer sind Sie?)"
+00001834,16,"（室戸先輩かな）","(Muroto seniors)","(Мурото старшие)","(Muroto Senioren)"
+00001944,20,"（教室にいるかな？）","(Is it in the classroom?)","(Это в классе?)","(Ist es im Klassenzimmer?)"
+000019d4,26,"「室戸先輩～、いますか？」","Muroto seniors ~, what is it?","«Мурото старший ~, что это?»","Muroto seniors ~, what is it?"
+00001b08,40,"「これって、室戸先輩のじゃないですか？」","“Is this a senior at Mur、?”","- Это старший в Mur、? »","„Ist das ein Senior bei Mur、? „"
+00001b84,42,"「あ！　探してたのよ！　どこに落ちてた？」","“Where did you find it? Where did you fall?”","— Где вы его нашли? Где ты упал? »","„Wo hast du sie gefunden? Wo bist du hingefallen?
+„"
+00001c20,34,"「２年教室のそばの階段ですけど？」","“It’s a教室ircase next to the classroom for two
+years?”","«Это толчком рядом с классом в течение двух лет?
+»","„Es ist ein Problem, das zwei Jahre lang neben
+dem Klassenzimmer liegt? „"
 00001c90,90,"「ああ、用事があって、保健室へ行った時に
 　落としたのかも。
-　ありがとう、見つけてくれて」","","",""
-00001d74,38,"「けど、よくわかったわね、私のだって」","","",""
+　ありがとう、見つけてくれて」","Oh, there is a case and it may have been dropped
+when I went to the health room. Thank you for your
+understanding.","О, есть случай, и он может быть упал, когда я
+пошел в комнату здравоохранения. Спасибо за
+понимание.","Oh, es gibt einen Fall und es könnte fallen, als
+ich in den Gesundheitsraum ging. Danke für Ihr
+Verständnis."
+00001d74,38,"「けど、よくわかったわね、私のだって」","But I'm familiar with it, I'm my.","- Но я знаком с ним, я мой.","Aber ich kenne es, ich bin mein."
 00001e08,59,"「先輩なら、外れても、
-　生徒会で預かってもらえるかなって」","","",""
-00001e88,30,"「あ、そういうこと？　フフッ」","","",""
-00001f30,38,"「ね、このキャラクターって知ってる？」","","",""
+　生徒会で預かってもらえるかなって」","If you are a senior, even if you are out, you
+will be able to keep it in the student group.","Если вы старший, даже если вы находитесь, вы
+сможете сохранить его в студенческой группе.","Wenn Sie ein Senior sind, auch wenn Sie draußen
+sind, können Sie es in der Studentengruppe halten."
+00001e88,30,"「あ、そういうこと？　フフッ」","“Oh, that’s right?”","«О, это правильно? »","„Oh, das stimmt? „"
+00001f30,38,"「ね、このキャラクターって知ってる？」","“I know this character?”","«Я знаю этот характер? »","„Ich kenne diesen Charakter? „"
 00001fa0,51,"「アホ毛あっぴ～ですよね？
-　女子の間で流行ってる」","","",""
-00002018,26,"「そう、かわいいわよね～」","","",""
-00002088,22,"「いや、知らないです」","","",""
+　女子の間で流行ってる」","Aho hair is not it? Popular among women","«Кто волосы это не так? Популярный среди женщин","Wer ist das nicht? Beliebt bei Frauen"
+00002018,26,"「そう、かわいいわよね～」","“Yes, it’s cute!”","— Да, это мило!","„Ja, es ist süß!“"
+00002088,22,"「いや、知らないです」","“No, I don’t know.”","- Нет, я не знаю. »","„Nein, ich weiß es nicht. „"
 000020e4,86,"「アホ毛あっぴ～っていって、
 　ずいぶん流行ってるらしいの。
-　学園でもよく見かけるし」","","",""
-00002170,34,"「そういえば、そんな気もしますね」","","",""
+　学園でもよく見かけるし」","Aho hair is not, it seems to be popular. I often
+see it in school","Aho волосы нет, кажется, популярны. Я часто вижу
+его в школе","Aho Haar ist nicht, es scheint beliebt zu sein.
+Ich sehe es oft in der Schule"
+00002170,34,"「そういえば、そんな気もしますね」","“I think that’s the same thing.”","«Я думаю, что это то же самое. »","„Ich denke, das ist dasselbe. „"
 000021e8,69,"「けど、流行ってるせいか、
-　生徒会の落とし物箱にもよく入ってるのよ」","","",""
+　生徒会の落とし物箱にもよく入ってるのよ」","“But because it is popular, I often put it in the
+dropbox of the student association.”","«Но потому, что это популярно, я часто ставлю его
+в Dropbox студенческой ассоциации. »","„Aber weil es beliebt ist, habe ich es oft in die
+Dropbox des Studentenverbandes gelegt. „"
 00002264,88,"「単価が千円以下の物は、半年保管したら、
 　廃棄処分していいことに
-　なってるんだけど…」","","",""
-00002310,30,"「かわいそうで捨てられなくて」","","",""
-0000237c,40,"「それで、こうして私が使ってるってわけ」","","",""
-000023dc,22,"「そうだったんですか」","","",""
+　なってるんだけど…」","If the unit price is less than 1,000 yen, I have
+to dispose of it for half a year …","Если цена единицы меньше 1000 иен, я должен
+утилизировать его на полгода …","Wenn der Einheitspreis weniger als 1.000 Yen
+beträgt, muss ich ihn für ein halbes Jahr
+entsorgen…"
+00002310,30,"「かわいそうで捨てられなくて」","“I don’t have to be thrown away because it’s
+cute.”","“Я не должен быть брошен, потому что это мило. »","„Ich muss nicht weggeworfen werden, weil es süß
+ist. „"
+0000237c,40,"「それで、こうして私が使ってるってわけ」","“Now, I’m using it.”","«Сейчас я его использую. »","„Jetzt nutze ich es. „"
+000023dc,22,"「そうだったんですか」","“What was that?”","— Что это было? »","„Was war das? „"
 00002444,108,"「知ってる？　廃棄処分する１ヶ月前には、
 　生徒会のホームページに画像を掲載して、
-　もらい手を捜してるのよ」","","",""
-00002508,38,"「そうなんですか？　知らなかったです」","","",""
-00002580,40,"「そう…もっと告知を強化しなきゃダメね」","","",""
+　もらい手を捜してるのよ」","“I know? I’m looking for a picture on the
+student’s website before I dispose of it.”","- Я знаю? Я ищу картину на сайте студента, прежде
+чем я утил его. »","„Ich weiß? Ich suche ein Bild auf der Website des
+Schülers, bevor ich es entsorge. „"
+00002508,38,"「そうなんですか？　知らなかったです」","“Is it? I didn’t know it?”","— Это? Я не знал? »","„Ist es? Ich wusste es nicht? „"
+00002580,40,"「そう…もっと告知を強化しなきゃダメね」","“Yes… I need to strengthen more announcements.”","«Да… Мне нужно усилить больше объявлений. »","„Ja… ich muss mehr Ankündigungen verstärken. „"
 00002614,81,"「このシャーペンに限らず、まだ使えるのに、
-　捨てるなんてもったいないじゃない？」","","",""
-00002694,14,"「そうですね」","","",""
-000026f4,55,"「\p01君も、何か欲しい物がないか
-　チェックしてみてね」","","",""
-00002778,57,"「それじゃあ、またね、\p01君。
-　拾ってくれてありがとう」","","",""
+　捨てるなんてもったいないじゃない？」","“I don’t have to throw away even though I can
+still use this cha .”","“Я не должен бросать, хотя я все еще могу
+использовать этот ха.”","„Ich muss nicht wegwerfen, auch wenn ich dieses
+Chaos noch benutzen kann.“"
+00002694,14,"「そうですね」","“Yes, right?”","— Да, правда? »","„Ja, richtig? „"
 000027e8,53,"「危うく、もう一度落とし物箱に
-　入るところでしたね」","","",""
+　入るところでしたね」","I'm dangerous, I'll go into the dropbox again.","«Я опасен, я снова пойду в дропбокс».","Ich bin gefährlich, ich gehe wieder in die
+Dropbox."
 00002870,47,"「フフッ、本当ね。
-　ごめんね、あっぴ～ちゃん」","","",""
-00002958,20,"（舞衣ちゃんかな？）","","",""
-000006ac,18,"（教室にいるかな）","","",""
-00002b0c,26,"「あ、いた、舞衣ちゃん！」","","",""
-00002bb4,16,"「あ、\p01先輩」","","",""
-00002c4c,22,"「どうしたんですか？」","","",""
-00002cc0,20,"「何かご用ですか？」","","",""
-00002d24,36,"「これって、舞衣ちゃんのじゃない？」","","",""
-00002d9c,24,"「ううん…違いますけど」","","",""
+　ごめんね、あっぴ～ちゃん」","Fuffed, true. Comment","Фуфированный, истинный. Комментарий","Fuffed, true. Anmerkung"
+00002958,20,"（舞衣ちゃんかな？）","(Mai-chan?)","(Май-чан?)","(Mai-chan?)"
+000006ac,18,"（教室にいるかな）","(I'm in the classroom)","(Я в классе)","(Ich bin im Klassenzimmer)"
+00002b0c,26,"「あ、いた、舞衣ちゃん！」","“Oh, I’m Mai!”","«О, я май!»","„Oh, ich bin Mai!“"
+00002c4c,22,"「どうしたんですか？」","How did you know?","Как вы узнали?","Woher wusstest du das?"
+00002cc0,20,"「何かご用ですか？」","What is it for?","- Что это за?","Wofür ist es?"
+00002d24,36,"「これって、舞衣ちゃんのじゃない？」","“This is Maii-chan?”","«Это Майя-Чан? »","„Das ist Maii-chan? „"
+00002d9c,24,"「ううん…違いますけど」","Yes… I'm different.","- Да… Я разные.","Ja… ich bin anders."
 00002dec,53,"「そっか、てっきり舞衣ちゃんのだと
-　思ったんだけど」","","",""
-00002e74,18,"「どうしてです？」","","",""
+　思ったんだけど」","I thought that it's just like Mai-chan.","- Я думал, что это так же, как и Mai-chan.","Ich dachte, es ist wie Mai-chan."
+00002e74,18,"「どうしてです？」","What is it?","Что это?","Was ist los?"
 00002ebc,47,"「キャラクターついてるし、
-　ぴったりかなって」","","",""
-00002f2c,42,"「あ～っ、私そんな子どもっぽくないですよ」","","",""
-00002f84,16,"「ごめんごめん」","","",""
+　ぴったりかなって」","With a character, it is perfect!","С характером это идеально!","Mit einem Charakter ist es perfekt!"
+00002f2c,42,"「あ～っ、私そんな子どもっぽくないですよ」","“Oh, I’m not like a child.”","«О, я не люблю ребенка. »","„Oh, ich bin nicht wie ein Kind. „"
+00002f84,16,"「ごめんごめん」","“Gamen Gomen”","«Гамен Гомен»","“Spielen Gomen”"
 00002ff4,57,"「と、言いつつ、私も大好きですけどね、
-　アホ毛あっぴ～」","","",""
-00003078,28,"「女子の間で流行ってるよね」","","",""
-000030d8,8,"「はい」","","",""
+　アホ毛あっぴ～」","“I love me, but I love my hair!”","«Я люблю меня, но люблю мои волосы!»","„Ich liebe mich, aber ich liebe meine Haare!“"
+00003078,28,"「女子の間で流行ってるよね」","“It’s popular among women.”","«Это популярно среди женщин. »","„Es ist beliebt bei Frauen. „"
+000030d8,8,"「はい」","Yes","Да","Ja"
 00003130,57,"「そのキャラクターって、
-　アホ毛あっぴ～っていうんだ？」","","",""
+　アホ毛あっぴ～っていうんだ？」","“The character is Aho hairy!”","“Для персонажа Aho hairy!”","„Der Charakter ist Aho hairy!“"
 000031ac,82,"「そうですよ。かわいいですよね～、
 　ちょっと生意気そうな目つきと、
-　くちばしが」","","",""
-00000cc8,34,"（女子の趣味は、よくわからないな）","","",""
-000032b0,30,"「持ち主を捜してるんですか？」","","",""
+　くちばしが」","Yes. It’s cute, it’s a little enthusiasm, and
+it’s a bit shy.","Да. Это мило, это немного энтузиазм, и это
+немного застенчиво.","Ja. Es ist süß, es ist ein wenig Begeisterung,
+und es ist ein bisschen schüchtern."
+00000cc8,34,"（女子の趣味は、よくわからないな）","(Women's hobby is not sure)","(Женское хобби не уверено)","(Frauen Hobby ist nicht sicher)"
+000032b0,30,"「持ち主を捜してるんですか？」","“Do you look for your owner?”","«Вы ищете своего владельца? »","„Sie suchen nach Ihrem Besitzer? „"
 00003304,81,"「そうなんだけど、見つかりそうもないから、
-　生徒会室の落とし物箱に入れておくよ」","","",""
-000033b4,42,"「あ、それがいいと思います。安心ですよね」","","",""
-00003408,28,"「それじゃあね、舞衣ちゃん」","","",""
-00003484,20,"「はい、失礼します」","","",""
-00001050,26,"（いったい誰のだろうな…）","","",""
-00003598,16,"（実原…かな？）","","",""
-000036a8,24,"（教室にいるといいけど）","","",""
-00003750,26,"「あ、いた。おーい、実原」","","",""
-000037f8,12,"「\p01先輩」","","",""
-0000388c,18,"「何か用ですか？」","","",""
-000038e4,32,"「これって、お前のじゃないか？」","","",""
-00003958,14,"「違いますよ」","","",""
-00000aac,12,"「そっか…」","","",""
-000039fc,24,"「何でそれが私のだと？」","","",""
+　生徒会室の落とし物箱に入れておくよ」","“It’s right, but I don’t find it, so I’ll go to
+the dropbox of the student group.”","«Это правильно, но я не нахожу его, так что я
+пойду в Dropbox студенческой группы. »","„Es ist richtig, aber ich finde es nicht, also
+gehe ich zum Dropbox der Studentengruppe. „"
+000033b4,42,"「あ、それがいいと思います。安心ですよね」","Oh, I think it is good. It’s safe.","«О, я думаю, что это хорошо. Это безопасно.","Oh, ich glaube, es ist gut. Es ist sicher."
+00003408,28,"「それじゃあね、舞衣ちゃん」","Yes, Mai-chan","Да, Mai-chan","Ja, Mai-chan"
+00003484,20,"「はい、失礼します」","Yes, rude.","- Да, грубо.","Ja, unhöflich."
+00001050,26,"（いったい誰のだろうな…）","(Who are you?)","(Кто ты?)","(Wer sind Sie?)"
+00003598,16,"（実原…かな？）","(Are you?)","(Вы?)","(Sind Sie?)"
+000036a8,24,"（教室にいるといいけど）","(I want to be in the classroom)","(Хочу быть в классе)","(Ich will im Klassenzimmer sein)"
+00003750,26,"「あ、いた。おーい、実原」","。 Home","。 Начало","。 Home"
+0000388c,18,"「何か用ですか？」","“What is it?”","— Что это? »","„Was ist das? „"
+000038e4,32,"「これって、お前のじゃないか？」","I'm not this?","- Я не это?","Ich bin nicht das?"
+00003958,14,"「違いますよ」","I'm different.","- Я разные.","Ich bin anders."
+00000aac,12,"「そっか…」","っ","ФУТБОЛ",","
+000039fc,24,"「何でそれが私のだと？」","“What is it?”","— Что это? »","„Was ist das? „"
 00003a40,63,"「このあひるって、ちょっとお前に
-　似てないか？　生意気そうで」","","",""
-00003ae4,18,"「似てませんよ！」","","",""
+　似てないか？　生意気そうで」","Do you like this?","- Тебе это нравится?","Gefällt dir das?"
+00003ae4,18,"「似てませんよ！」","“I don’t like it!”","- Мне это не нравится! »","„Ich mag es nicht! „"
 00003b58,73,"「そんなアホ毛が生えた、間抜けそうな
-　あひると、一緒にしないでください」","","",""
-00003bd8,10,"「ははは」","","",""
+　あひると、一緒にしないでください」","Do not go with it if it is going to get out of
+the hair, such as aho hair.","Не идти с ним, если он собирается выйти из волос,
+такие как ахо волосы.","Gehen Sie nicht damit, wenn es aus dem Haar
+kommt, wie Aho-Haar."
+00003bd8,10,"「ははは」","」","」","!"
 00003c30,53,"「このキャラクターって、
-　何て言うのか知ってるか？」","","",""
+　何て言うのか知ってるか？」","“What do you know about this character?”","« » Что вы знаете об этом персонаже? »","„ Was weißt du über diesen Charakter? „"
 00003ca8,59,"「確か…アホ毛あっぴ～ですね。
-　女子の間で流行ってますよ」","","",""
-00003d10,10,"「へ～っ」","","",""
-000032b0,30,"「持ち主を捜してるんですか？」","","",""
+　女子の間で流行ってますよ」","I'm sure … Aho hair is not. It is popular
+among women.","Я уверен… Ахо волосы нет. Популярен среди
+женщин.","Ich bin sicher… Aho Haar ist nicht. Es ist
+beliebt bei Frauen."
+00003d10,10,"「へ～っ」","」","」","!"
+000032b0,30,"「持ち主を捜してるんですか？」","“Do you look for your owner?”","«Вы ищете своего владельца? »","„Sie suchen nach Ihrem Besitzer? „"
 00003dd0,79,"「…なんだけど、見つかりそうもないから、
-　生徒会室の落とし物箱に入れておくよ」","","",""
+　生徒会室の落とし物箱に入れておくよ」","“I’m not… but I don’t find it, so I’ll go to
+the dropbox of the student group.”","“Я не… но я не нахожу его, поэтому я пойду в
+Dropbox студенческой группы. »","“Ich bin nicht… aber ich finde es nicht, also
+gehe ich zum Dropbox der Studentengruppe. „"
 00003e7c,67,"「それがいいんじゃないですか？
-　自分で見つけるのなんて無理ですよ」","","",""
+　自分で見つけるのなんて無理ですよ」","“Is it good?” It’s impossible to find yourself.”","- Это хорошо? Невозможно найти себя. »","„Ist es gut?“ Es ist unmöglich, sich selbst zu
+finden. „"
 00003ee8,57,"「だな。じゃあ、さっそく入れてくるよ。
-　じゃあ、またな」","","",""
-00003f80,14,"「失礼します」","","",""
-00001050,26,"（いったい誰のだろうな…）","","",""
-0000408c,16,"（ののか…かな）","","",""
-000006ac,18,"（教室にいるかな）","","",""
-0000423c,30,"「あ、いた。お～い、ののか～」","","",""
-000042e8,18,"「あ、だっつん！」","","",""
-00004380,24,"「何？　何？　何か用？」","","",""
-000038e4,32,"「これって、お前のじゃないか？」","","",""
+　じゃあ、またな」","。 Let’s go. Others","。 Пойдем. Другие","。 Gehen wir. Sonstige"
+00003f80,14,"「失礼します」","I'm sorry.","- Прости.","Es tut mir leid."
+00001050,26,"（いったい誰のだろうな…）","(Who are you?)","(Кто ты?)","(Wer sind Sie?)"
+0000408c,16,"（ののか…かな）",")",")",")"
+000006ac,18,"（教室にいるかな）","(I'm in the classroom)","(Я в классе)","(Ich bin im Klassenzimmer)"
+0000423c,30,"「あ、いた。お～い、ののか～」","。 Comment","。 Комментарий","。 Kommentar"
+000042e8,18,"「あ、だっつん！」","、","、","、"
+00004380,24,"「何？　何？　何か用？」","What? What?","Что? Что?","Was? Was?"
+000038e4,32,"「これって、お前のじゃないか？」","I'm not this?","- Я не это?","Ich bin nicht das?"
 00004460,55,"「おっ、アホ毛あっぴ～のシャーペンだぁ。
-　かわいい～」","","",""
+　かわいい～」","Oh, I'm a sharpen of Aho hair. Cute","О, я острень волос Ахо. Милые","Oh, ich bin eine Spitze von Aho Haar. Schnitt"
 000044f0,49,"「けど、違うよ。
-　見たことも、使ったこともない」","","",""
-00004558,10,"「そっか」","","",""
+　見たことも、使ったこともない」","I'm different. I have never seen it.","- Я разные. Я никогда не видел его.","Ich bin anders. Ich habe es noch nie gesehen."
+00004558,10,"「そっか」","」","」","!"
 000045b0,57,"「このキャラクターって、
-　アホ毛あっぴ～っていうのか？」","","",""
+　アホ毛あっぴ～っていうのか？」","Do you think this character is Aho hairy?","- Считаете ли вы, что этот персонаж Ахо волосат?","Glaubst du, dieser Charakter ist Aho hairy?"
 00004638,120,"「そうだよ。男子は知らないかもしれないけど
 　女子の間では大人気！　みんな１つぐらいは
-　グッズを持ってるんじゃないかな」","","",""
-00003d10,10,"「へ～っ」","","",""
-0000474c,24,"「持ち主を捜してんの？」","","",""
+　グッズを持ってるんじゃないかな」","Yes. Men may not know, but it is very popular
+among women! I wonder if everyone has a good thing","Да. Мужчины могут не знать, но это очень
+популярно среди женщин! Интересно, есть ли у всех
+хорошая вещь»","Ja. Männer können nicht wissen, aber es ist sehr
+beliebt bei Frauen! Ich frage mich, ob jeder etwas
+Gutes hat"
+00003d10,10,"「へ～っ」","」","」","!"
+0000474c,24,"「持ち主を捜してんの？」","Do you search for the owner?","- Вы ищете владельца?","Suchest du nach dem Besitzer?"
 0000479c,63,"「ああ、階段に落ちてたから、
-　届けてやろうと思ったんだけど…」","","",""
+　届けてやろうと思ったんだけど…」","“Oh, I fell into the stairs, so I thought I would
+like to deliver it…”","«О, я упал в лестницу, поэтому я думал, что хотел
+бы доставить его…»","„Oh, ich fiel in die Treppe, also dachte ich, ich
+würde es gerne liefern…“"
 000047fc,61,"「誰のかわからないし、生徒会室の
-　落とし物箱に入れておくよ」","","",""
-00004898,28,"「そうだね～、それがいいよ」","","",""
-00004910,28,"「じゃあ、またね、だっつん」","","",""
-00004964,16,"「ああ、またな」","","",""
-00001050,26,"（いったい誰のだろうな…）","","",""
-00004a6c,20,"（柚ノ木さんかな？）","","",""
-000006ac,18,"（教室にいるかな）","","",""
-00004c20,26,"「あ、いた、柚ノ木さ～ん」","","",""
-00000820,14,"「あ、\p01君」","","",""
-00004d5c,26,"「なぁに？　どうしたの？」","","",""
-00004dbc,36,"「これって、柚ノ木さんのじゃない？」","","",""
+　落とし物箱に入れておくよ」","I don't know who, and I'll put it in the dropbox
+of the student group.","Я не знаю, кто, и я положу его в падение
+студенческой группы.","Ich weiß nicht, wer und ich lege es in die
+Dropbox der Studentengruppe."
+00004898,28,"「そうだね～、それがいいよ」","“Yes, it’s good.”","«Да, это хорошо. »","„Ja, es ist gut. „"
+00004910,28,"「じゃあ、またね、だっつん」","Yes, again, it's not.","- Да, опять, это не.","Ja, wieder ist es nicht."
+00004964,16,"「ああ、またな」","」","」","!"
+00001050,26,"（いったい誰のだろうな…）","(Who are you?)","(Кто ты?)","(Wer sind Sie?)"
+00004a6c,20,"（柚ノ木さんかな？）","(Are you yuzunoki?)","(Вы юзуноки?)","(Sind Sie yuzunoki?)"
+000006ac,18,"（教室にいるかな）","(I'm in the classroom)","(Я в классе)","(Ich bin im Klassenzimmer)"
+00004c20,26,"「あ、いた、柚ノ木さ～ん」","Oh, I'm yuzu-no-ki-san","О, я юзу-но-ки-сан","Oh, ich bin yuzu-no-ki-san"
+00004d5c,26,"「なぁに？　どうしたの？」","“What’s happening?”","— Что происходит? »","„Was passiert? „"
+00004dbc,36,"「これって、柚ノ木さんのじゃない？」","“This is not Yuzunoki?”","— Это не Юзуноки? »","„Das ist nicht Yuzunoki? „"
 0000098c,49,"「あ、アホ毛あっぴ～のシャーペン。
-　かわいい～」","","",""
+　かわいい～」","Sherpen of Aho Hair Aっ Cute","Шерпен Aho Hair ASH Cute","Sherpen von Aho Hair A dich"
 00004ed8,47,"「けど、私のじゃないわ。
-　どうしたの？　これ」","","",""
+　どうしたの？　これ」","I'm not my What is this?","Я не мой Что это?","Ich bin nicht mein Was ist das?"
 00004f3c,86,"「そこの階段に落ちてたんだよ。
 　もしかしたら、柚ノ木さんのかなって
-　思ったんだけど」","","",""
-00004fe4,14,"「どうして？」","","",""
+　思ったんだけど」","I fell into the stairs. I thought it was like
+Yuzunogi.","«Я упал в лестницу. Я думал, что это было как
+Юзуноги.","Ich fiel in die Treppe. Ich dachte, es wäre wie
+Yuzunogi."
+00004fe4,14,"「どうして？」","How do we do?","Как мы делаем?","Wie machen wir das?"
 00005028,61,"「こういうキャラクターものって、
-　好きなんじゃないかなって」","","",""
+　好きなんじゃないかなって」","“This is a character, I like it.”","“Это характер, мне это нравится. »","„Das ist ein Charakter, es gefällt mir. „"
 000050c4,65,"「フフッ、ええ、大好きよ。
-　あっぴ～のグッズも一杯持ってるもの」","","",""
-0000515c,18,"「ははは、そっか」","","",""
+　あっぴ～のグッズも一杯持ってるもの」","“I love it!” The items that have a cup of apparel","«Я люблю это!» Предметы, которые имеют чашку
+одежды","„Ich liebe es!“ Die Artikel, die eine Tasse
+Kleidung haben"
+0000515c,18,"「ははは、そっか」","I'm like that.","- Мне это нравится.","Ich bin so."
 00000b08,57,"「このキャラクターって、
-　アホ毛あっぴ～っていうんだ？」","","",""
+　アホ毛あっぴ～っていうんだ？」","“This character is Aho hairy!”","“Этот характер Aho hairy!”","“Dieser Charakter ist Aho hairy!”"
 00005238,55,"「ええ。知らない？　女子の間では
-　結構流行ってるのよ」","","",""
-00003d10,10,"「へ～っ」","","",""
-00005308,36,"「いったい誰が落としたのかしらね？」","","",""
+　結構流行ってるのよ」","Home Do you know? It is quite popular among
+women.","Начало Вы знаете? Это довольно популярно среди
+женщин.","Home Weißt du? Es ist sehr beliebt bei Frauen."
+00003d10,10,"「へ～っ」","」","」","!"
+00005308,36,"「いったい誰が落としたのかしらね？」","“Who did you drop?”","«Кто ты упал? »","„Wer hast du fallen lassen? „"
 00005364,69,"「う～ん、見当もつかないから、
-　生徒会室の落とし物箱に入れておくよ」","","",""
+　生徒会室の落とし物箱に入れておくよ」","“Oh, I can’t find it, so I’ll put it in the
+dropbox of the student group.”","«О, я не могу найти его, поэтому я положу его в
+падение студенческой группы. »","„Oh, ich kann es nicht finden, also werde ich es
+in die Dropbox der Studentengruppe setzen. „"
 00005408,83,"「うん、それがいいと思う。落とした人も、
-　気づけば、生徒会室へ行くかもしれないし」","","",""
-00005484,42,"「そうだね。じゃあ、さっそく行ってくるか」","","",""
-000054fc,55,"「…ちゃんと届けるなんて、いい人なのね、
-　\p01君って」","","",""
-00005554,24,"「いや、それほどでも…」","","",""
-000055a8,26,"「フフッ、感心しちゃった」","","",""
-00005640,18,"「じゃあ、またね」","","",""
-00000fa0,16,"「うん、またね」","","",""
-00001050,26,"（いったい誰のだろうな…）","","",""
-00005790,18,"（深角さん…かな）","","",""
-000036a8,24,"（教室にいるといいけど）","","",""
-00005948,22,"「あ、いた。深角さん」","","",""
-00000820,14,"「あ、\p01君」","","",""
-000008c8,8,"「何？」","","",""
-00005ad0,34,"「これって、深角さんのじゃない？」","","",""
-00005b20,32,"「アホ毛あっぴ～のシャーペン…」","","",""
-00005b94,24,"「違うわ、私のじゃない」","","",""
-00004558,10,"「そっか」","","",""
-00005c40,14,"「落とし物？」","","",""
-00005c84,40,"「そうなんだけど、持ち主がわからなくて」","","",""
+　気づけば、生徒会室へ行くかもしれないし」","Yes, I think it is good. People who have
+dropped, if they noticed, they may go to the
+student’s meeting room.”","- Да, я думаю, что это хорошо. Люди, которые
+упали, если они заметили, они могут пойти в
+конференц-зал студента. »","Ja, ich glaube, es ist gut. Menschen, die
+gefallen sind, wenn sie bemerkt haben, können sie
+in den Konferenzraum des Schülers gehen. „"
+00005484,42,"「そうだね。じゃあ、さっそく行ってくるか」","“Yes, right?” So, do you come back?","— Да, правда? Итак, ты возвращаешься?","„Ja, richtig?“ Kommst du zurück?"
+00005554,24,"「いや、それほどでも…」","“No, it’s not so…”","- Нет, это не так… »","„Nein, es ist nicht so… „"
+000055a8,26,"「フフッ、感心しちゃった」","F感, I was imp」ed.","«Факс, я был толчком».","Vielleicht war ich unschuldig."
+00005640,18,"「じゃあ、またね」","Yeah, again","Да, опять","Ja, wieder"
+00000fa0,16,"「うん、またね」","」","」","!"
+00001050,26,"（いったい誰のだろうな…）","(Who are you?)","(Кто ты?)","(Wer sind Sie?)"
+00005790,18,"（深角さん…かな）","())","())","()"
+000036a8,24,"（教室にいるといいけど）","(I want to be in the classroom)","(Хочу быть в классе)","(Ich will im Klassenzimmer sein)"
+00005948,22,"「あ、いた。深角さん」","。 Deep Corner","。 Глубокий уголок","。 Deep Corner"
+000008c8,8,"「何？」","What is ?","Что такое ?","Was ist ?"
+00005ad0,34,"「これって、深角さんのじゃない？」","This is not a deep angle?","- Это не глубокий угол?","Das ist kein tiefer Winkel?"
+00005b20,32,"「アホ毛あっぴ～のシャーペン…」","Aho hair supple…","Aho hair supple…","Aho hair supple…"
+00005b94,24,"「違うわ、私のじゃない」","It's not me.","- Это не я.","Ich bin es nicht."
+00004558,10,"「そっか」","」","」","!"
+00005c40,14,"「落とし物？」","“What is lost?”","- Что потеряно? »","„Was ist verloren? „"
+00005c84,40,"「そうなんだけど、持ち主がわからなくて」","“It’s right, but I don’t know my owner.”","«Это правильно, но я не знаю своего владельца. »","„Es ist richtig, aber ich kenne meinen Besitzer
+nicht. „"
 00005d00,61,"「生徒会室の、落とし物箱に
-　入れておくのがいいんじゃない？」","","",""
-00005d74,16,"「そうだよね…」","","",""
+　入れておくのがいいんじゃない？」","“Is it good to put in a dropbox in the student’s
+meeting room?”","«Хорошо ли поставить в дропбокс в зале заседаний
+студента? »","„Ist es gut, eine Dropbox in den Tagungsraum des
+Schülers einzufügen? „"
+00005d74,16,"「そうだよね…」","It's right…","«Это правильно…»","Es ist richtig…"
 00000b08,57,"「このキャラクターって、
-　アホ毛あっぴ～っていうんだ？」","","",""
+　アホ毛あっぴ～っていうんだ？」","“This character is Aho hairy!”","“Этот характер Aho hairy!”","“Dieser Charakter ist Aho hairy!”"
 00005e50,61,"「ええ…女子の間で流行ってるみたい。
-　私もいくつか持ってる」","","",""
-00003d10,10,"「へ～っ」","","",""
-00005ef8,32,"「じゃあ、届けてくるよ。またね」","","",""
-00005f78,20,"「ええ、それじゃ…」","","",""
-00005ff8,16,"（果音のかもな）","","",""
-00001944,20,"（教室にいるかな？）","","",""
-000061ac,26,"「あ、いた、お～い、果音」","","",""
-0000624c,24,"「ふぇ？　あ、にいやん」","","",""
-000062ec,28,"「どうしたの～？　何か用？」","","",""
-000038e4,32,"「これって、お前のじゃないか？」","","",""
+　私もいくつか持ってる」","“Yes… I’m getting popular among women.” I also
+have some","«Да… Я получаю популярность среди женщин». У
+меня также есть некоторые","„Ja… ich werde bei Frauen beliebt.“ Ich habe
+auch etwas"
+00003d10,10,"「へ～っ」","」","」","!"
+00005ef8,32,"「じゃあ、届けてくるよ。またね」","Now, I'll be delivered. Comment","- Теперь я буду доставлен. Комментарий","Jetzt werde ich geliefert. Anmerkung"
+00005f78,20,"「ええ、それじゃ…」","Yes, it is…","«Да, это…»","Ja, es ist…"
+00005ff8,16,"（果音のかもな）","(Sound)","(звук)","(Klang)"
+00001944,20,"（教室にいるかな？）","(Is it in the classroom?)","(Это в классе?)","(Ist es im Klassenzimmer?)"
+000061ac,26,"「あ、いた、お～い、果音」","“Oh, I, Oh, Oh, Oh!”","«О, я, О, О!»","„Oh, ich, Oh, oh!“"
+0000624c,24,"「ふぇ？　あ、にいやん」","?","?","?"
+000062ec,28,"「どうしたの～？　何か用？」","How to use something?","Как что-то использовать?","Wie benutzt man etwas?"
+000038e4,32,"「これって、お前のじゃないか？」","I'm not this?","- Я не это?","Ich bin nicht das?"
 000063d0,55,"「あ！　アホ毛あっぴ～のシャーペン！
-　かっわいい～！」","","",""
+　かっわいい～！」","A! Aho Hairy Appi~'s Chapen! It's cool!","А! Aho Волосатые Appi~'s Chapen! Это круто!","A! Aho Hairy Appi~'s Chapen! Es ist cool!"
 0000643c,55,"（そんな、目を輝かすほど、
-　かわいいとは思えないが…）","","",""
-000064a8,42,"「どこで売ってたんだろ～、私も欲しいな～」","","",""
-000064f4,28,"「ってことは、お前のじゃ…」","","",""
-00006560,10,"「ないよ」","","",""
-0000658c,16,"「そっか…残念」","","",""
-000065f0,22,"「どうしたの？　これ」","","",""
-0000663c,24,"「階段に落ちてたんだよ」","","",""
+　かわいいとは思えないが…）","Sorry, this entry is only available in 日本語.","Извините, этот техт доступен только в “日本語”.","Leider ist dieser Eintrag nur in 日本語 verfügbar."
+000064a8,42,"「どこで売ってたんだろ～、私も欲しいな～」","Where do you sell? I want you!","- Где вы продаете? Я хочу тебя!","Wo verkaufen Sie? Ich will dich!"
+000064f4,28,"「ってことは、お前のじゃ…」","What's right?","- Что правильно?","Was ist los?"
+00006560,10,"「ないよ」","」","」","!"
+0000658c,16,"「そっか…残念」","I'm sorry…","Я сожалею…","Es tut mir leid…"
+000065f0,22,"「どうしたの？　これ」","How did you do this?","- Как ты это сделал?","Wie hast du das gemacht?"
+0000663c,24,"「階段に落ちてたんだよ」","I fell into the stairs","«Я упал в лестницу»","Ich fiel in die Treppe"
 000066b4,63,"「ふ～ん、持ち主からはぐれちゃって、
-　かわいそ～な、あっぴ～」","","",""
+　かわいそ～な、あっぴ～」","Oh, from the owner, I'mわing,","О, от собственника, я служаствую,","Oh, vom Besitzer, ich bin überzeugt."
 000045b0,57,"「このキャラクターって、
-　アホ毛あっぴ～っていうのか？」","","",""
-000067c4,36,"「そうだよ。にいやん、知らないの？」","","",""
+　アホ毛あっぴ～っていうのか？」","Do you think this character is Aho hairy?","- Считаете ли вы, что этот персонаж Ахо волосат?","Glaubst du, dieser Charakter ist Aho hairy?"
+000067c4,36,"「そうだよ。にいやん、知らないの？」","Yes. Do you know?","Да. Вы знаете?","Ja. Weißt du?"
 00006818,51,"「ああ。見かけたことは、
-　ある気がするんだけどな」","","",""
+　ある気がするんだけどな」","Home I feel that I can see it.","Дома я чувствую, что я вижу это.","Zuhause Ich fühle, dass ich es sehen kann."
 0000688c,49,"「おっくれってる～、
-　すっごく流行ってるのに～」","","",""
-000068ec,16,"「そうなのか？」","","",""
-00006950,32,"「といっても、女子の間でだけど」","","",""
-0000699c,20,"「そんなの知るかよ」","","",""
-000069e0,20,"「あはは、だよね～」","","",""
+　すっごく流行ってるのに～」","I'm sorry, it's very popular.","Я сожалею, это очень популярно.","Es tut mir leid, es ist sehr beliebt."
+000068ec,16,"「そうなのか？」","“Is it?”","— Это? »","„Ist es? „"
+00006950,32,"「といっても、女子の間でだけど」","“I’m a girl.”","«Я девушка. »","„Ich bin ein Mädchen. „"
+0000699c,20,"「そんなの知るかよ」","“What do you know?”","- Что вы знаете? »","„Was weißt du? „"
+000069e0,20,"「あはは、だよね～」","“Oh, it’s right!”","«О, это правильно!»","„Oh, es ist richtig!“"
 00006a34,61,"「誰のかわからないし、
-　生徒会室の落とし物箱に入れてくるよ」","","",""
+　生徒会室の落とし物箱に入れてくるよ」","“I don’t know who, and I will put it in the
+dropbox of the student group.”","«Я не знаю, кто, и я положу его в падение
+студенческой группы. »","„Ich weiß nicht, wer und ich werde es in die
+Dropbox der Studentengruppe setzen. „"
 00006ad0,69,"「うん、それがいいよ。持ち主が探して、
-　のぞきに行くかもしれないし」","","",""
-00006b40,16,"「それじゃあな」","","",""
-00006bb0,30,"「うん。まったね～、にいやん」","","",""
-00001050,26,"（いったい誰のだろうな…）","","",""
-00006cdc,42,"（大谷先生のかな？　職員室へ行ってみるか）","","",""
-00006e68,38,"（あ、大谷先生、ちょうどいいところに）","","",""
-00006ed8,30,"（え～と、周りに人がいるよな）","","",""
-00006f24,36,"「大谷先生～、ちょっといいですか？」","","",""
-00006f78,8,"「え？」","","",""
-00007008,28,"「あ、\p01君。どうしたの？」","","",""
-0000706c,36,"「これって、先生のじゃないですか？」","","",""
+　のぞきに行くかもしれないし」","Yes, it is good. The owner may search for and go
+to theきking.","- Да, это хорошо. Владелец может искать и ходить
+в ТЕЧЕНИЕ.","Ja, es ist gut. Der Besitzer kann nach dem Lesen
+suchen und gehen."
+00006b40,16,"「それじゃあな」","It's it!","- Это!","Das ist es!"
+00006bb0,30,"「うん。まったね～、にいやん」","。 HOME","。 ГЛАВНАЯ","。 HOME"
+00001050,26,"（いったい誰のだろうな…）","(Who are you?)","(Кто ты?)","(Wer sind Sie?)"
+00006cdc,42,"（大谷先生のかな？　職員室へ行ってみるか）","(Are you a teacher of Otani?)","(Вы учитель Otani?)","(Sind Sie Lehrer von Otani?)"
+00006e68,38,"（あ、大谷先生、ちょうどいいところに）","(Oya, just right)","(Оя, право)","(Oya, genau richtig)"
+00006ed8,30,"（え～と、周りに人がいるよな）","Sorry, this entry is only available in 日本語.","Извините, этот техт доступен только в “日本語”.","Leider ist dieser Eintrag nur in 日本語 verfügbar."
+00006f24,36,"「大谷先生～、ちょっといいですか？」","Mr. Otani ~, how about it?","- Господин Отани ~, как насчет этого?","Mr. Otani, wie wär's damit?"
+00006f78,8,"「え？」","?」","?」","?"
+0000706c,36,"「これって、先生のじゃないですか？」","“Is this a teacher?”","— Это учитель? »","„Ist das ein Lehrer? „"
 000070f0,49,"「あ、かわいい。
-　アホ毛あっぴ～のシャーペンね」","","",""
+　アホ毛あっぴ～のシャーペンね」","Oh, cute. Aho Hairy Shapenne","О, мило. Aho Волосатые формы","Oh, süß. Aho Hairy Shapenne"
 00007178,61,"「このキャラクターって、
-　アホ毛あっぴ～っていうんですか？」","","",""
-000071f8,40,"「そうよ、女子の間で流行ってるんだから」","","",""
-00003d10,10,"「へ～っ」","","",""
+　アホ毛あっぴ～っていうんですか？」","Do you think this character is Aho hairy?","- Считаете ли вы, что этот персонаж Ахо волосат?","Glaubst du, dieser Charakter ist Aho hairy?"
+000071f8,40,"「そうよ、女子の間で流行ってるんだから」","“Yes, I’m getting popular among women.”","«Да, я получаю популярность среди женщин. »","„Ja, ich werde bei Frauen beliebt. „"
+00003d10,10,"「へ～っ」","」","」","!"
 000072c8,73,"「けど、残念ながら、私のじゃないわ。
-　私って、シャーペンは使わないから」","","",""
+　私って、シャーペンは使わないから」","Sorry, this entry is only available in Japanese.
+I don’t use a cha、.”","Извините, этот техт доступен только в “Японский”.
+Я не использую ча,. »","Leider ist dieser Eintrag nur auf Japanisch
+verfügbar. Ich benutze keine Cha、. „"
 00007360,59,"「あ、うっかりしてたけど、そうですよね。
-　鉛筆派ですよね」","","",""
-000073e8,16,"「ええ、そうよ」","","",""
-0000743c,20,"「そうなんですか？」","","",""
-000074a0,28,"「ええ、鉛筆の方が好きなの」","","",""
-00007520,36,"「落とし物？　持ち主を捜してるの？」","","",""
+　鉛筆派ですよね」","“Oh, I’m doing it, but it’s right. It’s a派.","«О, я это делаю, но это правильно. Это a..","„Oh, ich mache es, aber es ist richtig. Es ist
+ein Angebot."
+000073e8,16,"「ええ、そうよ」","Yes, it is.","- Да, это.","Ja, das ist es."
+0000743c,20,"「そうなんですか？」","What is it?","Что это?","Was ist los?"
+000074a0,28,"「ええ、鉛筆の方が好きなの」","Eh, I like鉛筆s.","«Эх, мне нравятся 鉛筆».","Ich mag es."
+00007520,36,"「落とし物？　持ち主を捜してるの？」","“What is lost? Are you looking for the owner?”","- Что потеряно? Вы ищете владельца? »","„Was ist verloren? Suchen Sie den Besitzer? „"
 0000757c,81,"「そうなんですけど、見当もつかないから、
-　生徒会室の落とし物箱へ入れておきます」","","",""
+　生徒会室の落とし物箱へ入れておきます」","It's right, but I can't find it, so I put it in
+the dropbox of the student's room.","Это правильно, но я не могу найти его, так что я
+положил его в падение студенческой комнаты.","Es ist richtig, aber ich kann es nicht finden,
+also lege ich es in die Dropbox des
+Studentenzimmers."
 0000762c,57,"「そうね、それがいいわね。
-　生徒会に任せておけば安心よ」","","",""
-000076c0,16,"「それじゃあね」","","",""
-00003f80,14,"「失礼します」","","",""
+　生徒会に任せておけば安心よ」","“Yes, it’s good.” Please leave it to the student
+party.","- Да, это хорошо. Пожалуйста, оставьте его на
+студенческую вечеринку.","„Ja, es ist gut.“ Bitte überlassen Sie es der
+Studentenparty."
+000076c0,16,"「それじゃあね」","It's it!","- Это!","Das ist es!"
+00003f80,14,"「失礼します」","I'm sorry.","- Прости.","Es tut mir leid."

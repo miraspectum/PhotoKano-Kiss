@@ -1,42 +1,54 @@
-0000006c,20,"「じゃあ、ここでね」","","",""
-000000ac,18,"「あ、室戸先輩…」","","",""
-0000010c,8,"「何？」","","",""
+0000006c,20,"「じゃあ、ここでね」","Yes, here.","- Да, вот.","Ja, hier."
+000000ac,18,"「あ、室戸先輩…」","Oh, my seniors …","«О, мои пожилые…»","Oh, meine Senioren…"
+0000010c,8,"「何？」","What's New","Что нового","Was ist neu?"
 00000144,55,"（室戸先輩ってどんな人なんだろう。
-　もっと、知りたい）","","",""
+　もっと、知りたい）","(What kind of people do you have?) Learn more","(Какие у вас люди?) Узнать больше","(Was für Leute hast du?) Mehr erfahren"
 0000019c,51,"「その…よかったら、
-　どこか寄っていきませんか？」","","",""
-0000022c,32,"「寄り道？　私が？　\p01君と？」","","",""
-000002e4,14,"「え、ええ…」","","",""
+　どこか寄っていきませんか？」","“If you’re good, don’t you go somewhere?”","«Если ты хорошо, ты куда-то не ходишь? »","„Wenn du gut bist, gehst du nicht irgendwohin? „"
+000002e4,14,"「え、ええ…」","」","」","!"
 000003c0,69,"「悪いけど、今日はこれから、駅前の商店街を
-　見回ろうと思ってるのよ」","","",""
+　見回ろうと思ってるのよ」","I'm bad, but today I'm going to see a shopping
+street in front of you.","Я плохо, но сегодня я собираюсь увидеть торговую
+улицу перед вами.","Ich bin schlecht, aber heute werde ich eine
+Einkaufsstraße vor dir sehen."
 0000047c,57,"「放課後の見回り？　それも生徒会長の
-　仕事なんですか？」","","",""
+　仕事なんですか？」","“What is the work of the student president?”","«Какова работа студенческого президента? »","„Was ist die Arbeit des Studentenpräsidenten? „"
 00000504,112,"「違うけど、生徒指導の先生方や、風紀委員
 　だけに任せっぱなしじゃ申し訳なくてね。
-　たまには私も足を運ばないと」","","",""
+　たまには私も足を運ばないと」","It's different, but I don't have to leave it
+only to the teachers of the student guidance or
+the members of the Fuki. I don’t have to go
+forever.","«Это другое, но мне не нужно оставлять его только
+учителям студенческого руководства или членам
+Фуки. Мне не нужно идти навсегда.","Es ist anders, aber ich muss es nicht nur den
+Lehrern der Studentenführung oder den Mitgliedern
+der Fuki überlassen. Ich muss nicht ewig gehen."
 00000630,51,"「なるほど…じゃあ、俺も見回りに
-　付き合いますよ」","","",""
-000006c0,26,"「\p01君が？　見回りに？」","","",""
-00000758,84,"「…どちらかというと、私の\p01君の
-　印象は見回る側より、見回られる
-　側なんだけど」","","",""
-00000860,26,"「…自分でもそう思います」","","",""
+　付き合いますよ」","“I see… I’m also looking around.”","«Я вижу… Я тоже смотрю вокруг. »","„Ich sehe… Ich schaue mich auch um. „"
+00000860,26,"「…自分でもそう思います」","… I think it's like myself.","… Я думаю, что это как я».","… Ich glaube, es ist wie ich."
 000008bc,51,"「クスッ、正直ね。
-　いいわ、一緒に見回りましょう」","","",""
-000009c0,86,"「これを機に、\p01君も
-　光河学園生徒としての風紀や道徳を
-　学んでくれるとうれしいわ」","","",""
-00000ab0,10,"「はは…」","","",""
+　いいわ、一緒に見回りましょう」","“I’m honest. Let’s look around together.","«Я честный. Давайте посмотрим вместе.","„Ich bin ehrlich. Schauen wir uns zusammen um."
+00000ab0,10,"「はは…」","」","」","!"
 00000b2c,53,"「悪いけど、今日も商店街を見回ろうと
-　思ってるから」","","",""
-00000bd0,28,"「じゃあ、一緒に行きますよ」","","",""
-00000c3c,28,"「そう？　じゃあ、いいけど」","","",""
+　思ってるから」","“I’m bad, but I’m thinking about going around the
+shopping street today.”","«Я плохо, но я думаю о том, чтобы идти по улице
+покупок сегодня. »","“Ich bin schlecht, aber ich denke darüber nach,
+heute um die Einkaufsstraße zu gehen. „"
+00000bd0,28,"「じゃあ、一緒に行きますよ」","Yes, I'll go with you.","- Да, я пойду с тобой.","Ja, ich gehe mit dir."
+00000c3c,28,"「そう？　じゃあ、いいけど」","“Yes, right?”","— Да, правда? »","„Ja, richtig? „"
 00000d1c,47,"「悪いけど、このあと
-　ちょっと用事があるから」","","",""
-00000db4,18,"「そうなんですか」","","",""
+　ちょっと用事があるから」","I'm bad, but there is a little thing to do after
+this.","Я плохо, но есть немного, что делать после этого.","Ich bin schlecht, aber danach ist etwas zu tun."
+00000db4,18,"「そうなんですか」","“Is it?”","— Это? »","„Ist es? „"
 00000e24,88,"「じゃあ、またね。用事がないなら、
 　フラフラ寄り道せずに、
-　まっすぐ家に帰るようにね」","","",""
-00000f08,20,"「はい。失礼します」","","",""
-00000f7c,10,"「またね」","","",""
-00001074,36,"（もう一つ盛り上がらなかったしな…）","","",""
+　まっすぐ家に帰るようにね」","Yes, again. If you don’t have to use it, don’t
+stop by the  ula and go back to the house straight
+away.”","- Да, опять. Если вам не нужно использовать его,
+не останавливайтесь на ula и вернуться в дом
+сразу. »","Ja, wieder. Wenn Sie es nicht verwenden müssen,
+stoppen Sie nicht an der ula und gehen Sie zurück
+zum Haus sofort. „"
+00000f08,20,"「はい。失礼します」","Yes.","Да.","Ja."
+00000f7c,10,"「またね」","」","」","!"
+00001074,36,"（もう一つ盛り上がらなかったしな…）","(I didn't have any more…)","(У меня больше не было…)","(Ich hatte nicht mehr…)"

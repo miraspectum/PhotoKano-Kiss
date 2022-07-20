@@ -1,81 +1,116 @@
-00000104,28,"「ん……しょ……ん…しょ…」","","",""
-00000150,34,"（あ、向こうから歩いてくるのは…）","","",""
-000001a0,26,"「んっしょ……んしょ……」","","",""
-000001cc,22,"シャッターチャンスだ！","","",""
-00000248,20,"（撮るまでもないな）","","",""
-00000420,38,"「いたた…指が……。ちょっと、休憩…」","","",""
-000004e4,10,"「ふう…」","","",""
-00000558,40,"「室戸先輩、どうしたんですか？　その本」","","",""
-000005f0,69,"「あ、\p01君。もうすぐ読書の秋だから、
-　新しい本がたくさん来てね…」","","",""
+00000104,28,"「ん……しょ……ん…しょ…」","……","………","…"
+00000150,34,"（あ、向こうから歩いてくるのは…）","Sorry, this entry is only available in 日本語.","Извините, этот техт доступен только в “日本語”.","Leider ist dieser Eintrag nur in 日本語 verfügbar."
+000001a0,26,"「んっしょ……んしょ……」","……","………","…"
+000001cc,22,"シャッターチャンスだ！","ter chance!","ter шанс!","Eine Chance!"
+00000248,20,"（撮るまでもないな）","(It is not until you take it)","(Это не до тех пор, пока вы не возьмете его)","(Es ist nicht, bis du es nimmst)"
+00000420,38,"「いたた…指が……。ちょっと、休憩…」","“I’m… my fingers…”","“Я… мои пальцы… »","„Ich bin… meine Finger… „"
+000004e4,10,"「ふう…」","」","」","!"
+00000558,40,"「室戸先輩、どうしたんですか？　その本」","What did you do? Book","Что ты сделал? Книга","Was hast du getan? Buch"
 000006e8,69,"「本棚に収まらないから、あまり読まれてない
-　本を倉庫に入れてるのよ」","","",""
-000007a4,36,"「それも生徒会長の仕事なんですか？」","","",""
-00000830,36,"「図書委員だけじゃ手が足りなくて…」","","",""
+　本を倉庫に入れてるのよ」","“I don’t fit in the book shelves, so I can see
+books that aren’t read much.”","«Я не впишу в полки книги, так что могу увидеть
+книги, которые не читают много. »","„Ich passt nicht in die Buchregale, so kann ich
+Bücher sehen, die nicht viel gelesen werden. „"
+000007a4,36,"「それも生徒会長の仕事なんですか？」","“Is it a student president work?”","— Работает ли студенческий президент? »","„Ist es ein studentischer Präsident? „"
+00000830,36,"「図書委員だけじゃ手が足りなくて…」","“I don’t have enough hands on the members of the
+library…”","«У меня не хватает рук на членов библиотеки… »","„Ich habe nicht genug Hände auf die Mitglieder
+der Bibliothek… „"
 000008f0,90,"「生徒会長はすべての委員を束ねる存在。
 　裏を返せば、すべてに携わる何でも屋って
-　ことよ」","","",""
+　ことよ」","Students are all members. If you return the
+back, you will find everything you want.","Студенты - все члены. Если вы возвращаете спину,
+вы найдете все, что хотите.","Studenten sind alle Mitglieder. Wenn du den
+Rücken zurückkehrst, wirst du alles finden, was du
+willst."
 000009c8,57,"「なるほど…。俺も手伝いますよ、
-　倉庫ってどこですか？」","","",""
-00000a64,40,"「本当？　助かるわ。倉庫は用務室の隣よ」","","",""
-00000b4c,28,"「じゃあ、まずはその本を…」","","",""
+　倉庫ってどこですか？」","I see. I can help you. Where is the warehouse?","Я вижу. Я могу вам помочь. Где находится склад?","Ich verstehe. Ich kann dir helfen. Wo ist das
+Lager?"
+00000a64,40,"「本当？　助かるわ。倉庫は用務室の隣よ」","True? Warehouse is next to the office","- Правда? Склад находится рядом с офисом","True? Warehouse befindet sich neben dem Büro"
+00000b4c,28,"「じゃあ、まずはその本を…」","Now, first of all, the book …","«Сейчас, прежде всего, книга…»","Jetzt, zuerst, das Buch …"
 00000bd8,100,"「あ、これは私が持っていくから、
 　図書室へ行って他の本を運んでくれる？
-　まだまだたくさんあるのよ」","","",""
-00000cd8,16,"「わかりました」","","",""
-00000d64,14,"「よろしくね」","","",""
-00000e04,44,"こうして、本の倉庫入れを手伝うことになった。","","",""
-00000e60,22,"「図書室、図書室と…」","","",""
+　まだまだたくさんあるのよ」","“Oh, I’m going to have it, so I’m going to go to
+the library to carry other books?” There are a lot
+of things","«О, я собираюсь иметь это, так что я собираюсь
+пойти в библиотеку, чтобы носить другие книги?»
+Есть много вещей","„Oh, ich werde es haben, also gehe ich in die
+Bibliothek, um andere Bücher zu tragen?“ Es gibt
+viele Dinge"
+00000cd8,16,"「わかりました」","」","」","!"
+00000d64,14,"「よろしくね」","Thank you","Спасибо","Danke"
+00000e04,44,"こうして、本の倉庫入れを手伝うことになった。","In this way, I helped the book warehousing.","Таким образом, я помог книжному складу.","Auf diese Weise half ich dem Buch-Warehousing."
+00000e60,22,"「図書室、図書室と…」","Library, Library and …","Библиотека, Библиотека и …","Bibliothek, Bibliothek und …"
 00000ec0,82,"「げ…確かにずいぶんあるなぁ。
 　ちまちま運んでたららちが明かないぞ。
-　ようし…」","","",""
+　ようし…」","“No… I’m sure there’s nothing.” It is not clear
+if you are carrying.","“Нет… Я уверен, что ничего нет.” Непонятно,
+если вы носите.","„Nein… ich bin sicher, dass es nichts gibt.“ Es
+ist nicht klar, ob Sie tragen."
 00000f40,74,"「うおりゃああああ！
 　『昭和百科大全集　全１０巻』、
-　一気持ちだぁぁ！」","","",""
-0000102c,42,"「ひぃ…ひぃ……ちょっと無理しすぎたか？」","","",""
-00001094,28,"「え…百科事典をそんなに？」","","",""
-0000112c,49,"「すごいわ、\p01君。
-　さすが男子、頼もしいわね」","","",""
-000011fc,18,"「で、でしょう？」","","",""
+　一気持ちだぁぁ！」","Oh! Showa En』pedia All 10 volumes, I'm
+feeling!","О! Шоу Энпедия Все 10 томов, я чувствую!","Oh! Darsteller Alle 10 Bände, ich fühle mich!"
+0000102c,42,"「ひぃ…ひぃ……ちょっと無理しすぎたか？」","Hai…Hai…Is it too hard?","- Хай…Хай…Это слишком сложно?","Hai…Hai… Ist es zu hart?"
+00001094,28,"「え…百科事典をそんなに？」","“Yes…the En科pedia?”","«Да…Энкарпедия? »","„Ja… die En litpedia? „"
+000011fc,18,"「で、でしょう？」","“What’s it?”","- Что это? »","„Was ist das? „"
 00001260,92,"「図書委員も全員女子だし、
 　男手が欲しかったのよ。
-　その調子でがんばってくれると助かるわ」","","",""
-0000133c,28,"「は、はい、任せてください」","","",""
-00001400,38,"「ふぅ……ふぅ……何とか運んできたぞ」","","",""
+　その調子でがんばってくれると助かるわ」","All the members of the book were女子, and the man
+wanted. I will help you with this condition.","«Все члены книги были女子, и человек хотел. Я
+помогу вам с этим условием.","Alle Mitglieder des Buches waren die Frau und
+der Mann wollte. Ich werde Ihnen bei dieser
+Bedingung helfen."
+0000133c,28,"「は、はい、任せてください」","Please leave","Пожалуйста, оставьте","Bitte verlassen"
+00001400,38,"「ふぅ……ふぅ……何とか運んできたぞ」","I'm sorry… I'm able to take somehow.","- Прости… Я могу как-то взять.","Es tut mir leid… Ich kann irgendwie mitnehmen."
 00001454,61,"「よ、よし、次はこのやたら重そうな
-　ハードカバー本の束を…」","","",""
-000014c0,24,"「おりゃあああああっ！」","","",""
-00001568,36,"「はぁ……はぁ……ひぃ……ひぃ……」","","",""
-000015cc,55,"「あ……重い本ばかり選んで…。
-　ありがとうね、\p01君」","","",""
+　ハードカバー本の束を…」","Yes, I'm going to have a bundle of hardcover
+books…","«Да, я собираюсь иметь связку трудных книг…»","Ja, ich werde ein Bündel von Hardcover-Büchern
+haben…"
+000014c0,24,"「おりゃあああああっ！」","“Oh!”","«О!»","„Oh!“"
+00001568,36,"「はぁ……はぁ……ひぃ……ひぃ……」","
+“Hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh","
+Hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh","
+hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh"
 00001690,49,"「男ですから…はぁはぁ…この程度、
-　楽勝ですよ」","","",""
-00001710,32,"「あまり無理せずにがんばってね」","","",""
-00001770,10,"そして…。","","",""
-00001834,22,"「終わったーーーっ！」","","",""
-00001894,82,"「ごくろうさま、\p01君。
-　おかげで予定よりずいぶん早く終わったわ。
-　ありがとう」","","",""
-00001954,20,"「どういたしまして」","","",""
-000019cc,24,"「何かお礼をしなきゃね」","","",""
-00001a14,26,"「いいですよ、お礼なんて」","","",""
+　楽勝ですよ」","I'm a man… I'm a guy… I'm a slew.","- Я мужчина… Я парень… Я строй.","Ich bin ein Mann… Ich bin ein Typ… Ich bin
+ein Schlitten."
+00001710,32,"「あまり無理せずにがんばってね」","“I don’t have to worry too much.”","«Мне не придется беспокоиться слишком много. »","„Ich muss mir nicht zu viel Sorgen machen. „"
+00001770,10,"そして…。","and…","и…","und…"
+00001834,22,"「終わったーーーっ！」","“I’m over!”","«Я закончился!»","„Ich bin vorbei!“"
+00001954,20,"「どういたしまして」","What's it?","- Что это?","Was ist das?"
+000019cc,24,"「何かお礼をしなきゃね」","I have to thank you for something.","- Я хочу поблагодарить вас за что-то.","Ich muss dir für etwas danken."
+00001a14,26,"「いいですよ、お礼なんて」","“Good, thank you!”","«Хорошо, спасибо!»","„Gut, danke!“"
 00001a90,69,"「そうもいかないわ。お世話になりっぱなし
-　という訳にはいかないもの」","","",""
-00001b44,26,"「そうですか？　…じゃあ」","","",""
-00001ba0,12,"「じゃあ？」","","",""
-00001c08,42,"「先輩の…素顔を撮らせてもらえませんか？」","","",""
-00001ca8,8,"「え…」","","",""
-00001d40,40,"「私の素顔に興味を持つなんて、変な人ね」","","",""
-00001d8c,28,"「変とは思えないですけど？」","","",""
-00001e00,8,"「変よ」","","",""
-00001e2c,14,"「そうかなぁ」","","",""
-00001eb8,8,"「……」","","",""
-00001f2c,32,"「まぁ、いいわ、撮らせてあげる」","","",""
+　という訳にはいかないもの」","“I don’t have it.” Sorry, this entry is only
+available in Japanese.","- У меня нет. Извините, этот техт доступен только
+в “Японский”.","„Ich habe es nicht.“ Leider ist dieser Eintrag
+nur auf Japanisch verfügbar."
+00001b44,26,"「そうですか？　…じゃあ」","What is it? 」","Что это? 」","Was ist los? !"
+00001ba0,12,"「じゃあ？」","?」","?」","?"
+00001c08,42,"「先輩の…素顔を撮らせてもらえませんか？」","I'm a senior … Can you take a face?","«Я старший… Можете ли вы взять лицо?","Ich bin ein Senior… Kannst du ein Gesicht
+nehmen?"
+00001ca8,8,"「え…」","」","」","!"
+00001d40,40,"「私の素顔に興味を持つなんて、変な人ね」","I'm a strange person who is interested in my
+face.","- Я незнакомый человек, который интересуется моим
+лицом.","Ich bin eine seltsame Person, die an meinem
+Gesicht interessiert ist."
+00001d8c,28,"「変とは思えないですけど？」","“I don’t think it’s a change?”","- Я не думаю, что это изменение? »","„Ich glaube nicht, dass es eine Veränderung ist?
+„"
+00001e00,8,"「変よ」","」","」","!"
+00001e2c,14,"「そうかなぁ」","」","」","!"
+00001eb8,8,"「……」","……","………","…"
+00001f2c,32,"「まぁ、いいわ、撮らせてあげる」","Well, good, let me take it!","Хорошо, хорошо, позвольте мне взять его!","Gut, gut, lass mich es nehmen!"
 00001fbc,59,"「えっ！？　本当ですか！？
-　じゃあ、窓際のいつもの席で…」","","",""
+　じゃあ、窓際のいつもの席で…」","“Is it true? It’s right? It’s the usual seat on
+the window…”","- Это правда? Это правильно? Это обычное место на
+окне… »","„Ist es wahr? Stimmt's? Es ist der übliche Sitz
+am Fenster… „"
 0000206c,57,"「きょ、今日はダメよ。本を運んで、
-　ほこりまみれだから」","","",""
-00002148,14,"「また今度ね」","","",""
+　ほこりまみれだから」","Yes, today I'm sorry. For carrying a book,
+because it is dusty.","- Да, сегодня я сожалею. Для переноски книги,
+потому что это пыльно.","Ja, heute tut es mir leid. Um ein Buch zu
+tragen, weil es staubig ist."
+00002148,14,"「また今度ね」","Although now","Хотя сейчас","Obwohl jetzt"
 00002184,51,"「…そうですか。けど、半年後ってのは
-　なしですよ」","","",""
-00002210,18,"「わかってるわよ」","","",""
+　なしですよ」","…Is it? However, it’s not half a year.","…Это? Однако это не половина года.","…ist es? Es ist jedoch nicht ein halbes Jahr."
+00002210,18,"「わかってるわよ」","」","」","!"

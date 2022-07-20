@@ -1,125 +1,208 @@
-0000016c,42,"（ん？　ケータイが。……室戸先輩からだ！）","","",""
-00000200,32,"受　信＞暇なら、プールへ来ない？","","",""
-00000250,14,"（プールへ？）","","",""
-00000294,24,"すぐ行きます！　＞送　信","","",""
-00000344,40,"（まだ水泳部が練習中か…。室戸先輩は？）","","",""
-00000390,20,"「\p01君、こっちよ」","","",""
-000003d4,8,"「え？」","","",""
+0000016c,42,"（ん？　ケータイが。……室戸先輩からだ！）","…… From Muroto seniors!)","……… От мастеров Muroto!)","… Von Muroto Senioren!)"
+00000200,32,"受　信＞暇なら、プールへ来ない？","Can I go to the pool?","Могу ли я пойти в бассейн?","Kann ich zum Pool gehen?"
+00000250,14,"（プールへ？）","(to the pool?)","(в бассейн?)","(zum Pool?)"
+00000294,24,"すぐ行きます！　＞送　信","Contact Us Contact","Связаться с нами Контакт","Kontaktieren Sie uns"
+00000344,40,"（まだ水泳部が練習中か…。室戸先輩は？）","(Swimming section) Who is Muroto?)","(Swimming раздел) Кто такой Muroto?)","(Swimming Abschnitt) Wer ist Muroto?)"
+000003d4,8,"「え？」","?」","?」","?"
 00000574,78,"「ごめんね、わざわざ呼んで。
 　あなたに飛び込むところを、
-　見てもらいたくて」","","",""
-00000648,32,"「もちろん、バッチリ撮りますよ」","","",""
-000006a8,34,"「あっ！　室戸先輩！　その格好…」","","",""
+　見てもらいたくて」","I'm sorry, I call it. I want to see where I jump
+to you.","Я сожалею, я называю это. Я хочу увидеть, где я
+прыгаю к вам.","Es tut mir leid, ich nenne es. Ich will sehen,
+wo ich zu dir springe."
+00000648,32,"「もちろん、バッチリ撮りますよ」","Of course, I will take a b」 re撮.","- Конечно, я возьму b」 re」.","Natürlich werde ich einen Biz re, nehmen."
+000006a8,34,"「あっ！　室戸先輩！　その格好…」","Oh! My seniors in Murodo! That cool…","О! Мои пожилые в Муродо! Это круто…","Oh! Meine Senioren in Murodo! Das ist cool…"
 00000704,53,"「フフッ、久しぶりに着たから、
-　ちょっと照れるわね」","","",""
-00000844,22,"（先輩の競泳水着姿…）","","",""
-0000087c,22,"シャッターチャンスだ！","","",""
+　ちょっと照れるわね」","“I wear it for a long time, so I can light it a
+little.”","“Я ношу его долго, так что я могу зажечь его
+немного. »","„Ich trage es für eine lange Zeit, so kann ich es
+ein wenig leuchten. „"
+00000844,22,"（先輩の競泳水着姿…）","(Swimming swimsuit figure…)","(Стиральная купальник фигура…)","(Swimming Badeanzug Figur…)"
+0000087c,22,"シャッターチャンスだ！","ter chance!","ter шанс!","Eine Chance!"
 00000924,57,"「ちょ、ちょっと、部員がいるのよ。
-　恥ずかしいじゃない」","","",""
-00000a00,28,"「俺を呼んどいて、今さら…」","","",""
+　恥ずかしいじゃない」","I'm a little, there's a staff. shy","Я немного, есть персонал. Шу","Ich bin ein wenig, da ist ein Personal. !"
+00000a00,28,"「俺を呼んどいて、今さら…」","I call me now…","- Я звоню мне сейчас…","Ich rufe mich jetzt an…"
 00000a8c,104,"「もう…撮って欲しいってわけじゃなくて、
 　光河学園のプールに帰ってきたことを
-　教えたかっただけなのに」","","",""
-00000ba4,16,"「ほら、笑って」","","",""
-00000c10,18,"「仕方ないわね…」","","",""
-00000c7c,10,"「フフッ」","","",""
-00000cec,18,"「いい笑顔ですよ」","","",""
-00000d4c,30,"「水泳部に復帰したんですか？」","","",""
-00000db8,20,"（撮るまでもないな）","","",""
-00000e38,75,"「\p01君にね、伝えておきたかったのよ。
-　光河学園のプールに帰ってきたって」","","",""
-00000f08,36,"「えっ、水泳部に復帰したんですか？」","","",""
-00000f94,34,"「まさか、さすがに復帰はないわよ」","","",""
+　教えたかっただけなのに」","“No longer… I want to take a photo, but I just
+wanted to tell you that I came back to the pool of
+Hikariga Gakuen.”","«Нет больше… Я хочу сфотографироваться, но я
+просто хотел сказать вам, что я вернулся в бассейн
+Hikariga Gakuen. »","„Nicht mehr… Ich will ein Foto machen, aber ich
+wollte dir nur sagen, dass ich zurück zum Pool von
+Hikariga Gakuen kam. „"
+00000ba4,16,"「ほら、笑って」","“Hello, laugh!”","«Здравствуй, смейся!»","„Hallo, lachen!“"
+00000c10,18,"「仕方ないわね…」","I don't have to do…","Не надо делать…","Ich muss nicht…"
+00000c7c,10,"「フフッ」","」","」","!"
+00000cec,18,"「いい笑顔ですよ」","It's a good smile.","- Это хорошая улыбка.","Es ist ein gutes Lächeln."
+00000d4c,30,"「水泳部に復帰したんですか？」","“Do you return to the swimming club?”","— Вы возвращаетесь в плавательный клуб? »","„Willst du wieder in den Schwimmclub? „"
+00000db8,20,"（撮るまでもないな）","(It is not until you take it)","(Это не до тех пор, пока вы не принимаете его)","(Es ist nicht, bis du es nimmst)"
+00000f08,36,"「えっ、水泳部に復帰したんですか？」","“Have you returned to the swimming club?”","«Вы вернулись в плавательный клуб? »","„Haben Sie zurück in den Schwimmclub? „"
+00000f94,34,"「まさか、さすがに復帰はないわよ」","“I don’t have to return to home.”","«Не надо возвращаться домой. »","„Ich muss nicht nach Hause zurückkehren. „"
 00001010,51,"「後輩に頼んで、
-　時々泳がせてもらうことにしたの」","","",""
+　時々泳がせてもらうことにしたの」","“I asked my seniors to swim sometimes.”","«Я попросила моих пожилых поплавать иногда. »","„Ich bat meine Senioren manchmal zu schwimmen. „"
 00001090,65,"「勉強や生徒会の仕事ばかりで、
-　根を詰めすぎるのもよくないから」","","",""
-0000114c,34,"「そっか。いいことですよ、それは」","","",""
+　根を詰めすぎるのもよくないから」","“I’m just studying and working in a student
+group, so I don’t have to get too much root.”","«Я просто учусь и работаю в студенческой группе,
+поэтому мне не нужно получать слишком много корня.
+»","„Ich studiere und arbeite nur in einer
+Studentengruppe, also muss ich nicht zu viel
+Wurzel bekommen. „"
+0000114c,34,"「そっか。いいことですよ、それは」","。 That’s right.","。 Это правильно.","。 Das stimmt."
 000011c8,63,"「あなたが不正下校で教えてくれたことよ。
-　息抜きも必要だって」","","",""
-00001280,24,"「あれは荒療治でしたね」","","",""
-00001300,26,"「スリル満点だったものね」","","",""
+　息抜きも必要だって」","“You have taught me in a fraudulent school.” It
+is necessary to breathe.","- Ты научил меня в мошеннической школе. Нужно
+дышать.","„Du hast mich in einer betrügerischen Schule
+gelehrt.“ Es muss atmen."
+00001280,24,"「あれは荒療治でしたね」","It was a rough treatment.","Это было грубое лечение.","Es war eine grobe Behandlung."
+00001300,26,"「スリル満点だったものね」","“It was thrilling.”","«Это было захватывающим. »","„Es war aufregend. „"
 00001368,57,"「あんな経験は、一生に一度よ。
-　私が学校をサボるなんて」","","",""
-0000141c,34,"「そのわりに、楽しそうでしたよ？」","","",""
+　私が学校をサボるなんて」","It's an experience once a lifetime. I want to
+go to school","Это опыт один раз в жизни. Я хочу пойти в школу","Es ist ein Erlebnis einmal im Leben. Ich will
+zur Schule gehen"
+0000141c,34,"「そのわりに、楽しそうでしたよ？」","“Is it right?”","- Это правильно? »","„Ist es richtig? „"
 00001490,55,"「フフッ、もちろんよ。
-　だって、とても楽しかったもの」","","",""
+　だって、とても楽しかったもの」","Fフ, of course. That’s what I really enjoyed.","ФБ, конечно. Это то, что мне очень понравилось.","Natürlich, natürlich. Das habe ich wirklich
+genossen."
 0000156c,90,"「私にとってのローマの休日よ、あの日は。
 　ヘプバーンの映画に例えるのは
-　気が引けるけど」","","",""
+　気が引けるけど」","“It’s a Roman holiday for me. Hepburn's movie is
+to be distracted.","«Это римский праздник для меня. Фильм Хепберн
+будет отвлечен.","„Es ist ein römischer Urlaub für mich. Hepburns
+Film soll abgelenkt werden."
 00001654,96,"「受験までの時間は限られてるし、
 　生徒会長として、私がこの学園に尽くせる
-　時間もあとわずか…」","","",""
+　時間もあとわずか…」","The time to take the exam is limited, and as a
+student chairman, I have a little time to do this
+school …","«Время сдавать экзамен ограничено, и как
+студенческий председатель, у меня мало времени,
+чтобы сделать эту школу …»","Die Zeit, die Prüfung zu nehmen, ist begrenzt,
+und als studentischer Vorsitzender habe ich ein
+wenig Zeit, diese Schule zu tun…"
 00001764,73,"「けど、焦って、大好きなことを
-　我慢するのって、かえってよくないわよね」","","",""
-0000181c,42,"「そうそう、焦ってもしょうがないと思うし」","","",""
-00001898,10,"「そうね」","","",""
-00001900,12,"「それに…」","","",""
+　我慢するのって、かえってよくないわよね」","“But I don’t have to worry about my favorite
+things, but I don’t have to worry about it.”","«Но мне не нужно беспокоиться о моих любимых
+вещах, но мне не нужно беспокоиться об этом. »","“Aber ich muss mich nicht um meine Lieblings
+Dinge kümmern, aber ich muss mich nicht darum
+kümmern. „"
+0000181c,42,"「そうそう、焦ってもしょうがないと思うし」","“So, I don’t think it’s so hard to burn.”","«Так, я не думаю, что так сложно сжечь. »","„Ich glaube nicht, dass es so schwer ist zu
+verbrennen. „"
+00001898,10,"「そうね」","」","」","!"
+00001900,12,"「それに…」","」","」","!"
 00001944,67,"「泳いでる時の私が……一番いいって、
-　言ってくれる人もいるから…」","","",""
-00001a34,8,"「あ…」","","",""
+　言ってくれる人もいるから…」","“When I swim… I’m the best, because there are
+people who say…”","“Когда я плаваю… Я лучший, потому что есть
+люди, которые говорят… »","„Wenn ich schwimme… Ich bin der Beste, denn es
+gibt Leute, die sagen… „"
+00001a34,8,"「あ…」","」","」","!"
 00001a6c,100,"「それは、先輩が楽しそうな、
 　いい笑顔をしてるからですよ。
-　ファインダーをのぞいてればわかります」","","",""
-00001b38,16,"「…ありがとう」","","",""
-00001b98,36,"「さ～て、じゃあ、飛び込むわよ～っ」","","",""
-00001c20,30,"「バッチリ撮ってみせますよ！」","","",""
-00001c84,34,"「眼鏡、預かってもらってもいい？」","","",""
-00001cdc,20,"「え…いいですけど」","","",""
-00001d44,28,"（眼鏡を俺に預けるなんて…）","","",""
+　ファインダーをのぞいてればわかります」","It's because I'm doing a good smile that my
+seniors think. You can see it if you look at it.","«Это потому, что я делаю хорошую улыбку, что мои
+пожилые думают. Вы можете увидеть это, если вы
+посмотрите на него.","Es ist, weil ich ein gutes Lächeln mache, das
+meine Senioren denken. Man sieht es, wenn man es
+betrachtet."
+00001b38,16,"「…ありがとう」","Thank you","Спасибо","Danke."
+00001b98,36,"「さ～て、じゃあ、飛び込むわよ～っ」","Yes, I'm flying!","- Да, я летаю!","Ja, ich fliege!"
+00001c20,30,"「バッチリ撮ってみせますよ！」","“You can take a bってly!”","“Вы можете взять с собой! »","„Du kannst einen Brick nehmen! „"
+00001c84,34,"「眼鏡、預かってもらってもいい？」","“What is your eyeglasses?","«Каковы ваши очки?","„Was ist Ihre Brille?"
+00001cdc,20,"「え…いいですけど」","I'm good,","Я хорошо,","Ich bin gut"
+00001d44,28,"（眼鏡を俺に預けるなんて…）","(I want to leave my glasses…)","(Хочу оставить свои очки…)","(Ich will meine Brille lassen…)"
 00001d90,88,"（きっと、俺のことを
 　信頼してくれてるんだな……って、
-　ちょっと大げさに考え過ぎか？）","","",""
-00001e9c,14,"（集中だっ！）","","",""
-00001ed8,10,"「んっ！」","","",""
-00001f60,22,"「ノースプラッシュ！」","","",""
-00001fa4,14,"「ありがとう」","","",""
-00002090,40,"（眼鏡をかけてない先輩の、競泳水着姿…）","","",""
-0000087c,22,"シャッターチャンスだ！","","",""
-0000216c,32,"「ま、また撮るの？　どうして？」","","",""
+　ちょっと大げさに考え過ぎか？）","Sorry, this entry is only available in 日本語.","Извините, этот техт доступен только в “日本語”.","Leider ist dieser Eintrag nur in 日本語 verfügbar."
+00001e9c,14,"（集中だっ！）","(In)!)","(В)!)","(In)"
+00001ed8,10,"「んっ！」","Comment","Комментарий","Anmerkung"
+00001f60,22,"「ノースプラッシュ！」","North Plash","Северный стол","Nord-Plash"
+00001fa4,14,"「ありがとう」","Thank you","Спасибо","Danke."
+00002090,40,"（眼鏡をかけてない先輩の、競泳水着姿…）","(Swimming swimsuit figure of seniors who do not
+touch glasses…)","(Стиральная купальник фигура пожилых людей,
+которые не трогают очки…)","(Swimming Badeanzug Figur von Senioren, die keine
+Brille berühren…)"
+0000087c,22,"シャッターチャンスだ！","ter chance!","ter шанс!","Eine Chance!"
+0000216c,32,"「ま、また撮るの？　どうして？」","“Well, how do you take it?”","— Ну, как это взять? »","„Na, wie nimmst du es? „"
 000021f0,49,"「眼鏡をかけてない室戸先輩は、
-　レアですからね」","","",""
-00002288,10,"「もう…」","","",""
-00000db8,20,"（撮るまでもないな）","","",""
-00002370,14,"「はい、眼鏡」","","",""
-00001fa4,14,"「ありがとう」","","",""
-00002458,8,"「先輩」","","",""
-0000249c,8,"「何？」","","",""
-000024f4,40,"「先輩って、学園祭は何してるんですか？」","","",""
+　レアですからね」","It is rare for seniors who do not touch glasses","Это редко для пожилых людей, которые не трогают
+очки","Es ist selten für Senioren, die keine Brille
+berühren"
+00002288,10,"「もう…」","」","」","!"
+00000db8,20,"（撮るまでもないな）","(It is not until you take it)","(Это не до тех пор, пока вы не принимаете его)","(Es ist nicht, bis du es nimmst)"
+00002370,14,"「はい、眼鏡」","Yes, glasses","Да, очки","Ja, Gläser"
+00001fa4,14,"「ありがとう」","Thank you","Спасибо","Danke."
+00002458,8,"「先輩」","」","」","!"
+0000249c,8,"「何？」","What is ?","Что такое ?","Was ist ?"
+000024f4,40,"「先輩って、学園祭は何してるんですか？」","What is the school festival?","Что такое школьный фестиваль?","Was ist das Schulfestival?"
 00002570,77,"「私は、校内を見て回ったり、校門の横の
-　受付で招待客の方々にご挨拶したりね」","","",""
-00002644,20,"「どうして聞くの？」","","",""
+　受付で招待客の方々にご挨拶したりね」","“I’m looking around the school, and I’mを見てing to
+the guests at the reception desk next to the
+school gate.”","«Я смотрю вокруг школы, и я добавляюсь к гостям
+на стойке регистрации рядом со школьными воротами.
+»","„Ich schaue mich um die Schule, und ich bin
+verpflichtet, die Gäste an der Rezeption neben dem
+Schultor. „"
+00002644,20,"「どうして聞くの？」","How do you hear?","Как вы слышите?","Wie hören Sie?"
 000026bc,81,"「…先輩なら知ってると思うけど、写真部は
-　フォト部と合同で写真展をやるんですよ」","","",""
+　フォト部と合同で写真展をやるんですよ」","“…I know if I’m a senior, but I’m doing a photo
+exhibition together with the photo department.”","«… Я знаю, если я старший, но я делаю
+фотовыставку вместе с фотоотделом. »","„… Ich weiß, ob ich ein Senior bin, aber ich
+mache eine Fotoausstellung zusammen mit der
+Fotoabteilung. „"
 00002748,57,"「もちろん知ってるわよ。
-　食堂の貸し切りを許可したから」","","",""
-00002818,36,"「今年のミスフォトジェニックは誰？」","","",""
+　食堂の貸し切りを許可したから」","I know. I allowed to cut the shokudo","Я знаю. Я позволила разрезать shokudo","Ich weiß. Ich durfte den Shikudo schneiden"
+00002818,36,"「今年のミスフォトジェニックは誰？」","“Who is Miss Photogenic this year?”","«Кто в этом году Miss Photogenic? »","„Wer ist Miss Photogenic in diesem Jahr? „"
 00002894,79,"「さすが詳しいですね。けど、誰なのかは
-　言えないです。当日のお楽しみですから」","","",""
+　言えないです。当日のお楽しみですから」","It's very detailed. However, I can't say who is.
+Sorry, this entry is only available in 日本語.","Это очень подробно. Однако я не могу сказать,
+кто есть. Извините, этот техт доступен только в
+“日本語”.","Es ist sehr detailliert. Aber ich kann nicht
+sagen, wer es ist. Leider ist dieser Eintrag nur
+in 日本語 verfügbar."
 00002904,67,"「それに、俺って、フォトジェニック展には
-　あまり関わってないから」","","",""
-00002998,26,"「そうなの？　どうして？」","","",""
+　あまり関わってないから」","“I’m not involved in the photogenic exhibition.”","«Я не участвовал в фотогенной выставке. »","„Ich bin nicht an der fotogenen Ausstellung
+beteiligt. „"
+00002998,26,"「そうなの？　どうして？」","“What is that?”","— Что это? »","„Was ist das? „"
 00002a08,53,"「俺の被写体は、
-　ミスフォトジェニックじゃないから」","","",""
-00002a78,12,"「ふうん…」","","",""
+　ミスフォトジェニックじゃないから」","“My subject is not misphotogenic.”","«Моя тема не туманная. »","„Mein Thema ist nicht falschphotogen. „"
+00002a78,12,"「ふうん…」","」","」","!"
 00002ae0,82,"「その代わりに…１枚だけ、
 　自分の気に入った写真を
-　展示しようと思ってるんです」","","",""
+　展示しようと思ってるんです」","Instead of that, I want to show only one photo I
+liked.","Вместе этого я хочу показать только одну
+фотографию, которую мне понравилось.","Anstelle dessen möchte ich nur ein Foto zeigen,
+das mir gefallen hat."
 00002b80,79,"「ミスフォトジェニック？　すみません、
-　俺、あんまり部の展示に関わってなくて」","","",""
+　俺、あんまり部の展示に関わってなくて」","“Is Miss Photogenic? I don’t know, I don’t have
+to be involved in the exhibition of my life.”","«Я пропущена фотогеника? Я не знаю, мне не нужно
+участвовать в выставке моей жизни. »","„Ist Miss Photogenic? Ich weiß nicht, ich muss
+nicht an der Ausstellung meines Lebens beteiligt
+sein. „"
 00002c08,53,"「ふうん、関わらなくてすむなら、
-　その方がいいわよ」","","",""
+　その方がいいわよ」","“If you don’t have to be involved, it’s better.”","«Если вам не нужно участвовать, это лучше. »","„Wenn Sie nicht involviert sein müssen, ist es
+besser. „"
 00002cb0,63,"「九堂とか、写真部の面々の影響を受けると
-　ろくなことないから」","","",""
-00002d5c,42,"「みんな、カメラへの情熱はすごいですよ？」","","",""
-00002db4,40,"「まぁ、そこは認めるところなんだけどね」","","",""
+　ろくなことないから」","“I don’t have to worry if I get closer to Kudado
+or photograph.”","«Мне не нужно беспокоиться, если я приближаюсь к
+Кудадо или фотографии. »","„Ich muss mir keine Sorgen machen, wenn ich näher
+an Kudado oder Foto komme. „"
+00002d5c,42,"「みんな、カメラへの情熱はすごいですよ？」","“Everyone is passionate about cameras?”","«Каждый человек увлечен камерами? »","„Jeder ist leidenschaftlich an Kameras? „"
+00002db4,40,"「まぁ、そこは認めるところなんだけどね」","“Well, I’m here to acknowledge it.”","«Ну, я здесь, чтобы признать это. »","„Nun, ich bin hier, um es zu bestätigen. „"
 00002e0c,69,"「そんなわけで、俺はあんまり写真部展には
-　関わってないんですけど…」","","",""
+　関わってないんですけど…」","“So, I’m not involved in the photo exhibition…”","«Так, я не занимаюсь фотовыставкой… »","„So bin ich nicht in die Fotoausstellung
+eingebunden… „"
 00002e80,65,"「１枚だけ、自分の気に入った写真を
-　展示しようと思ってるんです」","","",""
-00002ef8,26,"「見に…来てくれますか？」","","",""
-00002f64,32,"「もちろんよ。絶対に見に行くわ」","","",""
-00002fc8,28,"「誘ってくれて、ありがとう」","","",""
+　展示しようと思ってるんです」","I want to exhibit my favorite photos only one
+piece.","Хочу выставить мои любимые фотографии только один
+кусок.","Ich möchte meine Lieblingsfotos nur ein Stück
+zeigen."
+00002ef8,26,"「見に…来てくれますか？」","“Will you come to see it?”","— Придёте ли вы его увидеть? »","„Willst du es sehen? „"
+00002f64,32,"「もちろんよ。絶対に見に行くわ」","Of course. ly go to see","Конечно. ly пойти посмотреть","Natürlich. ly go to see"
+00002fc8,28,"「誘ってくれて、ありがとう」","Thank you for your interest.","Спасибо за интерес.","Danke für dein Interesse."
 00003038,59,"「あなたがどんな写真を展示するのか、
-　楽しみにしてるわね」","","",""
-00003108,42,"こうして、学園祭で写真を見せる約束をした。","","",""
+　楽しみにしてるわね」","“I’m looking forward to seeing what you’re
+looking for.”","«Я с нетерпением жду, чтобы увидеть, что вы
+ищете. »","„Ich freue mich darauf, zu sehen, was Sie suchen.
+„"
+00003108,42,"こうして、学園祭で写真を見せる約束をした。","I promised to show photos at the school festival.","Я обещал показать фотографии на школьном
+фестивале.","Ich habe versprochen, Fotos auf dem Schulfest zu
+zeigen."

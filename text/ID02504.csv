@@ -1,63 +1,107 @@
 00000288,49,"「ふう…まだまだ暑いとはいえ、
-　水は冷たそうね」","","",""
-00000388,24,"「ええい…思い切って！」","","",""
-00000498,40,"「室戸先輩、体操服で何やってるんです？」","","",""
-00000548,14,"「あ、\p01君」","","",""
+　水は冷たそうね」","“Well, it’s still hot, but it’s cold.”","«Хорошо, это еще жарко, но это холодно. »","„Nun, es ist noch heiß, aber es ist kalt. „"
+00000388,24,"「ええい…思い切って！」","Eh, I'm thinking!","«Эх, я думаю!»","Ich denke!"
+00000498,40,"「室戸先輩、体操服で何やってるんです？」","Muroto seniors, what are they doing in
+gymnastics?","«Мурото старшие, что они делают в гимнастике?»","Muroto Senioren, was machen sie in Gymnastik?"
 000006e0,86,"「噴水の排水溝が詰まってるみたいで、
 　水の流れが悪いのよ。
-　掃除して直そうと思って」","","",""
+　掃除して直そうと思って」","The water flow is bad because the drainage
+groove of the fountain is packed. I thought I
+would like to clean it again.","В воде поток плохо, потому что дренажная група
+фонтана упакована. Я думал, что я хотел бы
+очистить его снова.","Der Wasserfluss ist schlecht, weil die
+Entwässerungsnut des Brunnens gefüllt ist. Ich
+dachte, ich würde es gerne wieder reinigen."
 000007e4,88,"「室戸先輩がやらなくても、
 　中庭の清掃当番のクラスとか、
-　美化清掃委員がいますよね？」","","",""
+　美化清掃委員がいますよね？」","“Is there a cleaning class in the courtyard, or a
+cleaning committee member in the garden even if
+the seniors of Muroto do it?”","«Есть ли класс очистки во дворе, или член
+комитета по очистке в саду, даже если старшие
+Muroto это делают? »","„ Gibt es eine Reinigungsklasse im Innenhof oder
+ein Reinigungskomiteemitglied im Garten, auch wenn
+die Senioren von Muroto es tun? „"
 0000089c,67,"「それじゃ、放課後の掃除の時間まで
-　待たなきゃならないでしょう？」","","",""
+　待たなきゃならないでしょう？」","“So you have to wait until the cleaning time
+after school?”","«Так что вы должны ждать, пока время очистки
+после школы? »","„Du musst also bis zur Reinigungszeit nach der
+Schule warten? „"
 00000930,73,"「噴水があふれるとみんな困るし、
-　みすぼらしいから、すぐ直そうと思って」","","",""
-000009e8,42,"（室戸先輩、全国模試が近いっていうのに…）","","",""
+　みすぼらしいから、すぐ直そうと思って」","Everyone is troubled when the fountain is full,
+and I think that it will be right away because it
+seems to be misぼ.","«Каждый человек беден, когда фонтан заполнен, и я
+думаю, что он будет сразу, потому что это кажется
+неправильным».","Jeder ist beunruhigt, wenn der Brunnen voll ist,
+und ich denke, dass es sofort sein wird, weil es
+falsch scheint."
+000009e8,42,"（室戸先輩、全国模試が近いっていうのに…）","(Muroto seniors, the national examination is
+close…)","(Мурото пожилые, национальный осмотр близок…)","(Muroto Senioren, die nationale Prüfung ist
+eng…)"
 00000a40,57,"「そのために、わざわざ体操服に
-　着替えてきたんですか？」","","",""
+　着替えてきたんですか？」","“For this reason, have you changed your clothes
+to exercise?”","«По этой причине вы изменили одежду для
+тренировки? »","„So haben Sie Ihre Kleidung geändert, um zu
+trainieren? „"
 00000acc,69,"「水着にするか迷ったんだけど、
-　中庭で水着姿は目立ちすぎでしょう？」","","",""
-00000b84,20,"「まぁ…そうですね」","","",""
+　中庭で水着姿は目立ちすぎでしょう？」","“I’m wondering whether to make a swimsuit, but
+it’s too impressive in the courtyard?”","«Мне интересно, сделать купальник, но это слишком
+впечатляет во дворе? »","„Ich frage mich, ob ich einen Badeanzug machen
+soll, aber es ist zu beeindruckend im Innenhof? „"
+00000b84,20,"「まぁ…そうですね」","I'm right…","Я прав…","Ich habe recht…"
 00000bd8,77,"「体操服なら、ちょっとぐらい濡れても
-　大丈夫だし、ささっと終わらせちゃうわ」","","",""
-00000d10,18,"「俺がやりますよ」","","",""
+　大丈夫だし、ささっと終わらせちゃうわ」","If you're a gymnastic dress, it's okay if it's a
+little wet, and it's time to finish it.","Если вы гимнастическое платье, это нормально,
+если это немного мокрый, и пришло время закончить
+его.","Wenn du ein sportliches Kleid bist, ist es okay,
+wenn es etwas nass ist, und es ist Zeit, es zu
+beenden."
+00000d10,18,"「俺がやりますよ」","“I’ll do it!”","«Я сделаю это!»","„Ich werde es tun!“"
 00000dc8,57,"「え？　いいわよ、私がやるから。
-　生徒会長の務めだもの」","","",""
+　生徒会長の務めだもの」","“Yes, I’m doing it.” Student's Office","— Да, я это делаю. Кабинет студента","„Ja, ich mache es.“ Studentenbüro"
 00000e9c,79,"「先輩は全国模試の勉強をやってください。
-　排水溝の掃除は、俺でもできますから」","","",""
-00000f50,26,"「あ…\p01君…ありがとう」","","",""
+　排水溝の掃除は、俺でもできますから」","The seniors should study national examination. I
+can clean my drainage grooves.","«Пожилые должны изучать национальное
+обследование. Я могу очистить свои дренажные
+крупы.","Die Senioren sollten die nationale Prüfung
+studieren. Ich kann meine Entwässerungsnuten
+reinigen."
 00000fd4,69,"「けど、せっかく体操服に着替えてきたし、
-　私がやるから気にしないで」","","",""
-0000109c,40,"「君こそ、どこかで写真を撮ってくれば？」","","",""
-000010f4,30,"「いや、いいから俺がやります」","","",""
-0000119c,24,"「ちょ、ちょっと\p01君」","","",""
-00001250,32,"「そこのデッキブラシ借りますよ」","","",""
-000012fc,36,"「そ、そんなに押したら、きゃあっ！」","","",""
+　私がやるから気にしないで」","“But I’ve been changing to gymnastics clothing
+and I don’t care about it.”","«Но я изменялся в гимнастику одежды, и я не
+заботюсь об этом. »","“Aber ich habe mich zu Gymnastik-Bekleidung
+geändert und mir ist es egal. „"
+0000109c,40,"「君こそ、どこかで写真を撮ってくれば？」","“You should take photos somewhere?”","- Ты должен фотографировать где-то? »","„Du solltest irgendwo Fotos machen? „"
+000010f4,30,"「いや、いいから俺がやります」","“No, I’m doing it because I’m good.”","- Нет, я делаю это, потому что я хорошо. »","„Nein, ich mache es, weil ich gut bin. „"
+00001250,32,"「そこのデッキブラシ借りますよ」","I will borrow the deck brush there","Я буду заимствовать там щетку","Ich werde die Deckbürste dort ausleihen"
+000012fc,36,"「そ、そんなに押したら、きゃあっ！」","If you push such a thing, it's okay!","«Если вы нажимаете такую вещь, это нормально!»","Wenn du so etwas schubst, ist es okay!"
 00001594,51,"「もう！　びしょびしょに
-　なっちゃったじゃない！」","","",""
-0000167c,20,"「す、すみません！」","","",""
-000016ac,22,"シャッターチャンスだ！","","",""
-00001774,30,"「撮ってないで助けなさいよ！」","","",""
-00001800,34,"「そ、そうですよね。すみません！」","","",""
-00001888,18,"「大丈夫ですか？」","","",""
-000018e4,24,"「だ、大丈夫ですか！？」","","",""
+　なっちゃったじゃない！」","Now! I'm not ready!","Сейчас! Я не готов!","Jetzt! Ich bin nicht bereit!"
+0000167c,20,"「す、すみません！」","“I don’t know it!”","“Я не знаю! »","„Ich weiß es nicht! „"
+000016ac,22,"シャッターチャンスだ！","ter chance!","ter шанс!","Eine Chance!"
+00001774,30,"「撮ってないで助けなさいよ！」","Don’t take it!","Не бери!","Nimm es nicht!"
+00001800,34,"「そ、そうですよね。すみません！」","That’s right. I'm sorry!","Это правильно. Извините!","Das stimmt. Es tut mir leid!"
+00001888,18,"「大丈夫ですか？」","Is it okay?","Это нормально?","Ist es okay?"
+000018e4,24,"「だ、大丈夫ですか！？」","Is it okay?","Это нормально?","Ist es okay?"
 00001b08,61,"「大丈夫じゃないわよ、
-　まだ何にもしてないのにびしょ濡れよ」","","",""
-00001bcc,26,"「こんなことになるとは…」","","",""
-00001c40,14,"「っくしゅ！」","","",""
+　まだ何にもしてないのにびしょ濡れよ」","I'm not okay, but I'm still wet.","- Я не в порядке, но я все еще влажный.","Ich bin nicht okay, aber ich bin immer noch nass."
+00001bcc,26,"「こんなことになるとは…」","It's like this…","Это так…","Es ist so…"
+00001c40,14,"「っくしゅ！」","!」","!」","!"
 00001d38,73,"「ああっ！　風邪引くから、早く着替えて！
-　ここは俺が直しておきますから」","","",""
-00001dd8,40,"「ったくもう…じゃあ、悪いけどお願いね」","","",""
-00001e6c,24,"「任せておいてください」","","",""
-00001ee0,73,"「はぁ…こんなことなら、最初から素直に
-　\p01君にお願いすればよかったわ」","","",""
-00001ffc,32,"「ダメねぇ、変に意地を張って…」","","",""
-00002070,32,"「さっさと着替えて、勉強するわ」","","",""
-000020c0,40,"「いや、俺が強引に手伝おうとしたから…」","","",""
+　ここは俺が直しておきますから」","Oh! I'm getting cold, so I'm changing my clothes
+quickly! I'm doing it again.","О! Я простираю, поэтому быстро меняю одежду! Я
+делаю это снова.","Oh! Ich werde kalt, also ändere ich meine
+Kleidung schnell! Ich mache es wieder."
+00001dd8,40,"「ったくもう…じゃあ、悪いけどお願いね」","I'm sorry, but I'm sorry.","- Простите, но я сожалею.","Es tut mir leid, aber es tut mir leid."
+00001e6c,24,"「任せておいてください」","Please leave","Пожалуйста, оставьте","Bitte verlassen"
+00001ffc,32,"「ダメねぇ、変に意地を張って…」","“I’m sorry, I’m changing…”","“Я сожалею, меняю… »","„Es tut mir leid, ich ändere… „"
+00002070,32,"「さっさと着替えて、勉強するわ」","I want to change my clothes and study.","- Я хочу изменить одежду и учиться.","Ich will meine Kleidung ändern und studieren."
+000020c0,40,"「いや、俺が強引に手伝おうとしたから…」","“No, because I’m going to help you…”","- Нет, потому что я буду помогать вам… »","„Nein, denn ich werde dir helfen… „"
 00002130,47,"「いいのよ、ありがとう。
-　じゃあ、よろしくね」","","",""
-000021f4,26,"「バッチリやっておきます」","","",""
+　じゃあ、よろしくね」","Thank you very much. Thank you very much.","Большое спасибо. Большое спасибо.","Vielen Dank. Vielen Dank."
+000021f4,26,"「バッチリやっておきます」","Let's try again","Повторите попытку","Wir versuchen es wieder"
 00002308,69,"「さて、やるかぁ。…って、俺も体操服に
-　着替えてきた方がいいのか？」","","",""
-0000238c,46,"こうして、室戸先輩の代わりに噴水の掃除をした。","","",""
+　着替えてきた方がいいのか？」","。 …Is it better to change clothes?","。 … Лучше ли менять одежду?","。 … Ist es besser, Kleidung zu wechseln?"
+0000238c,46,"こうして、室戸先輩の代わりに噴水の掃除をした。","Thus, I cleaned the fountain instead of my
+seniors.","Таким образом, я убирал фонтан вместо моих
+пожилых людей.","So reinigte ich den Brunnen anstelle meiner
+Senioren."

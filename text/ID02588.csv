@@ -1,69 +1,135 @@
 0000014c,76,"（やばい！　ぼやぼやしてたら、
 　いつの間にかこんな時間に！
-　遅刻寸前だ！）","","",""
-000001c8,28,"（全力しっそぉ～～～～っ！）","","",""
-0000021c,20,"ダダダダダダダダダ…","","",""
-00000260,26,"「はぁ、はぁ、はぁ、はぁ」","","",""
-00000334,26,"「ああっ！　チャイムが！」","","",""
-0000037c,18,"「ギリギリセー…」","","",""
-000003d4,12,"「アウトよ」","","",""
-00000410,16,"「あ、室戸先輩」","","",""
+　遅刻寸前だ！）","Sorry, this entry is only available in Japanese.","Извините, этот техт доступен только в “Японский”.","Leider ist dieser Eintrag nur auf Japanisch
+verfügbar."
+000001c8,28,"（全力しっそぉ～～～～っ！）","(Thank you!)","(Спасибо!)","(Danke!)"
+0000021c,20,"ダダダダダダダダダ…","Da Da Da Da Da Da Da Da Da…","Да да да да да да да да да…","Da Da Da Da Da Da Da Da Da Da Da Da…"
+00000260,26,"「はぁ、はぁ、はぁ、はぁ」","
+“Hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh","
+hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh","hhhhhhhhhhhhhhhh"
+00000334,26,"「ああっ！　チャイムが！」","“Oh! Chime!”","«О! Чим!»","„Oh! Chime!“"
+0000037c,18,"「ギリギリセー…」","Giligirisai…","Гилигирисай…","Giligirisai…"
+000003d4,12,"「アウトよ」","Out","Но","Aus"
+00000410,16,"「あ、室戸先輩」","Oh, my seniors","«О, мои старшие»","Oh, meine Senioren"
 000004c8,55,"「危ないわね。駆け込み登校なんて、
-　どういうつもり？」","","",""
-0000052c,22,"「けど、遅刻寸前で…」","","",""
+　どういうつもり？」","。 What do you think of the school?","。 Что вы думаете о школе?","。 Was hältst du von der Schule?"
+0000052c,22,"「けど、遅刻寸前で…」","But in front of the late…","Но перед поздно…","Aber vor dem späten…"
 00000580,79,"「遅刻寸前？　おかしなことを言うわね。
-　チャイムが鳴ったら、その時点で遅刻よ」","","",""
-00000670,34,"「鳴り終わるまでセーフなんじゃ…」","","",""
+　チャイムが鳴ったら、その時点で遅刻よ」","“Is it too late? I say it. When the chime rings,
+it will be late at that time.","- Это слишком поздно? Я говорю это. Когда колец
+chime, он будет поздно в то время.","„Ist es zu spät? Ich sage es. Wenn das Chim
+klingelt, wird es zu dieser Zeit spät sein."
+00000670,34,"「鳴り終わるまでセーフなんじゃ…」","“It’s safe until the end of the ring…”","«Это безопасно до конца кольца… »","„Es ist sicher bis zum Ende des Rings… „"
 000006dc,61,"「いいえ、鳴った時点で遅刻。
-　校則にもそう定められているわ」","","",""
-000007a4,14,"「は、はぁ…」","","",""
-000007f0,20,"「生徒手帳を出して」","","",""
-00000830,8,"「え…」","","",""
-00000874,20,"「生徒手帳よ、早く」","","",""
-000008ac,26,"「は、はい……あ、あれ？」","","",""
-00000918,16,"「どうしたの？」","","",""
-00000960,30,"「すみません、持ってないです」","","",""
-000009ac,34,"「持ってない？　不携帯ってこと？」","","",""
-00000a2c,16,"「…そうですね」","","",""
-00000ab0,30,"「はぁ…まるで歩く校則違反ね」","","",""
-00000b40,16,"「…すみません」","","",""
+　校則にもそう定められているわ」","No, it's late at the time it rings. It is
+determined by the school rules.","Нет, это поздно в то время, когда он звонит. Он
+определяется школьными правилами.","Nein, es ist spät, wenn es klingelt. Es wird
+durch die Schulregeln bestimmt."
+000007a4,14,"「は、はぁ…」","、","、","、"
+000007f0,20,"「生徒手帳を出して」","Out of student booklet","Нет студенческого буклета","Aus dem Studentenbuch"
+00000830,8,"「え…」","」","」","!"
+00000874,20,"「生徒手帳よ、早く」","Student book, fast","Студенческая книга, быстро","Schülerbuch, schnell"
+000008ac,26,"「は、はい……あ、あれ？」","“Yes, right?”","— Да, правда? »","„Ja, richtig? „"
+00000918,16,"「どうしたの？」","How do I do?","Как это сделать?","Wie mache ich das?"
+00000960,30,"「すみません、持ってないです」","“I don’t know, I don’t have it.”","«Я не знаю, у меня нет. »","„Ich weiß nicht, ich habe es nicht. „"
+000009ac,34,"「持ってない？　不携帯ってこと？」","? What's wrong?","? Что не так?","? Was ist los?"
+00000a2c,16,"「…そうですね」","…I'm right.","- Я прав.","…ich habe recht."
+00000ab0,30,"「はぁ…まるで歩く校則違反ね」","I'm like a walk school rule violation","Мне нравится нарушение правила прогулки","Ich bin wie eine Schulregelverletzung"
+00000b40,16,"「…すみません」","…I don't know","…Я не знаю","…ich weiß es nicht"
 00000bf0,102,"「じゃあ、私の生徒手帳を見せてあげるから、
 　１６ページの生徒心得１、『校内生活』の
-　第１項を読んで」","","",""
+　第１項を読んで」","“So, as I show my student book, I read the 1st
+section of the 16-page student’s heart, 1st
+section of the school life.”","«Так, как я показываю свою студенческую книгу, я
+прочитал 1-й раздел 16-странственного
+студенческого сердца, 1-й раздел школьной жизни. »","„So, wie ich mein Studentenbuch zeige, lese ich
+den 1. Abschnitt des Herzens des 16-seitigen
+Schülers, den 1. Abschnitt des Schullebens. „"
 00000d1c,61,"「はい…。え～と…オートバイ、原付等による
-　通学は認めない」","","",""
+　通学は認めない」","。 et al al al al al al al al al al al al al al al
+al","。 et al al al al al al al al al al al al al al al
+al al","。 et al al al al al al al al al al al al al al al
+al al al al al al al al al al al al al"
 00000e04,49,"「それは、第２項よ。読んで欲しいのは、
-　第１項」","","",""
-00000ea8,18,"「す、すみません」","","",""
+　第１項」","It is, in paragraph 2 . I want to read the
+section 1","Это, в пункте 2 . Я хочу прочитать раздел 1","Sie ist in Absatz 2. Ich möchte den Abschnitt 1
+lesen"
+00000ea8,18,"「す、すみません」","“I don’t know it.”","«Я не знаю. »","„Ich weiß es nicht. „"
 00000ee8,83,"「第１項…第１項…と。登校は原則として、
-　始業チャイムが鳴る５分前に完了すること」","","",""
+　始業チャイムが鳴る５分前に完了すること」","Clause 1…Clause 1… In principle, the school
+must be completed 5 minutes before the first
+business chime rings.","Клауза 1…Клауза 1… В принципе, школа должна
+быть завершена за 5 минут до первого
+бизнес-колесса.","Clause 1…Clause 1… Im Prinzip muss die
+Schule 5 Minuten vor dem ersten Business Chime
+Ringe abgeschlossen werden."
 00000f88,77,"「始業チャイムが鳴った場合は遅刻とし、
-　度重なる場合は反省文を提出すること」","","",""
-00001028,40,"「反省文！？　そんなのあるんですか！？」","","",""
-00001080,34,"「ええ。自分の罪深さがわかった？」","","",""
-0000110c,10,"「…はぁ」","","",""
+　度重なる場合は反省文を提出すること」","If the first business chime rings, it will be
+delayed, and if it is overlapping, it is necessary
+to submit an anti-provincial statement.","Если первый бизнес-колец chime, он будет
+задержан, и если он перекрывают, необходимо
+представить антипровинциальное заявление.","Wenn das erste Geschäft Chime klingelt, wird es
+verzögert werden, und wenn es sich überschneidet,
+ist es notwendig, eine anti-provinzielle Aussage
+vorzulegen."
+00001028,40,"「反省文！？　そんなのあるんですか！？」","“What is it?”","— Что это? »","„Was ist das? „"
+00001080,34,"「ええ。自分の罪深さがわかった？」","Home Did you know your  depth?","Главная Знаете ли вы глубину?","Home Wussten Sie Ihre Tiefe?"
+0000110c,10,"「…はぁ」","」","」","!"
 00001160,108,"「わかったなら、光河学園生徒としての自覚を
 　持ち、チャイムの５分前には自分の席に
-　着くよう、心がけること」","","",""
-00001228,14,"「わかった？」","","",""
-0000126c,22,"「はい…気をつけます」","","",""
+　着くよう、心がけること」","“If you’re interested, you’ll have a
+self-awareness as a student at Koga Gakuen, and
+you’ll be keen to sit in your seat five minutes
+before chime.”","«Если вы заинтересованы, у вас будет самосознание
+как студент в Коге Гакуене, и вы будете
+заинтересованы, чтобы сидеть в вашем месте за пять
+минут до чиме. »","„Wenn Sie interessiert sind, haben Sie eine
+Selbstbewusstsein als Student bei Koga Gakuen, und
+Sie werden sich darauf freuen, fünf Minuten vor
+dem Chim in Ihrem Sitz zu sitzen. „"
+00001228,14,"「わかった？」","“Wow?”","«Вау? »","„Wow? „"
+0000126c,22,"「はい…気をつけます」","“Yes… Beware”","«Да… Остерегайтесь»","“Ja… Vorsicht”"
 000012b0,98,"「…にしても、その…前から
 　思ってたんですが……何で生徒会長の
-　室戸先輩が朝の登校チェックを？」","","",""
+　室戸先輩が朝の登校チェックを？」","…I thought that… I thought from the front…
+What is the student president, Mr. Muroto, who
+checks the morning school?","… Я думал, что… Я думал с фронта… Что
+такое студенческий президент, г-н Мурото, который
+проверяет утреннюю школу?","… Ich dachte, das… Ich dachte von vorne…
+Was ist der Schülerpräsident, Mr. Muroto, der die
+Morgenschule überprüft?"
 00001370,63,"「学園のすべての委員会は、生徒会長である
-　私の管轄下にあるわ」","","",""
+　私の管轄下にあるわ」","All committees of the school are under the
+jurisdiction of the student chairman.","«Все комитеты школы находятся под юрисдикцией
+студенческого председателя».","Alle Komitees der Schule sind unter der
+Zuständigkeit des studentischen Vorsitzenden."
 00001400,86,"「つまり、学園の遅刻を減らす責任が、
 　風紀委員だけではなく、
-　私にもあるというわけ」","","",""
+　私にもあるというわけ」","In other words, the responsibility to reduce the
+lateness of the school is not only a member of the
+Fuki, but also me.","«В других словах ответственность за снижение
+опоздания школы – это не только член Фуки, но и
+я».","Mit anderen Worten, die Verantwortung, die
+Verspätung der Schule zu reduzieren, ist nicht nur
+ein Mitglied der Fuki, sondern auch ich."
 000014f4,61,"「だから、こうして時折、
-　校門に立っているのよ。わかった？」","","",""
-000015e0,18,"「…納得しました」","","",""
-0000164c,40,"「わかればいいわ。教室へ行っていいわよ」","","",""
+　校門に立っているのよ。わかった？」","So, I'm standing at the school gate.","«Так, я стою в школьных воротах.","Ich stehe am Schultor."
+000015e0,18,"「…納得しました」","…I agree","…Я согласен","…ich stimme zu"
+0000164c,40,"「わかればいいわ。教室へ行っていいわよ」","I want to know. Let's go to the classroom","- Я хочу знать. Пойдем в класс","Ich will es wissen. Gehen wir zum Klassenzimmer"
 000016dc,86,"「…先輩って、生徒手帳の何ページに
 　どんな校則が書かれてるか、
-　覚えてるんですか？」","","",""
-00001784,40,"「もちろん。生徒会長として当然のことよ」","","",""
-00001820,18,"（そうかなぁ…？）","","",""
+　覚えてるんですか？」","“…What kind of school rules are written on the
+student’s book?”","«… Какие школьные правила написаны на
+студенческой книге? »","„… Welche Art von Schulregeln sind auf das Buch
+des Schülers geschrieben? „"
+00001784,40,"「もちろん。生徒会長として当然のことよ」","Of course. It’s natural as a student
+president.”","- Конечно. Это естественно как студенческий
+президент. »","Natürlich. Es ist natürlich als Student
+Präsident. „"
+00001820,18,"（そうかなぁ…？）","?","?","?"
 00001884,67,"「早く教室へ行きなさい。朝のホームルームを
-　何だと思っているの？」","","",""
-0000195c,18,"「し、失礼します」","","",""
+　何だと思っているの？」","Go to the classroom soon. What is the morning
+homeroom?","Перейти в класс в ближайшее время. Что такое
+утренний дом?","Gehen Sie bald in den Klassenraum. Was ist das
+Morgenzimmer?"
+0000195c,18,"「し、失礼します」","And I'm sorry.","- И я сожалею.","Und es tut mir leid."

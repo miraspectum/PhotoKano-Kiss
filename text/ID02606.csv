@@ -1,55 +1,96 @@
 0000013c,65,"「やばいやばい、急いで教室へ戻らなきゃ！
-　階段を駆け降りるぞ！」","","",""
-000001b4,22,"タッ　タッ　タッ　タッ","","",""
-00000260,12,"「きゃっ！」","","",""
-0000029c,10,"「わっ！」","","",""
-0000030c,12,"「\p01君…」","","",""
-00000348,16,"「あ、室戸先輩」","","",""
-00000410,36,"「危ないわね。一体どういうつもり？」","","",""
+　階段を駆け降りるぞ！」","“I have to go back to the classroom in a  ry!
+Let’s go down the stairs!”","“Я должен вернуться к классу в рых! Пойдем по
+лестнице! »","„Ich muss in einem Roggen zurück ins
+Klassenzimmer! Gehen wir die Treppe runter! „"
+000001b4,22,"タッ　タッ　タッ　タッ","タ","タ","ZEIT"
+00000260,12,"「きゃっ！」","!」","!」","!"
+0000029c,10,"「わっ！」","っ","ПРЯМО",","
+00000348,16,"「あ、室戸先輩」","Oh, my seniors","«О, мои пожилые люди»","Oh, meine Senioren"
+00000410,36,"「危ないわね。一体どういうつもり？」","It's dangerous. What's going on?","- Это опасно. Что происходит?","Es ist gefährlich. Was ist los?"
 00000498,71,"「いや、俺はべつに何も…走ってたわけじゃ
-　ないし。ただ、出会い頭で…」","","",""
-0000053c,24,"「その出会い頭が問題よ」","","",""
+　ないし。ただ、出会い頭で…」","No, I'm nothing… I'm running. However, in the
+head of meeting …","- Нет, я ничего… Я бегу. Однако, в голове
+встречи …","Nein, ich bin nichts… Ich laufe. Jedoch, in der
+Hauptversammlung …"
+0000053c,24,"「その出会い頭が問題よ」","“It’s a problem to meet.”","«Это проблема для встречи. »","„Es ist ein Problem zu treffen. „"
 000005b8,81,"「君が校則通り、ちゃんと右側を歩いていれば
-　ぶつかりそうになることもなかったわ」","","",""
-00000688,30,"「そんな校則があるんですか？」","","",""
-000006f8,32,"「知らないの？　あきれた人ねぇ」","","",""
-000007c4,38,"「教えてあげるから、生徒手帳を出して」","","",""
-00000820,10,"「はい…」","","",""
-00000884,14,"（あ、あれ？）","","",""
-000008e0,30,"「すみません、持ってないです」","","",""
-00000950,34,"「持ってない？　不携帯ってこと？」","","",""
-000009d4,16,"「…そうですね」","","",""
-00000a28,32,"「はぁ…まるで、歩く校則違反ね」","","",""
-00000ab4,16,"「…すみません」","","",""
+　ぶつかりそうになることもなかったわ」","“I didn’t want to be able to catch up if you walk
+on the right side as you do school rule.”","«Я не хотел быть в состоянии поймать, если вы
+идете с правой стороны, как вы делаете школьное
+правило. »","„Ich wollte nicht in der Lage sein, aufzuholen,
+wenn Sie auf der rechten Seite gehen, wie Sie
+Schulregel tun. „"
+00000688,30,"「そんな校則があるんですか？」","“Do you have such school rules?”","- У вас есть такие школьные правила? »","„Haben Sie solche Schulregeln? „"
+000006f8,32,"「知らないの？　あきれた人ねぇ」","I don't know? I'm a strange person.","- Не знаю? Я странный человек.","Ich weiß es nicht? Ich bin ein seltsamer Mensch."
+000007c4,38,"「教えてあげるから、生徒手帳を出して」","I will teach you, so I will give you a student
+notebook.","Я научу вас, поэтому я дам вам студенческий
+ноутбук.","Ich werde dir beibringen, also gebe ich dir ein
+Lehrbuch."
+00000820,10,"「はい…」","Yes…","Да…","Ja…"
+00000884,14,"（あ、あれ？）",")",")",")"
+000008e0,30,"「すみません、持ってないです」","“I don’t know, I don’t have it.”","«Я не знаю, у меня нет. »","„Ich weiß nicht, ich habe es nicht. „"
+00000950,34,"「持ってない？　不携帯ってこと？」","? What's wrong?","? Что не так?","? Was ist los?"
+000009d4,16,"「…そうですね」","…I'm right.","- Я прав.","…ich habe recht."
+00000a28,32,"「はぁ…まるで、歩く校則違反ね」","“I’m like a school rule to walk”","«Мне нравится школьное правило ходить»","“Ich bin wie eine Schulregel zu gehen”"
+00000ab4,16,"「…すみません」","…I don't know","…Я не знаю","…ich weiß es nicht"
 00000b30,49,"「仕方ない、私の生徒手帳を
-　見せてあげるから…」","","",""
+　見せてあげるから…」","I'm not sure, I'll show my student's notebook…","Я не уверен, я покажу ноутбук моего студента…","Ich bin mir nicht sicher, ich zeige das Notizbuch
+meines Schülers…"
 00000c04,59,"「１６ページの生徒心得１、『校内生活』の
-　第５項を読んで」","","",""
+　第５項を読んで」","16 Pages of Student Mind 1: Read Article 5 of
+School Life","16 страниц студенческого разума 1: читать статью
+5 школьной жизни","16 Seiten des Schülers Geist 1: Artikel 5 des
+Schullebens lesen"
 00000c8c,92,"「はい…。
 　生徒心得１『校内生活』第５項。廊下、
-　階段は走らず、原則として右側を歩くこと」","","",""
+　階段は走らず、原則として右側を歩くこと」","。 Student’s Heart 1 “In-school Life” Section 5.
+The corridor, the stairs do not run, as a rule,
+walk on the right side","。 Сердце студента 1 «В школе жизни» Раздел 5.
+коридор, лестницы не бегут, как правило, пешком с
+правой стороны","。 Student’s Heart 1 “In-Schulleben” Abschnitt 5.
+Der Korridor, die Treppe laufen in der Regel nicht
+auf der rechten Seite zu Fuß"
 00000d18,100,"「教室の移動等は迅速にし、始業のチャイムが
 　鳴ったときには着席して、待機の姿勢に
-　なっていること」","","",""
-00000dcc,14,"「わかった？」","","",""
+　なっていること」","“I’m seated when my first-time chime rings, and
+I’m going to wait.”","«Я сижу, когда мои первоклассные кольца, и я буду
+ждать. »","“Ich sitze, wenn mein erstes Mal Chime klingelt,
+und ich werde warten. „"
+00000dcc,14,"「わかった？」","“Wow?”","«Вау? »","„Wow? „"
 00000e08,57,"「わかりましたけど、こんなのみんな
-　守ってないんじゃ…」","","",""
+　守ってないんじゃ…」","I know, but I don't protect such people …","«Я знаю, но я не защищаю таких людей…»","Ich weiß, aber ich beschütze solche Menschen
+nicht…"
 00000e90,51,"「みんな守っていなければ、
-　君も破っていいわけ？」","","",""
-00000ab4,16,"「…すみません」","","",""
+　君も破っていいわけ？」","“If you don’t keep everyone, you can break it?”","«Если вы не держите всех, вы можете сломать его?
+»","“Wenn Sie nicht alle halten, können Sie es
+brechen? „"
+00000ab4,16,"「…すみません」","…I don't know","…Я не знаю","…ich weiß es nicht"
 00000f70,104,"「特に曲がり角は意識して欲しいわよね。
 　さっきは寸前で立ち止まれたけど、
-　ぶつかったら大変でしょう？」","","",""
-000009d4,16,"「…そうですね」","","",""
+　ぶつかったら大変でしょう？」","“I want you to be aware of the angles that are
+especially curved.” I was standing in front of me.
+Is it hard to get stuck?","«Я хочу, чтобы вы знали о углах, которые особенно
+кричаты». Я стоял передо мной. Трудно ли застрять?","„Ich möchte, dass Sie sich der Winkel bewusst
+sind, die besonders gekrümmt sind.“ Ich stand vor
+mir. Ist es schwer, festzuhalten?"
+000009d4,16,"「…そうですね」","…I'm right.","- Я прав.","…ich habe recht."
 000010ac,90,"「その…先輩って、生徒手帳の何ページに
 　どんな校則が書かれてるか、
-　覚えてるんですか？」","","",""
+　覚えてるんですか？」","“What kind of school rules are written on the
+student book?”","«Какие школьные правила написаны на студенческой
+книге? »","„Welche Schulregeln sind auf dem Studentenbuch
+geschrieben? „"
 0000114c,55,"「もちろん覚えているわ。生徒会長として
-　当然のことよ」","","",""
-000011dc,26,"（…そうとも思えないけど）","","",""
+　当然のことよ」","“Of course, I remember.” As a student chairman","- Конечно, я помню. Как студенческий председатель","„Natürlich erinnere ich mich.“ Als studentischer
+Vorsitzender"
+000011dc,26,"（…そうとも思えないけど）","Sorry, this entry is only available in 日本語.","Извините, этот техт доступен только в “日本語”.","Leider ist dieser Eintrag nur in 日本語 verfügbar."
 0000123c,53,"「わかったら、これからは右側通行に
-　努めるようにね」","","",""
-000012cc,16,"「わかりました」","","",""
-00001338,16,"「それじゃあね」","","",""
-00001378,14,"「失礼します」","","",""
-0000148c,32,"（室戸先輩って、厳格な人だな…）","","",""
+　努めるようにね」","If you know, I will try to get on the right.","Если вы знаете, я постараюсь получить справа.","Wenn Sie wissen, werde ich versuchen, nach rechts
+zu kommen."
+000012cc,16,"「わかりました」","」","」","!"
+00001338,16,"「それじゃあね」","It's it!","- Это!","Das ist es!"
+00001378,14,"「失礼します」","I'm sorry.","- Прости.","Es tut mir leid."
+0000148c,32,"（室戸先輩って、厳格な人だな…）","(It is a strict person with seniors in Muroto
+…)","(Это строгий человек со старшими в Muroto …)","(Es ist eine strenge Person mit Senioren in
+Muroto …)"

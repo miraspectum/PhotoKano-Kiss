@@ -1,48 +1,81 @@
-0000006c,20,"「じゃあ、ここでね」","","",""
-000000ec,18,"「あ、室戸先輩…」","","",""
-0000015c,8,"「何？」","","",""
+0000006c,20,"「じゃあ、ここでね」","Yes, here.","- Да, вот.","Ja, hier."
+000000ec,18,"「あ、室戸先輩…」","Oh, my seniors …","«О, мои пожилые…»","Oh, meine Senioren…"
+0000015c,8,"「何？」","What's New","Что нового","Was ist neu?"
 00000194,55,"（室戸先輩ってどんな人なんだろう。
-　もっと、知りたい）","","",""
+　もっと、知りたい）","(What kind of people do you have?) Learn more","(Какие у вас люди?) Узнать больше","(Was für Leute hast du?) Mehr erfahren"
 00000218,51,"「その…よかったら、
-　どこか寄っていきませんか？」","","",""
-000002fc,20,"「寄り道ってこと？」","","",""
-00000340,14,"「そうですね」","","",""
+　どこか寄っていきませんか？」","“If you’re good, don’t you go somewhere?”","«Если ты хорошо, ты куда-то не ходишь? »","„Wenn du gut bist, gehst du nicht irgendwohin? „"
+000002fc,20,"「寄り道ってこと？」","“What do you think?”","— Что ты думаешь? »","„Was denkst du? „"
+00000340,14,"「そうですね」","“Yes, right?”","— Да, правда? »","„Ja, richtig? „"
 000003ac,47,"「悪いけど、私、寄り道って
-　あまりしないから」","","",""
-00000410,36,"「そうなんですか？　どうしてです？」","","",""
+　あまりしないから」","I'm bad, but I'm not too much to go.","- Я плохо, но я не слишком много, чтобы идти.","Ich bin schlecht, aber ich bin nicht zu viel zu
+gehen."
+00000410,36,"「そうなんですか？　どうしてです？」","“Is it? Why?”","— Это? Почему? »","„Ist es? Warum? „"
 00000488,63,"「用がないのに、制服のまま、
-　街をうろうろするのが嫌いなのよ」","","",""
-000004fc,24,"「用ならありますけど？」","","",""
-00000558,12,"「どんな？」","","",""
-00000588,38,"「本屋でカメラの本を探そうかと思って」","","",""
-0000060c,38,"「カメラの知識を増やしたいってこと？」","","",""
+　街をうろうろするのが嫌いなのよ」","“I don’t have to use it, but I don’t like to go
+around the city as it’s uniform.”","“Я не должен использовать его, но я не люблю идти
+по городу, как это униформа. »","“Ich muss es nicht benutzen, aber ich mag es
+nicht, um die Stadt zu gehen, wie es ist Uniform.
+„"
+000004fc,24,"「用ならありますけど？」","“I’m using it?”","- Я использую его? »","„Ich benutze es? „"
+00000558,12,"「どんな？」","What is ","Что такое ","Was ist "
+00000588,38,"「本屋でカメラの本を探そうかと思って」","I want to find a camera in the bookstore","«Хочу найти камеру в книжном магазине»","Ich möchte eine Kamera in der Buchhandlung finden"
+0000060c,38,"「カメラの知識を増やしたいってこと？」","“What do you want to increase the knowledge of
+cameras?”","«Что вы хотите увеличить знания камер? »","„Was wollen Sie das Wissen über Kameras erhöhen?
+„"
 00000660,75,"「そんなところです。俺だけ初心者なんで、
-　早く他の部員に追いつかないと…」","","",""
+　早く他の部員に追いつかないと…」","That’s it. I’m just a beginner and I don’t catch
+up with other members soon…”","Это. Я только начинающий, и я не ловлю с другими
+членами в ближайшее время… »","Das ist es. Ich bin nur ein Anfänger und ich
+komme bald nicht mit anderen Mitgliedern… „"
 000006fc,55,"「そう、それは感心ね。
-　部活に熱心なのはいいことだわ」","","",""
-000007a8,32,"「…つき合ってもらえませんか？」","","",""
+　部活に熱心なのはいいことだわ」","Yes, it is imp。ed. It is good to be passionate
+about partial life.","- Да, это подразумевается. Хорошо быть страстным
+о частичной жизни.","Ja, es ist imp。ed. Es ist gut, leidenschaftlich
+über das Teilleben zu sein."
+000007a8,32,"「…つき合ってもらえませんか？」","…Do you have a match?","… У вас есть матч?","… Haben Sie ein Spiel?"
 00000828,90,"「仕方ないわね……私も新しい問題集を
 　買おうかと思っていたし、
-　一緒に行ってもいいわよ」","","",""
-00000924,24,"「じゃあ、お願いします」","","",""
+　一緒に行ってもいいわよ」","“I don’t try it… I thought I would like to buy
+a new problem book, and I can go with it.”","«Я не пытаюсь… Я думал, что хотел бы купить
+новую книгу проблем, и я могу пойти с ним. »","„Ich versuche es nicht… Ich dachte, ich würde
+gerne ein neues Problembuch kaufen, und ich kann
+damit gehen. „"
+00000924,24,"「じゃあ、お願いします」","Yes, please.","- Да, пожалуйста.","Ja, bitte."
 000009bc,51,"「また、本屋へ行って、
-　水着の写真を見るつもり？」","","",""
-00000a58,38,"「ち、違いますよ。カメラ本で勉強です」","","",""
-00000ad0,12,"「どうだか」","","",""
+　水着の写真を見るつもり？」","“I’m going to go to the bookstore and see photos
+of swimsuits?”","«Я собираюсь пойти в книжный магазин и посмотреть
+фотографии купальников? »","„Ich gehe in die Buchhandlung und sehe Fotos von
+Badeanzügen? „"
+00000a58,38,"「ち、違いますよ。カメラ本で勉強です」","I'm different. I'm studying with a camera book.","- Я разные. Я учусь с камерной книгой.","Ich bin anders. Ich studiere mit einem
+Kamerabuch."
+00000ad0,12,"「どうだか」","What's it?","- Что это?","Was ist das?"
 00000b14,73,"「本当にそうですって。カメラ初心者として、
-　もっと知識を得たいだけで…」","","",""
-00000bb0,40,"「…まぁ、知識を得るのはいいことだけど」","","",""
-00000c60,42,"「でしょう？　付き合ってもらえませんか？」","","",""
+　もっと知識を得たいだけで…」","“I really like it.” As a camera beginner, I want
+to get more knowledge…","- Мне это очень нравится. Как начинающий камеры,
+я хочу получить больше знаний…","„Ich mag es wirklich.“ Als Kameraanfänger möchte
+ich mehr Wissen gewinnen…"
+00000bb0,40,"「…まぁ、知識を得るのはいいことだけど」","… Well, it is good to get knowledge.","… Ну, это хорошо, чтобы получить знания.","… Nun, es ist gut, Wissen zu bekommen."
+00000c60,42,"「でしょう？　付き合ってもらえませんか？」","“Is it? Can I get it together?”","— Это? Могу ли я получить его вместе? »","„Ist es? Kann ich es zusammenbekommen? „"
 00000ce4,61,"「…仕方ないわね。私も調べたいことが
-　あるから、いいけど…」","","",""
-000002fc,20,"「寄り道ってこと？」","","",""
-00000340,14,"「そうですね」","","",""
+　あるから、いいけど…」","…I don't have to prepare. I want to look at
+it.","… Мне не нужно готовиться. Я хочу посмотреть
+на него.","… Ich muss mich nicht vorbereiten. Ich will es
+mir ansehen."
+000002fc,20,"「寄り道ってこと？」","“What do you think?”","— Что ты думаешь? »","„Was denkst du? „"
+00000340,14,"「そうですね」","“Yes, right?”","— Да, правда? »","„Ja, richtig? „"
 00000e78,65,"「悪いけど、今日は用があって、
-　まっすぐ帰らなきゃならないから」","","",""
-00000f30,20,"「そうなんですか…」","","",""
+　まっすぐ帰らなきゃならないから」","“I’m bad, but today I have to go straight.”","«Я плохо, но сегодня я должен идти прямо. »","“Ich bin schlecht, aber heute muss ich gerade
+gehen. „"
+00000f30,20,"「そうなんですか…」","“Is it?”","— Это? »","„Ist es? „"
 00000fa4,86,"「じゃあ、またね。用がないなら、
 　フラフラ寄り道せずに、
-　まっすぐ家に帰るようにね」","","",""
-0000105c,20,"「はい。失礼します」","","",""
-000010c0,10,"「またね」","","",""
-000011b0,36,"（もう一つ盛り上がらなかったしな…）","","",""
+　まっすぐ家に帰るようにね」","Yes, again. If you don’t have to use it, don’t
+stop by the  phla and go back to home straight.”","- Да, опять. Если вам не нужно использовать его,
+не останавливайтесь на Фла и вернуться домой
+прямо. »","Ja, wieder. Wenn Sie es nicht verwenden müssen,
+halten Sie nicht an der Phla und gehen Sie zurück
+nach Hause gerade. „"
+0000105c,20,"「はい。失礼します」","Yes.","Да.","Ja."
+000010c0,10,"「またね」","」","」","!"
+000011b0,36,"（もう一つ盛り上がらなかったしな…）","(I didn't have any more…)","(У меня больше не было…)","(Ich hatte nicht mehr…)"

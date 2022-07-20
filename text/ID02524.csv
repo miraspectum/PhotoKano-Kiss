@@ -1,144 +1,192 @@
-000001e4,32,"「いったい、どこへ行くんです？」","","",""
-00000228,24,"「いいから、ついてきて」","","",""
-00000270,10,"「はぁ…」","","",""
-00000354,22,"「いらっしゃいませ～」","","",""
+000001e4,32,"「いったい、どこへ行くんです？」","“Where is it?”","— Где это? »","„Wo ist es? „"
+00000228,24,"「いいから、ついてきて」","I'm good, I'm good.","- Я хорошо, я хорошо.","Ich bin gut, ich bin gut."
+00000270,10,"「はぁ…」","」","」","!"
+00000354,22,"「いらっしゃいませ～」","」","」","!"
 000003bc,47,"「２人なんだけど、窓際の席は
-　空いてますか？」","","",""
-00000460,40,"「はい、大丈夫ですよ。ご案内いたします」","","",""
+　空いてますか？」","“I’m a two person, do I have a seat at the
+window?”","«Я два человека, у меня есть место в окне? »","„Ich bin ein Zweier, habe ich einen Sitz im
+Fenster? „"
+00000460,40,"「はい、大丈夫ですよ。ご案内いたします」","Yes.","Да.","Ja."
 000004ac,57,"「室戸先輩の来たかったカフェって、
-　ここだったんですね」","","",""
-00000558,16,"「知ってるの？」","","",""
-00000594,34,"「ええ。家からそう遠くないですし」","","",""
-00000614,10,"「そっか」","","",""
-000006b8,34,"「ご注文は、何にいたしましょう？」","","",""
-000006fc,24,"「カプチーノをください」","","",""
-00000744,24,"「あ、俺もカプチーノを」","","",""
+　ここだったんですね」","“The cafe that I wanted to visit was here.”","«Кафе, которое я хотел посетить, было здесь. »","„Das Café, das ich besuchen wollte, war hier. „"
+00000558,16,"「知ってるの？」","What do you know?","Что вы знаете?","Was weißt du?"
+00000594,34,"「ええ。家からそう遠くないですし」","Home Not far from home","Home Недалеко от дома","Home Nicht weit von zu Hause"
+00000614,10,"「そっか」","」","」","!"
+000006b8,34,"「ご注文は、何にいたしましょう？」","What is your order?","Что ваш заказ?","Was ist Ihre Bestellung?"
+000006fc,24,"「カプチーノをください」","Please try cappuccino","Пожалуйста, попробуйте капучино","Bitte versuchen Cappuccino"
+00000744,24,"「あ、俺もカプチーノを」","Oh, I'm a cappuccino.","- О, я капучино.","Oh, ich bin ein Cappuccino."
 0000078c,49,"「カプチーノをお２つですね。
-　かしこまりました」","","",""
+　かしこまりました」","There are two cappuccinos.","Есть два капучино.","Es gibt zwei Cappuccinos."
 00000804,51,"「フフッ、コーヒーのいい香りが、
-　店中に漂ってる」","","",""
-00000888,22,"シャッターチャンスだ！","","",""
-00000904,24,"「撮ってもいいですか？」","","",""
-0000096c,28,"「え？　私を？　いいけど…」","","",""
-00000a48,20,"（撮るまでもないな）","","",""
-00000a90,30,"「ここにはよく来るんですか？」","","",""
-00000afc,20,"「いいえ、初めてよ」","","",""
+　店中に漂ってる」","Fコーヒー, a nice aroma of coffee drifts in the shop","Fコーコー, приятный аромат кофейных дрейфов в
+магазине","Ein schönes Aroma von Kaffeedriften im Shop"
+00000888,22,"シャッターチャンスだ！","ter chance!","ter шанс!","Eine Chance!"
+00000904,24,"「撮ってもいいですか？」","“Can I take photos?”","- Могу ли я фотографировать? »","„Kann ich Fotos machen? „"
+0000096c,28,"「え？　私を？　いいけど…」","Yes? I? I'm good…","- Да? Я? Я хорошо…","Ja? Ich? Ich bin gut…"
+00000a48,20,"（撮るまでもないな）","(It is not until you take it)","(Это не до тех пор, пока вы не принимаете его)","(Es ist nicht, bis du es nimmst)"
+00000a90,30,"「ここにはよく来るんですか？」","Do you come here?","- Ты приезжаешь сюда?","Kommst du her?"
+00000afc,20,"「いいえ、初めてよ」","No, first time!","Нет, первый раз!","Nein, das erste Mal!"
 00000b54,67,"「けど、いい雰囲気でしょう？
-　店の前を通るたびにそう思ってたのよ」","","",""
-00000c1c,42,"「確かに落ち着いてて、雰囲気いいですよね」","","",""
-00000c94,34,"「でしょう？　勉強にぴったりよね」","","",""
-00000d24,10,"「え…？」","","",""
+　店の前を通るたびにそう思ってたのよ」","“But it’s a good atmosphere?” I thought that
+every time I passed through the store.","- Но это хорошая атмосфера? Я думал, что каждый
+раз, когда я прошел через магазин.","„Aber es ist eine gute Atmosphäre?“ Ich dachte,
+jedes Mal, wenn ich durch den Laden ging."
+00000c1c,42,"「確かに落ち着いてて、雰囲気いいですよね」","“I’m sure I’m calm, and I’m sure I have a good
+atmosphere.”","«Я уверен, что я спокойный, и я уверен, что у
+меня хорошая атмосфера. »","„Ich bin sicher, dass ich ruhig bin, und ich bin
+sicher, dass ich eine gute Atmosphäre habe. „"
+00000c94,34,"「でしょう？　勉強にぴったりよね」","What? I’m studying.","Что? Я учусь.","Was? Ich studiere."
+00000d24,10,"「え…？」","?」","?」","?"
 00000d7c,51,"「ほら、教科書とノートを出して。
-　勉強始めるわよ」","","",""
+　勉強始めるわよ」","“Hora, textbooks and notes” Start studying","«Гора, учебники и заметки» Начать обучение","„Hora, Lehrbücher und Notizen“ Lernen beginnen"
 00000e1c,55,"「え？　ええ？　勉強するために
-　ここへ来たんですか？」","","",""
+　ここへ来たんですか？」","“Well, right? Did you come here to study?”","— Ну, правда? Вы пришли сюда учиться? »","„Nun, richtig? Bist du hier, um zu studieren? „"
 00000e94,61,"「そうよ。意味のない寄り道は、
-　嫌いだって言ったでしょう？」","","",""
-00000f40,40,"「それはそうですけど、まさか勉強とは…」","","",""
+　嫌いだって言ったでしょう？」","“Yes.” Do you say that you don’t have a
+meaningful way?","— Да. Вы говорите, что у вас нет смысла?","„Ja.“ Sagen Sie, dass Sie keinen sinnvollen Weg
+haben?"
+00000f40,40,"「それはそうですけど、まさか勉強とは…」","“It’s right, but it’s a study…”","«Это правильно, но это исследование… »","“Es ist richtig, aber es ist eine Studie… „"
 00000fb8,69,"「私と寄り道しようなんて考えるから、
-　こうなるのよ。覚悟することね」","","",""
+　こうなるのよ。覚悟することね」","“I think I’m going to go with me, so I’m going to
+do this.”","“Я думаю, что я собираюсь пойти со мной, так что
+я собираюсь сделать это. »","„Ich denke, ich werde mit mir gehen, also werde
+ich das tun. „"
 0000106c,57,"「…俺は、室戸先輩のことが、
-　もっと知りたいと思って…」","","",""
+　もっと知りたいと思って…」","… I want to know more about my seniors,","… Я хочу узнать больше о моих старших,","… Ich will mehr über meine Senioren wissen,"
 000010f4,92,"「そうなの？　じゃあ、よくわかった
 　でしょう？　一緒に勉強すれば、
-　もっとよくわかるわよ」","","",""
-00001214,42,"「カプチーノお２つ、お待たせいたしました」","","",""
+　もっとよくわかるわよ」","“Is that right?” So did you know that? If you
+study together, you can understand more.","- Это правильно? Так ты это знал? Если вы учитесь
+вместе, вы можете понять больше».","„Ist das richtig?“ Wussten Sie das? Wenn Sie
+gemeinsam studieren, können Sie mehr verstehen."
+00001214,42,"「カプチーノお２つ、お待たせいたしました」","“T」 cappuccinos have been waiting for you.”","«T」 капучино ждали вас. »","„T! cappuccinos haben auf dich gewartet. „"
 0000128c,55,"「タイミングよく、飲み物も来たし。
-　さ、がんばるわよ」","","",""
-00000270,10,"「はぁ…」","","",""
-00001388,34,"こうして、一緒にカフェで勉強した。","","",""
-000013e4,32,"（まさか、勉強させられるとは…）","","",""
-000014a0,22,"「ここ、気に入った？」","","",""
-000014e4,38,"「雰囲気は…気に入ってるんですけどね」","","",""
+　さ、がんばるわよ」","“It’s time-consuming, and it’s time-consuming.” 」","«Это много времени, и это трудоемкое». 」","„Es ist zeitraubend und zeitraubend.“ !"
+00000270,10,"「はぁ…」","」","」","!"
+00001388,34,"こうして、一緒にカフェで勉強した。","I studied at the cafe.","Учился в кафе.","Ich habe im Café studiert."
+000013e4,32,"（まさか、勉強させられるとは…）","Sorry, this entry is only available in 日本語.","Извините, этот техт доступен только в “日本語”.","Leider ist dieser Eintrag nur in 日本語 verfügbar."
+000014a0,22,"「ここ、気に入った？」","I like this?","- Мне это нравится?","Ich mag das?"
+000014e4,38,"「雰囲気は…気に入ってるんですけどね」","I like the atmosphere…","«Мне нравится атмосфера…»","Ich mag die Atmosphäre…"
 0000154c,61,"「こういう環境で勉強するのもいいものよ。
-　気分転換になるし」","","",""
-000015f8,22,"「…まぁ、そうですね」","","",""
-0000165c,32,"「さ、今日は何の勉強からやる？」","","",""
-00000888,22,"シャッターチャンスだ！","","",""
-0000170c,34,"「その前に、撮ってもいいですか？」","","",""
-0000177c,24,"「え？　い、いいけど…」","","",""
-0000185c,10,"「フフッ」","","",""
-00000a48,20,"（撮るまでもないな）","","",""
+　気分転換になるし」","It is important to study in this environment.
+Change your mood","В этой среде важно учиться. Изменить настроение","Es ist wichtig, in dieser Umgebung zu studieren.
+Ändern Sie Ihre Stimmung"
+000015f8,22,"「…まぁ、そうですね」","… Well, it's right.","… Ну, это правильно.","… Nun, es ist richtig."
+0000165c,32,"「さ、今日は何の勉強からやる？」","What do you do today?","Что вы делаете сегодня?","Was machst du heute?"
+00000888,22,"シャッターチャンスだ！","ter chance!","ter шанс!","Eine Chance!"
+0000170c,34,"「その前に、撮ってもいいですか？」","“How can I take photos before that?”","«Как я могу сделать фотографии до этого? »","„Wie kann ich vorher Fotos machen? „"
+0000177c,24,"「え？　い、いいけど…」","Yes, I'm good…","- Да, я хорошо…","Ja, ich bin gut…"
+0000185c,10,"「フフッ」","」","」","!"
+00000a48,20,"（撮るまでもないな）","(It is not until you take it)","(Это не до тех пор, пока вы не принимаете его)","(Es ist nicht, bis du es nimmst)"
 00001904,57,"「はぁ……覚悟を決めて、
-　今日の授業の復習でもやります」","","",""
+　今日の授業の復習でもやります」","
+“Hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh","
+hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh","hhhhhhhhhhhhhhhh"
 0000198c,59,"「いいわね。習ったことは、その日のうちに
-　復習しないとね」","","",""
+　復習しないとね」","。 “I don’t want to review what I learned.”","。 «Я не хочу просматривать то, что я узнал. »","。 “Ich will nicht überprüfen, was ich gelernt
+habe. „"
 00001a28,51,"「わからない所があったら、
-　教えてもらえますか？」","","",""
-00001aa8,18,"「ええ、もちろん」","","",""
-00001388,34,"こうして、一緒にカフェで勉強した。","","",""
-00001bdc,42,"「フフッ、今日もコーヒーのいい香りがする」","","",""
-00001c54,40,"「室戸先輩って、コーヒー好きですよね？」","","",""
-00001cd8,32,"「眠気覚ましにちょうどいいのよ」","","",""
-00001d28,16,"「あ、なるほど」","","",""
+　教えてもらえますか？」","If you have any questions, can you tell us?","Если у вас возникли вопросы, скажите нам?","Wenn Sie Fragen haben, können Sie es uns sagen?"
+00001aa8,18,"「ええ、もちろん」","Eh, of course","Эх, конечно","Natürlich"
+00001388,34,"こうして、一緒にカフェで勉強した。","I studied at the cafe.","Учился в кафе.","Ich habe im Café studiert."
+00001bdc,42,"「フフッ、今日もコーヒーのいい香りがする」","Fフ, today is also a good aroma of coffee","«ФБ, сегодня тоже хороший аромат кофе»","F Sultan, heute ist auch ein gutes Aroma von
+Kaffee"
+00001c54,40,"「室戸先輩って、コーヒー好きですよね？」","“Are you a senior at Muroto like coffee?”","«Вы старший в Мурото, как кофе? »","„Sind Sie ein Senior bei Muroto wie Kaffee? „"
+00001cd8,32,"「眠気覚ましにちょうどいいのよ」","It's just good for sleepiness.","«Это просто хорошо для сна».","Es ist einfach gut für die Schläfrigkeit."
+00001d28,16,"「あ、なるほど」","“Oh, I see.”","- О, я вижу.","„Oh, ich verstehe.“"
 00001d88,84,"「紅茶も好きなんだけど、
 　あれはまったりしちゃって、
-　ちょっと眠くなるでしょう？」","","",""
-00001e60,38,"「勉強のお供は、やっぱりコーヒーよね」","","",""
+　ちょっと眠くなるでしょう？」","“I like tea, but it’s hard to sleep?”","«Мне нравится чай, но трудно спать? »","„Ich mag Tee, aber es ist schwer zu schlafen? „"
+00001e60,38,"「勉強のお供は、やっぱりコーヒーよね」","“I’m a coffee for studying.”","«Я кофе для обучения. »","„Ich bin ein Kaffee zum Lernen. „"
 00001ef4,57,"「先輩って、普段からこういう所で
-　勉強してるんですか？」","","",""
+　勉強してるんですか？」","I'm a senior, do you usually study in this place?","- Я старший, ты обычно учишься в этом месте?","Ich bin ein Senior, studieren Sie normalerweise
+an diesem Ort?"
 00001f88,47,"「ううん、外で勉強する時は
-　図書館が多いわね」","","",""
+　図書館が多いわね」","Yes, when studying outside, there are many
+libraries.","Да, когда учиться снаружи, есть много библиотек.","Ja, wenn man draußen studiert, gibt es viele
+Bibliotheken."
 00002024,65,"「図書館かぁ……学校の図書室と
-　あんまり代わり映えしない気が…」","","",""
+　あんまり代わり映えしない気が…」","Library … I feel that I do not reflect on the
+school's library and an enormous alternative …","Библиотека… Я чувствую, что я не отражаю в
+библиотеке школы и огромную альтернативу …","Library … Ich fühle mich nicht über die
+Bibliothek der Schule und eine enorme
+Alternative…"
 000020b4,122,"「そうなのよねぇ。調べものに便利だし、
 　静かでいいんだけど、おいしいコーヒーが
-　出てこないし、ここに比べると味気なくて」","","",""
+　出てこないし、ここに比べると味気なくて」","That’s right. It’s convenient to check out, it’s
+quiet and good, but it doesn’t come out and I
+don’t have to taste it when I go here.”","Это правильно. Это удобно, чтобы проверить, это
+тихо и хорошо, но это не выходит, и я не должен
+попробовать его, когда я иду здесь. »","Das stimmt. Es ist bequem zu überprüfen, es ist
+ruhig und gut, aber es kommt nicht heraus und ich
+muss es nicht schmecken, wenn ich hier gehe. „"
 000021f0,61,"「家の近所に、ここみたいなカフェが
-　できればいいんだけど…」","","",""
-0000229c,34,"「すぐ常連になっちゃいそうですね」","","",""
-00002318,28,"「あ、そうね。毎日通いそう」","","",""
+　できればいいんだけど…」","I want to have a cafe like this in my
+neighborhood …","Я хочу иметь кафе, как это в моем районе …","Ich möchte ein Café wie dieses in meiner
+Nachbarschaft haben…"
+0000229c,34,"「すぐ常連になっちゃいそうですね」","“I’m going to be a regular one.”","«Я собираюсь быть регулярным. »","„Ich werde regelmäßig sein. „"
+00002318,28,"「あ、そうね。毎日通いそう」","Oh, yeah. Let’s go to the world","О, да. Пойдем в мир","Oh, ja. Gehen wir in die Welt"
 000023b8,49,"「…けど、常連って、
-　ちょっと恥ずかしくない？」","","",""
-00002458,16,"「そうですか？」","","",""
+　ちょっと恥ずかしくない？」","“… But I’m always shy?”","«… Но я всегда стесняюсь? »","„… Aber ich bin immer schüchtern? „"
+00002458,16,"「そうですか？」","“Is it?”","— Это? »","„Ist es? „"
 000024b8,82,"「私、商店街の本屋で
 　よく参考書を買うんだけど、
-　お店の人に顔を覚えられてて…」","","",""
+　お店の人に顔を覚えられてて…」","I bought a reference book at a shopping street
+shop, but I remember the face of the shop …","Я купила справочную книгу в магазине, но помню
+лицо магазина …","Ich kaufte ein Referenzbuch in einem
+Einkaufsstraßengeschäft, aber ich erinnere mich an
+das Gesicht des Ladens …"
 00002598,92,"「レジで“いつもありがとうございます。
 　勉強熱心ですね”って、
-　声をかけられる時があるの」","","",""
+　声をかけられる時があるの」","Thank you for always. “I’m really passionate
+about studying,” he said.","Спасибо за всегда. «Я действительно увлечен
+учебой», - сказал он.","Danke für immer. „Ich bin wirklich
+leidenschaftlich am Lernen“, sagte er."
 000026ac,63,"「細やかな気遣いでうれしいんだけど、
-　何だか恥ずかしいのよね」","","",""
+　何だか恥ずかしいのよね」","“It’s fine, but it’s so embarrassed.”","«Это хорошо, но это так неловко. »","„Es ist gut, aber es ist so peinlich. „"
 00002758,84,"「あ～、わかります。お店の人に、
 　自分のことを知られてると思うと、
-　照れますよね」","","",""
-000027fc,24,"「そうそう、そんな感じ」","","",""
-00002838,40,"「お客様、ご注文はお決まりでしょうか？」","","",""
-000028bc,24,"「あ、私はカプチーノで」","","",""
-00002944,18,"「俺もカプチーノ」","","",""
+　照れますよね」","。 If you think that you know yourself, you can
+illuminate it.","。 Если вы считаете, что знаете себя, вы можете
+осветить его.","。 Wenn du denkst, dass du dich selbst kennst,
+kannst du es beleuchten."
+000027fc,24,"「そうそう、そんな感じ」","“So, it’s like that.”","«Так, это так. »","„So ist es so. „"
+00002838,40,"「お客様、ご注文はお決まりでしょうか？」","Do you decide to order?","- Вы решили заказать?","Entscheiden Sie sich, zu bestellen?"
+000028bc,24,"「あ、私はカプチーノで」","“Oh, I’m a cappuccino.”","«О, я капучино. »","„Oh, ich bin ein Cappuccino. „"
+00002944,18,"「俺もカプチーノ」","“I love cappuccino”","«Я люблю капучино»","„Ich liebe Cappuccino“"
 00002984,86,"「かしこまりました。
 　カプチーノお２つでございますね。
-　いつもありがとうございます」","","",""
-00002a1c,8,"「あ…」","","",""
-00002a1c,8,"「あ…」","","",""
-00002a98,22,"「フフッ、クスクス…」","","",""
-00002afc,12,"「あははは」","","",""
-00002b38,26,"「どうかなさいましたか？」","","",""
-00002b74,36,"「いえ、何でもないです。すみません」","","",""
-00002bf4,32,"「ごめんなさい、こっちの話なの」","","",""
-00002c84,32,"「はぁ…では、失礼いたしますね」","","",""
-00002ce8,40,"「クスクス……常連になるのって、簡単ね」","","",""
-00002d94,10,"「ですね」","","",""
-00002de0,57,"「さ、\p01君。
-　おしゃべりしてないで、勉強を始めるわよ」","","",""
-00002e88,32,"「仕方ない、今日もがんばるか…」","","",""
-00002ef8,20,"「仕方ないは余計よ」","","",""
-00001388,34,"こうして、一緒にカフェで勉強した。","","",""
-00000354,22,"「いらっしゃいませ～」","","",""
-000030ac,20,"「２人なんだけど…」","","",""
-000030ec,30,"「いつもの席は空いてますか？」","","",""
-0000317c,8,"「え…」","","",""
-00000460,40,"「はい、大丈夫ですよ。ご案内いたします」","","",""
-00003238,26,"「常連ぶっちゃって、もう」","","",""
-000032bc,32,"「どうせもう覚えられてますから」","","",""
-00003328,18,"「フフッ、そうね」","","",""
-000033b4,34,"こうして、カフェで一緒に勉強した。","","",""
-00000354,22,"「いらっしゃいませ～」","","",""
-000030ac,20,"「２人なんだけど…」","","",""
+　いつもありがとうございます」","。 There are two cappuccinos. Thank you very much.","。 Есть два капучино. Большое спасибо.","。 Es gibt zwei Cappuccinos. Vielen Dank."
+00002a1c,8,"「あ…」","」","」","!"
+00002a1c,8,"「あ…」","」","」","!"
+00002a98,22,"「フフッ、クスクス…」","Fフ, Kusu…","ФБ, Кусу…","Frucht, Kusu…"
+00002afc,12,"「あははは」","」","」","!"
+00002b38,26,"「どうかなさいましたか？」","“What did you do?”","— Что ты сделал? »","„Was hast du getan? „"
+00002b74,36,"「いえ、何でもないです。すみません」","“I don’t have anything.”","«У меня нет ничего. »","„Ich habe nichts. „"
+00002bf4,32,"「ごめんなさい、こっちの話なの」","It's a story here","Это история здесь","Es ist eine Geschichte hier"
+00002c84,32,"「はぁ…では、失礼いたしますね」","I'm sorry… I'm sorry.","Я сожалею… Прости.","Es tut mir leid… Es tut mir leid."
+00002ce8,40,"「クスクス……常連になるのって、簡単ね」","Ksukusu: It's easy to become a regular one.","«Ксукусу: Легко стать постоянным».","Ksukusu: Es ist leicht, regelmäßig zu werden."
+00002d94,10,"「ですね」","」","」","!"
+00002e88,32,"「仕方ない、今日もがんばるか…」","“I don’t want to do it today…”","«Я не хочу делать это сегодня… »","„Ich will es heute nicht tun… „"
+00002ef8,20,"「仕方ないは余計よ」","“I don’t have to do it.”","- Мне не нужно это делать. »","„Ich muss es nicht tun. „"
+00001388,34,"こうして、一緒にカフェで勉強した。","I studied at the cafe.","Учился в кафе.","Ich habe im Café studiert."
+00000354,22,"「いらっしゃいませ～」","」","」","!"
+000030ac,20,"「２人なんだけど…」","I'm two people …","Я два человека…","Ich bin zwei Menschen…"
+000030ec,30,"「いつもの席は空いてますか？」","“Do you have any seats available?”","— Есть ли у вас места? »","„Haben Sie Sitze zur Verfügung? „"
+0000317c,8,"「え…」","」","」","!"
+00000460,40,"「はい、大丈夫ですよ。ご案内いたします」","Yes.","Да.","Ja."
+00003238,26,"「常連ぶっちゃって、もう」","I'm always busy, I'm now.","- Я всегда занят, я сейчас.","Ich bin immer beschäftigt, ich bin jetzt."
+000032bc,32,"「どうせもう覚えられてますから」","I'm remembered.","- Я вспомнил.","Ich erinnere mich."
+00003328,18,"「フフッ、そうね」","“Fフ, so.”","«ФБ, так».","„Frucht, so.“"
+000033b4,34,"こうして、カフェで一緒に勉強した。","I studied at the cafe.","Учился в кафе.","Ich habe im Café studiert."
+00000354,22,"「いらっしゃいませ～」","」","」","!"
+000030ac,20,"「２人なんだけど…」","I'm two people …","Я два человека…","Ich bin zwei Menschen…"
 00003520,63,"「あ……いつもの席、空いてますよ。
-　そちらでよろしいですか？」","","",""
-000035b0,12,"「え、ええ」","","",""
-000035f4,20,"「ご案内いたします」","","",""
-0000362c,22,"「すっかり常連ですね」","","",""
-000036b4,10,"「君もよ」","","",""
-000033b4,34,"こうして、カフェで一緒に勉強した。","","",""
+　そちらでよろしいですか？」","Oh, I always have a seat, I'm empty. Is it okay?","«О, у меня всегда есть место, я пуст. Это
+нормально?","Oh, ich habe immer einen Sitz, ich bin leer. Ist
+es okay?"
+000035b0,12,"「え、ええ」","」","」","!"
+000035f4,20,"「ご案内いたします」","We will guide you","Мы будем направлять вас","Wir führen Sie"
+0000362c,22,"「すっかり常連ですね」","It's a normal person.","- Это нормальный человек.","Es ist eine normale Person."
+000036b4,10,"「君もよ」","」","」","!"
+000033b4,34,"こうして、カフェで一緒に勉強した。","I studied at the cafe.","Учился в кафе.","Ich habe im Café studiert."

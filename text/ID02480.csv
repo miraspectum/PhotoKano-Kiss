@@ -1,28 +1,40 @@
-000001d0,20,"「あれ？　室戸先輩」","","",""
-00000240,57,"「\p01君……どうしたの？
-　こんな時間に、こんなところへ」","","",""
-00000310,16,"「室戸先輩こそ」","","",""
-000003e4,26,"「私は、放課後の見回りよ」","","",""
+000001d0,20,"「あれ？　室戸先輩」","Where? Master of Mur","«Где? Мастер Мур ","Wo? Master of Mur"
+00000310,16,"「室戸先輩こそ」","Muroto Seniors","Muroto Seniors","Muroto Senioren"
+000003e4,26,"「私は、放課後の見回りよ」","“I’m watching after school”","«Я наблюдаю за школой»","„Ich schaue nach der Schule“"
 00000464,71,"「こういう人目に触れない場所こそ、
-　きちんと目を光らせておかないとね」","","",""
-00000534,14,"「…なるほど」","","",""
-000005ac,32,"「それで、君は何の用でここに？」","","",""
+　きちんと目を光らせておかないとね」","“It’s a place where you can’t see such people, so
+you don’t want to see them properly.”","«Это место, где вы не можете увидеть таких людей,
+так что вы не хотите видеть их правильно. »","„Es ist ein Ort, wo man solche Menschen nicht
+sehen kann, so dass man sie nicht richtig sehen
+will. „"
+00000534,14,"「…なるほど」","…I see.","-- Я вижу.","Ich verstehe."
+000005ac,32,"「それで、君は何の用でここに？」","“What is you for?”","— Что ты? »","„Wofür bist du? „"
 00000638,86,"「え～と…人目につかない所にこそ、
 　思いがけないシャッターチャンスが
-　あるんですよ」","","",""
-000006dc,24,"「ふうん…本当かしら？」","","",""
-00000760,34,"「な、なんでそんな疑いの目を！？」","","",""
+　あるんですよ」","
+“Ehhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh","
+hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh","hhhhhhhhhhhhhhhhhhh"
+000006dc,24,"「ふうん…本当かしら？」","“I’m so true?”","- Я так верно? »","„Ich bin so wahr? „"
+00000760,34,"「な、なんでそんな疑いの目を！？」","“What do you think?”","— Что ты думаешь? »","„Was denkst du? „"
 000007c4,65,"「物陰に隠れて、女生徒を盗撮…なんてことを
-　企んでないわよね？」","","",""
-000008e0,24,"「も、もちろんですよ！」","","",""
-000009b8,14,"「本当に～？」","","",""
-00000a28,18,"「本当ですって！」","","",""
+　企んでないわよね？」","Hide in the shade and take a picture of a girl
+… I don't want to do anything?","Спрятать в тени и сфотографировать девушку… Я
+не хочу ничего делать?","Geh im Schatten und schau dir ein Mädchen an…
+Ich will nichts tun?"
+000008e0,24,"「も、もちろんですよ！」","Oh, it's okay!","О, это нормально!","Oh, es ist okay!"
+000009b8,14,"「本当に～？」","“Really?”","— Реально? »","„Wirklich? „"
+00000a28,18,"「本当ですって！」","“It’s true!”","«Это правда!»","„Es ist wahr!“"
 00000a98,49,"「フフッ、冗談よ。
-　いい写真が撮れるといいわね」","","",""
+　いい写真が撮れるといいわね」","Fフ,談. I hope you can take good photos.","ФБ,談. Я надеюсь, что вы можете сделать хорошие
+фотографии.","F Sultan, 談. Ich hoffe, du kannst gute Fotos
+machen."
 00000b64,71,"「じゃあね。熱心なのはいいことだけど、
-　暗くなる前に下校するようにね」","","",""
-00000c40,8,"「はい」","","",""
-00000d8c,36,"「それと、九堂に感化されちゃダメよ」","","",""
-00000de0,10,"「はは…」","","",""
-00000e5c,16,"「それじゃあね」","","",""
-00000e9c,14,"「失礼します」","","",""
+　暗くなる前に下校するようにね」","。 It’s really cool, but I’m going to go down
+before darkening.”","。 Это действительно круто, но я собираюсь пойти
+вниз перед затемнением. »","。 Es ist wirklich cool, aber ich gehe runter,
+bevor ich verdunkeln. „"
+00000c40,8,"「はい」","Yes","Да","Ja"
+00000d8c,36,"「それと、九堂に感化されちゃダメよ」","“I’m so imp、ed by the nine temples.”","«Я так впечатляю, по девять храмов. »","„Ich bin so imp、ed von den neun Tempeln. „"
+00000de0,10,"「はは…」","」","」","!"
+00000e5c,16,"「それじゃあね」","It's it!","- Это!","Das ist es!"
+00000e9c,14,"「失礼します」","I'm sorry.","- Прости.","Es tut mir leid."

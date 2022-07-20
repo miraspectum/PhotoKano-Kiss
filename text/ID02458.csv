@@ -1,36 +1,55 @@
-00000230,18,"「おはよう、先輩」","","",""
-000003b4,20,"「おはよう、\p01君」","","",""
-000003f8,24,"「登校チェックですか？」","","",""
+00000230,18,"「おはよう、先輩」","Good morning, seniors","Доброе утро, старшие","Guten Morgen, Senioren"
+000003f8,24,"「登校チェックですか？」","“Do you check school?”","- Вы проверяете школу? »","„Siehst du die Schule? „"
 00000470,84,"「ええ。衣替えが終わったばかりだし、
 　服装の乱れがないか、
-　よく見ておかないとね」","","",""
-00000554,26,"「ははは、先輩らしいなぁ」","","",""
-000005cc,22,"「そういうあなたは…」","","",""
-00000708,30,"「大丈夫ね。きちっとしてるわ」","","",""
+　よく見ておかないとね」","Home I just finished changing my clothes, or I
+don’t see it well.”","Главная Я только что закончил изменение моей
+одежды, или я не вижу это хорошо. »","Home Ich habe gerade meine Kleidung verändert,
+oder ich sehe es nicht gut. „"
+00000554,26,"「ははは、先輩らしいなぁ」","“I’m a senior.”","«Я старший. »","„Ich bin ein Senior. „"
+000005cc,22,"「そういうあなたは…」","“T… kind of you…”","“T… добрый из вас… »","T… irgendwie… „"
+00000708,30,"「大丈夫ね。きちっとしてるわ」","It's okay. I'm doing it.","Это нормально. Я это делаю.","Schon gut. Ich mache es."
 000007a8,57,"「先輩って、ずっと毎朝、登校チェックを
-　続けるつもり？」","","",""
-00000834,40,"「そういうわけじゃないけど…どうして？」","","",""
+　続けるつもり？」","“I’m going to keep checking school every
+morning?”","«Я буду проводить проверку школы каждое утро? »","„Ich werde jeden Morgen die Schule überprüfen? „"
+00000834,40,"「そういうわけじゃないけど…どうして？」","“I don’t know that. Why?”","- Я не знаю, что. Почему? »","„Das weiß ich nicht. Warum? „"
 000008cc,61,"「いや、登校チェックがなければ、
-　一緒に登校できるなって…」","","",""
-00000968,20,"「あ……そ、そうね」","","",""
+　一緒に登校できるなって…」","No, if there is no school check, you can go to
+school together …","Нет, если нет школьной проверки, вы можете пойти
+в школу вместе …","Nein, wenn es keinen Schulcheck gibt, kannst du
+zusammen zur Schule gehen…"
+00000968,20,"「あ……そ、そうね」","Oh, it's right.","- О, это правильно.","Oh, es ist richtig."
 00000a84,63,"「じゃあ、駅前で待ち合わせしない？
-　私も……一緒に登校したい」","","",""
-00000b7c,32,"「登校チェックはいいんですか？」","","",""
-00000bfc,24,"「もう…意地が悪いわね」","","",""
-00000cb4,32,"「明日からは後輩たちに任せるわ」","","",""
+　私も……一緒に登校したい」","“Now, don’t wait in front of the station?” I want
+to join together","«Теперь не ждите перед станцией?» Хочу
+присоединиться","„Jetzt, warten Sie nicht vor dem Bahnhof?“ Ich
+will zusammentreten"
+00000b7c,32,"「登校チェックはいいんですか？」","“Do you check school?”","- Вы проверяете школу? »","„Siehst du die Schule? „"
+00000bfc,24,"「もう…意地が悪いわね」","Oh… I'm not sure about it.","О… Я не уверен в этом.","Oh… ich bin mir nicht sicher."
+00000cb4,32,"「明日からは後輩たちに任せるわ」","I can leave my seniors from tomorrow.","- Я могу оставить своих пожилых людей с
+завтрашнего дня.","Ich kann meine Senioren morgen verlassen."
 00000d58,69,"「登校チェックは、生徒会長として、
-　私が自主的に始めたことだけど…」","","",""
-00000e44,36,"「よかったら、受け継いでもらいたい」","","",""
-00000e8c,36,"「そっか。じゃあ、一緒に行こうか？」","","",""
-00000f04,30,"「ええ。時間は７時半でいい？」","","",""
-00000f84,30,"「えっ！？　そんなに早く！？」","","",""
+　私が自主的に始めたことだけど…」","“The school check is that I started voluntarily
+as a student president…”","«Проверка школы заключается в том, что я начал
+добровольно в качестве студенческого президента…
+»","“Die Schulprüfung ist, dass ich freiwillig als
+Student Präsident begann… „"
+00000e44,36,"「よかったら、受け継いでもらいたい」","I want to take over if it is good.","- Я хочу взять на себя, если это хорошо.","Ich will übernehmen, wenn es gut ist."
+00000e8c,36,"「そっか。じゃあ、一緒に行こうか？」","。 Let’s go together?","。 Давай вместе?","。 Gehen wir zusammen?"
+00000f04,30,"「ええ。時間は７時半でいい？」","Home 7:30 pm","Начало 7:30 pm","Home 7:30 Uhr"
+00000f84,30,"「えっ！？　そんなに早く！？」","“I’m so fast!”","«Я так быстро!»","„Ich bin so schnell!“"
 00001000,90,"「ちっとも早くないわよ。
 　学校に着いたら、今日の授業を
-　軽く予習しておく。当然のことよ」","","",""
-000010e4,34,"「先輩は、本当に勉強が好きだなぁ」","","",""
+　軽く予習しておく。当然のことよ」","It's not too fast. Once you arrive at the school,
+you will be able to study today’s classes.","Это не слишком быстро. Как только вы приедете в
+школу, вы сможете изучать сегодняшние занятия.","Es ist nicht zu schnell. Sobald Sie in der Schule
+ankommen, werden Sie in der Lage sein, die
+heutigen Klassen zu studieren."
+000010e4,34,"「先輩は、本当に勉強が好きだなぁ」","“My seniors really like studying.”","«Мои пожилые люди действительно любят учиться. »","„Meine Senioren mögen es wirklich, zu studieren.
+„"
 00001154,65,"「あなたも、もう少し勉強が
-　好きになってくれるといいんだけどね」","","",""
-0000123c,12,"「ははは…」","","",""
-00001290,36,"「フフッ、それじゃあ、またあとでね」","","",""
-00001318,34,"「最後の登校チェック、がんばって」","","",""
-00001378,8,"「ええ」","","",""
+　好きになってくれるといいんだけどね」","I want you to learn a little more.","- Я хочу, чтобы вы узнали немного больше.","Ich will, dass du etwas mehr erlernst."
+0000123c,12,"「ははは…」","」","」","!"
+00001290,36,"「フフッ、それじゃあ、またあとでね」","Fフ, it's right, and it's left.","ФБ, это правильно, и это осталось.","Flock, es ist richtig, und es ist links."
+00001318,34,"「最後の登校チェック、がんばって」","Last school check, cancer","Последняя проверка школы, рак","Letzte Schulprüfung, Krebs"
+00001378,8,"「ええ」","」","」","!"

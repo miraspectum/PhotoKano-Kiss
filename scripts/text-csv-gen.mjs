@@ -135,11 +135,13 @@ async function scanFile(filePath) {
         phrasePatches.push([offsetStr, encoded.length.toString(),`${phrase}`]);
     }
 
-    // Save patch file
-    await savePatchFile(fileName, phrasePatches);
+    if (phrasePatches.length > 0) {
+        // Save patch file
+        await savePatchFile(fileName, phrasePatches);
 
-    // Add to patch list
-    patches.push([fileName, 'Shift_JIS', filePath, `cpks/00_GMV/${fileName}`]);
+        // Add to patch list
+        patches.push([fileName, 'Shift_JIS', filePath, `cpks/00_GMV/${fileName}`]);
+    }
 
     //logger.log('INFO', `${filePath} parsed successful!`);
 }

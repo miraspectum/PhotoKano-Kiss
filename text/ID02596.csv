@@ -1,181 +1,266 @@
 00000194,57,"（あ…どこの部も練習終わっちゃったか。
-　もう遅いからな）","","",""
-000001fc,16,"（俺も帰るか…）","","",""
-0000025c,28,"（ん？　用具室から物音が…）","","",""
-000002cc,22,"「誰か…いますか～？」","","",""
-0000039c,16,"「あ、室戸先輩」","","",""
-00000414,14,"「あ、\p01君」","","",""
-00000484,38,"「こんな時間に、何やってるんですか？」","","",""
-00000548,24,"「ちょっと整理整頓をね」","","",""
+　もう遅いからな）","(Where did you practice?) )","(Где ты практиковал?) )","(Wo hast du geübt?) )"
+000001fc,16,"（俺も帰るか…）","(I'm back…)","(Я вернулся…)","(Ich bin zurück…)"
+0000025c,28,"（ん？　用具室から物音が…）","(Sound from the tool room…)","(Взгляд из кабинета…)","(Sound from the tool room…)"
+000002cc,22,"「誰か…いますか～？」","Somebody…?」~?","-- Кто-то…?」~?","Irgendjemand…?"
+0000039c,16,"「あ、室戸先輩」","Oh, my seniors","«О, мои старшие»","Oh, meine Senioren"
+00000484,38,"「こんな時間に、何やってるんですか？」","What do you do in such a time?","Что вы делаете в такое время?","Was machst du so?"
+00000548,24,"「ちょっと整理整頓をね」","It's a little organized and organized.","Это немного организовано и организовано.","Es ist ein wenig organisiert und organisiert."
 000005f4,57,"「ここって、みんなが使うから、
-　散らかりがちでしょう？」","","",""
+　散らかりがちでしょう？」","“This is because we use it for everyone.”","«Это потому, что мы используем его для всех. »","„Das ist, weil wir es für jeden verwenden. „"
 00000684,75,"「壊れた用具も混ざってて危ないから、
-　前々からきちんと片付けたかったのよ」","","",""
-0000076c,40,"「それって、生徒会長の仕事なんですか？」","","",""
+　前々からきちんと片付けたかったのよ」","“I wanted to clean up the broken tools because it
+was dangerous to mix them.”","«Я хотел очистить сломанные инструменты, потому
+что это было опасно для их смешивания. »","„Ich wollte die gebrochenen Werkzeuge aufräumen,
+weil es gefährlich war, sie zu mischen. „"
+0000076c,40,"「それって、生徒会長の仕事なんですか？」","“What is the work of the president?”","«Какова работа президента? »","„Was ist die Arbeit des Präsidenten? „"
 000007d4,88,"「いいえ、生徒１人１人の自覚の問題ね。
 　だから、生徒会長の私が率先して
-　行動しないと」","","",""
-000008e0,22,"「それは…大変ですね」","","",""
-00000954,30,"「なぜ？　そんなことないわよ」","","",""
+　行動しないと」","No, it is a matter of self-awareness of one
+student. So the student president of me and I do
+not act on the lead.”","«Нет, это вопрос самосознания одного студента.
+Так студенческий президент меня и я не действую на
+лидере. »","Nein, es geht um Selbstbewusstsein eines
+Schülers. Also der Studentenpräsident von mir und
+ich handeln nicht auf die Führung. „"
+000008e0,22,"「それは…大変ですね」","It's very hard.","- Это очень трудно.","Es ist sehr schwer."
+00000954,30,"「なぜ？　そんなことないわよ」","Why? I don't know that.","«Почему? Я не знаю, что».","Warum? Das weiß ich nicht."
 00000a20,59,"「私の手で学園がきれいになるんだから、
-　とてもうれしいわ」","","",""
-00000adc,12,"「先輩……」","","",""
-00000be4,16,"「すごいですね」","","",""
-00000c54,14,"「どうして？」","","",""
+　とてもうれしいわ」","“I’m so happy that my school is cleaned by my
+hands.”","«Я так счастлив, что моя школа очищается руками.
+»","„Ich bin so glücklich, dass meine Schule von
+meinen Händen gereinigt wird. „"
+00000adc,12,"「先輩……」","……","………","…"
+00000be4,16,"「すごいですね」","“It’s amazing.”","«Это удивительно. »","„Es ist erstaunlich. „"
+00000c54,14,"「どうして？」","How do we do?","Как мы делаем?","Wie machen wir das?"
 00000c8c,47,"「普通、そこまで学校のことを
-　思えないですよ」","","",""
-00000d08,32,"「私はね、この学園が大好きなの」","","",""
-00000dbc,28,"「この学園が好きなんですね」","","",""
-00000e24,18,"「ええ、もちろん」","","",""
-00000e74,16,"「損してますよ」","","",""
-00000c54,14,"「どうして？」","","",""
+　思えないですよ」","“I don’t think it’s a school.”","«Я не думаю, что это школа. »","„Ich glaube nicht, dass es eine Schule ist. „"
+00000d08,32,"「私はね、この学園が大好きなの」","I love this school","Я люблю эту школу","Ich liebe diese Schule"
+00000dbc,28,"「この学園が好きなんですね」","I like this school.","- Мне нравится эта школа.","Ich mag diese Schule."
+00000e24,18,"「ええ、もちろん」","Eh, of course","Эх, конечно","Natürlich"
+00000e74,16,"「損してますよ」","I'm sorry.","- Прости.","Es tut mir leid."
+00000c54,14,"「どうして？」","How do we do?","Как мы делаем?","Wie machen wir das?"
 00000f1c,65,"「みんなの模範になろうとして、
-　室戸先輩ばかりが、がんばって…」","","",""
-00000fac,40,"「いいのよ。私はこの学園が大好きだから」","","",""
-00001098,36,"「まだまだ歴史の浅い、この光河学園」","","",""
+　室戸先輩ばかりが、がんばって…」","I want to become a model of everyone, only the
+seniors of Murodo, but I have to do …","«Хочу стать моделью всех, только пожилые люди
+Муродо, но я должен делать …»","Ich will ein Modell von allen werden, nur die
+Senioren von Murodo, aber ich muss …"
+00000fac,40,"「いいのよ。私はこの学園が大好きだから」","。 I love this school","。 Я люблю эту школу","Ich liebe diese Schule"
+00001098,36,"「まだまだ歴史の浅い、この光河学園」","“This is still a shallow history, this Koga
+Gakuen”","«Это еще мелкая история, этот Кога Гакуен»","“Dies ist noch eine flache Geschichte, diese Koga
+Gakuen”"
 00001100,67,"「よりよい学園にするには、
-　私たち生徒、１人１人の努力が必要なの」","","",""
+　私たち生徒、１人１人の努力が必要なの」","“In order to become a better school, we need one
+student’s effort.”","«Для того, чтобы стать лучшей школой, нам нужно
+одно студенческое усилие. »","„Um eine bessere Schule zu werden, brauchen wir
+einen Schüler. „"
 000011d8,57,"「私たちはね、みんなでこの学園の未来を
-　作っているのよ」","","",""
-00001248,18,"「学園の未来を…」","","",""
-00001294,8,"「そう」","","",""
+　作っているのよ」","“We are making the future of this school
+together.”","«Мы делаем будущее этой школы вместе. »","„Wir machen gemeinsam die Zukunft dieser Schule.
+„"
+00001248,18,"「学園の未来を…」","The future of the school …","«Будущее школы…»","Die Zukunft der Schule …"
+00001294,8,"「そう」","」","」","!"
 000012fc,92,"「今年より来年。来年より再来年。
 　みんなが努力を続ければ、もっともっと
-　いい学園になる…」","","",""
-00001430,106,"「\p01君だって、あと１年半後には
-　卒業するのよ。その時、妹さんに少しでも
-　よい学園を残したいでしょう？」","","",""
-000014c4,18,"「そりゃ、まぁ…」","","",""
-00001520,36,"「その思いが、光河学園をよくするの」","","",""
-000015ac,40,"「私はあと半年で卒業してしまう。けど…」","","",""
+　いい学園になる…」","Next year Next year If everyone continues to
+make efforts, it will be a better school.","В следующем году в следующем году «Если все
+продолжают делать усилия, это будет лучшая школа».","Nächstes Jahr Nächstes Jahr Wenn alle weiterhin
+Anstrengungen unternehmen, wird es eine bessere
+Schule sein."
+000014c4,18,"「そりゃ、まぁ…」","I'm sorry…","Я сожалею…","Es tut mir leid…"
+00001520,36,"「その思いが、光河学園をよくするの」","The thought of this is to improve Koga school","«Мечта об этом - улучшить школу Коги»","Der Gedanke daran ist, die Koga-Schule zu
+verbessern"
+000015ac,40,"「私はあと半年で卒業してしまう。けど…」","“I’m graduating in half a year.","«Я выпускаю через полгода.","„Ich graduiere in einem halben Jahr."
 00001658,108,"「生徒会長として、残された時間を
 　精一杯勤め上げて、君たち在校生に
-　少しでも素敵な光河学園を引き継ぎたい」","","",""
+　少しでも素敵な光河学園を引き継ぎたい」","As a student chairman, I want to take over the
+wonderful Koga school even a little to your school
+students","«Как студенческий председатель, я хочу взять над
+замечательной школы Кога даже немного для ваших
+учеников школы»","Als studentischer Vorsitzender möchte ich die
+wunderbare Koga-Schule sogar ein wenig zu Ihren
+Schülern übernehmen"
 00001718,65,"「そして、いつまでも、いつまでも、
-　輝かしい母校であって欲しい」","","",""
-00001790,14,"「室戸先輩…」","","",""
-000017cc,36,"（本当に好きなんだな、この学園が…）","","",""
+　輝かしい母校であって欲しい」","And I want to be a bright mother school forever.","«И я хочу быть яркой школой матери навсегда».","Und ich will für immer eine helle Mutterschule
+sein."
+00001790,14,"「室戸先輩…」","Muroto seniors …","Мурото старший …","Muroto Senioren …"
+000017cc,36,"（本当に好きなんだな、この学園が…）","(I really like this school…)","(Я очень люблю эту школу…)","(Ich mag diese Schule wirklich…)"
 00001820,57,"（学園の未来を作ってる…か、
-　考えたこともなかったな…）","","",""
-000018ac,38,"「さて、残りを片付けてしまわないと…」","","",""
-00001928,24,"「あ、俺も手伝いますよ」","","",""
-000019a0,36,"「いいわよ、ほこりまみれになるから」","","",""
-000019f0,34,"「あ、それで、わざわざ体操服に？」","","",""
+　考えたこともなかったな…）","Sorry, this entry is only available in Japanese.","Извините, этот техт доступен только в “Японский”.","Leider ist dieser Eintrag nur auf Japanisch
+verfügbar."
+000018ac,38,"「さて、残りを片付けてしまわないと…」","“I don’t clean up the rest…”","«Я не убираю остальные… »","„Ich bereinige den Rest nicht… „"
+00001928,24,"「あ、俺も手伝いますよ」","“Oh, I can help you.”","«О, я могу вам помочь. »","„Oh, ich kann dir helfen. „"
+000019a0,36,"「いいわよ、ほこりまみれになるから」","I'm good, because it becomes dusty.","«Я хорошо, потому что это становится пыльным».","Ich bin gut, weil es staubig wird."
+000019f0,34,"「あ、それで、わざわざ体操服に？」","“Oh, it’s a physical exercise?”","«О, это физическое упражнение? »","„Oh, es ist eine körperliche Übung? „"
 00001a60,57,"「そう。これなら汚れてもいいし、
-　動きやすいでしょう？」","","",""
+　動きやすいでしょう？」","。 Is it easy to move and get dirty?","。 Легко ли перемещать и разгрязняться?","。 Ist es einfach zu bewegen und schmutzig zu
+werden?"
 00001b54,114,"「なるほど。…じゃあ、制服を汚さないように
 　手伝いますよ。さっきの話を聞いて
-　手伝わないのって、どうかと思うし」","","",""
-00001c24,24,"「気にしなくていいのに」","","",""
+　手伝わないのって、どうかと思うし」","I see. … Well, I can help you not to pollute
+the uniform. “I don’t know how to help you hear a
+little bit of story.”","Я вижу. … Ну, я могу помочь вам не загрязнять
+униформу. «Я не знаю, как помочь вам услышать
+немного истории. »","Ich verstehe. … Ich kann Ihnen helfen, die
+Uniform nicht zu verschmutzen. „Ich weiß nicht,
+wie man Ihnen hilft, etwas Geschichte zu hören. „"
+00001c24,24,"「気にしなくていいのに」","“I don’t like it.”","- Мне это не нравится. »","„Ich mag es nicht. „"
 00001c98,53,"「けど、手伝ってくれるのはうれしいわ。
-　ありがとう」","","",""
-00001d44,20,"「けど…その前に…」","","",""
-00001d94,8,"「え？」","","",""
-00001e70,34,"「ど、どうしたのよ、ドアを閉めて」","","",""
-00001f24,40,"「か、鍵までかけて、どういうつもり！？」","","",""
+　ありがとう」","“How can I help you?” Pets","«Как мне помочь?» Домашние животные","„Wie kann ich Ihnen helfen?“ Haustiere"
+00001d44,20,"「けど…その前に…」","But … before …","Но … перед …","Aber … vor …"
+00001d94,8,"「え？」","?」","?」","?"
+00001e70,34,"「ど、どうしたのよ、ドアを閉めて」","Now, I'll close the door","«Сейчас я закрою дверь»","Jetzt schließe ich die Tür"
+00001f24,40,"「か、鍵までかけて、どういうつもり！？」","“What do you think about the key?”","«Что ты думаешь об ключе? »","„Was denkst du über den Schlüssel? „"
 00001fcc,57,"「かんぬきをかけただけです。
-　内側からはすぐ開きますよ」","","",""
-00002050,40,"「だ、だから、そういう問題じゃなくて！」","","",""
+　内側からはすぐ開きますよ」","Just remove kanuki. Open soon from inside","Просто удалите kanuki. Открыть в ближайшее время
+изнутри","Entfernen Sie Kanuki. bald von innen öffnen"
+00002050,40,"「だ、だから、そういう問題じゃなくて！」","That’s why I don’t have such a problem!","Вот почему у меня нет такой проблемы!","Deshalb habe ich kein solches Problem!"
 00002120,57,"「この間みたいに、九堂部長が
-　いきなり現れると困るんで」","","",""
-000021e4,16,"「あ…まさか…」","","",""
-00002274,34,"「写真…撮らせてもらえませんか？」","","",""
+　いきなり現れると困るんで」","It seems like this time, I'm troubled if the
+director of Kudo suddenly appears.","- Кажется, это время, мне трудно, если директор
+Кудо внезапно появляется.","Es scheint mir so, als wäre ich beunruhigt, wenn
+der Direktor von Kudo plötzlich erscheint."
+000021e4,16,"「あ…まさか…」","」","」","!"
+00002274,34,"「写真…撮らせてもらえませんか？」","Photo… Can you take a photo?","Фото… Можете ли вы фотографировать?","Foto… Kannst du ein Foto machen?"
 00002328,67,"「…やっぱり。水着姿だけじゃ
-　飽きたらず、体操服も撮ろうっての？」","","",""
-000023e0,24,"「まぁ…そんなとこです」","","",""
-00002458,38,"「体操服なら、この間撮ったじゃない？」","","",""
-000024a0,30,"「あの時はあの時、今は今です」","","",""
-00002520,20,"「はぁ…まったく…」","","",""
-00002594,16,"「ダメですか？」","","",""
+　飽きたらず、体操服も撮ろうっての？」","。 Are you tired of wearing swimwear?","。 Надоело носить купальники?","。 Müssen Sie schwimmen?"
+000023e0,24,"「まぁ…そんなとこです」","“Well… That’s it.”","«Ну… Это. »","„Nun… Das ist es. „"
+00002458,38,"「体操服なら、この間撮ったじゃない？」","“If you’re a gymnastic dress, you’ve taken this
+time?”","«Если вы гимнастическое платье, вы взяли это
+время? »","„Wenn Sie ein sportliches Kleid sind, haben Sie
+dieses Mal genommen? „"
+000024a0,30,"「あの時はあの時、今は今です」","It's time, now.","- Это время, сейчас.","Es ist Zeit, jetzt."
+00002520,20,"「はぁ…まったく…」","」","」","!"
+00002594,16,"「ダメですか？」","“What is the time?”","— Какое время? »","„Was ist die Zeit? „"
 0000260c,67,"「ダメも何も…どうせ断っても、
-　“不正登校”って言うんでしょう？」","","",""
+　“不正登校”って言うんでしょう？」","“I don’t know anything about it. What do you say
+is “Unfair School”?”","«Я ничего не знаю об этом. Что вы говорите:
+«Нечестная школа»? »","„Ich weiß nichts darüber. Was sagen Sie, ist
+“Unfair School”? „"
 000026bc,81,"「今や、“不正登校”だけじゃないですよ。
-　“スク水セクシーショット”もあります」","","",""
-0000274c,10,"「うぐっ」","","",""
+　“スク水セクシーショット”もあります」","“Now, it’s not just “Unfair School”. There is
+also “Squash Sexy Shot”","«Сейчас это не просто «Нечестная школа».
+Существует также “Squash Sexy Shot”","„Nun, es ist nicht nur “Unfair School”. Es gibt
+auch “Squash Sexy Shot”"
+0000274c,10,"「うぐっ」","」","」","!"
 00002778,49,"「“昼休みの保健室で居眠り”ってのも
-　あるなぁ」","","",""
-000027f4,38,"「と、撮ったの！？　この間の居眠り！」","","",""
-000028bc,40,"「まぁ…シャッターチャンスだったんで…」","","",""
+　あるなぁ」","“I’m sleeping in the health room for lunch
+break.”","«Я сплю в зале для обеда. »","„Ich schlafe im Gesundheitsraum für die
+Mittagspause. „"
+000027f4,38,"「と、撮ったの！？　この間の居眠り！」","I took it!? I sleep in this room!","- Я взял это!? Я сплю в этой комнате!","Ich habe es genommen!? Ich schlafe in diesem
+Zimmer!"
+000028bc,40,"「まぁ…シャッターチャンスだったんで…」","Well…It was aシャッターter chance…","Хорошо…Это был спектакль спектакля…","Nun… es war eine schöne Chance…"
 00002924,55,"「はぁ…弱ったわね。
-　どんどん弱みが増えてるじゃない」","","",""
-00002a20,94,"「何でだろう？　\p01君には、
-　私が見せないようにしているところばかり、
-　見られちゃうのよね」","","",""
+　どんどん弱みが増えてるじゃない」","I'm… I'm weak. I don't have more weaknesses.","- Я… Я слаб. У меня нет слабых сторон.","Ich bin… Ich bin schwach. Ich habe keine
+weiteren Schwächen."
 00002ad0,59,"「おかげで、先輩のいろんな面が見られて、
-　うれしいですよ」","","",""
-00002b70,8,"「……」","","",""
-00002bd4,36,"「仕方ないわね。いいわよ、撮っても」","","",""
-00002c78,18,"「本当ですか！？」","","",""
-00002cec,38,"「ええ。どんなポーズを取ればいいの？」","","",""
-00002d34,32,"「じゃあ…そこのマットの上で…」","","",""
-00002d90,24,"「マ、マットの上で！？」","","",""
-00002ee4,22,"「寝そべってください」","","",""
-00002f3c,20,"「ね、寝そべる！？」","","",""
-00001294,8,"「そう」","","",""
+　うれしいですよ」","Thanks, I'm looking at various aspects of
+seniors, and I'm happy.","Спасибо, я смотрю на различные аспекты пожилых
+людей, и я счастлив.","Danke, ich sehe verschiedene Aspekte von Senioren
+an, und ich bin glücklich."
+00002b70,8,"「……」","…","…","…"
+00002bd4,36,"「仕方ないわね。いいわよ、撮っても」","I don't have to do it. It's good to take it.","- Мне не нужно это делать. Это хорошо, чтобы
+взять его.","Ich muss es nicht tun. Es ist gut, es zu
+nehmen."
+00002c78,18,"「本当ですか！？」","“Is it true?”","- Это правда? »","„Ist es wahr? „"
+00002cec,38,"「ええ。どんなポーズを取ればいいの？」","Home What kind of pose should I take?","Начало Какую позу я должен взять?","Home Welche Pose sollte ich nehmen?"
+00002d34,32,"「じゃあ…そこのマットの上で…」","Hey… On the mat there …","Он… На мате там …","Hey… Auf der Matte dort …"
+00002d90,24,"「マ、マットの上で！？」","“On the mat!”","«На мате!»","„Auf der Matte!“"
+00002ee4,22,"「寝そべってください」","Please sleep","Пожалуйста, сон","Bitte schlafen"
+00002f3c,20,"「ね、寝そべる！？」","“Well, sleep!”","«Ну, сон!»","„Nun, schlafen!“"
+00001294,8,"「そう」","」","」","!"
 00003004,51,"「んぐ…わ、わかったわよ、
-　寝そべればいいのね？」","","",""
-000030d8,24,"「誰にも見せないでよ？」","","",""
-00003114,16,"「わかってます」","","",""
-00003180,32,"「はぁ…また弱みが増えるのか…」","","",""
-00003278,20,"「こ、こんな感じ？」","","",""
-000032bc,40,"「おおっ！　いいっ！　すごくいいです！」","","",""
+　寝そべればいいのね？」","“Well, I know, I want to sleep?”","— Ну, я знаю, хочу спать? »","„Nun, ich weiß, ich will schlafen? „"
+000030d8,24,"「誰にも見せないでよ？」","“I don’t see anyone?”","- Я никого не вижу? »","„Ich sehe niemanden? „"
+00003114,16,"「わかってます」","」","」","!"
+00003180,32,"「はぁ…また弱みが増えるのか…」","Well… Will the weakness increase?","Ну… Увеличит ли слабость?","Nun… Wird die Schwäche zunehmen?"
+00003278,20,"「こ、こんな感じ？」","“This is like this?”","- Это так? »","„Das ist so? „"
+000032bc,40,"「おおっ！　いいっ！　すごくいいです！」","Oh! Good! Very good!","О! Хорошо! Очень хорошо!","Oh, gut! Sehr gut!"
 00003320,49,"「い、いいから…早くして。
-　恥ずかしいじゃない」","","",""
-000033dc,40,"「恥ずかしそうに、ヘソを見せてください」","","",""
-00003454,42,"「お、おヘソを！？　何で私がそんなこと！」","","",""
+　恥ずかしいじゃない」","No, it's good … I'm fast. shy","Нет, это хорошо … Я быстро. Шу","Nein, es ist gut… Ich bin schnell. !"
+000033dc,40,"「恥ずかしそうに、ヘソを見せてください」","Shy, show him.","«Почему, покажите ему».","Shy, zeig's ihm."
+00003454,42,"「お、おヘソを！？　何で私がそんなこと！」","“What do I do?”","— Что я делаю? »","„Was mache ich? „"
 000034ec,73,"「恥ずかしさの限界に挑戦です。
-　何事もトップを目指す先輩ならできますよ」","","",""
+　何事もトップを目指す先輩ならできますよ」","We challenge the limits of embarrassment. If you
+are a senior who wants to be the top, you can.","Мы бросаем вызов пределам смущения. Если вы
+старший, кто хочет быть вершиной, вы можете.","Wir fordern die Grenzen der Verlegenheit heraus.
+Wenn Sie ein Senior sind, der die Spitze sein
+will, können Sie."
 00003564,51,"「恥ずかしさのトップなんか
-　目指したくないわよ！」","","",""
-000035c4,32,"「そう言わずに、お願いします！」","","",""
-00003638,8,"「嫌よ」","","",""
-00003664,24,"「どうしても嫌ですか？」","","",""
-000036bc,12,"「ええ、嫌」","","",""
+　目指したくないわよ！」","I don't want to aim at the top of embarrassment!","«Я не хочу стремиться к вершине смущения!»","Ich will nicht auf die Spitze der Verlegenheit
+zielen!"
+000035c4,32,"「そう言わずに、お願いします！」","I would like to say that!","«Я хотел бы сказать, что!»","Ich möchte das sagen!"
+00003638,8,"「嫌よ」","」","」","!"
+00003664,24,"「どうしても嫌ですか？」","What do you like?","Что вам нравится?","Was gefällt dir?"
+000036bc,12,"「ええ、嫌」","」","」","!"
 00003728,100,"「じゃあ仕方ない……これまで撮った、
 　人に見せられない写真を
-　すべてプリントアウトして、廊下に…」","","",""
+　すべてプリントアウトして、廊下に…」","“I’m not sure… I’ve ever taken photos that I
+can’t show to people, and I printed out them
+all…”","«Я не уверен… Я когда-нибудь фотографировал,
+что я не могу показать людям, и я распечатал их
+все … »","„Ich bin nicht sicher… Ich habe je Fotos
+gemacht, die ich den Menschen nicht zeigen kann,
+und ich habe sie alle ausgedruckt… „"
 000037d0,45,"「あーーーっ、ダメ！
-　ダメよ、そんなこと！」","","",""
-00003858,32,"「じゃあ……やってくれますか？」","","",""
-000038d0,16,"「んぐ…ぐ……」","","",""
+　ダメよ、そんなこと！」","Oh, I'm sorry! That's it!","«О, я сожалею! Вот это!»","Oh, tut mir leid! Das ist es!"
+00003858,32,"「じゃあ……やってくれますか？」","“Well, can you do it?”","— Ну, ты можешь это сделать? »","„Nun, kannst du es tun? „"
+000038d0,16,"「んぐ…ぐ……」","……","………","…"
 00003910,108,"「確か、部室に、Ａ３プリンターが
 　あったよなぁ。写真の画素数は問題ないし、
-　あれなら相当大きく貼り出せ…」","","",""
+　あれなら相当大きく貼り出せ…」","I'm sure there was a A3 printer in the
+department room. There is no problem with the
+number of pixels in the photo, and it is very
+large.","Я уверен, что в отделении был принтер A3. Нет
+проблем с количеством пикселей на фото, и это
+очень большое.","Ich bin sicher, dass es einen A3-Drucker im
+Abteilungsraum gab. Es gibt kein Problem mit der
+Anzahl der Pixel auf dem Foto, und es ist sehr
+groß."
 000039cc,73,"「わ、わかった…わかったわよ！
-　み、見せればいいんでしょ？　おヘソを…」","","",""
-00003adc,18,"「お願いします！」","","",""
-00003b3c,38,"「ぜっったいに誰にも見せないでよね！」","","",""
-00003bb0,18,"「もちろんです！」","","",""
-00003180,32,"「はぁ…また弱みが増えるのか…」","","",""
-00003d50,10,"「はい…」","","",""
-000032bc,40,"「おおっ！　いいっ！　すごくいいです！」","","",""
+　み、見せればいいんでしょ？　おヘソを…」","Well, I was… I know! I can see it. Home","- Ну, я был… Я знаю! Я вижу это. Начало","Nun, ich war… ich weiß! Ich sehe es. Home"
+00003adc,18,"「お願いします！」","!」","!」","!"
+00003b3c,38,"「ぜっったいに誰にも見せないでよね！」","“I don’t see anyone!”","- Я никого не вижу! »","„Ich sehe niemanden! „"
+00003bb0,18,"「もちろんです！」","“Of course!”","«Конечно!»","„Natürlich!“"
+00003180,32,"「はぁ…また弱みが増えるのか…」","Well… Will the weakness increase?","Ну… Увеличит ли слабость?","Nun… Wird die Schwäche zunehmen?"
+00003d50,10,"「はい…」","Yes…","Да…","Ja…"
+000032bc,40,"「おおっ！　いいっ！　すごくいいです！」","Oh! Good! Very good!","О! Хорошо! Очень хорошо!","Oh, gut! Sehr gut!"
 00003dec,51,"「い、いいから早くして。
-　は、恥ずかしいんだから」","","",""
-00003ec4,14,"「胸強調で！」","","",""
-00003f20,14,"「胸強調！？」","","",""
+　は、恥ずかしいんだから」","No, it's fast. I'm so embarrassed.","- Нет, это быстро. Я так смущен.","Nein, es ist schnell. Ich bin so peinlich."
+00003ec4,14,"「胸強調で！」","Heart stress!","Сердце стресс!","Herr Stress!"
+00003f20,14,"「胸強調！？」","“Battle stress!”","“Битва стресса!”","„Kleiner Stress!“"
 00003f80,57,"「ま～～た～～そんなこと言って～～。
-　怒られたいの～～」","","",""
+　怒られたいの～～」","M~~~~~~to say that~~~ ry","М~~~~~~ сказать что~~~","M~~~~~~~~, um zu sagen, dass ~~~~~~"
 00003fe8,92,"「そ、そんなつもりじゃ…。
 　この間、プールで撮ったみたいな写真を、
-　また撮りたいだけで…」","","",""
+　また撮りたいだけで…」","I'm going to do that.プールing this time, I want to
+take photos like I took in the pool…","- Я собираюсь это сделать. mpーing this time, Я
+хочу фотографировать, как я взял в бассейне…","Das werde ich tun. Dieses Mal möchte ich Fotos
+machen, wie ich im Pool war…"
 00004078,67,"「はぁ……わかったわよ、
-　この間みたいなポーズを取ればいいのね？」","","",""
-00004140,8,"「はい」","","",""
-000030d8,24,"「誰にも見せないでよ？」","","",""
-00003114,16,"「わかってます」","","",""
-00003180,32,"「はぁ…また弱みが増えるのか…」","","",""
-00004320,20,"「こ…こう…よね？」","","",""
-000032bc,40,"「おおっ！　いいっ！　すごくいいです！」","","",""
+　この間みたいなポーズを取ればいいのね？」","“Well, I know, should I take a pose like this?”","«Ну, я знаю, я должен взять такую позу? »","„Nun, ich weiß, sollte ich so eine Pose nehmen? „"
+00004140,8,"「はい」","Yes","Да","Ja"
+000030d8,24,"「誰にも見せないでよ？」","“I don’t see anyone?”","- Я никого не вижу? »","„Ich sehe niemanden? „"
+00003114,16,"「わかってます」","」","」","!"
+00003180,32,"「はぁ…また弱みが増えるのか…」","Well… Will the weakness increase?","Ну… Увеличит ли слабость?","Nun… Wird die Schwäche zunehmen?"
+00004320,20,"「こ…こう…よね？」","“Hey… That’s right?”","«Он… Это правильно? »","Hey… Stimmt das? „"
+000032bc,40,"「おおっ！　いいっ！　すごくいいです！」","Oh! Good! Very good!","О! Хорошо! Очень хорошо!","Oh, gut! Sehr gut!"
 00003320,49,"「い、いいから…早くして。
-　恥ずかしいじゃない」","","",""
+　恥ずかしいじゃない」","No, it's good … I'm fast. shy","Нет, это хорошо … Я быстро. Шу","Nein, es ist gut… Ich bin schnell. !"
 000045fc,61,"「ふぅ…。何だか…撮られ慣れしていく
-　自分がいて、怖いわ…」","","",""
+　自分がいて、怖いわ…」","。 I'm sorry… I'm getting used to it. I'm
+afraid…","。 Извините… Я привык к этому. Я боюсь…","Es tut mir leid… Ich gewöhne mich daran. Ich
+habe Angst…"
 00004698,63,"「それって…エロスな一面が、
-　開花してきてるってことですか？」","","",""
+　開花してきてるってことですか？」","“T…’s it? Is it that an erotic face is getting
+flowered?”","«Т… это? Это то, что эротическое лицо цветет? »","„T… ist es? Wird ein erotisches Gesicht
+geblüht? „"
 00004730,59,"「それは九堂のセリフでしょ！？
-　変なところを見習わない！」","","",""
-000047d4,22,"「う……気をつけます」","","",""
+　変なところを見習わない！」","“It’s a serif of the Kudo!? I don’t know where
+it’s changing!”","«Это сериф Кудо!? Я не знаю, где это меняется! »","„Es ist ein Serif der Kudo!? Ich weiß nicht, wo
+es sich verändert! „"
+000047d4,22,"「う……気をつけます」","“Well… Be careful.”","«Ну… Будьте осторожны. »","„Nun… Sei vorsichtig. „"
 00004828,57,"「まったく…さ、もう気が済んだでしょ？
-　片付け手伝って」","","",""
-00004140,8,"「はい」","","",""
-00004934,40,"こうして、体育用具室の片付けを手伝った。","","",""
+　片付け手伝って」","“Now, I’ve been thinking about it.”","«Сейчас я думал об этом. »","„Jetzt habe ich darüber nachgedacht. „"
+00004140,8,"「はい」","Yes","Да","Ja"
+00004934,40,"こうして、体育用具室の片付けを手伝った。","I helped clean up the gym.","Я помог очистить тренажерный зал.","Ich habe das Fitnessstudio sauber gemacht."

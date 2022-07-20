@@ -1,41 +1,63 @@
-000000e4,18,"「じゃあ、ここで」","","",""
+000000e4,18,"「じゃあ、ここで」","Here","Здесь","Hier"
 00000124,65,"「あ、室戸先輩、その…よかったら、
-　どこか寄っていきませんか？」","","",""
+　どこか寄っていきませんか？」","“Oh, my seniors, I’m so happy, can I go
+somewhere?”","«О, мои пожилые, я так счастлив, могу ли я пойти
+куда-нибудь? »","„Oh, meine Senioren, ich bin so glücklich, kann
+ich irgendwo hingehen? „"
 000001b8,51,"「またお願い事？
-　いいけど…どこへ行きたいのよ？」","","",""
-00000270,42,"「え～と…商店街でもブラブラしませんか？」","","",""
+　いいけど…どこへ行きたいのよ？」","Also please? Good, but … where I want to go?","- Также, пожалуйста? Хорошо, но… куда я хочу
+пойти?","So bitte? Gut, aber… wo will ich hin?"
+00000270,42,"「え～と…商店街でもブラブラしませんか？」","“What’s it?”","- Что это? »","„Was ist das? „"
 000002e0,63,"「言わなかった？　私、用もなく
-　街をウロウロするの、苦手なの」","","",""
-0000034c,16,"「そう言わずに」","","",""
+　街をウロウロするの、苦手なの」","“I didn’t say it? I’m not good at it, but it’s
+hard to go around the city.”","- Я не сказал? Я не хорошо на нем, но трудно
+поехать по городу. »","„Ich habe es nicht gesagt? Ich bin nicht gut
+darin, aber es ist schwer, um die Stadt zu gehen.
+„"
+0000034c,16,"「そう言わずに」","Try to say so","Попробуй так сказать","Treue, so zu sagen"
 000003b4,59,"「…どうせ断っても、
-　不正登校って言われるだけなのよねぇ」","","",""
-00000458,36,"「いや、無理には誘わないですけど…」","","",""
-000004f0,12,"「どうだか」","","",""
+　不正登校って言われるだけなのよねぇ」","…I'm just saying that I'm a rogue school.","… Я просто говорю, что я школа-рогу».","… Ich sage nur, dass ich eine Schurkenschule
+bin."
+00000458,36,"「いや、無理には誘わないですけど…」","“No, I don’t invite you to it.”","- Нет, я не приглашаю вас в него. »","„Nein, ich lade dich nicht dazu ein. „"
+000004f0,12,"「どうだか」","What's it?","- Что это?","Was ist das?"
 00000564,67,"「いいわよ、つき合うわよ。
-　放課後の見回りついでだと思えばいいし」","","",""
-000000e4,18,"「じゃあ、ここで」","","",""
+　放課後の見回りついでだと思えばいいし」","I'm good, I'm good. I think it is a look around
+after school.","- Я хорошо, я хорошо. Я думаю, что это взгляд
+после школы».","Ich bin gut, ich bin gut. Ich glaube, es ist
+ein Blick auf die Schule."
+000000e4,18,"「じゃあ、ここで」","Here","Здесь","Hier"
 000006a0,53,"「あ、室戸先輩、また商店街へ
-　寄っていきませんか？」","","",""
+　寄っていきませんか？」","“Oh, don’t you go to Muroto or shopping street?”","«О, ты не отправляешься в Мурото или по
+магазинам? »","“Oh, gehen Sie nicht zu Muroto oder
+Einkaufsstraße? „"
 00000730,47,"「私は用もなく、街をウロウロするのは
-　嫌いよ」","","",""
+　嫌いよ」","“I don’t want to use it and I don’t want to go
+around the city.”","«Я не хочу использовать его, и я не хочу идти по
+городу. »","„Ich will es nicht benutzen und ich will nicht um
+die Stadt gehen. „"
 000007b0,51,"「じゃあ、またメンチカツを食べるのは
-　どうです？」","","",""
-00000840,36,"「私にまた、食べながら歩かせる気？」","","",""
-000008d0,36,"「…うまくなかったですか？　この間」","","",""
-0000095c,20,"「おいしかったわよ」","","",""
-000009a0,30,"「また、食べたくないですか？」","","",""
+　どうです？」","“How about eating mentikatsu again?”","«Как насчет еды mentikatsu снова? »","„Wie wäre es, Menikatsu wieder zu essen? „"
+00000840,36,"「私にまた、食べながら歩かせる気？」","“How can I walk while eating?”","«Как я могу ходить во время еды? »","„Wie kann ich beim Essen gehen? „"
+000008d0,36,"「…うまくなかったですか？　この間」","…I didn't work well?」","… Я не работал хорошо?」","… Ich habe nicht gut gearbeitet?"
+0000095c,20,"「おいしかったわよ」","It was delicious!","Это было вкусно!","Es war köstlich!"
+000009a0,30,"「また、食べたくないですか？」","“I don’t want to eat again?”","- Я не хочу снова съесть? »","„Ich will nicht wieder essen? „"
 00000a2c,55,"「新しい価値観を受け入れるのは、
-　時間がかかるものよ」","","",""
-00000a98,12,"「そっか…」","","",""
-00000ae4,36,"「だから、一緒に食べてくれないとね」","","",""
-00000b9c,14,"「室戸先輩…」","","",""
-000000e4,18,"「じゃあ、ここで」","","",""
+　時間がかかるものよ」","“It takes time to create new values.”","«Настало время создавать новые ценности. »","„Es braucht Zeit, um neue Werte zu erstellen. „"
+00000a98,12,"「そっか…」","っ","ПРЯМО",","
+00000ae4,36,"「だから、一緒に食べてくれないとね」","“So I don’t eat it together.”","- Так что я не ем вместе. »","„Ich esse es also nicht zusammen. „"
+00000b9c,14,"「室戸先輩…」","Muroto seniors …","Мурото старший …","Muroto Senioren …"
+000000e4,18,"「じゃあ、ここで」","Here","Здесь","Hier"
 000006a0,53,"「あ、室戸先輩、また商店街へ
-　寄っていきませんか？」","","",""
+　寄っていきませんか？」","“Oh, don’t you go to Muroto or shopping street?”","«О, ты не отправляешься в Мурото или по
+магазинам? »","“Oh, gehen Sie nicht zu Muroto oder
+Einkaufsstraße? „"
 00000cbc,80,"「あ……悪いわね。今日は、
 　大事な用があって、
-　まっすぐ帰らなきゃダメなのよ」","","",""
-00000d70,20,"「そうなんですか…」","","",""
-00000dd8,42,"「用事がなければ、行ってもいいんだけどね」","","",""
-00000e54,18,"「じゃあ…またね」","","",""
-00000ed4,14,"「失礼します」","","",""
+　まっすぐ帰らなきゃダメなのよ」","“Oh… I’m bad.” Sorry, this entry is only
+available in 日本語.","«О… Я плохо». Извините, этот техт доступен
+только в “日本語”.","„Oh… ich bin schlecht.“ Leider ist dieser
+Eintrag nur in 日本語 verfügbar."
+00000d70,20,"「そうなんですか…」","“Is it?”","— Это? »","„Ist es? „"
+00000dd8,42,"「用事がなければ、行ってもいいんだけどね」","If I don't have a job, I can't do it.","Если у меня нет работы, я не могу это сделать.","Wenn ich keinen Job habe, kann ich das nicht tun."
+00000e54,18,"「じゃあ…またね」","」","」","!"
+00000ed4,14,"「失礼します」","I'm sorry.","- Прости.","Es tut mir leid."

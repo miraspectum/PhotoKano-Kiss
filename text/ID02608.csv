@@ -1,41 +1,62 @@
-00000090,28,"（あ…窓際の席にいるのは…）","","",""
-00000144,26,"（シャッターチャンスだ！）","","",""
-000001c4,24,"「\p01君、今、撮った？」","","",""
-00000238,20,"「撮りましたけど？」","","",""
-000003d8,42,"「まったく、いきなりね。一言断りなさいよ」","","",""
+00000090,28,"（あ…窓際の席にいるのは…）","(Oh… I'm in the window…)","(О… Я в окне…)","(Oh… ich bin im Fenster…)"
+00000144,26,"（シャッターチャンスだ！）","(Shutter chance!)","(Шутер шанс!)","(Shutter Chance!)"
+00000238,20,"「撮りましたけど？」","“I’m taking it!”","«Я принимаю это!»","„Ich nehme es!“"
+000003d8,42,"「まったく、いきなりね。一言断りなさいよ」","“Now, it’s all right.” 」","«Сейчас это все правильно». 」","„Jetzt ist alles in Ordnung.“ !"
 0000048c,96,"「それじゃ、ポートレートになっちゃうじゃ
 　ないですか。せっかく自然で、いい雰囲気
-　だったのに」","","",""
+　だったのに」","“Isn’t it a portrait?” It was natural and nice
+atmosphere.","«Не портрет?» Это была естественная и приятная
+атмосфера.","„Ist es nicht ein Porträt?“ Es war natürliche und
+schöne Atmosphäre."
 00000550,45,"「はぁ…そう言われると、
-　何も言えないわね」","","",""
-0000061c,36,"「すっかりフォト部の部員って感じね」","","",""
-00000678,42,"「カメラは結構、自分に合ってる気がします」","","",""
+　何も言えないわね」","“I’m… I can’t say anything if I say that.”","«Я… Я ничего не могу сказать, если я это
+говорю. »","„Ich bin… Ich kann nichts sagen, wenn ich das
+sage. „"
+0000061c,36,"「すっかりフォト部の部員って感じね」","“I feel like a member of the photo series”","«Я чувствую себя членом фотосерии»","„Ich fühle mich wie ein Mitglied der Fotoserie“"
+00000678,42,"「カメラは結構、自分に合ってる気がします」","I feel that the camera fits myself.","Я чувствую, что камера подходит сама.","Ich fühle, dass die Kamera mir passt."
 000006c4,61,"「そう、よかったわね、打ち込めるものが
-　見つかって。けど…」","","",""
-00000784,42,"「スカートの中を撮るのは犯罪、ですよね？」","","",""
-0000081c,16,"「そういうこと」","","",""
-00000864,24,"「先輩は、勉強ですか？」","","",""
+　見つかって。けど…」","“Yes, it’s good, and you’ll find what you’re
+looking for. Home","«Да, это хорошо, и вы найдете то, что вы ищете.
+Начало","„Ja, es ist gut, und Sie werden finden, was Sie
+suchen. Home"
+00000784,42,"「スカートの中を撮るのは犯罪、ですよね？」","“Is it a crime to take in the skirt?”","- Это преступление, чтобы взять в юбку? »","„Ist es ein Verbrechen, in den Rock zu nehmen? „"
+0000081c,16,"「そういうこと」","“What is that?”","— Что это? »","„Was ist das? „"
+00000864,24,"「先輩は、勉強ですか？」","“Is my seniors studying?”","— Учится ли мой старший? »","„Ist meine Senioren studieren? „"
 000008d8,55,"「違うわよ。学園祭の予算のチェック。
-　生徒会の仕事ね」","","",""
-00000998,20,"「どうしてここで？」","","",""
+　生徒会の仕事ね」","I'm different. Check the school festival budget.
+Student Association","Я разные. Проверьте бюджет школьного фестиваля.
+Студенческая ассоциация","Ich bin anders. Überprüfen Sie das Schulfestival
+Budget. Studentenvereinigung"
+00000998,20,"「どうしてここで？」","What is this?","Что это?","Was ist das?"
 00000a14,86,"「生徒会室って好きじゃないのよ。
 　みんな入りづらいし、何やってるのか
-　見えないし…」","","",""
+　見えないし…」","“I don’t like the student meeting room.” “What do
+you do?”","- Мне не нравится комната для студенческой
+встречи. - Что вы делаете? »","„Ich mag den Studententreffraum nicht.“ „Was
+machst du? „"
 00000b08,100,"「私に話しかけづらくなるでしょう？
 　だから、いつもここで仕事をしてるの。
-　開かれた生徒会が身上よ」","","",""
-00000c0c,10,"「へ～っ」","","",""
+　開かれた生徒会が身上よ」","“I want to talk to me?” I always work here. The
+Open Student Association","- Я хочу поговорить со мной? Я всегда работаю
+здесь. Открытое студенческое объединение","„Ich will mit mir reden?“ Ich arbeite immer hier.
+Die Open Student Association"
+00000c0c,10,"「へ～っ」","」","」","!"
 00000c68,82,"「去年、生徒会長になってから、
 　ずっとここで仕事してたけど、
-　気づかなかった？」","","",""
-00000d48,32,"「言われてみれば、そんな気が…」","","",""
+　気づかなかった？」","“I’ve been working here for a long time since I
+was a student president last year, but I didn’t
+realize it?”","«Я работаю здесь в течение длительного времени,
+так как я был студенческим президентом в прошлом
+году, но я не понял его? »","„Ich arbeite seit langem hier, seit ich im
+letzten Jahr als studentischer Präsident tätig
+war, aber ich wusste es nicht? „"
+00000d48,32,"「言われてみれば、そんな気が…」","If you say it, I feel like that…","«Если ты говоришь, я чувствую, что…»","Wenn du es sagst, fühle ich mich so…"
 00000dd8,47,"「ま、知り合ってなかったし、
-　そんなものよね」","","",""
-00000eac,120,"「\p01君も、何か生徒会に要望があれば、
-　いつでも言ってね。昼休みと放課後は、
-　だいたいここで仕事か勉強をしているから」","","",""
-00000f98,8,"「はい」","","",""
+　そんなものよね」","“Well, I didn’t meet you, it’s like that.”","- Ну, я не встречал тебя, это так. »","„Nun, ich habe dich nicht getroffen, es ist so. „"
+00000f98,8,"「はい」","Yes","Да","Ja"
 00001010,51,"「さ～て、予算のチェックを
-　早く終わらせないと…」","","",""
-000010c0,26,"「あ、じゃあ、失礼します」","","",""
-00001130,26,"「そう？　じゃあ、またね」","","",""
+　早く終わらせないと…」","Because I can't check my budget quickly …","Потому что я не могу проверить свой бюджет
+быстро…","Weil ich mein Budget nicht schnell überprüfen
+kann…"
+000010c0,26,"「あ、じゃあ、失礼します」","Oh, I'm sorry.","- О, я сожалею.","Oh, es tut mir leid."
+00001130,26,"「そう？　じゃあ、またね」","“Well, right?”","— Ну, правда? »","„Nun, richtig? „"

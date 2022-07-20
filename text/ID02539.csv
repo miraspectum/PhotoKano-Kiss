@@ -1,333 +1,520 @@
 0000019c,63,"（室戸先輩は遅刻に厳しいからな。
-　遅れないように行かないと…）","","",""
-00000300,32,"「ずいぶん早いじゃない、\p01君」","","",""
-00000358,36,"「室戸先輩！　もう来てたんですか？」","","",""
+　遅れないように行かないと…）","(Muroto seniors are severely late.) Don't go
+late…)","(Пожилые люди тяжело поздно.) Не поздно…)","(Muroto Senioren sind sehr spät.) Geh nicht zu
+spät…)"
+00000358,36,"「室戸先輩！　もう来てたんですか？」","Muroto seniors! Did you come?","Мурото старшие! Ты пришел?","Muroto Senioren! Bist du gekommen?"
 000003dc,104,"「ええ。私は、常に早めに家を出るように
 　してるの。だって、来る途中で何があるか
-　わからないでしょう？」","","",""
-000004f8,38,"「それはそうですけど、まだ１０分前…」","","",""
+　わからないでしょう？」","Home I’m always trying to leave my home. So you
+don’t know what you’re on the way?","Главная Я всегда стараюсь покинуть свой дом. Не
+знаете, что ты на пути?","Home Ich versuche immer, mein Zuhause zu
+verlassen. Also weißt du nicht, was du unterwegs
+bist?"
+000004f8,38,"「それはそうですけど、まだ１０分前…」","It's right, but still 10 minutes ago…","«Это правильно, но еще 10 минут назад…»","Es ist richtig, aber noch vor 10 Minuten…"
 0000056c,51,"「私は常に、１５分前には着くように
-　行動してるわ」","","",""
-00000604,16,"「１５分前！？」","","",""
+　行動してるわ」","“I’m always acting to wear 15 minutes ago.”","«Я всегда действую, чтобы носить 15 минут назад.
+»","„Ich betreibe immer, vor 15 Minuten zu tragen. „"
+00000604,16,"「１５分前！？」","15 minutes ago","15 минут назад","Vor 15 Minuten"
 00000644,71,"「はぁ…そんなに万全を期してるのに、
-　何で不正登校するほどの遅刻を…」","","",""
+　何で不正登校するほどの遅刻を…」","I'm… I'm doing so much, but I'm doing so
+late…","- Я… Я так много делаю, но я делаю так
+поздно…","Ich bin… Ich mache so viel, aber ich mache so
+spät…"
 000006dc,71,"「ぐっ、だからあれは、目覚ましの電池が
-　切れてたのよ。信じてないの？」","","",""
-000007e8,40,"「…いかにも言い訳っぽい理由だったので」","","",""
+　切れてたのよ。信じてないの？」","Well, so I've cut out the alarming battery. Do
+you believe?","Ну, так что я вырезал тревожную батарею. Вы
+верите?","Nun, also habe ich die alarmierende Batterie
+herausgeschnitten. Glaubst du?"
+000007e8,40,"「…いかにも言い訳っぽい理由だったので」","…I will explain why it isいuse.","…Я объясню, почему это желательна.","…ich werde erklären, warum es anfällig ist."
 0000084c,100,"「もぉ、言い訳じゃないわよ！
 　本当に電池が切れてたの！　そうじゃなきゃ
-　あんなに寝過ごさないわよ」","","",""
+　あんなに寝過ごさないわよ」","I'm not use! I'm really out of the battery! I
+have to sleep well!","Я не использую! Я действительно из батареи! Я
+должен хорошо спать!","Ich bin nicht gebrauchen! Ich bin wirklich aus
+dem Akku! Ich muss gut schlafen!"
 000009d4,84,"「毎晩、勉強で大変なんだから。
 　十を聞いて五を知るのが精一杯って
-　言ったでしょ？」","","",""
-00000acc,8,"「あ…」","","",""
+　言ったでしょ？」","“Every night, it’s hard to study.” I heard the
+tenth, and I said that it was full of knowledge.","«Каждую ночь трудно учиться». Я слышал десятую, и
+я сказал, что она была полна знаний.","„Jede Nacht ist es schwer zu studieren.“ Ich
+hörte den Zehnten, und ich sagte, es sei voller
+Wissen."
+00000acc,8,"「あ…」","」","」","!"
 00000b34,51,"「君しか知らないんだから…
-　誰にも言わないでよね」","","",""
-00000c04,24,"「もちろん言わないです」","","",""
+　誰にも言わないでよね」","“I know you only… I don’t tell anyone.”","“Я знаю тебя только… Я никому не говорю. »","„Ich kenne dich nur… Ich sage es niemandem. „"
+00000c04,24,"「もちろん言わないです」","“I don’t say anything.”","- Я ничего не говорю. »","„Ich sage nichts. „"
 00000c58,84,"「フフッ、そうね、信じてるわ。
 　君は言わないと言ったら、
-　誰にも言わない人だもの」","","",""
-00000d84,14,"「室戸先輩…」","","",""
-00000db4,18,"「それにしても…」","","",""
-00000e24,8,"「ん？」","","",""
+　誰にも言わない人だもの」","“I’m sure you can believe it.” If you say that
+you don’t say, it’s someone who doesn’t say to
+anyone.”","- Я уверен, что вы можете это поверить. Если вы
+говорите, что вы не говорите, это тот, кто не
+говорит никому. »","„Ich bin sicher, du kannst es glauben.“ Wenn Sie
+sagen, dass Sie nicht sagen, es ist jemand, der
+niemandem sagt. „"
+00000d84,14,"「室戸先輩…」","Muroto seniors …","Мурото старший …","Muroto Senioren …"
+00000db4,18,"「それにしても…」","And it's…","«И это…»","Und es ist…"
+00000e24,8,"「ん？」","?」","?」","?"
 00000efc,57,"（室戸先輩の私服姿…。
-　スリムジーンズが似合ってるな…）","","",""
-00000fa0,26,"「な、何よ、ジロジロ見て」","","",""
-00001018,22,"シャッターチャンスだ！","","",""
-0000109c,30,"「写真、撮ってもいいですか？」","","",""
-00001108,36,"「い、今？　こんな駅前でいきなり？」","","",""
-000011ec,18,"「い、いいけど…」","","",""
+　スリムジーンズが似合ってるな…）","(Muroto seniors' personal clothes… Slim jeans
+are similar…)","(Muroto seniors' личная одежда… Тонкие джинсы
+похожи…)","(Muroto Senioren persönliche Kleidung… Slim
+Jeans sind ähnlich…)"
+00000fa0,26,"「な、何よ、ジロジロ見て」","No, what's right, see the digiro","Нет, что правильно, см. дигиро","Nein, was ist los, die Digiro sehen"
+00001018,22,"シャッターチャンスだ！","ter chance!","ter шанс!","Eine Chance!"
+0000109c,30,"「写真、撮ってもいいですか？」","“Can I take photos?”","- Могу ли я фотографировать? »","„Kann ich Fotos machen? „"
+00001108,36,"「い、今？　こんな駅前でいきなり？」","“Now, right now?”","- Теперь? »","„Nun, jetzt? „"
+000011ec,18,"「い、いいけど…」","No, I'm good…","Нет, я хорошо…","Nein, ich bin gut…"
 00001278,67,"「絶対、カメラを持って来てるとは
-　思ったけど、ここで撮るなんてね」","","",""
-0000134c,32,"「先輩の私服姿、初めてですから」","","",""
-000013d4,40,"「私をそんなに撮る人なんて、君ぐらいよ」","","",""
-00001460,18,"「何でもないです」","","",""
-000014a8,18,"「さ、行きますか」","","",""
-00001518,10,"「そうね」","","",""
-000016e8,32,"「久しぶりだわ～、ここへ来たの」","","",""
-0000172c,36,"「そうなんですか？　いつ以来です？」","","",""
-000017bc,34,"「小学６年生の時に来たのが最後ね」","","",""
+　思ったけど、ここで撮るなんてね」","“I think I should bring a camera, but I can take
+it here.”","“Я думаю, что должен принести камеру, но я могу
+взять его здесь. »","„Ich denke, ich sollte eine Kamera mitbringen,
+aber ich kann sie hier mitnehmen. „"
+0000134c,32,"「先輩の私服姿、初めてですから」","My first time is my personal clothes.","Мой первый раз - моя личная одежда.","Mein erstes Mal ist meine persönliche Kleidung."
+000013d4,40,"「私をそんなに撮る人なんて、君ぐらいよ」","“It’s about you to take me so much.”","«Это о вас, чтобы взять меня так много. »","„Es geht um dich, mich so sehr zu nehmen. „"
+00001460,18,"「何でもないです」","“I don’t have anything.”","«У меня нет ничего. »","„Ich habe nichts. „"
+000014a8,18,"「さ、行きますか」","“Where do you go?”","— Куда вы идете? »","„Wo gehst du hin? „"
+00001518,10,"「そうね」","」","」","!"
+000016e8,32,"「久しぶりだわ～、ここへ来たの」","After a long time, I came here.","После долгого времени я пришел сюда.","Nach langer Zeit kam ich hierher."
+0000172c,36,"「そうなんですか？　いつ以来です？」","“What’s it? What’s it?”","- Что это? Что это? »","„Was ist das? Was ist los? „"
+000017bc,34,"「小学６年生の時に来たのが最後ね」","It is the last time I came when I was a 6th
+grader.","«В последний раз я пришел, когда я был 6-м
+классером».","Es ist das letzte Mal, als ich ein 6. Grader war."
 00001858,47,"「小さいころは好きだったのよ、
-　ここのプール」","","",""
+　ここのプール」","When I was a little, I liked the pool here.","Когда я был немного, мне понравился бассейн
+здесь.","Als ich ein wenig war, mochte ich den Pool hier."
 000018dc,75,"「ほら、飛び込み台のあるプールって、
-　この辺りだとここぐらいしかないから」","","",""
-00000acc,8,"「あ…」","","",""
+　この辺りだとここぐらいしかないから」","The pool with a plunge pool is only around this
+area.","Бассейн с окутанным бассейном находится только
+вокруг этой области.","Der Pool mit einem Tauchbecken ist nur in dieser
+Gegend."
+00000acc,8,"「あ…」","」","」","!"
 00001a0c,86,"「中学、高校と、飛び込み台のある学校に
 　進学したから、すっかり
-　来なくなっちゃって」","","",""
-00001b08,28,"「だから、とっても懐かしい」","","",""
+　来なくなっちゃって」","“I went to a school with middle school, high
+school, and a jumping platform, so I shouldn’t
+come.”","«Я пошел в школу со средней школой, средней
+школой и прыгающей платформой, поэтому я не должен
+прийти. »","„Ich ging in eine Schule mit Mittelschule, High
+School und einer Sprungplattform, also sollte ich
+nicht kommen. „"
+00001b08,28,"「だから、とっても懐かしい」","“So it’s very nostalgic.”","«Так это очень ностальгический. »","„So ist es sehr nostalgisch. „"
 00001b8c,65,"「先輩って、そんな小さいころから
-　飛び込みが好きだったんですね」","","",""
+　飛び込みが好きだったんですね」","I liked jumping from such a small time.","Мне понравилось прыгать с такого небольшого
+времени.","Ich mag es, von so einer kleinen Zeit zu
+springen."
 00001c2c,75,"「そうよ。難易度の低い、ちょっとした技でも
-　決まると、とてもうれしかった」","","",""
+　決まると、とてもうれしかった」","“Yes.” It was very good when I decided even a
+little trick with low difficulty level.","— Да. Было очень хорошо, когда я решил даже
+немного трюк с низким уровнем сложности.","„Ja.“ Es war sehr gut, wenn ich selbst einen
+kleinen Trick mit geringem Schwierigkeitsgrad
+entschieden habe."
 00001d54,47,"「水に包まれた瞬間、
-　何もかも…忘れられたわ」","","",""
-00001e00,10,"「先輩…」","","",""
+　何もかも…忘れられたわ」","The moment wrapped in water, nothing … I
+forgot.","Месяц, завернутый в воде, ничего… Я забыл.","Der Moment, der in Wasser gewickelt ist,
+nichts… ich vergaß."
+00001e00,10,"「先輩…」","」","」","!"
 00001e4c,73,"「…じゃあ今日は、子どものころに戻った
-　気分で思いっきり楽しみますか！」","","",""
-00001ed0,16,"「ええ、そうね」","","",""
+　気分で思いっきり楽しみますか！」","“… So today, do you feel like you’re a child?”","«… Так что сегодня, ты чувствуешь себя
+ребенком? »","„… Fühlen Sie sich heute wie ein Kind? „"
+00001ed0,16,"「ええ、そうね」","Yes, it is.","- Да, это.","Ja, das ist es."
 00001f98,55,"「じゃあ、着替えたあと、
-　プールサイドで会いましょう」","","",""
-00002044,16,"「わかりました」","","",""
+　プールサイドで会いましょう」","“Let’s meet in the poolside after changing
+clothes!”","«Пусть встреча в бассейне после изменения одежды!
+»","„Wir treffen uns am Pool nach dem Wechsel der
+Kleidung! „"
+00002044,16,"「わかりました」","」","」","!"
 000021a4,69,"（室戸先輩は……まだ来てないな。
-　女子は着替えに時間がかかるからな）","","",""
-00002218,36,"（室戸先輩…どんな水着なんだろう…）","","",""
-0000226c,38,"（保守的な性格だし、ワンピースかな？）","","",""
-000022b4,20,"「お待たせ、\p01君」","","",""
-00000acc,8,"「あ…」","","",""
-000024fc,32,"「ビ、ビキニ…それに、眼鏡が…」","","",""
+　女子は着替えに時間がかかるからな）","Sorry, this entry is only available in Japanese.
+Women take time to change clothes)","Извините, этот техт доступен только в “Японский”.
+Женщины принимают время для изменения одежды)","Leider ist dieser Eintrag nur auf Japanisch
+verfügbar. Frauen nehmen Zeit, Kleidung zu
+wechseln)"
+00002218,36,"（室戸先輩…どんな水着なんだろう…）","(Muroto seniors … What kind of swimsuit ……)","(Muroto seniors … Какой купальник…)","(Muroto Senioren) Was für ein Badeanzug……)"
+0000226c,38,"（保守的な性格だし、ワンピースかな？）","(Is it a conservative character, one piece?)","(Это консервативный характер, один кусок?)","(Ist es ein konservativer Charakter, ein Stück?)"
+00000acc,8,"「あ…」","」","」","!"
+000024fc,32,"「ビ、ビキニ…それに、眼鏡が…」","Bi, Bikini … It has glasses …","Bi, Бикини … Он имеет очки …","Bi, Bikini… Es hat eine Brille…"
 0000257c,71,"「な、何よ、眼鏡をかけてこないのは
-　当たり前でしょう？　泳ぐんだから」","","",""
-0000266c,14,"「そ、そっか」","","",""
-000026a8,22,"（素顔の…室戸先輩…）","","",""
+　当たり前でしょう？　泳ぐんだから」","“No, what do you think about glasses?”泳im","— Нет, что ты думаешь об бокалах? 泳 им","„Nein, was denkst du über Gläser?“ STRUKTUR im"
+0000266c,14,"「そ、そっか」","」","」","!"
+000026a8,22,"（素顔の…室戸先輩…）","(Face…Mr.Mr.Muroto…)","(Face…Mr.Mr.Muroto…)","(Face…Mr.Mr.Muroto…)"
 0000275c,51,"「そ、そんなにじっと見ないでよ。
-　照れるじゃない」","","",""
+　照れるじゃない」","Now, I can't see it. Not to shine","Теперь я не вижу его. Не сиять","Jetzt kann ich es nicht sehen. Nicht zu glänzen"
 00002804,75,"「そんなこと言われても……素顔の室戸先輩を
-　ちゃんと見たの、初めてだし…」","","",""
+　ちゃんと見たの、初めてだし…」","It's said that it's the first time I saw my
+face's seniors …","«Он сказал, что это первый раз, когда я увидел,
+что пожилые лица …»","Es wird gesagt, dass es das erste Mal ist, dass
+ich die Senioren meines Gesichts sah…"
 000028ec,59,"「私だって…プライベートで
-　こんなに見られるのは初めてよ」","","",""
-00001018,22,"シャッターチャンスだ！","","",""
-000029a4,22,"そのままじっと見つめる","","",""
-00002a40,32,"「と、撮るの！？　いきなり！？」","","",""
-00002ad8,16,"「ダメですか？」","","",""
+　こんなに見られるのは初めてよ」","“I’m… I’m the first time to see this in my
+private life.”","«Я… Я первый раз вижу это в моей частной жизни.
+»","„Ich bin… Ich bin das erste Mal, das in meinem
+Privatleben zu sehen. „"
+00001018,22,"シャッターチャンスだ！","ter chance!","ter шанс!","Eine Chance!"
+000029a4,22,"そのままじっと見つめる","Watch as it is","Смотреть как это","Sehen Sie, wie es ist"
+00002a40,32,"「と、撮るの！？　いきなり！？」","“I’ll take it!? I’m going to do it!”","- Я возьму это!? Я собираюсь это сделать! »","„Ich nehme es!? Ich werde es tun! „"
+00002ad8,16,"「ダメですか？」","“What is the time?”","— Какое время? »","„Was ist die Zeit? „"
 00002b50,59,"「い、いいけど……今日は…撮られるって、
-　覚悟してるから」","","",""
+　覚悟してるから」","“No, I’m good… I’m taking a picture today, and
+I’m keen.”","- Нет, я хорошо… Я фотографирую уже сегодня, и
+я увлекаюсь. »","„Nein, ich bin gut… Ich mache heute ein Foto
+und bin begeistert. „"
 00002c98,102,"「も、もういいでしょ？　これから
 　今日一日ずっと一緒なのよ。
-　私の素顔なんて、いくらでも撮れるわよ」","","",""
-00002dd8,22,"じ～～～～～～～～～っ","","",""
-00002e54,32,"「そ、そんなにじっと見ないでよ」","","",""
+　私の素顔なんて、いくらでも撮れるわよ」","“Well, it’s all right?” My face can be taken as
+much as possible.","— Ну, это все правильно? Мое лицо может быть
+принято как можно больше.","„Nun, es ist in Ordnung?“ Mein Gesicht kann so
+viel wie möglich genommen werden."
+00002dd8,22,"じ～～～～～～～～～っ","Home","Начало","Home"
+00002e54,32,"「そ、そんなにじっと見ないでよ」","“I don’t see that much.”","- Я не вижу этого много. »","„Das sehe ich nicht. „"
 00002f1c,81,"「これから今日一日、ずっと一緒なのよ。
-　私の素顔なんて、いくらでも見られるわよ」","","",""
-0000266c,14,"「そ、そっか」","","",""
+　私の素顔なんて、いくらでも見られるわよ」","It's all together today. My face can be seen as
+much as possible.","«Это все вместе сегодня. Мое лицо можно увидеть
+как можно больше.","Es ist heute alles zusammen. Mein Gesicht kann
+so viel wie möglich gesehen werden."
+0000266c,14,"「そ、そっか」","」","」","!"
 0000306c,90,"「それで、ひとつ聞きたいんだけど、
 　私がビキニを着てきたらおかしい？
-　なんで驚いたの？」","","",""
+　なんで驚いたの？」","“So, I want to hear one, but if I wear bikini,
+it’s funny? What was surprised?”","«Так, я хочу услышать один, но если я ношу
+бикини, это смешно? Что было удивлено? »","„Ich will einen hören, aber wenn ich Bikini
+trage, ist es lustig? Was war überrascht? „"
 00003158,53,"「あ、それは…てっきりワンピースかと
-　思ってたので」","","",""
-000031ec,28,"「私ってそういうイメージ？」","","",""
+　思ってたので」","“Oh, it’s… I thought it’s one piece.”","«О, это… Я думал, что это один кусок. »","„Oh, es ist… Ich dachte, es ist ein Stück. „"
+000031ec,28,"「私ってそういうイメージ？」","“What is my image?”","«Какое мое изображение? »","„Was ist mein Bild? „"
 000032a4,79,"「イメージっていうか…体育倉庫であんなに
-　ヘソを見せるのを恥ずかしがったから」","","",""
+　ヘソを見せるのを恥ずかしがったから」","“I think it’s an image… I was embarrassed to
+show herソ in a physical warehouse.”","“Я думаю, что это изображение… Я смущался
+показать ееソ на физическом складе. »","„Ich glaube, es ist ein Bild… Ich war peinlich,
+ihr den Versuch in einem physischen Lager zu
+zeigen. „"
 00003340,67,"「あ、あれは、誰だって恥ずかしがるわよ！
-　体操服をめくったのよ！」","","",""
+　体操服をめくったのよ！」","“Oh, no one is embarrassed! I sめed my gymnastics
+clothing!”","«О, никто не смущен! Я ’ s!ed моя гимнастика
+одежда! »","„Oh, niemand ist peinlich! Ich habe meine
+Gymnastikkleidung geschwächt! „"
 00003424,47,"「でも今は、めくるまでもなく
-　丸出しですよ？」","","",""
-000034c8,20,"「水着の時はいいの」","","",""
-00003514,16,"「そうですか…」","","",""
-0000357c,42,"「ちょ、ちょっと！　そんなに見ないでよ！」","","",""
-00003670,20,"「そっちも見ない！」","","",""
+　丸出しですよ？」","“But now, I’m going to come out without it.”","- Но сейчас, я собираюсь выйти без него. »","„Aber jetzt werde ich ohne sie herauskommen. „"
+000034c8,20,"「水着の時はいいの」","I want to have a swimsuit.","- Я хочу иметь купальник.","Ich will einen Badeanzug haben."
+00003514,16,"「そうですか…」","“Is it?”","— Это? »","„Ist es? „"
+0000357c,42,"「ちょ、ちょっと！　そんなに見ないでよ！」","“I don’t see it!”","- Я не вижу это! »","„Ich sehe es nicht! „"
+00003670,20,"「そっちも見ない！」","“I don’t see it!”","- Я не вижу это! »","„Ich sehe es nicht! „"
 000036f0,59,"「すみません、つい…。
-　室戸先輩のビキニ姿、初めてだから」","","",""
-000037a4,10,"「もう…」","","",""
-00003804,42,"「あんまり大胆な水着は着ないだろうなって」","","",""
-00003894,36,"「別に大胆じゃないわよ、これぐらい」","","",""
+　室戸先輩のビキニ姿、初めてだから」","I don't know, I'm finally. “The first time is
+the vikini of Muroto seniors.”","- Я не знаю, я наконец. «Первый раз – викини
+пожилых людей Мурото. »","Ich weiß nicht, ich bin endlich. „Das erste Mal
+ist die vikini von Muroto Senioren. „"
+000037a4,10,"「もう…」","」","」","!"
+00003804,42,"「あんまり大胆な水着は着ないだろうなって」","“I will not wear a bold swimsuit.”","«Я не буду носить смелый купальник. »","„Ich werde keinen fetten Badeanzug tragen. „"
+00003894,36,"「別に大胆じゃないわよ、これぐらい」","“I’m not bold, so much.”","«Я не смелый, так много. »","„Ich bin nicht mutig, so viel. „"
 00003960,94,"「競泳用も、学校用の水着もワンピースだし、
 　遊びで泳ぐ時ぐらいは、
-　違うタイプを着たいわよ」","","",""
-00003a5c,20,"「そっか、なるほど」","","",""
-00003af0,40,"「んーーーっ、それにしてもいい天気ねぇ」","","",""
-00003b90,38,"「そうですね。絶好のプール日和ですよ」","","",""
-00003bd8,32,"「じゃあ、さっそく泳ぎますか！」","","",""
-00003c48,28,"「そうね。けど、その前に…」","","",""
-00003d10,32,"「ちゃんと、準備体操してからね」","","",""
-00003d68,8,"「え…」","","",""
+　違うタイプを着たいわよ」","I want to wear a different type when I swim in
+play, as well as swimsuits for school.","Я хочу носить другой тип, когда я плаваю в игре,
+а также купальник для школы.","Ich möchte einen anderen Typ tragen, wenn ich im
+Spiel schwimme, sowie Badeanzüge für die Schule."
+00003a5c,20,"「そっか、なるほど」","I see, I see.","- Я вижу, я вижу.","Ich sehe, ich sehe."
+00003af0,40,"「んーーーっ、それにしてもいい天気ねぇ」","No, it's the weather I'm doing it.","- Нет, это погода, которую я делаю.","Nein, das Wetter mache ich."
+00003b90,38,"「そうですね。絶好のプール日和ですよ」","“Yes. It is a great pool 日和","— Да. Это отличный бассейн 日和","„Ja. Es ist ein großer Pool 日本語"
+00003bd8,32,"「じゃあ、さっそく泳ぎますか！」","“Have you swim?","— Ты плаваешь?","„Haben Sie schwimmen?"
+00003c48,28,"「そうね。けど、その前に…」","。 But before…","。 Но прежде…","。 Aber bevor…"
+00003d10,32,"「ちゃんと、準備体操してからね」","CHAN, I'm操ing the preparation body.","ЧАН, я 操в готовом теле.","CHAN, ich mache den Vorbereitungskörper."
+00003d68,8,"「え…」","」","」","!"
 00003df8,57,"「腕を前から上に上げて、
-　大きく背伸びの運動から～っ！」","","",""
-00003e54,42,"「イチ、ニ、サン、シ、ニィ、ニ、サン、シ」","","",""
-00003e54,42,"「イチ、ニ、サン、シ、ニィ、ニ、サン、シ」","","",""
-00003f04,42,"「背筋を十分に伸ばして、手足の運動～っ！」","","",""
-00003e54,42,"「イチ、ニ、サン、シ、ニィ、ニ、サン、シ」","","",""
-00003e54,42,"「イチ、ニ、サン、シ、ニィ、ニ、サン、シ」","","",""
+　大きく背伸びの運動から～っ！」","I raised my arms up from the front, and it's from
+the movement of the back stretch!","«Я поднял руки спереди, и это от движения спины
+растянуть!»","Ich habe meine Arme von vorne hochgehoben und es
+ist von der Bewegung des Rückens!"
+00003e54,42,"「イチ、ニ、サン、シ、ニィ、ニ、サン、シ」","Ichi, Ni, Sun, Shi, Ni, Sun, Shi","«Ичи, Ни, Солнце, Ши, Ни, Солнце, Ши","Ichi, Ni, Sonne, Shi. Ni, Sun, Shi"
+00003e54,42,"「イチ、ニ、サン、シ、ニィ、ニ、サン、シ」","Ichi, Ni, Sun, Shi, Ni, Sun, Shi","«Ичи, Ни, Солнце, Ши, Ни, Солнце, Ши","Ichi, Ni, Sonne, Shi. Ni, Sun, Shi"
+00003f04,42,"「背筋を十分に伸ばして、手足の運動～っ！」","“I stretch my back muscles thoroughly and
+exercise my legs!”","«Я тщательно растягиваю мышцы спины и тренирую
+ноги! »","„Ich strecke meine Rückenmuskulatur gründlich und
+übe meine Beine! „"
+00003e54,42,"「イチ、ニ、サン、シ、ニィ、ニ、サン、シ」","Ichi, Ni, Sun, Shi, Ni, Sun, Shi","«Ичи, Ни, Солнце, Ши, Ни, Солнце, Ши","Ichi, Ni, Sonne, Shi. Ni, Sun, Shi"
+00003e54,42,"「イチ、ニ、サン、シ、ニィ、ニ、サン、シ」","Ichi, Ni, Sun, Shi, Ni, Sun, Shi","«Ичи, Ни, Солнце, Ши, Ни, Солнце, Ши","Ichi, Ni, Sonne, Shi. Ni, Sun, Shi"
 00004000,57,"（こんなことやってるの、俺たちだけだ…。
-　恥ずかしい…）","","",""
-0000409c,30,"「深～く息を吸って、深呼吸～」","","",""
-000040dc,32,"「す～～～～っ、は～～～～～っ」","","",""
-000040dc,32,"「す～～～～っ、は～～～～～っ」","","",""
-00004218,22,"「これで準備よし、と」","","",""
-00004298,38,"「おかげでバッチリ体がほぐれましたよ」","","",""
-0000431c,24,"「さ、泳ぎましょうか？」","","",""
-00004360,32,"「じゃあ、流れるプールにでも…」","","",""
-000043cc,12,"「いいわね」","","",""
-000044b0,12,"「きゃっ！」","","",""
-0000452c,12,"「危ない！」","","",""
-000045c4,30,"「気をつけて。大丈夫ですか？」","","",""
+　恥ずかしい…）","Sorry, this entry is only available in Japanese.
+shy …)","Извините, этот техт доступен только в “Японский”.
+shy …)","Leider ist dieser Eintrag nur auf Japanisch
+verfügbar. …)"
+0000409c,30,"「深～く息を吸って、深呼吸～」","Deep breathing","Глубокое дыхание","Tief atmen"
+000040dc,32,"「す～～～～っ、は～～～～～っ」","」","」","!"
+000040dc,32,"「す～～～～っ、は～～～～～っ」","」","」","!"
+00004218,22,"「これで準備よし、と」","I'm ready for this.","- Я готов к этому.","Ich bin bereit dafür."
+00004298,38,"「おかげでバッチリ体がほぐれましたよ」","Thanks to you, the b」ri body was loosened.","Спасибо вам, тело б」ри было ослаблено.","Danke an euch war der Bizri-Körper gelöst."
+0000431c,24,"「さ、泳ぎましょうか？」","Let’s swim?","Давайте плыть?","Schwimmen?"
+00004360,32,"「じゃあ、流れるプールにでも…」","It is also in the pool that flows …","Это также в бассейне, который течет …","Es ist auch im Pool, der fließt…"
+000043cc,12,"「いいわね」","」","」","!"
+000044b0,12,"「きゃっ！」","!」","!」","!"
+0000452c,12,"「危ない！」","!」","!」","!"
+000045c4,30,"「気をつけて。大丈夫ですか？」","。 Is it okay?","。 Это нормально?","。 Ist es okay?"
 00004610,59,"「あ、ありがとう。眼鏡がないから、
-　足下がよく見えなくて」","","",""
+　足下がよく見えなくて」","Thank you. I don’t have glasses, so I don’t see
+my feet well.","Спасибо. У меня нет очков, поэтому я не вижу ноги
+хорошо.","Danke. Ich habe keine Brille, also sehe ich meine
+Füße nicht gut."
 000046c4,47,"「準備体操がバッチリでも、
-　転んだら意味が…」","","",""
-00004748,26,"「本当ね、気をつけなきゃ」","","",""
+　転んだら意味が…」","Even if the preparation gymnastics are b ly, the
+meaning is …","Даже если подготовка гимнастики б ly, значение
+…","Auch wenn die Vorbereitung Gymnastik sind b ly,
+die Bedeutung ist …"
+00004748,26,"「本当ね、気をつけなきゃ」","It's true, I need to be careful.","- Это правда, мне нужно быть осторожным.","Es ist wahr, ich muss vorsichtig sein."
 000047c4,77,"「そのまま俺の腕につかまっててください。
-　流れるプールまで引いて行きますよ」","","",""
-00004860,22,"「え……あり…がとう」","","",""
-00004914,36,"「私…男の人と腕組むの……初めてよ」","","",""
-000049a4,36,"「…俺も、腕を貸したのは初めてです」","","",""
-00004a38,32,"「そっか…初めて同士ね。フフッ」","","",""
-00001e00,10,"「先輩…」","","",""
-00004b6c,28,"「いいですね、こういうの…」","","",""
-00004be0,32,"「そうね。夏のプールって感じね」","","",""
-00004c98,26,"「ホント…胸、ないですね」","","",""
+　流れるプールまで引いて行きますよ」","“Please grab my arm as it is.” I go to the pool.","«Пожалуйста, возьмите мою руку как это». Я иду в
+бассейн.","“Bitte greifen Sie meinen Arm, wie es ist.” Ich
+gehe zum Pool."
+00004860,22,"「え……あり…がとう」","……","………","…"
+00004914,36,"「私…男の人と腕組むの……初めてよ」","“I… I’m the first time to work with a man.”","«Я… Я первый раз работаю с мужчиной. »","„Ich… Ich bin das erste Mal, mit einem Mann zu
+arbeiten. „"
+000049a4,36,"「…俺も、腕を貸したのは初めてです」","… I'm the first time to rent my arms.","… Я первый раз, чтобы арендовать свои руки.","… Ich bin das erste Mal, um meine Arme zu
+mieten."
+00004a38,32,"「そっか…初めて同士ね。フフッ」","It's so… it's the first time to get
+together.」","Это так… это первый раз, чтобы собраться.」","Es ist so… es ist das erste Mal,
+zusammenzukommen."
+00001e00,10,"「先輩…」","」","」","!"
+00004b6c,28,"「いいですね、こういうの…」","It's good, it's like this…","«Это хорошо, это так…»","Es ist gut, es ist so…"
+00004be0,32,"「そうね。夏のプールって感じね」","。 Summer swimming pool","。 Летний бассейн","。 Sommer Schwimmbad"
+00004c98,26,"「ホント…胸、ないですね」","Honto … chest, not.","Honto … сундук, нет.","Honto … Brust, nicht."
 00004d0c,88,"「こ、この状況でそういうこと言う！？
 　せっかくいい雰囲気だったのに…。
-　一言余計よ！」","","",""
-00004de4,22,"「あはは、すみません」","","",""
-000037a4,10,"「もう…」","","",""
-00004f38,20,"「フフッ、冷た～い」","","",""
-00004fe8,16,"「……おいしい」","","",""
+　一言余計よ！」","I say that in this situation!? It was a nice
+atmosphere. Let's say!","- Я говорю, что в этой ситуации!? Это была
+приятная атмосфера. Скажем!","Das sage ich in dieser Situation!? Es war eine
+schöne Atmosphäre. Sagen wir es!"
+00004de4,22,"「あはは、すみません」","“I don’t know that.”","- Я не знаю, что. »","„Das weiß ich nicht. „"
+000037a4,10,"「もう…」","」","」","!"
+00004f38,20,"「フフッ、冷た～い」","Fuffed, Cold","Фуфированный, холодный","Fuffed, Cold"
+00004fe8,16,"「……おいしい」","… Delicious","… Вкусно","… fromm"
 00005124,47,"「さ～て、それじゃ、
-　そろそろ飛び込もうかな」","","",""
-000051d8,18,"「大丈夫ですか？」","","",""
-00005248,10,"「何が？」","","",""
-0000526c,30,"毎日練習してるわけじゃないし…","","",""
+　そろそろ飛び込もうかな」","“Well, that’s right, let’s dive into the world.”","«Ну, это правильно, давай погрузимся в мир. »","„Nun, das ist richtig, lass uns in die Welt
+eintauchen. „"
+000051d8,18,"「大丈夫ですか？」","Is it okay?","Это нормально?","Ist es okay?"
+00005248,10,"「何が？」","What's New","Что нового","Was ist neu?"
+0000526c,30,"毎日練習してるわけじゃないし…","I'm not pr…","Я не pr…","Ich bin nicht pr…"
 00005304,55,"「毎日練習してるわけじゃないし、
-　ブランクあるから…」","","",""
+　ブランクあるから…」","“I don’t practice every day, because I have a
+blank…”","«Я не практикую каждый день, потому что у меня
+есть одеяло… »","„Ich praktiziere nicht jeden Tag, weil ich einen
+leeren… „"
 00005398,80,"「大丈夫よ。この間、お昼休みに
 　飛び込んだの見たでしょう？
-　勘は鈍ってないわ」","","",""
-0000548c,26,"「トップが外れないかなと」","","",""
+　勘は鈍ってないわ」","It's okay. Have you seen the day break? It is not
+dull.","- Это нормально. Вы видели дневной перерыв? Это
+не скучно.","Es ist okay. Hast du die Tagespause gesehen? Es
+ist nicht langweilig."
+0000548c,26,"「トップが外れないかなと」","“I wonder if the top cannot be removed.”","“Я удивляюсь, если верх не может быть удален. »","„Ich frage mich, ob das Top nicht entfernt werden
+kann. „"
 000054f4,79,"「ああ、私って、胸の抵抗がないから、
-　あっさり脱げ……って、何言わせるのよ！」","","",""
-000055dc,12,"「はははは」","","",""
+　あっさり脱げ……って、何言わせるのよ！」","“Oh, I have no resistance to my chest, so I can
+say what I’m saying.”","«О, у меня нет сопротивления моему сундуку, так
+что я могу сказать, что я говорю. »","„Oh, ich habe keinen Widerstand gegen meine
+Brust, so kann ich sagen, was ich sage. „"
+000055dc,12,"「はははは」","」","」","!"
 00005650,69,"「フフッ、トップは大丈夫よ。
-　そんな漫画みたいに簡単に脱げないから」","","",""
+　そんな漫画みたいに簡単に脱げないから」","Fフ, the top is okay. It’s not easy to take off
+like that manga.”","ФБ, верх в порядке. Это не легко снять, как эта
+манга. »","Die Spitze ist okay. Es ist nicht einfach, wie
+diese Manga abzunehmen. „"
 0000573c,94,"「むしろボトムね。男子もあるでしょ？
 　飛び込んだ抵抗で、意外とあっさり
-　脱げちゃったりして」","","",""
+　脱げちゃったりして」","Bottom is not it. Are there men? I'm surprisingly
+depressed by the resistance I jumped.","«Боттом это не так. Есть ли мужчины? Я
+удивительно депрессирован сопротивлением, которое
+я прыгнул.","Bottom ist es nicht. Gibt es Männer? Ich bin
+überraschend deprimiert von dem Widerstand, den
+ich gesprungen habe."
 00005840,57,"「えっ！？　ボトムって下ですよね！？
-　脱げたら一大事…」","","",""
+　脱げたら一大事…」","Yes!? The bottom is below!?","- Да!? Дно ниже!?","Ja!? Der Boden ist unten!?"
 000058cc,79,"「大丈夫よ。この水着、しっかりしてるから。
-　飛び込むのを前提で選んだんだもの」","","",""
-000059a8,42,"「あ…じゃあ、この日のためにその水着を？」","","",""
+　飛び込むのを前提で選んだんだもの」","It's okay. This swimsuit is good. What I chose
+to dive in","- Это нормально. Этот купальник хорош. Что я
+выбрал, чтобы погрузиться в","Es ist okay. Dieser Badeanzug ist gut. Was ich
+gewählt habe, einzutauchen"
+000059a8,42,"「あ…じゃあ、この日のためにその水着を？」","“Oh… So, for this day, do you swim?”","«О… Итак, на этот день ты плаваешь? »","Oh… Schwimmst du für diesen Tag? „"
 00005a24,55,"「もう夏も終わりだし、バーゲンしてたから
-　助かったわ」","","",""
-00000d84,14,"「室戸先輩…」","","",""
+　助かったわ」","It's the end of summer, and it's nice to have a
+bargain.","«Это конец лета, и приятно иметь сделку».","Es ist das Ende des Sommers, und es ist schön,
+ein Schnäppchen zu haben."
+00000d84,14,"「室戸先輩…」","Muroto seniors …","Мурото старший …","Muroto Senioren …"
 00005b48,79,"「さ、飛び込むわよ。水しぶきが少なかったら
-　ノースプラッシュって声をかけてね」","","",""
-00005c54,40,"「ノースプラッシュですね、わかりました」","","",""
-00005d94,18,"「いくわよ～っ！」","","",""
-00005dd4,30,"「いつでもいいですよ～～っ！」","","",""
-00005e80,14,"（集中だっ！）","","",""
-00005ebc,10,"「んっ！」","","",""
-00005f6c,22,"「ノースプラッシュ！」","","",""
-00005fd4,12,"「ぷはっ！」","","",""
-0000607c,22,"「フフッ、ありがとう」","","",""
-000060b4,42,"「なんか、ひねったり回ったりすごかったし」","","",""
-00006100,16,"「５２３１Ｄよ」","","",""
-00006140,20,"「５２３…何です？」","","",""
+　ノースプラッシュって声をかけてね」","No, I'm flying. If there is a little water
+splash, North splash is heard.","- Нет, я летаю. Если есть немного воды брызг,
+Северное брызг услышан.","Nein, ich fliege. Wenn es etwas Wasserspritzer
+gibt, wird Nordspritzer gehört."
+00005c54,40,"「ノースプラッシュですね、わかりました」","It's NORTH PRUSH!","«Северная правда!»","Es ist NORTH PRUSH!"
+00005d94,18,"「いくわよ～っ！」","っ","ФУТБОЛ",","
+00005dd4,30,"「いつでもいいですよ～～っ！」","I am always happy Comment","Я всегда счастлива Комментарий","Ich bin immer glücklich Kommentar"
+00005e80,14,"（集中だっ！）","(In)!)","(В)!)","(In)"
+00005ebc,10,"「んっ！」","Comment","Комментарий","Anmerkung"
+00005f6c,22,"「ノースプラッシュ！」","North Plash","Северный стол","Nord-Plash"
+00005fd4,12,"「ぷはっ！」","っ","ФУТБОЛ",","
+0000607c,22,"「フフッ、ありがとう」","Thank you very much","Спасибо большое","Danke sehr viel"
+000060b4,42,"「なんか、ひねったり回ったりすごかったし」","Something, twisting, turning, etc.","Что-то, скручивание, поворот и т.д..","Something, Drehen, Drehen, etc."
+00006100,16,"「５２３１Ｄよ」","「5231D」","「5231D」","ZEITSCHRIFTEN"
+00006140,20,"「５２３…何です？」","523…wです is it?","- 523…что это?","523…was ist es?"
 000061a4,67,"「後方半回ひねり、１回転半、自由形って
-　意味。結構難しいんだから」","","",""
+　意味。結構難しいんだから」","The back half twist, the rotation half, the free
+shape means. It's hard to say","Верхняя половина поворота, половина вращения,
+свободная форма означает. Трудно сказать","Die hintere Halbdrehung, die Rotationshälfte,
+die freie Form bedeutet. Es ist schwer zu sagen"
 00006254,67,"「いや、難しいのは見ればわかりますよ。
-　素人じゃ絶対できないです」","","",""
-000062d8,18,"「うまく撮れた？」","","",""
+　素人じゃ絶対できないです」","No, it is difficult to see. I can't do it.","- Нет, трудно увидеть. Я не могу это сделать.","Nein, es ist schwer zu sehen. Ich kann es nicht
+tun."
+000062d8,18,"「うまく撮れた？」","“I took it well?”","- Я взял это хорошо? »","„Ich habe es gut gemacht? „"
 00006318,51,"「まぁ、何とか。けど、動きが速すぎて
-　なかなか…」","","",""
-00006388,40,"「フフッ、またいつでも飛んであげるわよ」","","",""
-00006430,24,"「で、大丈夫でしたか？」","","",""
-00005248,10,"「何が？」","","",""
-000064cc,12,"「水着です」","","",""
-00000acc,8,"「あ…」","","",""
+　なかなか…」","“What’s it?” However, the movement is too fast.","- Что это? Однако движение слишком быстро.","„Was ist das?“ Die Bewegung ist jedoch zu
+schnell."
+00006388,40,"「フフッ、またいつでも飛んであげるわよ」","I'll fly at any time.","- Я буду летать в любое время.","Ich fliege jederzeit."
+00006430,24,"「で、大丈夫でしたか？」","“Is it okay?”","- Это нормально? »","„Ist es okay? „"
+00005248,10,"「何が？」","What's New","Что нового","Was ist neu?"
+000064cc,12,"「水着です」","」","」","!"
+00000acc,8,"「あ…」","」","」","!"
 0000657c,45,"「もう、脱げてなんてないわよ。
-　エッチねぇ」","","",""
-000065d8,10,"「ははは」","","",""
-00001e00,10,"「先輩…」","","",""
-00006678,8,"「何？」","","",""
+　エッチねぇ」","“I don’t have to leave it anymore.”」","- Мне больше не нужно оставлять.","„Ich muss es nicht mehr verlassen.“"
+000065d8,10,"「ははは」","」","」","!"
+00001e00,10,"「先輩…」","」","」","!"
+00006678,8,"「何？」","What is ?","Что такое ?","Was ist ?"
 000066b0,98,"「生徒会の仕事や、勉強してる時も
 　素敵だけど、こうして泳いでる時…
-　笑ってる時が一番素敵ですよ」","","",""
-0000675c,28,"「も、もう、いきなり何を…」","","",""
-0000679c,34,"「先輩とプールへ来られてよかった」","","",""
-0000680c,12,"「\p01君…」","","",""
-00006868,38,"「…私も、\p01君と来られてよかったわ」","","",""
-00006a04,34,"こうして、一緒にプールで過ごした。","","",""
-00006b2c,34,"「すっかり夕方になっちゃったわね」","","",""
+　笑ってる時が一番素敵ですよ」","When I'm studying, I'm very nice, but when I'm
+swimming… I'm the best time to laugh.","«Когда я учусь, я очень славный, но когда я
+плаваю… Я самое лучшее время, чтобы смеяться.","Wenn ich studiere, bin ich sehr nett, aber wenn
+ich schwimme… Ich bin die beste Zeit zum Lachen."
+0000675c,28,"「も、もう、いきなり何を…」","What's happening?","- Что происходит?","Was ist los?"
+0000679c,34,"「先輩とプールへ来られてよかった」","It was nice to come to the pool with seniors","«Приятно было приходить в бассейн с пожилыми
+людьми»","Es war schön, mit Senioren zum Pool zu kommen"
+00006a04,34,"こうして、一緒にプールで過ごした。","Let’s go to the pool together.","Пойдем в бассейн вместе.","Gehen wir gemeinsam zum Pool."
+00006b2c,34,"「すっかり夕方になっちゃったわね」","I'll be in the evening.","- Я буду вечером.","Ich bin am Abend."
 00006b84,55,"「そうですね。２人で泳いでると
-　あっという間でしたよ」","","",""
-00006c18,24,"「そうね…楽しかったわ」","","",""
-00006c5c,8,"「……」","","",""
-00006c5c,8,"「……」","","",""
-00006d10,20,"「…街へ戻りますか」","","",""
-00006d90,8,"「ええ」","","",""
-00006eec,8,"「先輩」","","",""
-00006678,8,"「何？」","","",""
+　あっという間でしたよ」","Yes. When I swim with two people, I was so
+surprised.","Да. Когда я плаваю с двумя людьми, я так
+удивлен.","Ja. Als ich mit zwei Leuten schwimme, war ich so
+überrascht."
+00006c18,24,"「そうね…楽しかったわ」","Yes, it was fun!","- Да, это было весело!","Ja, es war lustig!"
+00006c5c,8,"「……」","…","…","…"
+00006c5c,8,"「……」","…","…","…"
+00006d10,20,"「…街へ戻りますか」","“…Do you return to the city?”","«… Вы возвращаетесь в город? »","„… Rückkehr in die Stadt? „"
+00006d90,8,"「ええ」","」","」","!"
+00006eec,8,"「先輩」","」","」","!"
+00006678,8,"「何？」","What is ?","Что такое ?","Was ist ?"
 00006fc8,57,"「このまま帰るのも何だし、
-　どこか寄っていきませんか？」","","",""
-00007060,36,"「いいわよ。…私も…そう思ってたの」","","",""
-000070f0,38,"「じゃあ、どこかその辺りのカフェへ…」","","",""
-00007164,40,"「あ、それより、行きたいところがあるの」","","",""
-00007214,8,"「え？」","","",""
-0000727c,70,"「\p01君の家からは、
-　少し遠くなっちゃうけど、
-　つき合ってくれる？」","","",""
-00007348,24,"「もちろん、いいですよ」","","",""
-00007408,12,"「こっちよ」","","",""
-00007444,20,"「あ、そっちって…」","","",""
-00007520,24,"「やっぱり、丘の上公園」","","",""
-00007598,20,"「好きなのよ、ここ」","","",""
-00007610,42,"「やっぱり丘の上公園。久しぶりに来たなぁ」","","",""
+　どこか寄っていきませんか？」","“Do you want to go back home?","— Хотите вернуться домой?","„Willst du wieder nach Hause gehen?"
+00007060,36,"「いいわよ。…私も…そう思ってたの」","I'm good. … I thought that it was.","- Я хорошо. … Я думал, что это было.","Ich bin gut. … Ich dachte, es wäre."
+000070f0,38,"「じゃあ、どこかその辺りのカフェへ…」","“Where is the cafe around it?”","«Где кафе вокруг него? »","„Wo ist das Café? „"
+00007164,40,"「あ、それより、行きたいところがあるの」","“Oh, there is a place to go.”","«О, есть место, чтобы пойти. »","„Oh, es gibt einen Ort zu gehen. „"
+00007214,8,"「え？」","?」","?」","?"
+00007348,24,"「もちろん、いいですよ」","“Of course, it’s good.”","«Конечно, это хорошо. »","„Natürlich ist es gut. „"
+00007408,12,"「こっちよ」","」","」","!"
+00007444,20,"「あ、そっちって…」","Oh, it is…","«О, это…»","Oh, es ist…"
+00007520,24,"「やっぱり、丘の上公園」","I, Hill Top Park","I, Hill Top Park","Ich, Hill Top Park"
+00007598,20,"「好きなのよ、ここ」","I like you, here","Я люблю тебя, здесь","Ich mag dich, hier"
+00007610,42,"「やっぱり丘の上公園。久しぶりに来たなぁ」","hill top park I'm in a while","горный парк я в то время","Hill Top Park ich bin in einer Weile"
 00007688,63,"「そう？　私はよく来るのよ。
-　勉強に疲れた時とか、息抜きしに」","","",""
-0000778c,42,"「そう言えば、そんなこと言ってましたよね」","","",""
-000077f0,42,"「フフッ、そうね。話したかもしれないわね」","","",""
+　勉強に疲れた時とか、息抜きしに」","So? I'm coming well. When you get tired of
+studying, breath away.","- Так? Я прихожу хорошо. Когда вы устали учиться,
+дышите.","Und? Ich komme gut. Wenn du es satt hast zu
+lernen, atme weg."
+0000778c,42,"「そう言えば、そんなこと言ってましたよね」","“I said that, right?”","- Я сказал, что, верно? »","„Das habe ich gesagt, oder? „"
+000077f0,42,"「フフッ、そうね。話したかもしれないわね」","“I’m sorry. You might have spoken","— Прости. Вы можете поговорить","„Es tut mir leid. Du könntest sprechen"
 000078d4,51,"「君と２人で……ここから街を
-　眺めてみたかったの」","","",""
-00001e00,10,"「先輩…」","","",""
-000079b0,14,"「先輩って…」","","",""
-00000e24,8,"「ん？」","","",""
+　眺めてみたかったの」","“I wanted to see the city from here with you and
+two people.”","«Я хотел увидеть город отсюда с вами и двумя
+людьми. »","„Ich wollte die Stadt von hier mit dir und zwei
+Leuten sehen. „"
+00001e00,10,"「先輩…」","」","」","!"
+000079b0,14,"「先輩って…」","I'm a senior …","«Я старший…»","Ich bin ein Senior…"
+00000e24,8,"「ん？」","?」","?」","?"
 00007a44,57,"「飛び込みといい、ここといい、
-　高い所が好きですよね？」","","",""
+　高い所が好きですよね？」","“It’s good to jump in, it’s good to be here, and
+I like high places.”","«Хорошо прыгать, хорошо быть здесь, и мне
+нравятся высокие места. »","„Es ist gut einzuspringen, es ist gut, hier zu
+sein, und ich mag hohe Plätze. „"
 00007acc,57,"「あ……フフッ、言われてみれば、
-　そうかもしれないわね」","","",""
-00007bb0,22,"「柵の方へ行かない？」","","",""
-00007bfc,14,"「いいですよ」","","",""
-00007c70,24,"「風が気持ちいいわね～」","","",""
-00007cb8,12,"「ですね…」","","",""
-00007cf4,22,"（先輩、きれいだな…）","","",""
-00001018,22,"シャッターチャンスだ！","","",""
-00007db0,10,"「フフッ」","","",""
-00007e30,20,"（撮るまでもないな）","","",""
-00007ebc,34,"「\p01君、今日は本当にありがとう」","","",""
+　そうかもしれないわね」","“Oh, I think it might be if you say it.”","«О, я думаю, что это может быть, если вы это
+говорите. »","„Oh, ich glaube, es könnte sein, wenn du es
+sagst. „"
+00007bb0,22,"「柵の方へ行かない？」","Do not go to the rail?","- Не ходите в рельс?","Gehen Sie nicht zur Schiene?"
+00007bfc,14,"「いいですよ」","I'm good.","- Я хорошо.","Ich bin gut."
+00007c70,24,"「風が気持ちいいわね～」","The wind is pleasant","Ветер приятный","Der Wind ist angenehm"
+00007cb8,12,"「ですね…」","」","」","!"
+00007cf4,22,"（先輩、きれいだな…）","(Senior, clean…)","(Сениор, чистый…)","(Senior, sauber…)"
+00001018,22,"シャッターチャンスだ！","ter chance!","ter шанс!","Eine Chance!"
+00007db0,10,"「フフッ」","」","」","!"
+00007e30,20,"（撮るまでもないな）","(It is not until you take it)","(Это не до тех пор, пока вы не принимаете его)","(Es ist nicht, bis du es nimmst)"
 00007f2c,59,"「２人で１日過ごして…一緒に泳いで…
-　何だか元気が出たわ」","","",""
-00007f94,22,"「そっか…よかった…」","","",""
+　何だか元気が出たわ」","“I spent a day with two people… I was able to
+swim with them… I was able to do my best.”","«Я провел день с двумя людьми… Я мог плавать с
+ними… Я смог сделать все возможное. »","„Ich verbrachte einen Tag mit zwei Leuten… Ich
+konnte mit ihnen schwimmen… Ich konnte mein
+Bestes tun. „"
+00007f94,22,"「そっか…よかった…」","I'm glad…","«Я рад…»","Ich bin froh…"
 00007ff8,59,"「私…何事も精一杯がんばらなきゃって、
-　張り詰めてたのね」","","",""
+　張り詰めてたのね」","I… I have to do everything, and I have to do
+it.","«Я… Я должен делать все, и я должен это
+сделать.","Ich… Ich muss alles tun, und ich muss es tun."
 0000809c,77,"「先輩は真面目だし、責任感強いから。
-　けど、たまには息抜きもいいもんですよ」","","",""
-00001518,10,"「そうね」","","",""
-00006c5c,8,"「……」","","",""
-000081c8,32,"「\p01君……私…うれしかった…」","","",""
-00008220,10,"「…え？」","","",""
+　けど、たまには息抜きもいいもんですよ」","“My seniors are serious and have a strong sense
+of responsibility.” However, sometimes I can
+breathe out.","«Мои старши серьёзны и имеют сильное чувство
+ответственности». Однако иногда я могу вздохнуть.","„Meine Senioren sind ernst und haben ein starkes
+Verantwortungsgefühl.“ Manchmal kann ich aber
+atmen."
+00001518,10,"「そうね」","」","」","!"
+00006c5c,8,"「……」","…","…","…"
+00008220,10,"「…え？」","?」","?」","?"
 00008278,100,"「私、みんなに怒ってばかりだから、
 　泳いでる時が……笑顔が一番だなんて
-　言ってくれたの、初めてよ」","","",""
-00008340,36,"「だから……すごく…うれしかった…」","","",""
-00000d84,14,"「室戸先輩…」","","",""
+　言ってくれたの、初めてよ」","“I’m just angry with everyone, so I’m the first
+time to swim… I told me that the smile is the
+best.”","“Я просто сердился со всеми, поэтому я первый
+раз, чтобы плавать… Я сказал мне, что улыбка
+самая лучшая. »","“Ich bin nur wütend auf alle, also bin ich das
+erste Mal zu schwimmen… Ich sagte mir, dass das
+Lächeln das Beste ist. „"
+00008340,36,"「だから……すごく…うれしかった…」","So, it's so… I'm so happy…","Так, это так… Я так счастлив…","So, es ist so… Ich bin so glücklich…"
+00000d84,14,"「室戸先輩…」","Muroto seniors …","Мурото старший …","Muroto Senioren …"
 00008418,100,"「室戸先輩は、素敵な人です。写真を撮る度に
 　先輩のいろんな素顔が見えて…それで……
-　その…俺……」","","",""
-000084e4,16,"「ありがとう…」","","",""
+　その…俺……」","Muroto seniors are nice people. Every time you
+take a photo, you can see various faces of seniors
+… so…… That’s it.","Старшие люди Морото - это хорошие люди. Каждый
+раз, когда вы фотографируете, вы можете увидеть
+различные лица пожилых людей … так… Это.","Muroto Senioren sind nette Leute. Jedes Mal,
+wenn Sie ein Foto machen, können Sie verschiedene
+Gesichter von Senioren sehen…… Das ist es."
+000084e4,16,"「ありがとう…」","Thank you…","Спасибо…","Danke…"
 00008530,73,"「フフッ、あなたには、恥ずかしいところを
-　いっぱい見られちゃったものね」","","",""
+　いっぱい見られちゃったものね」","“Huffy, you saw a lot of embarrassment.”","«Довольно, ты видел много смущения. »","„Huffy, du hast viel Verlegenheit gesehen. „"
 000085d4,77,"（室戸先輩…俺のこと、あなたって。
-　いつの間にか、君じゃなく…あなたって…）","","",""
-00006c5c,8,"「……」","","",""
-00006c5c,8,"「……」","","",""
+　いつの間にか、君じゃなく…あなたって…）","(Muroto seniors … I am you.) When, you are…","(Мурото старший … Я ты.) Когда ты…","(Muroto Senioren… ich bin du.) Wenn du…"
+00006c5c,8,"「……」","…","…","…"
+00006c5c,8,"「……」","…","…","…"
 000086fc,75,"「あのね…私、がんばるわね。もうダメとか、
-　限界とか、弱音なんて吐かない」","","",""
-000087e8,22,"「あの程度の大学……」","","",""
-0000884c,30,"「トップで合格してやるわよ！」","","",""
+　限界とか、弱音なんて吐かない」","“Oh… I, I’m all about it.” “I don’t spit the
+limits or weaknesses.”","«О… я, я все об этом». «Я не пишу лимиты или
+слабости. »","„Oh… ich bin alles dabei.“ „Ich spucke die
+Grenzen oder Schwächen nicht aus. „"
+000087e8,22,"「あの程度の大学……」","“The Waseda University…”","«Университет Waseda…»","„Die Waseda Universität…“"
+0000884c,30,"「トップで合格してやるわよ！」","“I will pass the top!”","«Я пройду вершину!»","„Ich werde die Spitze passieren!“"
 000088a0,51,"「そう！　その意気ですよ！
-　先輩はそうでなきゃ！」","","",""
-00008938,22,"「ありがとう…\p01君」","","",""
+　先輩はそうでなきゃ！」","Yes! That's surprising! I have to do it!","Да! Это удивительно! Я должен это сделать!","Ja! Das ist überraschend! Ich muss es tun!"
 00008990,57,"「また、夢を追う気持ちになれたのは、
-　あなたのおかげよ」","","",""
-000089f8,16,"「そんなこと…」","","",""
-00008a58,8,"「私…」","","",""
-00008aac,22,"「ううん…何でもない」","","",""
+　あなたのおかげよ」","“I’ve also made my dream come true.”","«Я тоже сбылась моя мечта. »","„Ich habe auch meinen Traum wahr gemacht. „"
+000089f8,16,"「そんなこと…」","“T」’s That…”","“T」 это…”","„Das…“"
+00008a58,8,"「私…」","」","」","!"
+00008aac,22,"「ううん…何でもない」","“Yes… I don’t have anything.”","«Да… У меня ничего нет. »","„Ja… ich habe nichts. „"
 00008b60,67,"「さ、帰りましょ。光河学園生徒たるもの、
-　暗くなる前に帰らなきゃ」","","",""
+　暗くなる前に帰らなきゃ」","Home Hikariga school student, I have to go home
+before darkening.","Home Hikariga студент школы, я должен пойти домой
+перед темнением.","Home Hikariga Schülerin, Ich muss nach Hause
+gehen, bevor ich verdunkeln."
 00008c2c,49,"「夜の町をうろつくなんて、
-　素行不良の始まりよ」","","",""
-00008c8c,22,"「ははは、そうですね」","","",""
-00008d20,42,"「卒業するまででいいの…私のそばにいてね」","","",""
-00000d84,14,"「室戸先輩…」","","",""
-00008db4,32,"こうして、２人で一緒に過ごした。","","",""
+　素行不良の始まりよ」","It's the beginning of a faulty connection to
+swelling in the city","«Это начало неисправной связи для прощания в
+городе»","Es ist der Anfang einer fehlerhaften Verbindung
+zu Schwellungen in der Stadt"
+00008c8c,22,"「ははは、そうですね」","It's right.","- Это правильно.","Es ist richtig."
+00008d20,42,"「卒業するまででいいの…私のそばにいてね」","“It’s good to graduate… I’m so close to me.”","«Хорошо выпускнику… Я так близко ко мне. »","„Es ist gut,… Ich bin so nah an mir. „"
+00000d84,14,"「室戸先輩…」","Muroto seniors …","Мурото старший …","Muroto Senioren …"
+00008db4,32,"こうして、２人で一緒に過ごした。","Let’s have two people together.","У нас два человека вместе.","Lassen Sie uns zwei Menschen zusammen haben."

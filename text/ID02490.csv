@@ -1,53 +1,86 @@
-00000134,36,"（ん？　保健室の扉が少し開いてる…）","","",""
-000001f4,38,"「はい、服を上げて、息を大きく吸って」","","",""
-00000298,36,"「もう一度。すーーーっ、はーーーっ」","","",""
-00000390,22,"シャッターチャンスだ！","","",""
-00000424,28,"「はい、じゃあ、舌を出して」","","",""
-000004d0,12,"「あ～～ん」","","",""
-00000580,20,"（撮るまでもないな）","","",""
-000005f8,34,"「先輩、お医者さんごっこですか？」","","",""
-00000648,14,"「ひゃあっ！」","","",""
-00000774,24,"「\p01君…み、見てた？」","","",""
-000007f0,20,"「ええ、しっかりと」","","",""
+00000134,36,"（ん？　保健室の扉が少し開いてる…）","(The door of the health room is a little…)","(Дверь комнаты для здоровья немного…)","(Die Tür des Gesundheitsraumes ist ein wenig…)"
+000001f4,38,"「はい、服を上げて、息を大きく吸って」","Yes, raise clothes and breathe.","- Да, поднимите одежду и дышите.","Ja, zieh dich an und atme."
+00000298,36,"「もう一度。すーーーっ、はーーーっ」","。 Comment","。 Комментарий","。 Kommentar"
+00000390,22,"シャッターチャンスだ！","ter chance!","ter шанс!","Eine Chance!"
+00000424,28,"「はい、じゃあ、舌を出して」","Yes, it's a tongue","Да, это язык","Ja, es ist eine Zunge"
+000004d0,12,"「あ～～ん」","」","」","!"
+00000580,20,"（撮るまでもないな）","(It is not until you take it)","(Это не до тех пор, пока вы не принимаете его)","(Es ist nicht, bis du es nimmst)"
+000005f8,34,"「先輩、お医者さんごっこですか？」","“Are you a senior and a doctor?”","– Вы старший и доктор? »","„Sind Sie ein Senior und ein Arzt? „"
+00000648,14,"「ひゃあっ！」","っ","ФУТБОЛ",","
+000007f0,20,"「ええ、しっかりと」","Eh, firm","Эх, фирма","Eh, fest"
 00000878,53,"「あうぅ…とんでもないところを
-　見られちゃったわね」","","",""
+　見られちゃったわね」","Oh… I've seen a iculous place.","О… Я видел невероятное место.","Oh… ich habe einen ekligen Ort gesehen."
 0000098c,69,"「保健の先生に、学園祭での事を
-　聞きに来たら、いらっしゃらなくて…」","","",""
+　聞きに来たら、いらっしゃらなくて…」","“I don’t know what to do at school festivals when
+I hear a teacher of health…”","«Я не знаю, что делать на школьных фестивалях,
+когда я слышу учителя здоровья… »","„Ich weiß nicht, was ich bei Schulfesten tun
+soll, wenn ich einen Lehrer der Gesundheit höre…
+„"
 00000a90,49,"「しかも、机の上に、
-　聴診器が置きっぱなしで…」","","",""
+　聴診器が置きっぱなしで…」","In addition, on the desk, there is no
+stethoscope…","Кроме того, на столе нет сетоскопа…","Zusätzlich gibt es auf dem Schreibtisch kein
+Stethoskop…"
 00000b30,80,"「私、父さんが診察してるのを、
 　小さいころから見てきたから、
-　つい、それで…」","","",""
-00000c1c,36,"「お医者さんごっこをしてしまったと」","","",""
+　つい、それで…」","“I have seen my father’s diagnosis since I was a
+little…”","«Я видел диагноз отца, так как я был немного… »","„Ich habe die Diagnose meines Vaters gesehen, da
+ich ein wenig… „"
+00000c1c,36,"「お医者さんごっこをしてしまったと」","I got a doctor","«У меня доктор»","Ich habe einen Arzt"
 00000ca8,63,"「ええ…。だって、医者になるのは、
-　小さいころからの夢だもの」","","",""
-00000dbc,28,"「夢、実現するといいですね」","","",""
-00000e30,16,"「…ありがとう」","","",""
-00000e90,28,"「俺を診察してくださいっ！」","","",""
+　小さいころからの夢だもの」","。 “It’s a dream for a doctor.”","。 «Это мечта для врача. »","。 „Es ist ein Traum für einen Arzt. „"
+00000dbc,28,"「夢、実現するといいですね」","Dream, it is good to realize","«Смерть, хорошо осознавать»","Dream, es ist gut zu realisieren"
+00000e30,16,"「…ありがとう」","Thank you","Спасибо","Danke."
+00000e90,28,"「俺を診察してくださいっ！」","Please check me!","Пожалуйста, проверьте меня!","Bitte überprüfen Sie mich!"
 00000f04,45,"「バ、バカじゃないの！？
-　悪ノリしすぎよ！」","","",""
+　悪ノリしすぎよ！」","“Bah, I’m not so bad!”","«Бах, я не так плохо!»","„Bah, ich bin nicht so schlecht!“"
 00000fe0,124,"「朝から、微熱に、悪寒に、頭痛に、腹痛に、
 　めまいに、歯痛に、咳が止まらないんで、
-　先輩が診断してくれないと治りません！」","","",""
+　先輩が診断してくれないと治りません！」","It is not cured if you do not dia se your
+seniors, because of the heat, chills, headaches,
+abdo  pain, dizziness, toothaches, coughs are not
+stopped!","Не лечится, если вы не беречь своих пожилых
+людей, из-за жары, охлаждения, головные боли, боли
+в животе, головокружение, зубные боли, кашель не
+останавливаются!","Es ist nicht geheilt, wenn Sie Ihre Senioren
+nicht dia se, wegen der Hitze, Kälte,
+Kopfschmerzen, Bauchschmerzen, Schwindel,
+Zahnschmerzen, Husten werden nicht gestoppt!"
 000010bc,73,"「そんなに併発したら学校に来られないわよ！
-　おとなしく家で寝てなさい！」","","",""
+　おとなしく家で寝てなさい！」","“I can’t come to school if it’s a couple of
+things! Let’s sleep at home!”","«Я не могу приехать в школу, если это пара вещей!
+Давайте спать дома!»","„Ich kann nicht zur Schule kommen, wenn es ein
+paar Dinge ist! Schlafen wir zu Hause!“"
 00001170,83,"「ははは、仕方ない。診察してもらうのは、
-　先輩が本当に医者になってからにしますよ」","","",""
-00001210,12,"「\p01君…」","","",""
-0000126c,36,"「そうね、いつだって診てあげるわよ」","","",""
-00001308,30,"「もちろん、お金は取るけどね」","","",""
-000013b0,32,"「え？　お金、取るんですか！？」","","",""
+　先輩が本当に医者になってからにしますよ」","“I don’t want to do it.” If you are a doctor, you
+will have a doctor.","- Я не хочу это делать. Если вы врач, у вас будет
+врач.","„Ich will es nicht tun.“ Wenn Sie Arzt sind,
+haben Sie einen Arzt."
+0000126c,36,"「そうね、いつだって診てあげるわよ」","“Oh, I’m always going to visit.”","«О, я всегда собираюсь посетить. »","„Oh, ich werde immer besuchen. „"
+00001308,30,"「もちろん、お金は取るけどね」","“I don’t have money.”","«У меня нет денег. »","„Ich habe kein Geld. „"
+000013b0,32,"「え？　お金、取るんですか！？」","“Well, do you take money?”","— Ну, ты берешь деньги? »","„Nun, nimmst du Geld? „"
 00001424,71,"「当たり前でしょう？　診察するんだから、
-　ちゃんと診療報酬は頂くわよ」","","",""
-000014e0,40,"「じゃあ、また、不正登校って言いますよ」","","",""
+　ちゃんと診療報酬は頂くわよ」","? I'm going to take a look at it, so I'll get a
+medical fee with you.","? Я собираюсь взглянуть на это, так что я получу
+медицинский сбор с вами.","? Ich werde es mir ansehen, also kriege ich eine
+medizinische Gebühr."
+000014e0,40,"「じゃあ、また、不正登校って言いますよ」","“Yes, I say it’s a fraudulent school.”","«Да, я говорю, что это мошенническая школа. »","„Ja, ich sage, es ist eine betrügerische Schule.
+„"
 0000155c,61,"「そ、卒業しても脅すつもり！？
-　いつまで言う気よ、その台詞」","","",""
-00001648,42,"「ずっと言いますよ。卒業しても、ずっと…」","","",""
-00001210,12,"「\p01君…」","","",""
+　いつまで言う気よ、その台詞」","“Now, I’m going to be threatened even if I d!?
+I’m going to say that no time.”","«Сейчас я буду угрожать, даже если я d!? Я
+собираюсь сказать, что нет времени. »","„Jetzt werde ich bedroht sein, auch wenn ich d!?
+Ich werde sagen, dass keine Zeit. „"
+00001648,42,"「ずっと言いますよ。卒業しても、ずっと…」","“I’m always saying.” Even if you …","- Я всегда говорю. Даже если вы …","„Ich sage immer.“ Selbst wenn du…"
 0000175c,79,"「…そう。それもいいかもしれないわね。
-　一杯言われたから、もう慣れちゃったし」","","",""
+　一杯言われたから、もう慣れちゃったし」","…so. It might be a good idea. I got used to
+it.","…так. Это может быть хорошая идея. Я привык к
+нему.","Es könnte eine gute Idee sein. Ich habe mich
+daran gewöhnt."
 0000188c,69,"「さ、そろそろ図書室へ戻るわ。
-　保健の先生、戻ってこないみたいだし」","","",""
-00001948,32,"「じゃあ、俺は部室へ戻ろうかな」","","",""
-000019d0,34,"「そこまで一緒に行きましょうか？」","","",""
-00001a28,14,"「そうですね」","","",""
+　保健の先生、戻ってこないみたいだし」","Sa, I went to the library. Health teacher, want
+to come back","Са, я пошел в библиотеку. Преподаватель
+здоровья, хочу вернуться»","Sa, ich ging in die Bibliothek.
+Gesundheitslehrer, wollen zurückkommen"
+00001948,32,"「じゃあ、俺は部室へ戻ろうかな」","“Oh, I’m going to go back to the room.”","«О, я собираюсь вернуться в комнату. »","„Oh, ich gehe zurück ins Zimmer. „"
+000019d0,34,"「そこまで一緒に行きましょうか？」","“Let’s go with it?”","— Пойдем с ним? »","„Lasst uns damit umgehen? „"
+00001a28,14,"「そうですね」","“Yes, right?”","— Да, правда? »","„Ja, richtig? „"

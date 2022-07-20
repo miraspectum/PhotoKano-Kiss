@@ -1,72 +1,124 @@
-00000168,18,"（あ、室戸先輩…）","","",""
-000001f4,22,"シャッターチャンスだ！","","",""
-000002dc,20,"（撮るまでもないな）","","",""
-00000330,12,"「室戸先輩」","","",""
-00000430,14,"「あ、\p01君」","","",""
-00000460,24,"「生徒会の仕事ですか？」","","",""
-000004e0,26,"「ええ、学園祭が近いから」","","",""
-00000524,38,"「そっか…、勉強は大丈夫なんですか？」","","",""
+00000168,18,"（あ、室戸先輩…）","(A)","(А)","(A)"
+000001f4,22,"シャッターチャンスだ！","ter chance!","ter шанс!","Eine Chance!"
+000002dc,20,"（撮るまでもないな）","(It is not until you take it)","(Это не до тех пор, пока вы не возьмете его)","(Es ist nicht, bis du es nimmst)"
+00000330,12,"「室戸先輩」","Muroto seniors","Мурото старшие","Muroto Senioren"
+00000460,24,"「生徒会の仕事ですか？」","“Are you working for a student group?”","— Вы работаете для студенческой группы? »","„Arbeiten Sie für eine Studentengruppe? „"
+000004e0,26,"「ええ、学園祭が近いから」","Eh, because the school festival is close","Eh, потому что фестиваль школы близок","Ach, weil das Schulfest nah ist"
+00000524,38,"「そっか…、勉強は大丈夫なんですか？」","“Is it okay to study?”","— Хорошо ли учиться? »","„Ist es okay zu studieren? „"
 000005b0,55,"「大丈夫よ。焦っても仕方ないし、
-　まだ時間はあるもの」","","",""
+　まだ時間はあるもの」","It's okay. I don’t want to try it, but I still
+have time.","Это нормально. Я не хочу попробовать, но у меня
+еще есть время.","Schon gut. Ich will es nicht versuchen, aber ich
+habe noch Zeit."
 00000650,55,"（よかった…すっかり立ち直ってる。
-　これなら本番は…）","","",""
+　これなら本番は…）","(It was good… I was re。ing. This is the
+production number…)","(Это было хорошо… Я был переопределён. Это
+номер производства…)","(Es war gut… Ich war neu. Dies ist die
+Produktionszahl…)"
 000006a8,63,"「じゃあ、仕事中悪いんですけど、
-　眼鏡、取ってくれませんか？」","","",""
-00000744,8,"「え…」","","",""
-000007a4,38,"「素顔、撮らせてくれる約束ですよね？」","","",""
-0000081c,20,"「クスッ、いいわよ」","","",""
-000008fc,8,"「はい」","","",""
-00000a08,22,"（…いい笑顔だったな）","","",""
-00000a84,26,"「何か手伝いましょうか？」","","",""
-00000ad8,40,"「大丈夫よ、特に頼みたいことはないから」","","",""
-00000b6c,12,"「そっか…」","","",""
+　眼鏡、取ってくれませんか？」","“I’m a bad job, but don’t you take glasses?”","— Я плохая работа, но не берешь очки? »","„Ich bin ein schlechter Job, aber nimmst du keine
+Brille? „"
+00000744,8,"「え…」","」","」","!"
+000007a4,38,"「素顔、撮らせてくれる約束ですよね？」","“Is it a promise to take a picture?”","- Это обещание сфотографироваться? »","„Ist es ein Versprechen, ein Bild zu machen? „"
+0000081c,20,"「クスッ、いいわよ」","I'm good!","Я хорошо!","Ich bin gut!"
+000008fc,8,"「はい」","Yes","Да","Ja"
+00000a08,22,"（…いい笑顔だったな）","(…It was a good smile)","(… Это была хорошая улыбка)","(…) Es war ein gutes Lächeln)"
+00000a84,26,"「何か手伝いましょうか？」","“How can we help you?”","«Как мы можем вам помочь? »","„Wie können wir Ihnen helfen? „"
+00000ad8,40,"「大丈夫よ、特に頼みたいことはないから」","“I’m okay, I don’t want to rely on it.”","«Я в порядке, я не хочу полагаться на него. »","„Ich bin okay, ich will mich nicht darauf
+verlassen. „"
+00000b6c,12,"「そっか…」","っ","ПРЯМО",","
 00000bc0,61,"「ただ…そこに座っていてくれればいい。
-　…それだけでいいの」","","",""
-00000c7c,14,"「室戸先輩…」","","",""
+　…それだけでいいの」","“Now… I want to sit there. … it's good","«Сейчас… Я хочу сидеть там. … это хорошо","„Jetzt… Ich will da sitzen. … es ist gut"
+00000c7c,14,"「室戸先輩…」","Muroto seniors …","Мурото старший …","Muroto Senioren …"
 00000cb8,63,"「よ～し、じゃあ教科書取ってきて、
-　たまには俺も勉強するかな」","","",""
+　たまには俺も勉強するかな」","“Oh, I’m going to study the textbook, but I’m
+going to study.”","«О, я собираюсь изучать учебник, но я собираюсь
+учиться. »","„Oh, ich werde das Lehrbuch studieren, aber ich
+werde studieren. „"
 00000d50,71,"「いいわね。がんばって勉強して、
-　あなたも私と同じ大学に入りなさいよ」","","",""
-00000df8,40,"「え！？　無理無理！　入れっこないって」","","",""
-00000e7c,30,"「努力もせずにそんなことを…」","","",""
-00000ec4,26,"「レベルが違いすぎですよ」","","",""
-00000f2c,22,"「そんなことないわよ」","","",""
-00000f64,24,"「無理ですって。けど…」","","",""
-00000fb8,10,"「けど？」","","",""
+　あなたも私と同じ大学に入りなさいよ」","I'm good. I'm studying, and you'll go to the
+same university as me.","- Я хорошо. Я учусь, и ты пойдет в тот же
+университет, что и я.","Ich bin gut. Ich studiere und du gehst zur
+selben Universität wie ich."
+00000df8,40,"「え！？　無理無理！　入れっこないって」","Yes!? I can't put it!","- Да! Я не могу это поставить!","Ja!? Ich kann es nicht setzen!"
+00000e7c,30,"「努力もせずにそんなことを…」","“I don’t have any effort to do that…”","«У меня нет никаких усилий для этого… »","„Ich habe keine Mühe, das zu tun… „"
+00000ec4,26,"「レベルが違いすぎですよ」","“The level is too different.”","«Уровень слишком отличается. »","„Die Ebene ist zu anders. „"
+00000f2c,22,"「そんなことないわよ」","“I don’t know that.”","- Я не знаю, что. »","„Das weiß ich nicht. „"
+00000f64,24,"「無理ですって。けど…」","I'm sorry.","Прости.","Es tut mir leid."
+00000fb8,10,"「けど？」","?」","?」","?"
 0000101c,104,"「そっちの大学の近くにも、俺のレベルに
 　合った大学があるだろうから、来年、
-　がんばって受けてみますよ」","","",""
-000010a8,26,"「それで…いいですよね？」","","",""
-00001130,34,"「ええ……ありがとう。うれしいわ」","","",""
-000011d0,36,"（室戸先輩……誘おう、フォト部展に）","","",""
-00001218,40,"「先輩は、学園祭って何してるんですか？」","","",""
+　がんばって受けてみますよ」","“I think there is a university that fits my level
+in the vicinity of that university, so I will take
+it next year.”","«Я думаю, что есть университет, который
+соответствует моему уровню в окрестностях этого
+университета, так что я возьму его в следующем
+году. »","„Ich denke, es gibt eine Universität, die meinem
+Niveau in der Nähe dieser Universität passt, also
+werde ich es im nächsten Jahr nehmen. „"
+000010a8,26,"「それで…いいですよね？」","“It’s right… right?”","— Правильно… верно? »","„Es ist richtig… richtig? „"
+00001130,34,"「ええ……ありがとう。うれしいわ」","Thank you. HOME","Спасибо. дома","Danke. HOME"
+000011d0,36,"（室戸先輩……誘おう、フォト部展に）","(Muroto Seniors: Inviting, Photo Exhibition)","(Мурото Старшие: Приглашение, Фотовыставка)","(Muroto Senioren: Einladung, Fotoausstellung)"
+00001218,40,"「先輩は、学園祭って何してるんですか？」","What is the school festival?","Что такое школьный фестиваль?","Was ist das Schulfestival?"
 0000129c,75,"「私は、校内を見回ったり、校門の横の受付で
-　招待客の方々にご挨拶したりね」","","",""
-0000139c,20,"「どうして聞くの？」","","",""
+　招待客の方々にご挨拶したりね」","“I’m looking around the school, and I’mを見ing to
+the guests at the reception next to the school
+gate.”","«Я смотрю вокруг школы, и я ’må theing к гостям
+на приеме рядом с школьными воротами. »","„Ich schaue um die Schule, und ich bin
+verpflichtet, die Gäste an der Rezeption neben dem
+Schultor. „"
+0000139c,20,"「どうして聞くの？」","“How do you hear?”","— Как вы слышите? »","„Wie hörst du? „"
 0000140c,81,"「…先輩なら知ってると思うけど、フォト部は
-　写真部と合同で写真展をやるんですよ」","","",""
+　写真部と合同で写真展をやるんですよ」","…I know if you are a senior, but the photo
+department will do a photo exhibition together
+with the photo department.","… Я знаю, если вы старший, но фотоотдел будет
+делать фотовыставку вместе с фотоотделом».","… Ich weiß, ob Sie ein Senior sind, aber die
+Fotoabteilung wird zusammen mit der Fotoabteilung
+eine Fotoausstellung machen."
 000014ac,57,"「もちろん知ってるわよ。
-　食堂の貸し切りを許可したから」","","",""
-00001548,24,"「あなたも展示するの？」","","",""
+　食堂の貸し切りを許可したから」","I know. Because I allowed to cook in the dining
+room ","Я знаю. Потому что я позволил приготовить в
+столовой ","Ich weiß. Weil ich im Speisesaal kochen durfte "
+00001548,24,"「あなたも展示するの？」","“You can see it?”","- Вы можете это увидеть? »","„Sie können es sehen? „"
 000015bc,65,"「もちろん。１枚だけ、思い入れのある写真を
-　展示するつもりです」","","",""
-00001664,14,"「１枚だけ？」","","",""
+　展示するつもりです」","Of course. I'm going to exhibit my thoughtful
+photos.","- Конечно. Я буду выставлять свои продуманные
+фотографии.","Natürlich. Ich werde meine nachdenklichen Fotos
+zeigen."
+00001664,14,"「１枚だけ？」","「One piece」","「 Одна часть」","ZEITSCHRIFTEN Ein Stück!"
 000016a8,104,"「あ、壁のにぎやかし的な写真は、
 　かつみさんに何枚か渡すんで、それなりに
-　飾られてるとは思いますけど」","","",""
+　飾られてるとは思いますけど」","“Oh, I think I would pass several photos to the
+wigs, and they would be decorated with them.”","«О, я думаю, что я бы передать несколько
+фотографий в парики, и они были бы украшены ими. »","„Oh, ich denke, ich würde mehrere Fotos an die
+Perücken übergeben, und sie würden mit ihnen
+verziert werden. „"
 00001740,49,"「自分が飾りたくて飾るのは、
-　その写真だけです」","","",""
+　その写真だけです」","“I want to decorate myself and I only have that
+picture.”","«Хочу украсить себя, и у меня только такая
+картина. »","„Ich will mich dekorieren und ich habe nur dieses
+Bild. „"
 000017a0,88,"「それで…できれば……
 　見に来てくれませんか？
-　室戸先輩に１人で見に来て欲しいんです」","","",""
-00000744,8,"「え…」","","",""
+　室戸先輩に１人で見に来て欲しいんです」","Let's see if you can. I would like to visit
+Muroto seniors with one person.","Давай посмотрим, можно ли. Я хотел бы посетить
+пожилых людей Muroto с одним человеком.","Mal sehen, ob du das kannst. Ich möchte Muroto
+Senioren mit einer Person besuchen."
+00000744,8,"「え…」","」","」","!"
 000018f8,59,"「え、ええ、もちろん見に行くわよ。
-　ちゃんと案内してよね」","","",""
-000019cc,14,"「よかった…」","","",""
-00001a6c,30,"「誘ってくれて…ありがとう…」","","",""
-00001b40,36,"「学園祭がますます楽しみになったわ」","","",""
+　ちゃんと案内してよね」","Yes, yes, of course, go to see. I'm guided to
+it.","Да, да, конечно, пойти посмотреть. Я
+руководствуюсь им.","Ja, ja, natürlich. Ich bin dazu geführt."
+000019cc,14,"「よかった…」","」","」","!"
+00001a6c,30,"「誘ってくれて…ありがとう…」","Thank you…","Спасибо…","Danke…"
+00001b40,36,"「学園祭がますます楽しみになったわ」","The school festival has become more exciting","«Фестиваль школы стал более захватывающим»","Das Schulfestival ist aufregender geworden"
 00001bcc,61,"「その為にも、早くこの学園祭関連の仕事を
-　終わらせないとね」","","",""
-00001c68,36,"「じゃあ、俺は教科書取ってきますよ」","","",""
-00001cf4,22,"「ええ、待ってるわね」","","",""
-00001d8c,42,"こうして、学園祭で写真を見せる約束をした。","","",""
+　終わらせないとね」","“I can’t finish this school festival-related work
+for that purpose.”","«Я не могу закончить эту школу фестиваль,
+связанную с работой для этой цели. »","„Ich kann diese schulische Festivalarbeit nicht
+zu diesem Zweck beenden. „"
+00001c68,36,"「じゃあ、俺は教科書取ってきますよ」","“Yes, I will take a textbook.”","— Да, я возьму учебник. »","„Ja, ich nehme ein Lehrbuch. „"
+00001cf4,22,"「ええ、待ってるわね」","Yes, wait!","- Да, подождите!","Ja, warte!"
+00001d8c,42,"こうして、学園祭で写真を見せる約束をした。","I promised to show photos at the school festival.","Я обещал показать фотографии на школьном
+фестивале.","Ich habe versprochen, Fotos auf dem Schulfest zu
+zeigen."

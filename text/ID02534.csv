@@ -1,191 +1,260 @@
-000001d4,38,"「カラオケへ行くなんて…久しぶりだわ」","","",""
-00000268,20,"「そうなんですか？」","","",""
+000001d4,38,"「カラオケへ行くなんて…久しぶりだわ」","What is a karaoke song … I'm a long time ago","Что такое караоке песня… Я давно","Was ist ein Karaokesong? Ich bin vor langer Zeit"
+00000268,20,"「そうなんですか？」","What is it?","Что это?","Was ist los?"
 000002d8,88,"「ええ。２年のころ、かつみとか、
 　生徒会の女の子たちと一緒に、
-　何度か行ったっきりよ」","","",""
-000003cc,10,"「へ～っ」","","",""
+　何度か行ったっきりよ」","Home When I was two years old, I went with the
+children of the student group several times.","Home Когда Мне было два года, я пошел с детьми
+студенческой группы несколько раз.","Home Wann Ich war zwei Jahre alt, ich ging
+mehrmals mit den Kindern der Studentengruppe."
+000003cc,10,"「へ～っ」","」","」","!"
 00000404,63,"（カラオケで歌って、室戸先輩のうさが
-　晴らせればいいんだけど）","","",""
-00000484,28,"「お客様、２名様ですか～？」","","",""
-000004d0,8,"「はい」","","",""
-000004fc,38,"「お時間は、１時間でよろしいですか？」","","",""
-00000544,18,"「いいですよね？」","","",""
-00000584,10,"「十分よ」","","",""
-000005b0,20,"「じゃあ、１時間で」","","",""
-000005f4,28,"「すぐにご案内いたします～」","","",""
-000006a8,26,"「さ～て、歌うぞ～～っ！」","","",""
-00000704,30,"「…ずいぶん張り切ってるのね」","","",""
+　晴らせればいいんだけど）","(I would like to sing in karaoke, and the sing of
+seniors Mur  should be fine.)","(Я хотел бы петь в караоке, и петь пожилых людей
+Мур должен быть хорошо.)","(Ich möchte in Karaoke singen, und der Gesang von
+Senioren Mur sollte in Ordnung sein.)"
+00000484,28,"「お客様、２名様ですか～？」","Are you two people?","- Ты два человека?","Sind Sie zwei Menschen?"
+000004d0,8,"「はい」","Yes","Да","Ja"
+000004fc,38,"「お時間は、１時間でよろしいですか？」","Do you have time?","- У тебя есть время?","Hast du Zeit?"
+00000544,18,"「いいですよね？」","“I’m good?”","- Я хорошо? »","„Ich bin gut? „"
+00000584,10,"「十分よ」","」","」","!"
+000005b0,20,"「じゃあ、１時間で」","Oh, in 1 hour","О, через 1 час","Oh, in 1 Stunde"
+000005f4,28,"「すぐにご案内いたします～」","We will guide you soon","Мы скоро направим вас","Wir werden dich bald führen"
+000006a8,26,"「さ～て、歌うぞ～～っ！」","“I’ll sing!”","«Я пою!»","„Ich singe!“"
+00000704,30,"「…ずいぶん張り切ってるのね」","…I'm tied up.","…Я завязан.","Ich bin gebunden."
 00000744,55,"「もちろんですよ。先輩と初めての
-　カラオケですからね」","","",""
-000007c8,22,"「そっか……そうよね」","","",""
-00000860,38,"「私は聞いてるから、好きなのを歌って」","","",""
-000008b4,38,"（まずい、俺が１人歌っても意味がない）","","",""
+　カラオケですからね」","Of course. First time with seniors Karaoke","Конечно. Первый раз со старшими Караоке","Natürlich. Erstes Mal mit Senioren Karaoke"
+000007c8,22,"「そっか……そうよね」","It's like that, right?","- Это так, верно?","So ist es, richtig?"
+00000860,38,"「私は聞いてるから、好きなのを歌って」","I'm listening, I'm singing my favorite.","«Я слушаю, я пою мой любимый».","Ich höre zu, ich singe meinen Liebling."
+000008b4,38,"（まずい、俺が１人歌っても意味がない）","(First, I don’t have meaning even if I sing one
+person)","(Во-первых, у меня нет смысла, даже если я пою
+одного человека)","(Zuerst habe ich keine Bedeutung, auch wenn ich
+eine Person singe)"
 00000908,86,"「いや、ここはリクエストするから、
 　先輩から歌ってください。
-　え～と…何にするかな」","","",""
-000009c4,20,"「ちょ、ちょっと…」","","",""
-00000a24,26,"ムーンライト　スターライト","","",""
-00000a24,26,"ムーンライト　スターライト","","",""
-00000aa8,20,"フォトグラフメモリー","","",""
-00000b28,14,"「その曲ね…」","","",""
-00000b80,26,"「仕方ないわね…歌うわよ」","","",""
-00000cbc,36,"パチパチパチパチパチパチパチパチパチ","","",""
-00000d0c,34,"「すごくうまかったですよ、先輩！」","","",""
-00000d7c,24,"「そう？　…ありがとう」","","",""
-00000e18,10,"「ふぅ…」","","",""
+　え～と…何にするかな」","No, I'll ask you, so please sing from my
+seniors.","- Нет, я спрашиваю вас, поэтому, пожалуйста,
+пойте от моих старших.","Nein, ich frage dich, also singe bitte von
+meinen Senioren."
+000009c4,20,"「ちょ、ちょっと…」","」","」","!"
+00000a24,26,"ムーンライト　スターライト","Moonlight Starlight","Лунный свет Starlight","Mondlicht Starlight"
+00000a24,26,"ムーンライト　スターライト","Moonlight Starlight","Лунный свет Starlight","Mondlicht Starlight"
+00000aa8,20,"フォトグラフメモリー","Photograph memory","Фото память","Fotospeicher"
+00000b28,14,"「その曲ね…」","It's a song…","Это песня…","Es ist ein Lied…"
+00000b80,26,"「仕方ないわね…歌うわよ」","I don't want to do… I'm singing.","Я не хочу делать… Я пою.","Ich will nicht… Ich singe."
+00000cbc,36,"パチパチパチパチパチパチパチパチパチ","Peach Peach Peach Peach Peach Peach Peach Peach
+Peach","Peach Peach Peach Peach Peach Peach Peach Peach
+Peach Peach","Peach Peach Peach Peach Peach Peach Peach Peach
+Peach Peach Peach Peach"
+00000d0c,34,"「すごくうまかったですよ、先輩！」","It was so good, my seniors!","Это было так хорошо, мои пожилые!","Es war so gut, meine Senioren!"
+00000d7c,24,"「そう？　…ありがとう」","So? … thank you","Так? … спасибо","So? … danke"
+00000e18,10,"「ふぅ…」","」","」","!"
 00000e50,49,"（あ、あれ？　あんまりうさが晴れてない
-　気が…）","","",""
-00000ec4,26,"「ごめんね、気を遣わせて」","","",""
-00000f0c,8,"「え？」","","",""
+　気が…）","Sorry, this entry is only available in Japanese.","Извините, этот техт доступен только в “Японский”.","Leider ist dieser Eintrag nur auf Japanisch
+verfügbar."
+00000ec4,26,"「ごめんね、気を遣わせて」","I'm sorry, let's care","Я сожалею, позаботимся","Es tut mir leid, kümmern wir uns."
+00000f0c,8,"「え？」","?」","?」","?"
 00000f54,94,"「全国模試のせいで私が落ち込んでるから、
 　元気づけるために、
-　ここに連れてきたんでしょう？」","","",""
-00001018,20,"「…バレましたか？」","","",""
-0000107c,14,"「ばればれよ」","","",""
-000010c4,28,"「ありがとう…。けど、私…」","","",""
-00001140,8,"「……」","","",""
+　ここに連れてきたんでしょう？」","“I’ve brought me here to help me get better
+because of my nationwide practice.”","«Я привел меня сюда, чтобы помочь мне стать лучше
+из-за моей общенациональной практики. »","„Ich habe mich hierher gebracht, um mir zu
+helfen, besser zu werden wegen meiner bundesweiten
+Praxis. „"
+00001018,20,"「…バレましたか？」","“…Will you have a bare?”","«… У вас будет бар? »","„… Haben Sie eine Bare? „"
+0000107c,14,"「ばればれよ」","」","」","!"
+000010c4,28,"「ありがとう…。けど、私…」","Thank you. But I…","Спасибо. Но я…","Danke. Aber ich…"
+00001140,8,"「……」","…","…","…"
 000011b0,59,"「あ……よ～し、次は俺の番ですよ！
-　さ～て、何を歌うかな」","","",""
+　さ～て、何を歌うかな」","Oh, I'm my number next! So, what do you sing?","О, я мой номер следующий! Итак, что ты поешь?","Oh, ich bin meine nächste Nummer! Also, was
+singst du?"
 0000120c,53,"「…無理せず、徐々に元気になってくれれば
-　いいです」","","",""
-00001290,14,"「\p01君……」","","",""
-000012ec,10,"「うん…」","","",""
-000013c8,20,"「もう、強引ねぇ…」","","",""
-00001460,42,"「さ、リクエストするから、歌ってください」","","",""
-000014d4,36,"「はぁ…いいわよ。何を歌えばいい？」","","",""
-00000a24,26,"ムーンライト　スターライト","","",""
-00000a24,26,"ムーンライト　スターライト","","",""
-00000aa8,20,"フォトグラフメモリー","","",""
-00000b28,14,"「その曲ね…」","","",""
-00000b80,26,"「仕方ないわね…歌うわよ」","","",""
-00000cbc,36,"パチパチパチパチパチパチパチパチパチ","","",""
-00001868,30,"「さすが、室戸先輩！　最高！」","","",""
-000018d4,36,"「もう……盛り上げ方が、強引過ぎよ」","","",""
+　いいです」","…It's good if you don't force it and gradually
+become energetic.","… Хорошо, если вы не заставите его и постепенно
+становитесь энергичным.","… Es ist gut, wenn Sie es nicht zwingen und
+allmählich energisch werden."
+000012ec,10,"「うん…」","…","…","…"
+000013c8,20,"「もう、強引ねぇ…」","Now, you'll be…","Теперь ты будешь…","Jetzt wirst du…"
+00001460,42,"「さ、リクエストするから、歌ってください」","“Send, ask and sing.”","«Отправить, спросить и петь. »","„Senden, fragen und singen. „"
+000014d4,36,"「はぁ…いいわよ。何を歌えばいい？」","I'm good. What should I sing?","Я хорошо. Что я должен петь?","Ich bin gut. Was soll ich singen?"
+00000a24,26,"ムーンライト　スターライト","Moonlight Starlight","Лунный свет Starlight","Mondlicht Starlight"
+00000a24,26,"ムーンライト　スターライト","Moonlight Starlight","Лунный свет Starlight","Mondlicht Starlight"
+00000aa8,20,"フォトグラフメモリー","Photograph memory","Фото память","Fotospeicher"
+00000b28,14,"「その曲ね…」","It's a song…","Это песня…","Es ist ein Lied…"
+00000b80,26,"「仕方ないわね…歌うわよ」","I don't want to do… I'm singing.","Я не хочу делать… Я пою.","Ich will nicht… Ich singe."
+00000cbc,36,"パチパチパチパチパチパチパチパチパチ","Peach Peach Peach Peach Peach Peach Peach Peach
+Peach","Peach Peach Peach Peach Peach Peach Peach Peach
+Peach Peach","Peach Peach Peach Peach Peach Peach Peach Peach
+Peach Peach Peach Peach"
+00001868,30,"「さすが、室戸先輩！　最高！」","Sが, my seniors! Best!","«С, исполни мои пожилые! Лучше!","Sutter, meine Senioren! Best!"
+000018d4,36,"「もう……盛り上げ方が、強引過ぎよ」","Oh, it's too strong to raise.","О, это слишком сильно, чтобы поднять.","Oh, es ist zu stark zu erheben."
 00001960,55,"「けど、ありがとうね。
-　きっとそのうち立ち直るから…」","","",""
+　きっとそのうち立ち直るから…」","Thank you. I'm sure I'll stop again…","Спасибо. Я уверен, что я снова остановлю…","Danke. Ich bin sicher, ich werde wieder
+aufhören…"
 0000120c,53,"「…無理せず、徐々に元気になってくれれば
-　いいです」","","",""
-00001a7c,22,"「うん……ありがとう」","","",""
-00001b3c,32,"「週末の水族館、楽しみにしてる」","","",""
-00001bb8,14,"「俺もですよ」","","",""
-00001c04,36,"こうして、２人でカラオケを楽しんだ。","","",""
-000001d4,38,"「カラオケへ行くなんて…久しぶりだわ」","","",""
-00000268,20,"「そうなんですか？」","","",""
+　いいです」","…It's good if you don't force it and gradually
+become energetic.","… Хорошо, если вы не заставите его и постепенно
+становитесь энергичным.","… Es ist gut, wenn Sie es nicht zwingen und
+allmählich energisch werden."
+00001a7c,22,"「うん……ありがとう」","Thank you","Спасибо","Danke."
+00001b3c,32,"「週末の水族館、楽しみにしてる」","Weekend Aquarium, I'm looking forward to it.","Заветный аквариум, я с нетерпением жду этого.","Weekend Aquarium, ich freue mich darauf."
+00001bb8,14,"「俺もですよ」","I'm also.","- Я тоже.","Ich bin auch."
+00001c04,36,"こうして、２人でカラオケを楽しんだ。","I enjoyed karaoke with two people.","Я наслаждался караоке с двумя людьми.","Ich genossen Karaoke mit zwei Leuten."
+000001d4,38,"「カラオケへ行くなんて…久しぶりだわ」","What is a karaoke song … I'm a long time ago","Что такое караоке песня… Я давно","Was ist ein Karaokesong? Ich bin vor langer Zeit"
+00000268,20,"「そうなんですか？」","What is it?","Что это?","Was ist los?"
 000002d8,88,"「ええ。２年のころ、かつみとか、
 　生徒会の女の子たちと一緒に、
-　何度か行ったっきりよ」","","",""
-000003cc,10,"「へ～っ」","","",""
+　何度か行ったっきりよ」","Home When I was two years old, I went with the
+children of the student group several times.","Home Когда Мне было два года, я пошел с детьми
+студенческой группы несколько раз.","Home Wann Ich war zwei Jahre alt, ich ging
+mehrmals mit den Kindern der Studentengruppe."
+000003cc,10,"「へ～っ」","」","」","!"
 00000404,63,"（カラオケで歌って、室戸先輩のうさが
-　晴らせればいいんだけど）","","",""
-00000484,28,"「お客様、２名様ですか～？」","","",""
-000004d0,8,"「はい」","","",""
-000004fc,38,"「お時間は、１時間でよろしいですか？」","","",""
-00000544,18,"「いいですよね？」","","",""
-00002104,20,"「いいんじゃない？」","","",""
-000005b0,20,"「じゃあ、１時間で」","","",""
-000005f4,28,"「すぐにご案内いたします～」","","",""
-0000223c,26,"「さ～て、何を歌うかな…」","","",""
-00001140,8,"「……」","","",""
-000022d0,22,"「どうかしましたか？」","","",""
+　晴らせればいいんだけど）","(I would like to sing in karaoke, and the sing of
+seniors Mur  should be fine.)","(Я хотел бы петь в караоке, и петь пожилых людей
+Мур должен быть хорошо.)","(Ich möchte in Karaoke singen, und der Gesang von
+Senioren Mur sollte in Ordnung sein.)"
+00000484,28,"「お客様、２名様ですか～？」","Are you two people?","- Ты два человека?","Sind Sie zwei Menschen?"
+000004d0,8,"「はい」","Yes","Да","Ja"
+000004fc,38,"「お時間は、１時間でよろしいですか？」","Do you have time?","- У тебя есть время?","Hast du Zeit?"
+00000544,18,"「いいですよね？」","“I’m good?”","- Я хорошо? »","„Ich bin gut? „"
+00002104,20,"「いいんじゃない？」","“What is good?”","- Что хорошего? »","„Was ist gut? „"
+000005b0,20,"「じゃあ、１時間で」","Oh, in 1 hour","О, через 1 час","Oh, in 1 Stunde"
+000005f4,28,"「すぐにご案内いたします～」","We will guide you soon","Мы скоро направим вас","Wir werden dich bald führen"
+0000223c,26,"「さ～て、何を歌うかな…」","“What do you sing?”","— Что ты поешь? »","„Was singst du? „"
+00001140,8,"「……」","…","…","…"
+000022d0,22,"「どうかしましたか？」","What did you do?","Что вы сделали?","Was hast du getan?"
 00002328,61,"「よく考えたら、男子と２人でカラオケって、
-　初めてだなって」","","",""
-000023d4,16,"「え？　あ……」","","",""
-00002428,40,"「密室だし、ちょっと…意識しちゃうわね」","","",""
-000024c0,20,"「そ、そうですね…」","","",""
+　初めてだなって」","If you think well, karaoke with men and two
+people, it's the first time.","Если вы хорошо думаете, караоке с мужчинами и
+двумя людьми, это первый раз.","Wenn du gut denkst, Karaoke mit Männern und zwei
+Leuten, ist es das erste Mal."
+000023d4,16,"「え？　あ……」","……","………","…"
+00002428,40,"「密室だし、ちょっと…意識しちゃうわね」","It's a d」 room, it's a little… I'm conscious.","Это комната d」, это немного… Я осознаю.","Es ist ein Zimmer, es ist ein wenig… Ich bin
+mir bewusst."
+000024c0,20,"「そ、そうですね…」","It's right…","«Это правильно…»","Es ist richtig…"
 00002504,61,"（元気づけることばかり考えて、
-　そこまで気が回らなかった…）","","",""
-00002564,30,"「よ、よ～し、歌うぞ～～っ！」","","",""
-000025f0,40,"「ど、どうしたの？　ずいぶん張り切って」","","",""
+　そこまで気が回らなかった…）","Sorry, this entry is only available in 日本語. )","Извините, этот техт доступен только в “日本語”. )","Leider ist dieser Eintrag nur in 日本語 verfügbar. )"
+00002564,30,"「よ、よ～し、歌うぞ～～っ！」","Yes, I'm singing!","- Да, я пою!","Ja, ich singe!"
+000025f0,40,"「ど、どうしたの？　ずいぶん張り切って」","“What did you do?”","— Что ты сделал? »","„Was hast du getan? „"
 00002648,59,"「先輩との初カラオケですからね。
-　バッチリ盛り上げないと」","","",""
+　バッチリ盛り上げないと」","It is the first karaoke with seniors. Don't b盛り
+up","Это первый караоке со старшими. Не b盛り up","Es ist der erste Karaoke mit Senioren. Nicht nach
+oben gehen"
 000026c4,57,"「そっか。じゃあ、私は聞いてるから、
-　好きなのを歌って」","","",""
-0000272c,22,"「え？　室戸先輩は？」","","",""
-00002784,22,"「私は…今日はいいわ」","","",""
-000008b4,38,"（まずい、俺が１人歌っても意味がない）","","",""
+　好きなのを歌って」","。 Well, I'm listening, and I'm singing my
+favorite thing.","。 Ну, я слушаю, и я пою свою любимую вещь.","。 Ich höre zu und ich singe meine
+Lieblingssache."
+0000272c,22,"「え？　室戸先輩は？」","What is the seniors of Mur室?","- Что такое старшие Мур??","Was sind die Senioren von Murblend?"
+00002784,22,"「私は…今日はいいわ」","I'm … today I'm sorry","Я … сегодня сожалею","Ich… heute tut es mir leid"
+000008b4,38,"（まずい、俺が１人歌っても意味がない）","(First, I don’t have meaning even if I sing one
+person)","(Во-первых, у меня нет смысла, даже если я пою
+одного человека)","(Zuerst habe ich keine Bedeutung, auch wenn ich
+eine Person singe)"
 00000908,86,"「いや、ここはリクエストするから、
 　先輩から歌ってください。
-　え～と…何にするかな」","","",""
-000009c4,20,"「ちょ、ちょっと…」","","",""
-00000a24,26,"ムーンライト　スターライト","","",""
-00000a24,26,"ムーンライト　スターライト","","",""
-00000aa8,20,"フォトグラフメモリー","","",""
-00000b28,14,"「その曲ね…」","","",""
-00002a78,22,"「仕方ない…歌うわよ」","","",""
-00000cbc,36,"パチパチパチパチパチパチパチパチパチ","","",""
-00000d0c,34,"「すごくうまかったですよ、先輩！」","","",""
-00000d7c,24,"「そう？　…ありがとう」","","",""
-00000e18,10,"「ふぅ…」","","",""
+　え～と…何にするかな」","No, I'll ask you, so please sing from my
+seniors.","- Нет, я спрашиваю вас, поэтому, пожалуйста,
+пойте от моих старших.","Nein, ich frage dich, also singe bitte von
+meinen Senioren."
+000009c4,20,"「ちょ、ちょっと…」","」","」","!"
+00000a24,26,"ムーンライト　スターライト","Moonlight Starlight","Лунный свет Starlight","Mondlicht Starlight"
+00000a24,26,"ムーンライト　スターライト","Moonlight Starlight","Лунный свет Starlight","Mondlicht Starlight"
+00000aa8,20,"フォトグラフメモリー","Photograph memory","Фото память","Fotospeicher"
+00000b28,14,"「その曲ね…」","It's a song…","Это песня…","Es ist ein Lied…"
+00002a78,22,"「仕方ない…歌うわよ」","I don't want to sing…","Я не хочу петь…","Ich will nicht singen…"
+00000cbc,36,"パチパチパチパチパチパチパチパチパチ","Peach Peach Peach Peach Peach Peach Peach Peach
+Peach","Peach Peach Peach Peach Peach Peach Peach Peach
+Peach Peach","Peach Peach Peach Peach Peach Peach Peach Peach
+Peach Peach Peach Peach"
+00000d0c,34,"「すごくうまかったですよ、先輩！」","It was so good, my seniors!","Это было так хорошо, мои пожилые!","Es war so gut, meine Senioren!"
+00000d7c,24,"「そう？　…ありがとう」","So? … thank you","Так? … спасибо","So? … danke"
+00000e18,10,"「ふぅ…」","」","」","!"
 00000e50,49,"（あ、あれ？　あんまりうさが晴れてない
-　気が…）","","",""
-00000ec4,26,"「ごめんね、気を遣わせて」","","",""
-00000f0c,8,"「え？」","","",""
+　気が…）","Sorry, this entry is only available in Japanese.","Извините, этот техт доступен только в “Японский”.","Leider ist dieser Eintrag nur auf Japanisch
+verfügbar."
+00000ec4,26,"「ごめんね、気を遣わせて」","I'm sorry, let's care","Я сожалею, позаботимся","Es tut mir leid, kümmern wir uns."
+00000f0c,8,"「え？」","?」","?」","?"
 00000f54,94,"「全国模試のせいで私が落ち込んでるから、
 　元気づけるために、
-　ここに連れてきたんでしょう？」","","",""
-00001018,20,"「…バレましたか？」","","",""
-00002f1c,28,"「ばればれよ。…ありがとう」","","",""
-00002fec,34,"「週末の水族館も、楽しみにしてる」","","",""
-00001bb8,14,"「俺もですよ」","","",""
-00001c04,36,"こうして、２人でカラオケを楽しんだ。","","",""
-000013c8,20,"「もう、強引ねぇ…」","","",""
-0000223c,26,"「さ～て、何を歌うかな…」","","",""
-00003298,10,"「んぐ…」","","",""
-000022d0,22,"「どうかしましたか？」","","",""
-00003354,42,"「この間までは、気づかなかったんだけど…」","","",""
-000033ec,36,"「この間は気づかなかったんだけど…」","","",""
-00003464,40,"「よく考えたら…ここって２人っきりよね」","","",""
-00003504,26,"「え？　そ、そうですね…」","","",""
-00003584,72,"「私、男子と２人でカラオケなんて、
-　したことない。
-　\p01君が初めてよ」","","",""
-00003670,40,"「そう思ったら、何だか意識しちゃって…」","","",""
-00003710,10,"「はは…」","","",""
+　ここに連れてきたんでしょう？」","“I’ve brought me here to help me get better
+because of my nationwide practice.”","«Я привел меня сюда, чтобы помочь мне стать лучше
+из-за моей общенациональной практики. »","„Ich habe mich hierher gebracht, um mir zu
+helfen, besser zu werden wegen meiner bundesweiten
+Praxis. „"
+00001018,20,"「…バレましたか？」","“…Will you have a bare?”","«… У вас будет бар? »","„… Haben Sie eine Bare? „"
+00002f1c,28,"「ばればれよ。…ありがとう」","。 Thank you","。 Спасибо","。 Danke."
+00002fec,34,"「週末の水族館も、楽しみにしてる」","I'm looking forward to the weekend's aquarium.","«Я с нетерпением жду аквариума выходных».","Ich freue mich auf das Aquarium des Wochenendes."
+00001bb8,14,"「俺もですよ」","I'm also.","- Я тоже.","Ich bin auch."
+00001c04,36,"こうして、２人でカラオケを楽しんだ。","I enjoyed karaoke with two people.","Я наслаждался караоке с двумя людьми.","Ich genossen Karaoke mit zwei Leuten."
+000013c8,20,"「もう、強引ねぇ…」","Now, you'll be…","Теперь ты будешь…","Jetzt wirst du…"
+0000223c,26,"「さ～て、何を歌うかな…」","“What do you sing?”","— Что ты поешь? »","„Was singst du? „"
+00003298,10,"「んぐ…」","」","」","!"
+000022d0,22,"「どうかしましたか？」","What did you do?","Что вы сделали?","Was hast du getan?"
+00003354,42,"「この間までは、気づかなかったんだけど…」","“I didn’t notice this time…”","- Я не заметил это время… »","„Ich habe dieses Mal nicht bemerkt… „"
+000033ec,36,"「この間は気づかなかったんだけど…」","“I didn’t notice this time…”","- Я не заметил это время… »","„Ich habe dieses Mal nicht bemerkt… „"
+00003464,40,"「よく考えたら…ここって２人っきりよね」","“If you think well… it’s two people here.”","«Если ты хорошо думаешь… здесь два человека. »","„Wenn du gut denkst… Es sind zwei Menschen
+hier. „"
+00003504,26,"「え？　そ、そうですね…」","Yes, it's right…","Да, это правильно…","Ja, es ist richtig…"
+00003670,40,"「そう思ったら、何だか意識しちゃって…」","If you think so, you will be aware of it …","Если вы так думаете, вы будете знать об этом …","Wenn Sie so denken, werden Sie sich dessen
+bewusst sein…"
+00003710,10,"「はは…」","」","」","!"
 00002504,61,"（元気づけることばかり考えて、
-　そこまで気が回らなかった…）","","",""
+　そこまで気が回らなかった…）","Sorry, this entry is only available in 日本語. )","Извините, этот техт доступен только в “日本語”. )","Leider ist dieser Eintrag nur in 日本語 verfügbar. )"
 00003814,49,"「不思議ね、この間までは気づかなかった
-　なんて」","","",""
-000038d8,42,"「不思議ね、この間は気づかなかったなんて」","","",""
+　なんて」","“Well, I didn’t know that until this time.”","— Ну, я не знал, что до этого времени. »","„Nun, das wusste ich bis zu diesem Zeitpunkt
+nicht. „"
+000038d8,42,"「不思議ね、この間は気づかなかったなんて」","“Well, I didn’t notice this time.”","— Ну, я не заметил в этот раз. »","„Nun, ich habe dieses Mal nicht bemerkt. „"
 00003950,75,"（それだけ、元気が出てきたってこと
-　なんだろうな。水族館に誘ってよかった）","","",""
-00001460,42,"「さ、リクエストするから、歌ってください」","","",""
-00003a38,30,"「いいわよ、何を歌えばいい？」","","",""
-00000a24,26,"ムーンライト　スターライト","","",""
-00000a24,26,"ムーンライト　スターライト","","",""
-00000aa8,20,"フォトグラフメモリー","","",""
-00000b28,14,"「その曲ね…」","","",""
-00003c38,26,"「よ～し、じゃあ歌うわよ」","","",""
-00000cbc,36,"パチパチパチパチパチパチパチパチパチ","","",""
-00001868,30,"「さすが、室戸先輩！　最高！」","","",""
-000018d4,36,"「もう……盛り上げ方が、強引過ぎよ」","","",""
+　なんだろうな。水族館に誘ってよかった）","Sorry, this entry is only available in Japanese.
+I was invited to the aquarium)","Извините, этот техт доступен только в “Японский”.
+Я был приглашен в аквариум)","Leider ist dieser Eintrag nur auf Japanisch
+verfügbar. Ich wurde zum Aquarium eingeladen"
+00001460,42,"「さ、リクエストするから、歌ってください」","“Send, ask and sing.”","«Отправить, спросить и петь. »","„Senden, fragen und singen. „"
+00003a38,30,"「いいわよ、何を歌えばいい？」","“What should I sing?”","— Что мне поют? »","„Was soll ich singen? „"
+00000a24,26,"ムーンライト　スターライト","Moonlight Starlight","Лунный свет Starlight","Mondlicht Starlight"
+00000a24,26,"ムーンライト　スターライト","Moonlight Starlight","Лунный свет Starlight","Mondlicht Starlight"
+00000aa8,20,"フォトグラフメモリー","Photograph memory","Фото память","Fotospeicher"
+00000b28,14,"「その曲ね…」","It's a song…","Это песня…","Es ist ein Lied…"
+00003c38,26,"「よ～し、じゃあ歌うわよ」","Yes, I'm singing!","- Да, я пою!","Ja, ich singe!"
+00000cbc,36,"パチパチパチパチパチパチパチパチパチ","Peach Peach Peach Peach Peach Peach Peach Peach
+Peach","Peach Peach Peach Peach Peach Peach Peach Peach
+Peach Peach","Peach Peach Peach Peach Peach Peach Peach Peach
+Peach Peach Peach Peach"
+00001868,30,"「さすが、室戸先輩！　最高！」","Sが, my seniors! Best!","«С, исполни мои пожилые! Лучше!","Sutter, meine Senioren! Best!"
+000018d4,36,"「もう……盛り上げ方が、強引過ぎよ」","Oh, it's too strong to raise.","О, это слишком сильно, чтобы поднять.","Oh, es ist zu stark zu erheben."
 00001960,55,"「けど、ありがとうね。
-　きっとそのうち立ち直るから…」","","",""
+　きっとそのうち立ち直るから…」","Thank you. I'm sure I'll stop again…","Спасибо. Я уверен, что я снова остановлю…","Danke. Ich bin sicher, ich werde wieder
+aufhören…"
 0000120c,53,"「…無理せず、徐々に元気になってくれれば
-　いいです」","","",""
-00001a7c,22,"「うん……ありがとう」","","",""
-00001b3c,32,"「週末の水族館、楽しみにしてる」","","",""
-00001bb8,14,"「俺もですよ」","","",""
+　いいです」","…It's good if you don't force it and gradually
+become energetic.","… Хорошо, если вы не заставите его и постепенно
+становитесь энергичным.","… Es ist gut, wenn Sie es nicht zwingen und
+allmählich energisch werden."
+00001a7c,22,"「うん……ありがとう」","Thank you","Спасибо","Danke."
+00001b3c,32,"「週末の水族館、楽しみにしてる」","Weekend Aquarium, I'm looking forward to it.","Заветный аквариум, я с нетерпением жду этого.","Weekend Aquarium, ich freue mich darauf."
+00001bb8,14,"「俺もですよ」","I'm also.","- Я тоже.","Ich bin auch."
 00004140,71,"「室戸先輩…その、よかったら、
-　今度の日曜日、水族館へ行きませんか？」","","",""
-000041d4,8,"「あ…」","","",""
+　今度の日曜日、水族館へ行きませんか？」","Muroto seniors … If so, why not go to the
+aquarium this Sunday?","Мурото старший … Если да, то почему бы не
+пойти в аквариум в это воскресенье?","Muroto Senioren… Wenn ja, warum nicht am
+Sonntag ins Aquarium gehen?"
+000041d4,8,"「あ…」","」","」","!"
 00004274,49,"「この間は、私の都合が悪くて、
-　ごめんなさいね」","","",""
+　ごめんなさいね」","I don't have to worry about my situation.","- Мне не нужно беспокоиться о моей ситуации.","Ich muss mir keine Sorgen um meine Situation
+machen."
 000042c8,61,"「いえ、いいんです。
-　家族の予定は、大事にした方がいいから」","","",""
-00004340,26,"「ありがとう、優しいのね」","","",""
-000043d4,66,"「今週末は、大丈夫よ。
-　私も、\p01君と一緒に
-　水族館へ行きたい」","","",""
+　家族の予定は、大事にした方がいいから」","I'm good. My family's schedule is better to take
+care of it.","Я хорошо. Расписание моей семьи лучше заботиться
+об этом».","Ich bin gut. Der Zeitplan meiner Familie ist
+besser, sich darum zu kümmern."
+00004340,26,"「ありがとう、優しいのね」","Thank you, kind","Спасибо, добро","Danke, nett"
 000044bc,49,"「今度は、約束をすっぽかしたり
-　しないわよね？」","","",""
-0000451c,36,"「もちろんです！　絶対にしません！」","","",""
-00004590,72,"「じゃあ、一緒に行きましょ。
-　私も、\p01君と一緒に
-　水族館へ行きたい」","","",""
+　しないわよね？」","“I don’t want to make a promise now?”","«Я не хочу делать обещание сейчас? »","„Ich will jetzt kein Versprechen machen? „"
+0000451c,36,"「もちろんです！　絶対にしません！」","Of course! Don't!","Конечно! Не!","Natürlich! Nicht!"
 00004650,49,"「じゃあ、待ち合わせは、
-　日曜日の１時に駅前で」","","",""
-000046d0,28,"「この間と同じね。いいわよ」","","",""
-0000471c,20,"「楽しみにしてるわ」","","",""
-0000478c,12,"「俺もです」","","",""
-000047c8,30,"こうして、デートの約束をした。","","",""
-00001c04,36,"こうして、２人でカラオケを楽しんだ。","","",""
+　日曜日の１時に駅前で」","Yeah, wait in front of the station on Sunday","Да, подождите перед вокзалом в воскресенье","Ja, warte am Sonntag vor der Station"
+000046d0,28,"「この間と同じね。いいわよ」","Same as this. 」","Так же, как это. 」","So wie das. !"
+0000471c,20,"「楽しみにしてるわ」","“I’m looking forward to it.”","«Я с нетерпением жду этого. »","„Ich freue mich darauf. „"
+0000478c,12,"「俺もです」","I'm also.","- Я тоже.","Ich bin auch."
+000047c8,30,"こうして、デートの約束をした。","That’s how we promised a date.","Вот как мы обещали дату.","So haben wir ein Date versprochen."
+00001c04,36,"こうして、２人でカラオケを楽しんだ。","I enjoyed karaoke with two people.","Я наслаждался караоке с двумя людьми.","Ich genossen Karaoke mit zwei Leuten."

@@ -1,35 +1,54 @@
-000001a4,28,"「う～、腹減った、腹減った」","","",""
-000001f0,40,"（まいったな…体育が長引いて出遅れたぞ）","","",""
-00000248,30,"「え～と…どこかにいい席は…」","","",""
-00000308,40,"（知らない人と同じテーブルってのもな…）","","",""
-00000360,26,"「\p01君、こっち空くわよ」","","",""
-000004e8,16,"「あ、室戸先輩」","","",""
-00000618,36,"「ちょうど食べ終わったところだから」","","",""
+000001a4,28,"「う～、腹減った、腹減った」","“Oh, I fell in my stomach, I fell in my stomach.”","«О, я упал в мой желудок, я упал в мой желудок. »","„Oh, ich fiel in meinen Magen, ich fiel in meinen
+Magen. „"
+000001f0,40,"（まいったな…体育が長引いて出遅れたぞ）","Sorry, this entry is only available in 日本語.","Извините, этот техт доступен только в “日本語”.","Leider ist dieser Eintrag nur in 日本語 verfügbar."
+00000248,30,"「え～と…どこかにいい席は…」","
+“Ehhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh","
+hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh","hhhhhhhhhhhhhhhhhhh"
+00000308,40,"（知らない人と同じテーブルってのもな…）","(The same table as those who don’t know…)","(Так же таблица, что и те, кто не знает…)","(Die gleiche Tabelle wie diejenigen, die nicht
+wissen…)"
+000004e8,16,"「あ、室戸先輩」","Oh, my seniors","«О, мои старшие»","Oh, meine Senioren"
+00000618,36,"「ちょうど食べ終わったところだから」","“It’s just what you’re eating.”","«Это только то, что вы едите. »","“Es ist nur, was Sie essen. „"
 0000066c,53,"「すみません。
-　…あれ？　その手に持ってるのって…」","","",""
-000006fc,22,"「これ？　布巾だけど」","","",""
+　…あれ？　その手に持ってるのって…」","。 …wる? I have it in my hands…","。 …чтобы бросить? У меня в руках…»","Was? Ich habe es in meinen Händen…"
+000006fc,22,"「これ？　布巾だけど」","This? It's a cloth width.","- Это? Это ткань ширина.","Das? Es ist eine Stoffbreite."
 000007c0,102,"「食べ終わったら、拭くようにしてるのよ。
 　きれいなテーブルの方が、
-　あとの人が気持ちいいでしょう？」","","",""
-000008bc,24,"「それはそうですけど…」","","",""
+　あとの人が気持ちいいでしょう？」","After eating, I wipe it. Is it better to have a
+nice table?","После еды я стираю его. Лучше ли иметь хороший
+стол?","Nach dem Essen lösche ich es. Ist es besser,
+einen schönen Tisch zu haben?"
+000008bc,24,"「それはそうですけど…」","“It’s right…”","«Это правильно… »","„Es ist richtig… „"
 000009c8,63,"「そんなこと…したことないですよ。
-　よほど汚した時は別ですが」","","",""
-00000a64,38,"「普通はそうだし、それでいいと思うわ」","","",""
+　よほど汚した時は別ですが」","I have never done that. It is different when it
+gets dirty.","Я никогда не делал этого. Он отличается, когда он
+получает грязный.","Das habe ich nie getan. Es ist anders, wenn es
+schmutzig wird."
+00000a64,38,"「普通はそうだし、それでいいと思うわ」","“I think it’s normal and it’s good.”","«Я думаю, что это нормально, и это хорошо. »","„Ich denke, es ist normal und es ist gut. „"
 00000b28,73,"「けど、テーブルがきれいだと、
-　うれしいものよ。気が向いたらやってみて」","","",""
-00000bfc,36,"「それも生徒会長の仕事なんですか？」","","",""
-00000c80,42,"「まさか、違うわよ。自主的にやってること」","","",""
+　うれしいものよ。気が向いたらやってみて」","But if the table is clean, it's not. I try to do
+it if I feel","Но если таблица чистая, это не так. Я пытаюсь
+сделать это, если я чувствую","Aber wenn der Tisch sauber ist, ist es nicht.
+Ich versuche es zu tun, wenn ich fühle"
+00000bfc,36,"「それも生徒会長の仕事なんですか？」","“Is it a student president work?”","— Работает ли студенческий президент? »","„Ist es ein studentischer Präsident? „"
+00000c80,42,"「まさか、違うわよ。自主的にやってること」","It’s different. What to do indirectly","Это другое. Что делать косвенно","Es ist anders. Was indirekt zu tun"
 00000d3c,67,"「テーブルがきれいだと、うれしいものよ。
-　気が向いたらやってみて」","","",""
-00000e08,34,"「先輩を見習って、俺もやります！」","","",""
-00000e78,22,"「本当？　うれしいわ」","","",""
+　気が向いたらやってみて」","If the table is clean, it is important. I try to
+do it if I feel","Если таблица чистая, важно. Я пытаюсь сделать
+это, если я чувствую","Wenn der Tisch sauber ist, ist es wichtig. Ich
+versuche es zu tun, wenn ich fühle"
+00000e08,34,"「先輩を見習って、俺もやります！」","I will do it!","- Я это сделаю!","Ich werde es tun!"
+00000e78,22,"「本当？　うれしいわ」","True?","- Правда?","True?"
 00000f3c,69,"「テーブルがきれいだと、思った以上に
-　うれしいものよ。がんばってね」","","",""
+　うれしいものよ。がんばってね」","If the table is clean, it is more than I
+thought.","Если таблица чистая, это больше, чем я думал.","Wenn der Tisch sauber ist, ist es mehr als ich
+dachte."
 00001188,49,"「亜岐～、トレイ返してきたわよ～。
-　行きましょ」","","",""
-000012a0,38,"「ありがと、かつみ。じゃあね、\p01君」","","",""
-00001354,14,"「失礼します」","","",""
-00001538,32,"（室戸先輩って、真面目だよな…）","","",""
+　行きましょ」","Aki ~, I've been returning the tray ~. Home","«Аки ~, я возвращаю лоток ~. Начало","Aki ~, ich habe das Tablett zurückgegeben ~ Home"
+00001354,14,"「失礼します」","I'm sorry.","- Прости.","Es tut mir leid."
+00001538,32,"（室戸先輩って、真面目だよな…）","(Muroto seniors are serious …)","(Пожилые люди серьезно …)","(Muroto Senioren sind ernst …)"
 00001610,126,"けど、確かに室戸先輩が使ったあとのテーブルは、
 汚れがなく、調味料類がテーブルの真ん中に
-きちんと置かれていて、気持ちよかった。","","",""
+きちんと置かれていて、気持ちよかった。","However, it was nice that the seasonings were
+properly placed in the middle of the table.","Однако было приятно, что приправы были правильно
+размещены в середине стола.","Allerdings war es schön, dass die Gewürze richtig
+in der Mitte des Tisches platziert wurden."

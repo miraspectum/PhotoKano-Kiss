@@ -1,92 +1,169 @@
-000001ac,32,"（あ、室戸先輩がいつもの席に…）","","",""
-00000230,22,"シャッターチャンスだ！","","",""
-000002dc,24,"「うんうん…なるほど…」","","",""
-00000394,26,"「この提案はもっともね…」","","",""
-00000444,20,"（撮るまでもないな）","","",""
-000004d0,34,"「室戸先輩、生徒会の仕事ですか？」","","",""
-00000660,53,"「あ、\p01君。ええ、生徒会への要望を
-　読んでたのよ」","","",""
-00000708,18,"「要望…ですか？」","","",""
+000001ac,32,"（あ、室戸先輩がいつもの席に…）","(Oh, the seniors of Muroto stay in the usual
+seat…)","(О, старшие Muroto останавливаются в обычном
+месте…)","(Oh, die Senioren von Muroto bleiben im üblichen
+Sitz…)"
+00000230,22,"シャッターチャンスだ！","ter chance!","ter шанс!","Eine Chance!"
+000002dc,24,"「うんうん…なるほど…」","Yes… I see…","Да… Я вижу…","Ja… ich sehe…"
+00000394,26,"「この提案はもっともね…」","This proposal is the most …","Это предложение является самым …","Dieser Vorschlag ist am meisten…"
+00000444,20,"（撮るまでもないな）","(It is not until you take it)","(Это не до тех пор, пока вы не принимаете его)","(Es ist nicht, bis du es nimmst)"
+000004d0,34,"「室戸先輩、生徒会の仕事ですか？」","“Are you a senior student at Murodo and a student
+association?”","«Вы старшего студента в Муродо и студенческой
+ассоциации? »","„Sind Sie ein Senior Student bei Murodo und einem
+Studentenverband? „"
+00000708,18,"「要望…ですか？」","What is your request?","Каков ваш запрос?","Was ist Ihre Anfrage?"
 0000076c,77,"「そう。生徒会室の前に要望箱があるの、
-　知らない？　ほら、落とし物箱の横に」","","",""
-00000838,34,"「あったような、なかったような…」","","",""
+　知らない？　ほら、落とし物箱の横に」","。 There is a request box in front of the
+student's meeting room.","。 Перед конференц-залом студента находится
+коробка запроса.","。 Vor dem Konferenzraum des Schülers befindet
+sich eine Anfragebox."
+00000838,34,"「あったような、なかったような…」","“I didn’t like that.”","- Мне это не понравилось. »","„Das mochte ich nicht. „"
 000008a8,75,"「もう、君も光河学園の生徒なんだから、
-　もっと関心を持ってもらいたいわね」","","",""
-0000095c,16,"「…すみません」","","",""
+　もっと関心を持ってもらいたいわね」","“I want you to be more interested because you are
+a student of Koga Gakuen.”","«Я хочу, чтобы вы были более заинтересованы,
+потому что вы студент Koga Gakuen. »","„Ich möchte, dass Sie mehr interessiert sind,
+weil Sie ein Student von Koga Gakuen sind. „"
+0000095c,16,"「…すみません」","…I don't know","…Я не знаю","…ich weiß es nicht"
 000009bc,51,"「いろいろ興味深い要望も入ってるのよ。
-　例えば…」","","",""
+　例えば…」","There are many interesting requests. For
+example…","Есть много интересных запросов. Например…","Es gibt viele interessante Anfragen. Zum
+Beispiel…"
 00000a8c,63,"「食堂のメニューの人気ランキングを
-　実施してみたらどうかとか」","","",""
-00000b38,18,"「お、いいですね」","","",""
-00000ba8,36,"「\p01君が一番好きなメニューは何？」","","",""
+　実施してみたらどうかとか」","What if I try to perform the popular ranking of
+the dining room menu?","«Что делать, если я пытаюсь выполнить популярный
+рейтинг меню столовой?»","Was, wenn ich versuche, das beliebte Ranking des
+Speisesaalmenüs durchzuführen?"
+00000b38,18,"「お、いいですね」","“Oh, it’s good.”","«О, это хорошо. »","„Oh, es ist gut. „"
 00000bfc,65,"「ガッツリ系の、スペシャルミルフィーユ
-　極厚カツ丼とか、ですね」","","",""
-00000c80,36,"「ああ、あれは男子に人気あるわよね」","","",""
-00000cc8,22,"「室戸先輩は何です？」","","",""
-00000d3c,34,"「私は…煮込みハンバーグ定食かな」","","",""
+　極厚カツ丼とか、ですね」","Gatzuri rice, special Milfeeille, it is like a
+thick cutlet bowl.","Гацури рис, специальный Milfeeille, это как
+толстая кустовая чаша.","Gatzuri Reis, Spezial Milfeeille, es ist wie eine
+dicke Schale."
+00000c80,36,"「ああ、あれは男子に人気あるわよね」","Oh, it is popular for men.","О, это популярно для мужчин.","Oh, es ist beliebt für Männer."
+00000cc8,22,"「室戸先輩は何です？」","What is Murodo Senior?","Что такое Murodo Senior?","Was ist Murodo Senior?"
+00000d3c,34,"「私は…煮込みハンバーグ定食かな」","I'm… I'm a hamburger set meal","- Я… Я гамбургер сет еда»","Ich bin… Ich bin ein Hamburger-Set-Menü"
 00000dec,106,"「ああ、うまいですよね、あれ。
 　ハンバーグの上に乗った半熟卵が、
-　デミグラスソースにいい具合に混ざって」","","",""
+　デミグラスソースにいい具合に混ざって」","“Oh, it’s good.” Half-ripe eggs on top of hamburg
+mixed with demigras sauce","«О, это хорошо». Полуспелые яйца на вершине
+гамбурга, смешанные с соусом демиграции","„Oh, es ist gut.“ Halbreife Eier auf der
+Oberseite von Hamburg gemischt mit Demigras Sauce"
 00000ea8,63,"「そうそう、半熟の目玉焼きを
-　崩しながら食べるのがいいのよね」","","",""
-00000f7c,36,"「他にはどんな要望が来てるんです？」","","",""
+　崩しながら食べるのがいいのよね」","“Yes, it’s good to eat while breaking down
+half-ripe fried eggs.”","«Да, хорошо есть во время разбиения полуспелых
+жареных яиц. »","„Ja, es ist gut zu essen, wenn man halbreife
+gebratene Eier zerbricht. „"
+00000f7c,36,"「他にはどんな要望が来てるんです？」","What else do you want?","- Что еще ты хочешь?","Was willst du noch?"
 00000ffc,92,"「ここまで読んだところで目についたのは、
 　制服改革委員会を発足してみたらどうか、
-　とかね」","","",""
-000010d4,22,"「制服改革委員会！？」","","",""
-0000113c,8,"「ええ」","","",""
+　とかね」","“What I saw in the past was how I started the
+Uniform Reform Committee.”","«Что я видел в прошлом, как я начал Единый
+Реформный Комитет. »","„Was ich in der Vergangenheit gesehen habe, war,
+wie ich das Uniform Reform Committee gestartet
+habe. „"
+000010d4,22,"「制服改革委員会！？」","“Uniform Reform Committee”","«Украинский Реформный Комитет»","„Uniform Reform Committee“"
+0000113c,8,"「ええ」","」","」","!"
 000011b0,108,"「女子の制服に関して、今のセーラー服も
 　かわいいし、人気あるんだけど、
-　ブレザーがいいって人もいるのよね」","","",""
+　ブレザーがいいって人もいるのよね」","Women's uniforms are also cute and popular, but
+there are some people who love blazers.","Женская форма также милая и популярная, но есть
+некоторые люди, которые любят блазеры.","Frauenuniformen sind auch süß und beliebt, aber
+es gibt einige Leute, die Blazer lieben."
 000012d4,57,"「だから、どちらも用意して、
-　選択制にしたらどうかって」","","",""
+　選択制にしたらどうかって」","“So, what should I do if I prepare both of them?”","- Так что делать, если я готовлю оба из них? »","„Was soll ich tun, wenn ich beide vorbereiten? „"
 0000143c,73,"「俺もブレザー大好きです！　セーラー服とは
-　違った良さがありますよね！」","","",""
+　違った良さがありますよね！」","I love Blazer! Sailor clothes have different
+goodness!","Я люблю Блазер! Парусная одежда отличается
+добротой!","Ich liebe Blazer! Sailor Kleidung haben
+unterschiedliche Güte!"
 000014e0,57,"「男子にそう力説されるのは、
-　何か違う気がするのよねぇ」","","",""
+　何か違う気がするのよねぇ」","“I think it’s different to men.","«Я думаю, что это отличается от мужчин.","„Ich glaube, es ist anders als Männer."
 000015b4,116,"「制服改革委員会を発足するにしても、
 　女子の制服について、男子から意見を
-　もらうのは、女子の意見をまとめてからよ」","","",""
-0000168c,18,"「そ、そうですか」","","",""
+　もらうのは、女子の意見をまとめてからよ」","“Even if the Uniform Reform Committee is
+established, the opinions of the women’s uniforms
+are summarized from the males.”","«Даже если создан Единый Реформный Комитет,
+мнения женской униформы обобщаются у мужчин. »","„Auch wenn das Einheitliche Reformkomitee
+gegründet wird, sind die Meinungen der
+Frauenuniformen von den Männchen zusammengefasst.
+„"
+0000168c,18,"「そ、そうですか」","“Is it?”","— Это? »","„Ist es? „"
 000016e0,53,"「フフッ、けど、ブレザーもいいわよね。
-　私も好きよ」","","",""
-000017bc,24,"「俺は断然セーラー服！」","","",""
+　私も好きよ」","Fuffed, but blazer. I love you","Фуфированный, но блазер. Я люблю тебя","Fuffed, aber Blazer. Ich liebe dich"
+000017bc,24,"「俺は断然セーラー服！」","I'm a Sailor Dress!","Я - Парусное платье!","Ich bin ein Sailor Kleid!"
 000014e0,57,"「男子にそう力説されるのは、
-　何か違う気がするのよねぇ」","","",""
+　何か違う気がするのよねぇ」","“I think it’s different to men.","«Я думаю, что это отличается от мужчин.","„Ich glaube, es ist anders als Männer."
 000015b4,116,"「制服改革委員会を発足するにしても、
 　女子の制服について、男子から意見を
-　もらうのは、女子の意見をまとめてからよ」","","",""
-0000168c,18,"「そ、そうですか」","","",""
-00001a30,40,"「フフッ、けど、私も今の制服、大好きよ」","","",""
-00001af4,18,"「どっちも最高！」","","",""
-00001b60,36,"「はいはい、男子には聞いてないわよ」","","",""
+　もらうのは、女子の意見をまとめてからよ」","“Even if the Uniform Reform Committee is
+established, the opinions of the women’s uniforms
+are summarized from the males.”","«Даже если создан Единый Реформный Комитет,
+мнения женской униформы обобщаются у мужчин. »","„Auch wenn das Einheitliche Reformkomitee
+gegründet wird, sind die Meinungen der
+Frauenuniformen von den Männchen zusammengefasst.
+„"
+0000168c,18,"「そ、そうですか」","“Is it?”","— Это? »","„Ist es? „"
+00001a30,40,"「フフッ、けど、私も今の制服、大好きよ」","“I love my uniform, but I love it.”","«Я люблю свою форму, но люблю ее. »","„Ich liebe meine Uniform, aber ich liebe sie. „"
+00001af4,18,"「どっちも最高！」","Everyth is the best!","«Всё лучшее!»","Alles ist das Beste!"
+00001b60,36,"「はいはい、男子には聞いてないわよ」","Yes, I don't hear men.","- Да, я не слышу мужчин.","Ja, ich höre keine Männer."
 00001c1c,114,"「制服改革委員会を発足するにしても、
 　女子の制服に関して、男子の意見を
-　もらうのは、女子の意見をまとめてからよ」","","",""
-0000168c,18,"「そ、そうですか」","","",""
+　もらうのは、女子の意見をまとめてからよ」","“Even if the Uniform Reform Committee is
+established, the opinions of the men in regard to
+the uniform of the girl should be summarized.”","«Даже если установлен Единый Реформный комитет,
+следует суммировать мнения мужчин в отношении
+униформы девушки. »","„Auch wenn der Einheitliche Reformausschuss
+eingerichtet ist, sollten die Meinungen der Männer
+in Bezug auf die Uniform des Mädchens
+zusammengefasst werden. „"
+0000168c,18,"「そ、そうですか」","“Is it?”","— Это? »","„Ist es? „"
 00001d50,82,"「フフッ、けど、男子から見て、
 　かわいいかどうかっていうのも、
-　大事な要素よね」","","",""
+　大事な要素よね」","“I see it from a boy, but it’s important to say
+if it’s cute.”","«Я вижу это от мальчика, но важно сказать, если
+это мило. »","„Ich sehe es von einem Jungen, aber es ist
+wichtig zu sagen, ob es süß ist. „"
 00001e88,51,"「実はね、２年前にも同じような議論が
-　あったのよ」","","",""
-00001f28,8,"「え？」","","",""
+　あったのよ」","“In fact, there was a similar discussion in two
+years ago.”","«На самом деле было подобное обсуждение в два
+года назад. »","„In der Tat gab es eine ähnliche Diskussion vor
+zwei Jahren. „"
+00001f28,8,"「え？」","?」","?」","?"
 00001f90,94,"「まだ私が１年のクラス委員で、
 　生徒会執行部の下部組織の、
-　クラス委員会の委員長だった時…」","","",""
-0000208c,42,"「ブレザーも選べるようにしたらどうかって」","","",""
+　クラス委員会の委員長だった時…」","When I was the chairman of the class committee of
+the underlying organization of the student
+association, I am still a class member of the year
+…","«Когда я был председателем учебного комитета по
+базовой организации студенческой ассоциации, я до
+сих пор член класса года …»","Als ich der Vorsitzende des Klassenkomitees der
+zugrunde liegenden Organisation des
+Studentenverbandes war, bin ich immer noch
+Klassenmitglied des Jahres …"
+0000208c,42,"「ブレザーも選べるようにしたらどうかって」","How to choose blazer","Как выбрать blazer","Wie wählen Sie Blazer"
 00002114,90,"「その時は、結論が先送りになったんだけど、
 　結局、定期的に同じ要望が
-　持ち上がるのよね」","","",""
+　持ち上がるのよね」","At that time, the conclusion was forward, but
+after all, the same request is lifted regularly.","«В то время, вывод был вперед, но в конце концов,
+такой же запрос регулярно поднимается».","Zu dieser Zeit war die Schlussfolgerung vorwärts,
+doch schließlich wird die gleiche Bitte regelmäßig
+aufgehoben."
 0000220c,49,"「もう一度、議題に挙げてみる価値は
-　ありそうね」","","",""
+　ありそうね」","“It’s worth mentioning the agenda again.”","«Снова стоит отметить повестку дня. »","„Es lohnt sich, die Agenda erneut zu erwähnen. „"
 0000226c,57,"「もし、ブレザーになったら、
-　男子もブレザーですよね？」","","",""
+　男子もブレザーですよね？」","“If you’re a blazer, you’re a blazer?”","«Если ты блазер, ты блазер? »","„Wenn du ein Blazer bist, bist du ein Blazer? „"
 000022f4,47,"「私としては、男女ともに
-　選択制にしたいわね」","","",""
+　選択制にしたいわね」","As I, it was a system for both men and women.","«Как я, это была система как для мужчин, так и
+для женщин».","Als ich war es ein System für Männer und Frauen."
 000023c0,96,"「歴史の浅い光河学園だからこそ、今の制服を
 　なくすことは、絶対しちゃダメだって、
-　思ってるの」","","",""
-000024ac,38,"「…なるほど、そうかもしれないですね」","","",""
-00002520,42,"「さ～て、残りの要望も読んじゃわないと…」","","",""
-000025cc,26,"「じゃあ、俺は行きますよ」","","",""
-00002644,38,"「そう？　ありがとう。またね、\p01君」","","",""
+　思ってるの」","“It’s because it’s a shallow school of history,
+so I think that it’s an absolute thing to
+eliminate the current uniform.”","«Это потому, что это мелкая школа истории,
+поэтому я думаю, что это абсолютная вещь, чтобы
+устранить существующую форму. »","„Es ist, weil es eine flache Schule der
+Geschichte ist, so denke ich, dass es eine
+absolute Sache ist, die aktuelle Uniform zu
+beseitigen. „"
+000024ac,38,"「…なるほど、そうかもしれないですね」","…I see, it may be.","-- Я вижу, это может быть.","…ich sehe, es mag sein."
+00002520,42,"「さ～て、残りの要望も読んじゃわないと…」","“I don’t read the rest of my requests…”","«Я не читал остальные мои запросы… »","„Ich lese den Rest meiner Anträge nicht… „"
+000025cc,26,"「じゃあ、俺は行きますよ」","“Yes, I go.”","— Да, я иду. »","„Ja, ich gehe. „"

@@ -1,91 +1,129 @@
 00000284,98,"「も～～っ！　遅いですよ！
 　とっくに学園祭は終わってるってのに、
-　何ぐずぐずしてたんですか！？」","","",""
-00000394,14,"「な、成田！」","","",""
+　何ぐずぐずしてたんですか！？」","It's too late! How many times did you go?","- Это слишком поздно! Сколько раз ты пошел?","Es ist zu spät! Wie oft bist du gegangen?"
+00000394,14,"「な、成田！」","Narita","Нарита","Narita"
 00000400,59,"「そもそも、何でフォト部展に
-　顔を出さなかったんです！？」","","",""
+　顔を出さなかったんです！？」","Now, I didn't have a face in the photo
+exhibition! ?","«Сейчас у меня не было лица на фотовыставке! ?","Jetzt hatte ich kein Gesicht in der
+Fotoausstellung!"
 000004b0,65,"「それは…１枚の写真も展示できなかったし、
-　会わす顔がなくて…」","","",""
+　会わす顔がなくて…」","“It’s not possible to display a photo of one
+photo, but there’s no face to meet…”","«Невозможно отобразить фотографию одной
+фотографии, но нет лица, чтобы встретиться… »","„Es ist nicht möglich, ein Foto von einem Foto
+anzuzeigen, aber es gibt kein Gesicht zu
+treffen… „"
 00000568,96,"「そんなの…気にすることないのに…。
 　先輩は、先輩なりに…精一杯、
-　がんばってきたんですから」","","",""
-000006e4,10,"「成田…」","","",""
-00000730,30,"「どうしたんだよ、こんな所で」","","",""
-00000848,32,"「\p01先輩を…待ってたんですよ」","","",""
-000008fc,8,"「え？」","","",""
-0000096c,8,"「……」","","",""
+　がんばってきたんですから」","I don't care about it. My seniors are my seniors
+… I'm full of utmost, and I'm doing it.","- Не волнуюсь об этом. Мои пожилые люди - мои
+пожилые люди … Я полна всех сил, и я делаю это.","Es ist mir egal. Meine Senioren sind meine
+Senioren… ich bin voll von größter Wichtigkeit,
+und ich mache es."
+000006e4,10,"「成田…」","」","」","!"
+00000730,30,"「どうしたんだよ、こんな所で」","How do I do this?","- Как это сделать?","Wie mache ich das?"
+000008fc,8,"「え？」","?」","?」","?"
+0000096c,8,"「……」","……","………","…"
 000009e4,57,"「…ここで話すのも何ですから、
-　体育館へ行きませんか？」","","",""
-00000aa4,22,"「あ、ああ…いいけど」","","",""
-00000c1c,40,"「静かですね。昼間の喧噪が、ウソみたい」","","",""
-00000d40,38,"「バレーボール部は、何をやったんだ？」","","",""
+　体育館へ行きませんか？」","“…What is the reason why you speak here?","«… Почему ты здесь говоришь?","„… Warum sprechen Sie hier?"
+00000aa4,22,"「あ、ああ…いいけど」","Oh, I'm good.","«О, я хорошо.","Oh, ich bin gut."
+00000c1c,40,"「静かですね。昼間の喧噪が、ウソみたい」","It is quiet. The hustle and bustle of the day","Это тихо. Суета и суета дня","Es ist ruhig. Die Hektik des Tages"
+00000d40,38,"「バレーボール部は、何をやったんだ？」","What did the Volleyball club do?","Что сделал клуб Volleyball?","Was hat der Volleyball Club getan?"
 00000dcc,59,"「トスドッジボールです。
-　トスしばりのドッジボールですね」","","",""
-00000e74,24,"「へ～っ、面白そうだな」","","",""
+　トスしばりのドッジボールですね」","Tossdedge Ball It's a dodge ball of the
+shibatake.","Tossdedge Бал Это куджный шар shibatake.","Tossdedge Ball Es ist ein Dodgeball der
+Shibatake."
+00000e74,24,"「へ～っ、面白そうだな」","“Hey, it looks interesting.”","«Эй, это выглядит интересно. »","„Hey, es sieht interessant aus. „"
 00000eec,96,"「面白かったですよ。強い球が打てないので、
 　なかなか決着がつかないのが、
-　玉にキズでしたけど」","","",""
-00000fe0,10,"「ははは」","","",""
-0000096c,8,"「……」","","",""
+　玉にキズでしたけど」","It was interesting. Because the strong ball is
+not hit, it is difficult to get a fix, but it was
+scratch on the ball","Это было интересно. Потому что сильный шар не
+ударил, трудно получить исправление, но это было
+царапать на шаре","Es war interessant. Weil der starke Ball nicht
+getroffen wird, ist es schwierig, eine Fixierung
+zu bekommen, aber es war Kratzer auf dem Ball"
+00000fe0,10,"「ははは」","」","」","!"
+0000096c,8,"「……」","……","………","…"
 00001098,47,"「それで、俺に
-　何か話があるんじゃないのか？」","","",""
-0000112c,20,"「え、ええ…その…」","","",""
-0000128c,10,"「んぐ…」","","",""
+　何か話があるんじゃないのか？」","“Is there anything to talk to me?”","- Есть ли что-нибудь, чтобы поговорить со мной? »","„Ist da irgendwas mit mir zu reden? „"
+0000112c,20,"「え、ええ…その…」","Yes, yeah… that…","Да, да… что…","Ja, ja… das…"
+0000128c,10,"「んぐ…」","」","」","!"
 0000131c,51,"「わ…私……これでも感謝してるんですよ、
-　先輩に」","","",""
+　先輩に」","“I’m… I’m so grateful for this, I’m a senior.”","«Я… Я так благодарен за это, я старший. »","„Ich bin… Ich bin so dankbar dafür, ich bin ein
+Senior. „"
 00001430,82,"「ビーチバレーのことを、
 　アドバイスしてくれて…、
-　いろいろ気にかけてくれて…」","","",""
-00001510,61,"「かつみお姉様がコートに戻れたのは、
-　\p01先輩のおかげです」","","",""
+　いろいろ気にかけてくれて…」","We advise you about the beach volleyball, and I'd
+like to hear from you.","Мы советуем вам о пляжном волейболе, и я хотел бы
+услышать от вас.","Wir beraten Sie über den Beachvolleyball und ich
+möchte von Ihnen hören."
 00001600,63,"「だから、私…先輩に、感謝し切れないぐらい
-　感謝してるんです」","","",""
-00001704,26,"「\p01先輩、ありがとう…」","","",""
+　感謝してるんです」","“So I’m so grateful to my seniors that I’m not
+thankful.”","«Так я так благодарен своим старшим, что я не
+благодарен. »","„So bin ich meinen Senioren so dankbar, dass ich
+nicht dankbar bin. „"
 0000178c,80,"「成田……俺は、思いついたことを
 　お前に話しただけで、
-　がんばったのはお前だ」","","",""
+　がんばったのはお前だ」","“Narita: I just talked to you that I came up
+with, and I got it right.”","“Нарита: Я просто говорил с вами, что я придумал,
+и я получил это правильно. »","„Narita: Ich habe gerade mit dir geredet, dass
+ich hergekommen bin, und ich habe es richtig
+verstanden. „"
 0000182c,47,"「だから、俺に感謝することなんて
-　ないんだよ」","","",""
+　ないんだよ」","“So I don’t have to thank me.”","«Так что мне не нужно благодарить. »","„So muss ich mich nicht bedanken. „"
 000018a8,104,"「そもそもビーチバレーを勧めたのも、
 　水着姿が撮れるって、やましい気持ちが
-　なかったとは言えないし…」","","",""
-00001960,26,"「そんなのは当たり前です」","","",""
-000008fc,8,"「え？」","","",""
-00001a64,34,"「私だって同じことを思いましたよ」","","",""
+　なかったとは言えないし…」","In the first place, I recommend beach volleyball,
+but I can take swimwear, and I can't say that I
+didn't have a feeling of satisfactory…","«В первую очередь рекомендую пляжный волейбол, но
+я могу взять купальники, и я не могу сказать, что
+у меня не было чувства удовлетворительного…»","An erster Stelle empfehle ich Beachvolleyball,
+aber ich kann Badekleidung nehmen, und ich kann
+nicht sagen, dass ich kein Gefühl von zufrieden
+stellend habe…"
+00001960,26,"「そんなのは当たり前です」","“It’s natural.”","«Это естественно. »","„Es ist natürlich. „"
+000008fc,8,"「え？」","?」","?」","?"
+00001a64,34,"「私だって同じことを思いましたよ」","“I think I’m the same.”","«Я думаю, что я такой же. »","„Ich glaube, ich bin gleich. „"
 00001b50,65,"「水着姿のかつみお姉様と一緒に、
-　２人っきりでバレーができる…」","","",""
-00001c10,36,"「なんて…なんて…素敵なんだろう…」","","",""
-00001d0c,61,"「\p01先輩にビーチを勧められた時、
-　私も内心そう思いました」","","",""
-00001de8,32,"「…なるほど、そりゃそうだよな」","","",""
-00001e68,12,"「当然です」","","",""
-00001ef4,10,"「クスッ」","","",""
-00000fe0,10,"「ははは」","","",""
-00001fc4,14,"「フフフフッ」","","",""
-00002000,14,"「あはははは」","","",""
-0000096c,8,"「……」","","",""
-000021a4,38,"「\p01先輩、ちょっとかがんでください」","","",""
-00002274,12,"「こうか？」","","",""
-0000249c,8,"「ん…」","","",""
-00002630,22,"「な、成田！　お前…」","","",""
-000026a0,20,"「私の感謝の印です」","","",""
-000026f8,42,"「男の人にこんな気持ちになったの、初めて」","","",""
+　２人っきりでバレーができる…」","“We can play a valley with two people together
+with the wigs of swimsuits…”","«Мы можем играть в долину с двумя людьми вместе с
+парами купальников… »","„Wir können ein Tal mit zwei Personen zusammen
+mit den Perücken der Badeanzüge spielen… „"
+00001c10,36,"「なんて…なんて…素敵なんだろう…」","“What’s it… I’m glad…”","«Что это… Я рад…»","„Was ist es… Ich bin froh…“"
+00001de8,32,"「…なるほど、そりゃそうだよな」","…I see, it's right.","- Я вижу, это правильно.","…ich verstehe, es ist richtig."
+00001e68,12,"「当然です」","Of course","Конечно","Natürlich"
+00001ef4,10,"「クスッ」","」","」","!"
+00000fe0,10,"「ははは」","」","」","!"
+00001fc4,14,"「フフフフッ」","」","」","!"
+00002000,14,"「あはははは」","」","」","!"
+0000096c,8,"「……」","……","………","…"
+00002274,12,"「こうか？」","?」","?」","?"
+0000249c,8,"「ん…」","Home","Начало","Home"
+00002630,22,"「な、成田！　お前…」","“No, Narita! You…”","«Нет, Нарита! Ты…»","„Nein, Narita! Du…“"
+000026a0,20,"「私の感謝の印です」","“My thanks”","«Моя благодарность»","„Mein Dank“"
+000026f8,42,"「男の人にこんな気持ちになったの、初めて」","The first time I felt like a man","«В первый раз я почувствовал себя мужчиной»","Das erste Mal fühlte ich mich wie ein Mann"
 000027c8,51,"「私…男の人になんか…全然興味なかった。
-　けど…」","","",""
-000028ac,63,"「けど…\p01先輩みたいな男の人なら……
-　許せる。そう思います」","","",""
-000006e4,10,"「成田…」","","",""
+　けど…」","I… I was not interested in a man. Home","«Я… Я не был заинтересован в человеке. Начало","Ich… Ich war nicht an einem Mann interessiert.
+Home"
+000006e4,10,"「成田…」","」","」","!"
 00002a44,49,"「これからも、
-　私の大切な先輩でいてくださいね」","","",""
+　私の大切な先輩でいてくださいね」","“Please be my important senior.”","«Пожалуйста, будьте моим важным старшим. »","„Bitte sei mein wichtiger Senior. „"
 00002af4,49,"「ああ、もちろんだ。
-　同じフォト部だぞ、俺たち」","","",""
-00002b80,24,"「フフッ、そうですよね」","","",""
-00002cc4,24,"「さ、帰りましょうか？」","","",""
+　同じフォト部だぞ、俺たち」","Oh, of course. We are the same photo
+department.","О, конечно. Мы тот же фотоотдел.","Oh, natürlich. Wir sind die gleiche
+Fotoabteilung."
+00002b80,24,"「フフッ、そうですよね」","“Oh, it’s right.”","«О, это правильно. »","„Oh, es ist richtig. „"
+00002cc4,24,"「さ、帰りましょうか？」","“Let’s go home?”","- Поехали домой? »","„Wir gehen nach Hause? „"
 00002d2c,86,"「どうせ、学園祭を寂し～く過ごして、
 　１人でトボトボ帰るつもり
-　だったんでしょう？」","","",""
-00002e80,24,"「…なんでわかるんだよ」","","",""
+　だったんでしょう？」","“Well, I’m lonely at school festival, and I’m
+going to go home with one person?”","«Ну, я одиноко на школьном фестивале, и я
+собираюсь пойти домой с одним человеком? »","„Nun, ich bin einsam auf dem Schulfest und gehe
+mit einer Person nach Hause? „"
+00002e80,24,"「…なんでわかるんだよ」","…What do you know?","… Что вы знаете?","… Was weißt du?"
 00002ef8,69,"「先輩のことなんかお見通しです。
-　ほら、私が一緒に帰ってあげますよ」","","",""
+　ほら、私が一緒に帰ってあげますよ」","It is a見通し from seniors. I'll come back
+together.","Это 通позор от пожилых людей. Я вернусь вместе.","Es ist ein Hinweis von Senioren. Ich komme
+wieder zusammen."
 000030d0,57,"「周りから見れば、
-　恋人同士に見えるんじゃないですか？」","","",""
+　恋人同士に見えるんじゃないですか？」","“Where do you look like a lover?”","— Где ты похож на любовника? »","„Wo siehst du aus wie ein Liebhaber? „"

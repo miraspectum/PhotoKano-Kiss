@@ -1,137 +1,250 @@
-00000138,30,"（あ、いつもの席にいるのは…）","","",""
-000001d0,22,"シャッターチャンスだ！","","",""
+00000138,30,"（あ、いつもの席にいるのは…）","Sorry, this entry is only available in Japanese.","Извините, этот техт доступен только в “Японский”.","Leider ist dieser Eintrag nur auf Japanisch
+verfügbar."
+000001d0,22,"シャッターチャンスだ！","ter chance!","ter шанс!","Eine Chance!"
 0000029c,53,"（撮ったことに気づかない。
-　集中してるな、室戸先輩）","","",""
-00000320,20,"（撮るまでもないな）","","",""
-00000374,12,"「室戸先輩」","","",""
-000004e4,14,"「あ、\p01君」","","",""
-00000560,24,"「生徒会の仕事ですか？」","","",""
+　集中してるな、室戸先輩）","Sorry, this entry is only available in Japanese.
+I'm concentrated, my seniors)","Извините, этот техт доступен только в “Японский”.
+Я концентрирован, мои старшие)","Leider ist dieser Eintrag nur auf Japanisch
+verfügbar. Ich bin konzentriert, meine Senioren)"
+00000320,20,"（撮るまでもないな）","(It is not until you take it)","(Это не до тех пор, пока вы не возьмете его)","(Es ist nicht, bis du es nimmst)"
+00000374,12,"「室戸先輩」","Muroto seniors","Мурото старшие","Muroto Senioren"
+00000560,24,"「生徒会の仕事ですか？」","“Are you working for a student group?”","— Вы работаете для студенческой группы? »","„Arbeiten Sie für eine Studentengruppe? „"
 000005d0,47,"「ううん、勉強よ。
-　全国模擬テストが近いから」","","",""
-00000678,30,"「そうなんですか…大変ですね」","","",""
+　全国模擬テストが近いから」","Yes, I study. Close to national simulated tests","- Да, я учусь. Близко к национальным
+симулированным тестам","Ja, ich studiere. Nahe nationale simulierte
+Tests"
+00000678,30,"「そうなんですか…大変ですね」","“Is it right? It’s hard!”","- Это правильно? Это трудно!»","„Ist es richtig? Es ist hart!“"
 000006f8,81,"「３年は大学受験に向けて、テスト、テストの
-　連続よ。君も来年味わうことになるわ」","","",""
-000007f0,12,"「うぇ～っ」","","",""
+　連続よ。君も来年味わうことになるわ」","3 years is a continuous test and test for
+university exams. You will taste again next year","3 года - это непрерывный тест и тест для
+университетских экзаменов. Вы снова попробуете в
+следующем году","3 Jahre ist ein kontinuierlicher Test und Test
+für Hochschulprüfungen. Sie werden nächstes Jahr
+wieder schmecken"
+000007f0,12,"「うぇ～っ」","」","」","!"
 00000858,114,"「中でも今度の全国模擬テストは特別なのよ。
 　参加人数が多くて、志望校に入れるか
-　どうかの重要な試金石になるから」","","",""
+　どうかの重要な試金石になるから」","In particular, the national simulated test is
+special. It is because the number of participants
+is large, and it becomes an important prototype if
+you want to go to school.","«В частности, национальный симулированный тест
+особенный. Это потому, что количество участников
+большое, и это становится важным прототипом, если
+вы хотите пойти в школу».","Vor allem ist der nationale simulierte Test
+besonders. Denn die Teilnehmerzahl ist groß, und
+es wird ein wichtiger Prototyp, wenn Sie zur
+Schule gehen wollen."
 00000934,49,"「先輩の志望大学って、
-　やっぱり、一番難しい…」","","",""
-000009e0,24,"「ええ、そこの医学部よ」","","",""
-00000a24,22,"「そっか…大変ですね」","","",""
-00000aa0,34,"「まぁ、大変と言われれば、大変ね」","","",""
+　やっぱり、一番難しい…」","I'm a senior ambition university, I'm the hardest
+…","«Я старший университет амбиции, я самый трудный
+…»","Ich bin eine hochrangige Ehrgeiz-Universität, ich
+bin die härteste…"
+000009e0,24,"「ええ、そこの医学部よ」","Yes, there is a medical department.","- Да, есть медицинский отдел.","Ja, es gibt eine medizinische Abteilung."
+00000a24,22,"「そっか…大変ですね」","It's so hard.","- Это так сложно.","Es ist so schwer."
+00000aa0,34,"「まぁ、大変と言われれば、大変ね」","“Well, it’s hard to say it’s hard.”","«Ну, трудно сказать, что это трудно. »","„Nun, es ist schwer zu sagen, es ist schwer. „"
 00000b5c,104,"「去年、水泳部を辞めてからというもの、
 　生徒会の仕事以外は、すべて勉強に
-　打ち込んできたわけだけど…」","","",""
-00000c50,30,"「なかなか成績が上がらなくて」","","",""
+　打ち込んできたわけだけど…」","“The last year, I   the swimming club, but I’ve
+come to study all other than the student’s
+work…”","«В прошлом году я плавательный клуб, но я пришел,
+чтобы изучить все другие, чем работа студента… »","“Das letzte Jahr, ich der Schwimmclub, aber ich
+bin gekommen, um alles andere als die Arbeit des
+Schülers zu studieren… „"
+00000c50,30,"「なかなか成績が上がらなくて」","“I don’t have to improve my results.”","«Мне не нужно улучшать мои результаты. »","„Ich muss meine Ergebnisse nicht verbessern. „"
 00000cc8,51,"「元々成績がいいから、
-　上げしろが少ないんですよ」","","",""
-00000d3c,40,"「そんなことないわよ、私の成績なんて…」","","",""
-00000dc8,42,"「けど、入学以来ずっとトップ、ですよね？」","","",""
-00000e58,18,"「この学園ではね」","","",""
+　上げしろが少ないんですよ」","It's a good grade, so it's very small to raise.","«Это хороший класс, поэтому очень мало, чтобы
+поднять».","Es ist eine gute Note, also ist es sehr klein zu
+heben."
+00000d3c,40,"「そんなことないわよ、私の成績なんて…」","“I don’t know that, what’s my grade?”","«Я не знаю, что, какова моя ранг? »","„Ich weiß nicht, was ist meine Klasse? „"
+00000dc8,42,"「けど、入学以来ずっとトップ、ですよね？」","“But it’s always top since I enrolled?”","- Но это всегда сверху, так как я поступил? »","“Aber es ist immer top seit ich eingeschrieben? „"
+00000e58,18,"「この学園ではね」","In this school","В этой школе","In dieser Schule"
 00000ea0,51,"「先輩って、どうして光河学園に
-　入学したんです？」","","",""
+　入学したんです？」","“Why did you enter the school?”","— Почему ты вошел в школу? »","„Warum bist du in die Schule gegangen? „"
 00000f00,65,"「先輩なら、もっと偏差値の高い高校に
-　入れたんじゃないですか？」","","",""
+　入れたんじゃないですか？」","“If you’re a senior, you’ve put it into a high
+school with a higher dev  value?”","«Если вы старший, вы положили его в школу с более
+высоким значением разлива? »","„Wenn Sie ein Senior sind, haben Sie es in eine
+High School mit einem höheren Dev-Wert gesetzt? „"
 00000f88,61,"「私がこの学園を選んだ理由？
-　そんなの決まってるでしょう？」","","",""
-00001064,8,"「え？」","","",""
-000010d4,26,"「言わなきゃわからない？」","","",""
-00001200,26,"「飛び込み台があるから？」","","",""
-00001274,30,"「なんだ、わかってるじゃない」","","",""
+　そんなの決まってるでしょう？」","Why did I choose this school? Is it such a
+decision?","«Почему я выбрал эту школу? Это такое решение?","Warum habe ich diese Schule gewählt? Ist es eine
+solche Entscheidung?"
+00001064,8,"「え？」","?」","?」","?"
+000010d4,26,"「言わなきゃわからない？」","“I don’t know what to say?”","- Я не знаю, что сказать? »","„Ich weiß nicht, was ich sagen soll? „"
+00001200,26,"「飛び込み台があるから？」","“Is there a board?”","- Есть ли доска? »","„ Gibt es ein Brett? „"
+00001274,30,"「なんだ、わかってるじゃない」","“What’s it?”","- Что это? »","„Was ist das? „"
 00001320,71,"「そうよ、高校でも飛び込みを続けたかった
-　から、この学園を選んだのよ」","","",""
-000013a8,20,"「家から近いから？」","","",""
-00001410,42,"「クスッ、歩いて通えるし、それもあるわね」","","",""
+　から、この学園を選んだのよ」","“Yes, I chose this school because I wanted to
+continue to fly in high school.”","«Да, я выбрал эту школу, потому что я хотел
+продолжать летать в средней школе. »","„Ja, ich habe diese Schule gewählt, weil ich
+weiter in der High School fliegen wollte. „"
+000013a8,20,"「家から近いから？」","From home","От дома","Von zu Hause"
+00001410,42,"「クスッ、歩いて通えるし、それもあるわね」","“I can walk around, and I can’t see it.”","«Я могу ходить вокруг, и я не вижу его. »","„Ich kann herumlaufen, und ich kann es nicht
+sehen. „"
 000014b4,61,"「けど、一番大切な理由は、
-　プールに飛び込み台があるからよ」","","",""
-00001528,8,"「あ…」","","",""
+　プールに飛び込み台があるからよ」","“But the most important reason is that there is a
+plunge in the pool.”","«Но самая важная причина заключается в том, что в
+бассейне есть окунуться. »","„Aber der wichtigste Grund ist, dass es einen
+Sprung im Pool gibt. „"
+00001528,8,"「あ…」","」","」","!"
 00001598,82,"「高校に入ってからも、
 　飛び込みを続けたかった。
-　だから、この学園を選んだのよ」","","",""
-0000167c,34,"「いい男と出会えそうだったから？」","","",""
+　だから、この学園を選んだのよ」","I wanted to continue to jump even after entering
+high school. So I chose this school.","«Я хотел продолжать прыгать даже после въезда в
+школу. Так я выбрал эту школу.","Ich wollte auch nach dem Schulbesuch
+weiterspringen. Also habe ich diese Schule
+gewählt."
+0000167c,34,"「いい男と出会えそうだったから？」","“I’d like to meet a good guy?”","«Я хотел бы встретиться с хорошим парнем? »","„Ich möchte einen guten Kerl treffen? „"
 000016fc,57,"「そうそう、いい男と……って、
-　そんな訳ないでしょう！」","","",""
-000017e0,34,"「プールに飛び込み台があるからよ」","","",""
-00001528,8,"「あ…」","","",""
+　そんな訳ないでしょう！」","“Yes, I’m a good guy… I’m not sure!”","- Да, я хороший парень… Я не уверен!","„Ja, ich bin ein guter Kerl… Ich bin mir nicht
+sicher!“"
+000017e0,34,"「プールに飛び込み台があるからよ」","“There is a plunge in the pool.”","«В бассейне есть окунуться. »","„Es gibt einen Sprung im Pool. „"
+00001528,8,"「あ…」","」","」","!"
 00001894,84,"「高校に入ってからも、
 　飛び込みを続けたかった。
-　それが、この学園を選んだ理由よ」","","",""
+　それが、この学園を選んだ理由よ」","I wanted to continue to jump even after entering
+high school. Why did you choose this school?","«Я хотел продолжать прыгать даже после въезда в
+школу. Почему вы выбрали эту школу?","Ich wollte auch nach dem Schulbesuch
+weiterspringen. Warum haben Sie diese Schule
+gewählt?"
 00001978,67,"「そんなに飛び込みが好きなのに、
-　水泳部を辞めちゃったんですか？」","","",""
-00001a08,8,"「ええ」","","",""
+　水泳部を辞めちゃったんですか？」","“I liked that, but did you   the swim?”","— Мне понравилось, но ты плавал? »","„Ich mochte das, aber hast du das Schwimmen? „"
+00001a08,8,"「ええ」","Home","Начало","Home"
 00001a80,90,"「去年の夏の大会で予選落ちして、
 　勉強と飛び込みを両立することが
-　難しいってわかって…」","","",""
+　難しいってわかって…」","It is difficult to achieve both study and dive in
+the last summer tournament…","«Сложно достичь как учебы, так и погружения в
+последний летний турнир…»","Es ist schwierig, sowohl Studium als auch Tauchen
+im letzten Sommerturnier zu erreichen…"
 00001b88,106,"「勉強をあきらめて、飛び込みに専念するか、
 　飛び込みをあきらめて、勉強に専念するか、
-　決断を迫られたわ」","","",""
+　決断を迫られたわ」","“I have been devoted to my studies, or I have
+been devoted to my studies, or I have made a
+decision.”","«Я был посвящен моим исследованиям, или я был
+посвящен моим исследованиям, или я принял решение.
+»","„Ich bin meinem Studium gewidmet, oder ich wurde
+meinem Studium gewidmet, oder ich habe eine
+Entscheidung getroffen. „"
 00001cb0,53,"「そうしないと、どちらも中途半端に
-　終わりそうで…」","","",""
+　終わりそうで…」","“If I don’t do that, I’m going to finish both
+mid- and half-end…”","«Если я этого не делаю, я собираюсь закончить как
+в середине, так и на полдня…»","“Wenn ich das nicht tue, werde ich sowohl Mitte-
+als auch Halbend beenden…”"
 00001d40,80,"「全国大会へ行けない、
 　志望大学にも入れない…。
-　それだけは避けたかったのよ」","","",""
+　それだけは避けたかったのよ」","“I can’t go to the national tournament, I can’t
+go to the university. I wanted to avoid it.","«Я не могу пойти на национальный турнир, я не
+могу пойти в университет. Я хотел его избежать.","„Ich kann nicht zum nationalen Turnier gehen, ich
+kann nicht zur Universität gehen. Ich wollte es
+vermeiden."
 00001e40,63,"「そして、志望大学へ入れない…という
-　選択肢は、私にはないの」","","",""
+　選択肢は、私にはないの」","And I don't have to go to the university of
+desires…","«И мне не нужно ехать в университет желаний…»","Und ich muss nicht zur Universität der Wünsche
+gehen…"
 00001f18,55,"「生徒会長を辞めるってのは、
-　考えなかったんですか？」","","",""
+　考えなかったんですか？」","“I didn’t think about 会長ing a student president?”","«Я не думал о 会 aing студенческий президент? »","„Ich habe nicht daran gedacht, einen
+Studentenpräsidenten zu unterstützen? „"
 00001fb4,96,"「全然。今年で２期目だけど、推薦を
 　承諾したのは私だし、選挙でみんなが
-　選んでくれたんだもの」","","",""
-000020ec,30,"「途中で投げ出したりしないわ」","","",""
+　選んでくれたんだもの」","Home I have accepted the recommendation for the
+second time this year, and I have chosen it for
+the election.","Home Я принял рекомендацию во второй раз в этом
+году, и я выбрал ее для выборов.","Home Ich habe die Empfehlung zum zweiten Mal in
+diesem Jahr angenommen, und ich habe sie für die
+Wahl gewählt."
+000020ec,30,"「途中で投げ出したりしないわ」","I don't throw it in the middle","Я не бросаю его в середине","Ich werfe es nicht in die Mitte"
 00002164,120,"「任期が終わる２学期いっぱいまで精一杯
 　勤め上げて、学園を少しでも良くしたい。
-　その気持ちは何があろうと揺るがないわ」","","",""
-0000225c,14,"「室戸先輩…」","","",""
-00002298,36,"（…つくづく責任感の強い人なんだな）","","",""
-0000244c,18,"「あ、にいや～ん」","","",""
-000024cc,24,"「お、果音、どうした？」","","",""
-000025d8,28,"「あ、室戸先輩、こんにちは」","","",""
-00002674,28,"「こんにちは。どうしたの？」","","",""
+　その気持ちは何があろうと揺るがないわ」","I want to work hard until the two semesters of
+the term is over, and I want to improve the school
+a little. I don't think that feeling is what I'm
+doing.","«Хочу много работать, пока два семестра термина
+закончился, и я хочу немного улучшить школу. Я не
+думаю, что чувство - это то, что я делаю.","Ich möchte hart arbeiten, bis die beiden
+Semester des Semesters vorbei sind, und ich möchte
+die Schule etwas verbessern. Ich glaube nicht,
+dass das Gefühl das ist, was ich tue."
+0000225c,14,"「室戸先輩…」","Muroto seniors …","Мурото старший …","Muroto Senioren …"
+00002298,36,"（…つくづく責任感の強い人なんだな）","(…It is a strong person who is responsible for
+making)","(… Это сильный человек, который отвечает за
+создание)","(…) Es ist eine starke Person, die für die
+Herstellung verantwortlich ist)"
+0000244c,18,"「あ、にいや～ん」","」","」","!"
+000024cc,24,"「お、果音、どうした？」","What do you do?","- Что ты делаешь?","Was machst du?"
+000025d8,28,"「あ、室戸先輩、こんにちは」","Oh, my seniors, Hi,","«О, мои пожилые, привет,»","Oh, meine Senioren, Hi,"
+00002674,28,"「こんにちは。どうしたの？」","Hello. What is it?","Здравствуйте. Что это?","Hallo. Was ist los?"
 00002710,57,"「あれ？　室戸先輩って、果音のこと
-　知ってるんですか？」","","",""
-000027bc,18,"「ええ、もちろん」","","",""
+　知ってるんですか？」","“Well? Do you know that you are a senior at
+Murodo?","«Ну? Знаете ли вы, что вы старший в Murodo?","„Nun? Weißt du, dass du ein Senior bei Murodo
+bist?"
+000027bc,18,"「ええ、もちろん」","Eh, of course","Eh, конечно","Natürlich"
 0000281c,79,"「放課後の見回りをしてると、部活をしている
-　子とは、自然と知り合うものなのよ」","","",""
-000028c4,24,"「ですよね～、室戸先輩」","","",""
-00002958,71,"「もっとも、２人が兄妹って知ったのは、
-　\p01君と知り合ってからだけど」","","",""
+　子とは、自然と知り合うものなのよ」","“When you look around after school, the child who
+is active is something that matches nature.”","«Когда вы смотрите после школы, ребенок, который
+активен, - это то, что соответствует природе. »","„Wenn Sie sich um die Schule kümmern, ist das
+aktive Kind etwas, das der Natur entspricht. „"
+000028c4,24,"「ですよね～、室戸先輩」","Oh, it's, my seniors","«О, это, мои пожилые люди»","Oh, es ist, meine Senioren"
 00002a00,49,"「私が教えたんだよ、
-　にいやんがにいやんだって」","","",""
-00002a68,24,"「ややっこしい説明だな」","","",""
+　にいやんがにいやんだって」","“I’ve taught me, I’m doing it.”","«Я научил меня, я это делаю. »","„Ich habe mich gelehrt, ich mache es. „"
+00002a68,24,"「ややっこしい説明だな」","It's a cool explanation","Это крутое объяснение","Es ist eine coole Erklärung"
 00002b00,88,"「クスッ、いいわね、お兄さんが
 　同じ学校にいるって。
-　珍しいから、少し驚いちゃったわ」","","",""
-00002bf4,28,"「あはは、よく言われます～」","","",""
+　珍しいから、少し驚いちゃったわ」","I'm so happy, my brother is at the same school.
+I was surprised a little because it was rare.","- Я так счастлив, мой брат в одной школе. Я был
+немного удивлен, потому что это было редко.","Ich bin so glücklich, mein Bruder ist in der
+gleichen Schule. Ich war etwas überrascht, weil
+es selten war."
+00002bf4,28,"「あはは、よく言われます～」","“Aha is often said”","«Аха часто говорит»","„Aha wird oft gesagt“"
 00002c60,47,"「それで、どうしたんだよ？
-　何か用か？　果音」","","",""
-00002ce0,26,"「あ、そうそう、それが…」","","",""
+　何か用か？　果音」","How did you do it? What do you use?","Как вы это сделали? Что вы используете?","Wie hast du das gemacht? Was benutzen Sie?"
+00002ce0,26,"「あ、そうそう、それが…」","Oh, yes, it's…","О, да, это…","Oh, ja, es ist…"
 00002d94,96,"「私がよく読んでた、『昭和アイドル
 　グラビアファイル８０年代編』って
-　写真集が見あたらなくて」","","",""
+　写真集が見あたらなくて」","I read the book Showa Idolビアure File 80s","Я прочитал книгу Шоу Идоладаре файла 80s","Ich lese das Buch Showa Idol reine File 80s"
 00002e7c,98,"「あ、それなら、倉庫に入れたわ。
 　ずっと貸し出されてなかったし、
-　もう読む人もいないかと思って」","","",""
+　もう読む人もいないかと思って」","“Oh, I put it in the warehouse. I have never been
+out of the road, and I think I have no readers.","«О, я положил его на склад. Я никогда не был из
+дороги, и я думаю, что у меня нет читателей.","„Oh, ich habe es ins Lager gelegt. Ich war nie
+aus dem Weg, und ich glaube, ich habe keine Leser."
 00002f7c,61,"「え～っ、そんなぁ。あのころのアイドルが
-　一番面白いのにぃ」","","",""
-00002ff0,26,"「お前、生まれてないだろ」","","",""
-0000307c,40,"「生まれてなくても、面白さはわかるの！」","","",""
+　一番面白いのにぃ」","Yes, it is. Idol at that time is the most
+interesting","- Да, это. Идол в то время самый интересный","Ja, ist es. Idol zu dieser Zeit ist das
+interessanteste"
+00002ff0,26,"「お前、生まれてないだろ」","I'm not born in front of you.","- Я не родился перед вами.","Ich bin nicht vor dir geboren."
+0000307c,40,"「生まれてなくても、面白さはわかるの！」","I can't understand the interestingness even if I
+was born!","«Я не могу понять интересность, даже если я
+родилась!»","Ich kann die Interessantkeit nicht verstehen,
+auch wenn ich geboren wurde!"
 00003100,59,"「倉庫へ行けばすぐ見つかると思うから、
-　ちょっと待ってて」","","",""
+　ちょっと待ってて」","If you go to the warehouse, you can find it
+immediately, so wait a little.","Если вы идете на склад, вы можете найти его
+сразу, так что подождите немного.","Wenn du ins Lager gehst, kannst du es sofort
+finden, also warte etwas."
 00003190,51,"「あ、俺が行きますよ。
-　先輩は勉強しててください」","","",""
-0000321c,10,"「でも…」","","",""
+　先輩は勉強しててください」","“Oh, I go.” Please study for seniors.","«О, я иду». Пожалуйста, учитесь для пожилых
+людей.","„Oh, ich gehe.“ Bitte studieren Sie für Senioren."
+0000321c,10,"「でも…」","」","」","!"
 00003254,96,"「俺も運んだし、場所はだいたいわかるから
 　大丈夫です。ほら、果音、行くぞ。
-　お前も一緒に探せ」","","",""
-00003308,40,"「うん！　探さいでか！　行こ行こ～っ！」","","",""
-000033d4,24,"「…ありがとう、\p01君」","","",""
+　お前も一緒に探せ」","“I’m also lucky, and I’m sure I know where to go.
+I'll go. Let’s look at you together","«Я тоже счастлив, и я уверен, что знаю, куда
+идти. Я пойду. Давайте посмотрим на вас вместе","„Ich bin auch glücklich, und ich bin sicher, dass
+ich weiß, wohin ich gehen soll. Ich gehe. Schauen
+wir uns zusammen an"
+00003308,40,"「うん！　探さいでか！　行こ行こ～っ！」","Contact Us","Связаться с нами","Kontaktieren Sie uns"
 00003424,85,"「どういたしまして。大事な試験が終わるまで
-　俺にできることなら、何でも手伝いますよ」","","",""
+　俺にできることなら、何でも手伝いますよ」","。 I can help you with everything until you have a
+positive test.","。 Я могу помочь вам со всем, пока у вас есть
+положительный тест.","。 Ich kann Ihnen bei allem helfen, bis Sie einen
+positiven Test haben."
 000034a8,53,"「何だかよくわかんないけど、
-　果音も手伝わいでか！」","","",""
-0000354c,28,"「おう、手伝え。さ、行くぞ」","","",""
-000035a4,10,"「あ～い」","","",""
-000035fc,26,"「じゃあ、室戸先輩、また」","","",""
-00003688,16,"「失礼しま～す」","","",""
-00003708,20,"「またね、２人とも」","","",""
+　果音も手伝わいでか！」","“I don’t understand it well, but I can help with
+the sound!”","«Я не понимаю это хорошо, но могу помочь со
+звуком!»","“Ich verstehe es nicht gut, aber ich kann mit dem
+Klang helfen!”"
+0000354c,28,"「おう、手伝え。さ、行くぞ」","。 Go","。 Перейти","。 Los!"
+000035a4,10,"「あ～い」","」","」","!"
+000035fc,26,"「じゃあ、室戸先輩、また」","Yeah, the seniors of Muroto, again","«Да, пожилые люди Мурото, снова»","Ja, die Senioren von Muroto, wieder"
+00003688,16,"「失礼しま～す」","」","」","!"
+00003708,20,"「またね、２人とも」","And, two people","«И, два человека»","Und, zwei Leute"

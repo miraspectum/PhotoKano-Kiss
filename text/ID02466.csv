@@ -1,42 +1,69 @@
-00000120,18,"（あ…室戸先輩…）","","",""
-0000022c,38,"「…んしょ。なかなか……外れないわね」","","",""
-00000264,22,"シャッターチャンスだ！","","",""
-00000324,20,"（撮るまでもないな）","","",""
-0000036c,34,"「室戸先輩、蛍光灯の交換ですか？」","","",""
-000003f4,8,"「え…」","","",""
-0000054c,68,"「ああ、\p01君。
-　そうよ、切れかかってたから
-　交換しようと思って」","","",""
-00000620,34,"「それも生徒会の仕事なんですか？」","","",""
+00000120,18,"（あ…室戸先輩…）","(A…Muroto seniors…)","(A…Muroto seniors…)","(A…Muroto Senioren…)"
+0000022c,38,"「…んしょ。なかなか……外れないわね」","。 I can't remove it.","。 Я не могу удалить его.","Ich kann es nicht entfernen."
+00000264,22,"シャッターチャンスだ！","ter chance!","ter шанс!","Eine Chance!"
+00000324,20,"（撮るまでもないな）","(It is not until you take it)","(Это не до тех пор, пока вы не принимаете его)","(Es ist nicht, bis du es nimmst)"
+0000036c,34,"「室戸先輩、蛍光灯の交換ですか？」","“Are you changing室t lights for seniors in Murの?”","“Вы меняете lightt огни для пожилых людей в Murの?
+»","„Wechsle du blickende Lichter für Senioren in
+Mur? „"
+000003f4,8,"「え…」","」","」","!"
+00000620,34,"「それも生徒会の仕事なんですか？」","“Is it a student group job?”","— Это работа студенческой группы? »","„Ist es ein studentischer Gruppenjob? „"
 000006b4,75,"「ううん、たまたま通りがかったら
-　チカチカしてて、自分で取り替えてるだけ」","","",""
+　チカチカしてて、自分で取り替えてるだけ」","Yes, if you are on the street, you can replace it
+yourself.","- Да, если вы находитесь на улице, вы можете
+заменить его сами.","Ja, wenn Sie auf der Straße sind, können Sie es
+selbst ersetzen."
 00000798,49,"「先生に言えば、やってくれると
-　思いますけど？」","","",""
+　思いますけど？」","“I think you should do it when you say to the
+teacher?”","«Я думаю, что вы должны сделать это, когда вы
+говорите учителю? »","„Ich denke, du solltest es tun, wenn du zum
+Lehrer sagst? „"
 00000824,57,"「先生方も忙しいから、
-　すぐには対処できないでしょう？」","","",""
+　すぐには対処できないでしょう？」","“Is it possible to deal with the teacher soon?”","«В ближайшее время можно заняться учителем? »","„Ist es möglich, bald mit dem Lehrer umzugehen? „"
 00000948,102,"「嫌いなのよ、蛍光灯が切れかかってる
 　のって。何だか貧乏くさいし、
-　校舎が古ぼけて見えるでしょう？」","","",""
+　校舎が古ぼけて見えるでしょう？」","“I don’t like it, it’s a灯t light. Is it possible
+to see the old school building?","«Я не люблю, это не свет. Можно ли увидеть старое
+здание школы?","“Ich mag es nicht, es ist a lightt Licht. Ist es
+möglich, das alte Schulgebäude zu sehen?"
 00000ab0,71,"「あ、もちろん、職員室へ行って、
-　先生には交換する旨、伝えてあるわよ」","","",""
+　先生には交換する旨、伝えてあるわよ」","Oh, of course, I will go to the staff room and
+exchange it to the teacher, I will tell you.","О, конечно, я пойду в кабинет персонала и
+обменять его на учителя, я скажу вам.","Natürlich gehe ich in den Personalraum und
+tausche ihn an den Lehrer, ich werde es dir sagen."
 00000ba4,57,"「学園の備品だし、勝手に交換するわけには
-　いかないから」","","",""
-00000c40,18,"「室戸先輩って…」","","",""
-00000ce4,28,"「本当に学園が好きですよね」","","",""
+　いかないから」","It's a school fixture and it's not easy to
+exchange it easily.","Это школьное приспособление, и это не легко
+обменять его.","Es ist eine Schuleinrichtung und es ist nicht
+einfach, sie einfach auszutauschen."
+00000c40,18,"「室戸先輩って…」","Mr.Mr.Muroto …","Мир.Мурото …","Mr.Mr.Muroto …"
+00000ce4,28,"「本当に学園が好きですよね」","I really like school.","- Мне очень нравится школа.","Ich mag die Schule."
 00000d60,47,"「ええ、大好きよ。
-　私たちが通う学園ですもの」","","",""
-00000e10,20,"「完璧主義ですよね」","","",""
-00000e70,38,"「フフッ、ほめられたことにしておくわ」","","",""
+　私たちが通う学園ですもの」","I love it. Our school is","Я люблю это. Наша школа","Ich liebe es. Unsere Schule ist"
+00000e10,20,"「完璧主義ですよね」","“It’s perfection.”","«Это совершенство. »","„Es ist Perfektion. „"
+00000e70,38,"「フフッ、ほめられたことにしておくわ」","I'm sorry.","- Прости.","Es tut mir leid."
 00000f2c,63,"「蛍光灯、俺が替えるから、
-　室戸先輩は脚立を抑えててください」","","",""
-00000fb8,12,"「いいの？」","","",""
+　室戸先輩は脚立を抑えててください」","The脚t light, because I change, the seniors of Mur
+should suppress the leg standing.","«Не свет, потому что я меняю, пожилые люди Мур
+должны подавить ногу стою».","Das Licht, weil ich mich ändere, sollten die
+Senioren von Mur das Stehen unterdrücken."
+00000fb8,12,"「いいの？」","“What is good?”","- Что хорошего? »","„Was ist gut? „"
 00000fe8,77,"「家でも力仕事とか、高いところの作業は
-　俺がやってますから、任せてください」","","",""
-00001084,38,"「ありがとう。じゃあ、お願いするわね」","","",""
-000010fc,16,"「これからも…」","","",""
-0000115c,10,"「え…？」","","",""
+　俺がやってますから、任せてください」","“Please leave your work at home or work at high
+places because you are doing it.”","«Пожалуйста, оставьте свою работу дома или
+работайте в высоких местах, потому что вы делаете
+это. »","“Bitte lassen Sie Ihre Arbeit zu Hause oder
+arbeiten an hohen Stellen, weil Sie es tun. „"
+00001084,38,"「ありがとう。じゃあ、お願いするわね」","Thank you. I'll ask you.","Спасибо. Я спрашиваю тебя.","Danke. Ich frage dich."
+000010fc,16,"「これからも…」","」","」","!"
+0000115c,10,"「え…？」","?」","?」","?"
 00001194,80,"「何かあれば、俺に言ってくれれば
 　手伝いますよ。１人でやるより
-　安全ですから」","","",""
-00001290,36,"「…そうね、ありがとう。そうするわ」","","",""
-00001338,42,"こうして、室戸先輩と一緒に蛍光灯を替えた。","","",""
+　安全ですから」","“If you have something, you can help me. It is
+safer than doing it by one person.","«Если у вас есть что-то, вы можете мне помочь.
+Это безопаснее, чем делать это одним человеком.","„Wenn du etwas hast, kannst du mir helfen. Es ist
+sicherer, als es von einer Person zu tun."
+00001290,36,"「…そうね、ありがとう。そうするわ」","Thank you. 」","Спасибо. 」","Danke. !"
+00001338,42,"こうして、室戸先輩と一緒に蛍光灯を替えた。","In this way, I replaced the灯t lamp with my
+seniors.","Таким образом, я заменил лампу灯t со своими
+старшими.","Auf diese Weise ersetzte ich die  lampt Lampe mit
+meinen Senioren."

@@ -1,106 +1,143 @@
-000001ac,34,"「ほら！　舞衣りゃん、早く早く！」","","",""
-000001fc,40,"「かのちゃん、廊下を走っちゃダメだよぉ」","","",""
+000001ac,34,"「ほら！　舞衣りゃん、早く早く！」","Hora! Maii Ryan, fast!","Гора! Майи Райан, быстро!","Hora! Maii Ryan, schnell!"
+000001fc,40,"「かのちゃん、廊下を走っちゃダメだよぉ」","Kano-chan, I'm going to run the corridor.","«Кано-Чан, я собираюсь запустить коридор».","Kano-chan, ich werde den Korridor führen."
 00000248,55,"「ちょっとぐらい大丈夫だって！
-　ほら、急いで急いで！」","","",""
-000002ac,10,"「もう～」","","",""
+　ほら、急いで急いで！」","It's a little okay! I'm rushing!","- Это немного в порядке! Я спешу!","Es ist etwas okay! Ich beeile!"
+000002ac,10,"「もう～」","」","」","!"
 00000300,55,"「果音、舞衣ちゃん、そんなに急いで
-　どこへ行くんだ？」","","",""
-000004a0,16,"「あ、にいやん」","","",""
-00000520,12,"「\p01先輩」","","",""
-00000578,42,"「体育館！　フリースローの練習するんだぁ」","","",""
-00000614,28,"「フリースロー？　バスケか」","","",""
-00000674,8,"「そっ」","","",""
+　どこへ行くんだ？」","“Where do you go?”","— Куда вы идете? »","„Wo gehst du hin? „"
+000004a0,16,"「あ、にいやん」","」","」","!"
+00000578,42,"「体育館！　フリースローの練習するんだぁ」","Gymnasium! I will practice free throwing!","Гимназия! Я буду практиковать свободно бросать!","Gymnasium! Ich werde frei werfen üben!"
+00000614,28,"「フリースロー？　バスケか」","Free Slow?","Бесплатно медленно?","Freier Schluck?"
+00000674,8,"「そっ」","」","」","!"
 000006d4,90,"「この間、体育の授業の時、
 　ちっとも入らなかったんです。
-　だから、２人で練習しようって」","","",""
-000007f4,10,"「へ～っ」","","",""
+　だから、２人で練習しようって」","In this time, I didn't enter it when I was a
+physical education class. Let’s practice with two
+people.","«В это время я не вошел в него, когда я был
+классом физического воспитания. Давайте
+практиковать с двумя людьми.","In dieser Zeit betrat ich es nicht, als ich eine
+körperliche Ausbildung war. Lassen Sie uns mit
+zwei Leuten üben."
+000007f4,10,"「へ～っ」","」","」","!"
 00000854,55,"「ほら、舞衣りゃん、急がなきゃ
-　ゴール取られちゃうよ」","","",""
+　ゴール取られちゃうよ」","I'm sorry, but I'm going to go to the goal.","Я сожалею, но я собираюсь пойти в цель.","Es tut mir leid, aber ich gehe zum Ziel."
 00000914,61,"「大丈夫だよぉ。急がなくても
-　どこかのゴールがあいてるって」","","",""
-000009a8,42,"「ううん、念には念をってね。さ、行こっ！」","","",""
-00000a9c,36,"「仕方ないなぁ、せっかちなんだから」","","",""
-00000b7c,20,"「先輩、失礼します」","","",""
-00000c28,22,"「またね～、にいやん」","","",""
-00000c6c,18,"「気をつけろよ～」","","",""
-00000cc8,8,"「はい」","","",""
-00000d24,20,"「わかってるって～」","","",""
+　どこかのゴールがあいてるって」","It's okay! Even if you don’t have a rush, you
+can get a goal somewhere.”","«Это нормально!» Даже если у вас нет спешки, вы
+можете получить цель где-то. »","Es ist okay! Auch wenn Sie keine Eile haben,
+können Sie irgendwo ein Ziel bekommen. „"
+000009a8,42,"「ううん、念には念をってね。さ、行こっ！」","Yes, I think. Contact Us","- Да, я думаю. Связаться с нами","Ja, denke ich. Kontaktieren Sie uns"
+00000a9c,36,"「仕方ないなぁ、せっかちなんだから」","I don't have to do it, I'm so busy.","- Мне не нужно это делать, я так занят.","Ich muss es nicht tun, ich bin so beschäftigt."
+00000b7c,20,"「先輩、失礼します」","Edu」, rude","Edu」, грубость","Edu!"
+00000c28,22,"「またね～、にいやん」","」","」","!"
+00000c6c,18,"「気をつけろよ～」","」","」","!"
+00000cc8,8,"「はい」","Yes","Да","Ja"
+00000d24,20,"「わかってるって～」","」","」","!"
 00000f04,55,"（気をつけろの、正しい意味を理解してれば
-　いいけどな）","","",""
+　いいけどな）","(It is good to understand the correct meaning of
+care.)","(Хорошо понять правильное значение ухода.)","(Es ist gut, die richtige Bedeutung der Pflege zu
+verstehen.)"
 00000f84,49,"「こらあっ！　廊下を走ったら
-　危ないでしょう！」","","",""
-00000fe0,12,"「きゃっ！」","","",""
-0000101c,12,"「ひゃあ！」","","",""
-00001070,24,"（言わないこっちゃない）","","",""
-00001388,42,"「誰かにぶつかったら、どうするつもり！？」","","",""
-0000140c,16,"「…すみません」","","",""
-0000140c,16,"「…すみません」","","",""
-0000148c,42,"（やっぱり…心配したとおり、見つかったか）","","",""
+　危ないでしょう！」","“Well, it’s dangerous to run the corridor!”","«Ну, опасно запустить коридор!»","„Nun, es ist gefährlich, den Korridor zu führen!“"
+00000fe0,12,"「きゃっ！」","!」","!」","!"
+0000101c,12,"「ひゃあ！」","!」","!」","!"
+00001070,24,"（言わないこっちゃない）","(I don't say it)","(Я не говорю)","(Ich sage es nicht)"
+00001388,42,"「誰かにぶつかったら、どうするつもり！？」","“What do you want to do if you get someone?”","- Что вы хотите сделать, если вы получите
+кого-то? »","„Was willst du tun, wenn du jemanden bekommst? „"
+0000140c,16,"「…すみません」","…I don't know","…Я не знаю","…ich weiß es nicht"
+0000140c,16,"「…すみません」","…I don't know","…Я не знаю","…ich weiß es nicht"
+0000148c,42,"（やっぱり…心配したとおり、見つかったか）","Sorry, this entry is only available in 日本語.","Извините, этот техт доступен только в “日本語”.","Leider ist dieser Eintrag nur in 日本語 verfügbar."
 00001514,77,"「小学生じゃないんだから、廊下を走ったら
-　危ないことぐらいわかるでしょう？」","","",""
-000015e4,10,"「はい…」","","",""
-000015e4,10,"「はい…」","","",""
+　危ないことぐらいわかるでしょう？」","“I’m not a elementary school student, so if you
+run the corridor, you can see it as dangerous?”","«Я не студент начальной школы, так что если вы
+управляете коридором, вы можете увидеть это как
+опасно? »","“Ich bin kein Grundschulstudent, also wenn Sie
+den Korridor führen, können Sie ihn als gefährlich
+sehen? „"
+000015e4,10,"「はい…」","Yes…","Да…","Ja…"
+000015e4,10,"「はい…」","Yes…","Да…","Ja…"
 00001698,71,"「ちょっとぐらい…今だけ…そんな気の緩みが
-　風紀の乱れの始まりなのよ」","","",""
-000015e4,10,"「はい…」","","",""
-000015e4,10,"「はい…」","","",""
-000018e4,36,"「だから、気をつけろって言ったのに」","","",""
-0000195c,18,"「あ、にいやん～」","","",""
-000019cc,14,"「\p01先輩～」","","",""
-00001a38,16,"「う…\p01君…」","","",""
-00001aac,26,"「この間みたいに助けて～」","","",""
-00001b64,16,"「この間って？」","","",""
+　風紀の乱れの始まりなのよ」","It's a little … just now … the looseness of
+such a feeling is the beginning of the disturbance
+of Fenki","«Это немного … только сейчас … потеря такого
+чувства - это начало беспокоя Фенки»","Es ist ein wenig… gerade jetzt… die Losung
+eines solchen Gefühls ist der Beginn der Störung
+von Fenki"
+000015e4,10,"「はい…」","Yes…","Да…","Ja…"
+000015e4,10,"「はい…」","Yes…","Да…","Ja…"
+000018e4,36,"「だから、気をつけろって言ったのに」","“So, I said to be careful.”","- Так, я сказал, чтобы быть осторожным. »","„Ich sagte, ich sei vorsichtig. „"
+0000195c,18,"「あ、にいやん～」","」","」","!"
+00001aac,26,"「この間みたいに助けて～」","Help like this","Помогите так","Hilfe so"
+00001b64,16,"「この間って？」","What is this?","Что это?","Was ist das?"
 00001c00,110,"「この間、私とののか先輩が、
 　室戸先輩に怒られてた時、にいやんが何かを
-　ささやいたら、すぐに許してくれたの」","","",""
-00001d44,28,"「そうなの！？　すご～い！」","","",""
-00001e40,34,"「にいやん、お願い、ささやいて～」","","",""
-00001ed8,43,"「\p01先輩、お願いします。
-　反省してます」","","",""
-00001fa8,28,"「な、何？　まさか、また…」","","",""
-00002068,18,"果音たちを助けない","","",""
-00002084,16,"果音たちを助ける","","",""
+　ささやいたら、すぐに許してくれたの」","In this time, when my seniors were angry with my
+seniors, I immediately allowed him to do
+something.","«В это время, когда мои пожилые люди были сердит
+с моими старшими, я сразу позволил ему что-то
+сделать».","In dieser Zeit, als meine Senioren wütend waren,
+erlaubte ich ihm sofort etwas zu tun."
+00001d44,28,"「そうなの！？　すご～い！」","It's right!","«Это правильно!»","Es ist richtig!"
+00001e40,34,"「にいやん、お願い、ささやいて～」","Nyan, please, do it!","Нян, пожалуйста, сделайте это!","Nyan, bitte, tu es!"
+00001fa8,28,"「な、何？　まさか、また…」","What is it?","- Что это?","Was ist das?"
+00002068,18,"果音たちを助けない","Don’t help the sound","Не помогайте звуку","Hilf dem Klang nicht"
+00002084,16,"果音たちを助ける","Helping sound","Помощь звуку","Sound helfen"
 0000213c,83,"「俺に頼るなんて、２人とも反省が足りない！
-　室戸先輩、もっと怒ってやってください」","","",""
-000021c8,10,"「え～っ」","","",""
-000021c8,10,"「え～っ」","","",""
-00002278,53,"「わかってるじゃない、\p01君。
-　そうこなくっちゃね」","","",""
+　室戸先輩、もっと怒ってやってください」","“I don’t have enough counter、s for two people!
+Muroto seniors, please do more angry ","«У меня нет достаточного счетчика, для двух
+человек! Пожилые люди Muroto, пожалуйста, сделайте
+более сердитый ","„Ich habe nicht genug Counter、s für zwei
+Menschen! Muroto Senioren, bitte machen Sie mehr
+wütend "
+000021c8,10,"「え～っ」","」","」","!"
+000021c8,10,"「え～っ」","」","」","!"
 000023e4,49,"「さ、２人とも、本当に反省するまで、
-　お説教よ」","","",""
-000024c8,10,"「あうぅ」","","",""
-00002558,12,"「そんなぁ」","","",""
-00002628,26,"「じゃあ、俺は行きますね」","","",""
-000026a4,24,"「ええ、またね、\p01君」","","",""
+　お説教よ」","“T、 people are really rebels.”","“T、 люди действительно мятежники. »","“T、 Menschen sind wirklich Rebellen. „"
+000024c8,10,"「あうぅ」","」","」","!"
+00002558,12,"「そんなぁ」","」","」","!"
+00002628,26,"「じゃあ、俺は行きますね」","“Yes, I go.”","— Да, я иду. »","„Ja, ich gehe. „"
 00002748,65,"「すみません、反省してると思うんで、
-　もう許してやってください」","","",""
+　もう許してやってください」","I don't know, I think I'm rebeling, please do it
+anymore.","Я не знаю, я думаю, что я бьюсь, пожалуйста,
+сделайте это больше.","Ich weiß nicht, ich glaube, ich rebelliere, bitte
+tu es noch."
 000027e0,77,"「そうはいかないわ。何度も校則違反を
-　見逃してたら、示しがつかないじゃない」","","",""
-00002928,30,"「今日は、断固としてお説教よ」","","",""
-000029fc,20,"「仕方ない。不正…」","","",""
-00002aec,38,"「あーーっ、もうそれ以上言わないで！」","","",""
-00002c10,10,"「んぐ…」","","",""
+　見逃してたら、示しがつかないじゃない」","“I think that’s right.” If you miss a school rule
+violation many times, you will not see it.","«Я думаю, что это правильно». Если вы пропустили
+нарушение правила школы много раз, вы не увидите
+его.","„Ich glaube, das stimmt.“ Wenn Sie viele Male
+eine Schulregelverletzung verpassen, werden Sie es
+nicht sehen."
+00002928,30,"「今日は、断固としてお説教よ」","“Today, I’m a preacher.”","«Сегодня я проповедник. »","„Heute bin ich ein Prediger. „"
+000029fc,20,"「仕方ない。不正…」","仕 Unauthorized","Несанкционированный","仕 Unbefugt"
+00002aec,38,"「あーーっ、もうそれ以上言わないで！」","“Oh, don’t say more!”","«О, не говори больше!»","„Oh, sag nicht mehr!“"
+00002c10,10,"「んぐ…」","」","」","!"
 00002cf4,51,"「わかったわよ…許せばいいんでしょう？
-　許せば…」","","",""
-00002dc0,28,"「２人とも、反省してるの？」","","",""
-00002e80,18,"「反省してます！」","","",""
-00002e80,18,"「反省してます！」","","",""
+　許せば…」","I'm sorry… I can forgive you? …","Я сожалею… Я могу вам простить? …","Es tut mir leid… Ich kann dir vergeben? …"
+00002dc0,28,"「２人とも、反省してるの？」","“I’m rebeling with two people?”","— Я бьюсь с двумя людьми? »","„Ich rebelliere mit zwei Leuten? „"
+00002e80,18,"「反省してます！」","I'm sorry!","- Прости!","Es tut mir leid!"
+00002e80,18,"「反省してます！」","I'm sorry!","- Прости!","Es tut mir leid!"
 00002f58,49,"「行っていいわよ。
-　もう廊下を走らないようにね」","","",""
-00003004,12,"「は～い！」","","",""
-00003004,12,"「は～い！」","","",""
+　もう廊下を走らないようにね」","I want to go. Do not run the corridor anymore?","- Я хочу пойти. Больше не бежит коридор?","Ich will gehen. Lauft der Korridor nicht mehr?"
+00003004,12,"「は～い！」","!」","!」","!"
+00003004,12,"「は～い！」","!」","!」","!"
 000030ec,59,"「ね、ね、すごいでしょ？
-　にいやん、魔法使いみたいでしょ」","","",""
-00003234,32,"「うんうん、びっくりしちゃった」","","",""
-00003334,32,"「ありがと、にいやん。またね～」","","",""
-000033c0,42,"「先輩、ありがとうございます。失礼します」","","",""
+　にいやん、魔法使いみたいでしょ」","“Well, it’s amazing, isn’t it?”","— Ну, это удивительно, не так ли? »","„Nun, es ist erstaunlich, nicht wahr? „"
+00003234,32,"「うんうん、びっくりしちゃった」","Yes, I was surprised","«Да, я был удивлен»","Ja, ich war überrascht"
+00003334,32,"「ありがと、にいやん。またね～」","。 Comment","。 Комментарий","。 Kommentar"
+000033c0,42,"「先輩、ありがとうございます。失礼します」","Thank you for your support.","Спасибо за поддержку.","Danke für Ihre Unterstützung."
 000034e0,57,"「はぁ…生徒会長としての威厳が、
-　どんどん薄れていくわ」","","",""
+　どんどん薄れていくわ」","
+“Hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh","
+hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh","hhhhhhhhhhhhhhhh"
 000035e0,49,"「ねぇ、そろそろあの写真、
-　削除してくれない？」","","",""
+　削除してくれない？」","“Well, I don’t delete my photos?”","— Ну, я не удаляю свои фотографии? »","„Nun, ich lösche meine Fotos nicht? „"
 00003640,53,"「いや、あれは、せっかく撮れた
-　室戸先輩の一面で…」","","",""
+　室戸先輩の一面で…」","No, it's a face of the seniors of the Mur撮 who
+took it.","«Нет, это лицо пожилых людей Мур the, который
+взял его. « »","Nein, es ist ein Gesicht der Senioren der Mur撮,
+die es nahm."
 000036cc,61,"「あんなの私の一面なんかじゃないわよ！
-　単なる気の迷いで…」","","",""
-000037e0,20,"「し、失礼します！」","","",""
-00003824,26,"「あ！　ちょっと……もう」","","",""
+　単なる気の迷いで…」","I'm not one of my faces! I'm just wondering…","Я не один из моих лиц! Мне просто интересно…»","Ich bin kein Gesichter! Ich frage mich nur…"
+000037e0,20,"「し、失礼します！」","“I’m sorry!”","— Прости!","„Es tut mir leid!“"
+00003824,26,"「あ！　ちょっと……もう」","Oh! It's a little…","О! Это немного…","Oh! Es ist ein wenig…"

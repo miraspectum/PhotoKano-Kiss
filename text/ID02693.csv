@@ -1,31 +1,50 @@
-000000a8,14,"「あ、\p01君」","","",""
-0000015c,12,"「おはよう」","","",""
+0000015c,12,"「おはよう」","」","」","!"
 000001e8,59,"「ずいぶん秋めいてきたし、
-　もう日焼けはしなさそうですね」","","",""
+　もう日焼けはしなさそうですね」","“I’ve been in the fall, and it’s like a tan.”","«Я был в падении, и это как загар. »","„Ich war im Herbst, und es ist wie eine Bräune. „"
 00000274,79,"「そうね。少し焼けたけど、このぐらいなら、
-　寒くなるまでには元に戻ると思うわ」","","",""
-0000034c,24,"「早いですね、戻るのが」","","",""
+　寒くなるまでには元に戻ると思うわ」","“Yes.” I'm a little burnt, but I think I'm going
+back to the end until it gets cold.","— Да. Я немного сгорел, но я думаю, что я вернусь
+к концу, пока он не будет холодным.","„Ja.“ Ich bin ein wenig verbrannt, aber ich
+denke, ich gehe bis zum Ende zurück, bis es kalt
+wird."
+0000034c,24,"「早いですね、戻るのが」","It's fast, I'm back.","- Это быстро, я вернулся.","Es ist schnell, ich bin zurück."
 000003c4,88,"「毎年そうよ。夏は水泳で黒くなって、
 　それからは、勉強する時間が増えて、
-　白くなるの」","","",""
-000004a8,10,"「ははは」","","",""
+　白くなるの」","Every year Summer is black in swimming, then the
+time to study is increasing, and it turns white.”","Каждый год лето черное в плавании, тогда время
+для учебы увеличивается, и оно превращает белое. »","Jedes Jahr ist der Sommer schwarz im Schwimmen,
+dann steigt die Zeit zum Lernen, und es dreht sich
+weiß. „"
+000004a8,10,"「ははは」","」","」","!"
 00000504,61,"「フフッ、ここで立ち話もなんだから、
-　校舎まで一緒に行く？」","","",""
-000005d0,14,"「そうですね」","","",""
+　校舎まで一緒に行く？」","“Huffy, I’m talking here, so I’m going to school
+together?”","«Довольно, я говорю здесь, так что я собираюсь
+учиться вместе? »","„Huffy, ich rede hier, also gehe ich gemeinsam
+zur Schule? „"
+000005d0,14,"「そうですね」","“Yes, right?”","— Да, правда? »","„Ja, richtig? „"
 0000062c,63,"「知り合ったころに比べると、
-　ずいぶん日に焼けましたね、先輩」","","",""
+　ずいぶん日に焼けましたね、先輩」","When I went to meet you, I was burned on the day,
+seniors.","«Когда я пошел встретиться с вами, я сгорел в
+день, пожилые».","Als ich dich traf, wurde ich am Tag verbrannt,
+Senioren."
 000006b8,49,"「あなたが焼いた方がいいって
-　言ったんでしょ？」","","",""
+　言ったんでしょ？」","“You said you want to burn?”","- Ты сказал, что хочешь сжечь? »","„Du hast gesagt, du willst verbrennen? „"
 0000073c,67,"「私は、受験生らしくないし、
-　白いままの方がいいって思ってたのに」","","",""
-000007ec,30,"「夏らしくていいと思いますよ」","","",""
+　白いままの方がいいって思ってたのに」","“I didn’t like a test student, and I thought it
+would be better to stay white.”","«Мне не понравился испытательный студент, и я
+думал, что лучше будет оставаться белым. »","„Ich mochte keinen Teststudenten, und ich dachte,
+es wäre besser, weiß zu bleiben. „"
+000007ec,30,"「夏らしくていいと思いますよ」","I think it's good for summer.","- Я думаю, что это хорошо для лета.","Ich glaube, es ist gut für den Sommer."
 00000860,82,"「そうね。私にしてみれば、
 　毎年、夏は日焼けしてたから、
-　いつも通りって感じよ」","","",""
-00000990,36,"「じゃあ、来年も黒くなるんですね？」","","",""
+　いつも通りって感じよ」","“Yes.” I think I always feel like I had sunburn
+every summer.","«Да». Я думаю, что я всегда чувствую, что я
+загорел каждое лето.","„Ja.“ Ich glaube, ich fühle mich immer so, als
+hätte ich jeden Sommer Sonnenbrand."
+00000990,36,"「じゃあ、来年も黒くなるんですね？」","“Well, it’s black next year?”","- Ну, это черный в следующем году? »","„Nun, es ist schwarz im nächsten Jahr? „"
 00000a20,49,"「ええ。また見せてあげるわよ、
-　日焼けした私を」","","",""
-00000ab4,20,"「楽しみにしてます」","","",""
-00000b28,28,"「あ……卒業するのに、私…」","","",""
-00000c44,24,"「じゃ、じゃあ、またね」","","",""
-00000db0,18,"「あ…室戸先輩…」","","",""
+　日焼けした私を」","Home I'm looking forward to seeing you again.","Home Я жду вас снова.","Ich freue mich, dich wiederzusehen."
+00000ab4,20,"「楽しみにしてます」","Let's enjoy","Пусть наслаждаться","Gefällt mir"
+00000b28,28,"「あ……卒業するのに、私…」","“Oh… I want to……”","“О… Я хочу……”","„Oh… ich will…“"
+00000c44,24,"「じゃ、じゃあ、またね」","Yes, it's not.","- Да, это нет.","Ja, das ist es nicht."
+00000db0,18,"「あ…室戸先輩…」","Oh…Muroto seniors …","Oh…Muroto seniors …","Oh…Muroto Senioren …"

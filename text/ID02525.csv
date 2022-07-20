@@ -1,332 +1,457 @@
-000001b4,88,"「よく考えたら、かつみ以外の人と、
-　学校帰りにここへ寄るのって、
-　\p01君が初めてだわ」","","",""
-00000274,20,"「そうなんですか？」","","",""
-000002dc,38,"「寄り道自体、あまりしないしね、私は」","","",""
+00000274,20,"「そうなんですか？」","What is it?","Что это?","Was ist los?"
+000002dc,38,"「寄り道自体、あまりしないしね、私は」","I don't think much about the path itself,","«Я не думаю о самом пути,»","Ich denke nicht viel über den Weg selbst,"
 00000398,73,"「ここって、いろいろ売ってるし、
-　フードコートはうまいし、楽しいですよ」","","",""
+　フードコートはうまいし、楽しいですよ」","“Here, I’m selling a lot, and the food court is
+delicious and fun.”","«Здесь, я продаю много, и суд еды вкусный и
+веселый. »","„Hier verkaufe ich viel, und das Essen Gericht
+ist köstlich und lustig. „"
 00000434,102,"「そんなこと言って…目的もなくうろうろは
 　しないわよ。買いたい物を買ったら、
-　すぐ帰る。いいわね？」","","",""
-0000056c,10,"「…はい」","","",""
-00000614,20,"「お、ここだ、ここ」","","",""
+　すぐ帰る。いいわね？」","I say that … I don't want to go without
+purpose. When you buy something you want to buy,
+go back soon. ?」","- Я говорю, что … Я не хочу идти без цели.
+Когда вы покупаете что-то, что хотите купить,
+скоро вернитесь. ?」","Ich sage, ich will nicht ohne Absicht gehen.
+Wenn Sie etwas kaufen wollen, gehen Sie bald
+zurück. ?"
+0000056c,10,"「…はい」","…Yes.","-- Да.","Ja."
+00000614,20,"「お、ここだ、ここ」","It's here, here","Это здесь, здесь","Es ist hier, hier"
 0000068c,59,"「どこへ行くのよ？
-　ステーショナリーショップは、向こうよ」","","",""
+　ステーショナリーショップは、向こうよ」","“Where are you? The stationary shop is beyond?”","— Где ты? Стационарный магазин выходит за рамки?
+»","„Wo bist du? Der stationäre Laden ist weiter? „"
 0000073c,61,"「あ、ペン立てが欲しいんですけど、
-　ここの方が安そうだから」","","",""
+　ここの方が安そうだから」","Oh, I want a pen stand, but this is cheaper.","О, я хочу стойки ручки, но это дешевле.","Oh, ich will einen Stift stehen, aber das ist
+billiger."
 000007cc,116,"「ここって、バラエティプラザじゃない。
 　こんなファンシーなお店のペン立てで
-　いいの？　女性向けになっちゃうわよ？」","","",""
+　いいの？　女性向けになっちゃうわよ？」","“This is not the Plaza. Is it good for women?","«Это не Плаза. Это хорошо для женщин?","„Das ist nicht die Plaza. Ist es gut für Frauen?"
 000008bc,110,"「カメラ以外の出費は抑えてるんで。
 　多少カラフルでも、シンプルなデザインなら
-　男が使っても変じゃないですし」","","",""
+　男が使っても変じゃないですし」","I can reduce costs other than camera. Even
+though it is a little colorful, if it is a simple
+design, it will not change even if it is used by a
+man.","Я могу снизить расходы, кроме камеры. Хотя это
+немного красочно, если это простой дизайн, он не
+изменится, даже если он используется человеком.","Ich kann andere Kosten als Kamera reduzieren.
+Obwohl es ein wenig bunt ist, wenn es ein
+einfaches Design ist, wird es sich nicht ändern,
+auch wenn es von einem Mann verwendet wird."
 0000097c,102,"「まぁ…それはそうね。ステーショナリー
 　ショップは、大人が使う文具が多いから、
-　値段が高めだものね」","","",""
-00000a9c,20,"「そういうことです」","","",""
-00000b38,26,"「え～と、ペン立ては…と」","","",""
-00000b98,34,"「ぐるっと回ればどこかにあるわよ」","","",""
-00000c1c,14,"「そうですね」","","",""
-00000cc4,36,"（ここは、パーティグッズコーナーか）","","",""
+　値段が高めだものね」","“Well… That’s right.” The stationary table has
+many文 used by adults, so it’s expensive.","«Ну… Это правильно. Стационарный стол имеет
+много псевдонимов, так что это дорого.","„Nun… Das stimmt.“ Der stationäre Tisch hat
+viele文 von Erwachsenen verwendet, so ist es teuer."
+00000a9c,20,"「そういうことです」","“It’s like that.”","- Это так. »","„So ist es. „"
+00000b38,26,"「え～と、ペン立ては…と」","
+“Ehhhhhhhhhhhhhhhhhhhhhhhhhhhh…hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh","
+«Ehhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh","
+‚Hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh"
+00000b98,34,"「ぐるっと回ればどこかにあるわよ」","“I’ll be somewhere if I go around.”","- Я буду где-то, если я пойду вокруг. »","„Ich werde irgendwo sein, wenn ich umgehe. „"
+00000c1c,14,"「そうですね」","“Yes, right?”","— Да, правда? »","„Ja, richtig? „"
+00000cc4,36,"（ここは、パーティグッズコーナーか）","(Party Goods Corner)","(Party Goods Corner)","(Party Goods Corner)"
 00000d18,73,"「室戸先輩の家って、誕生日とか
-　クリスマスに、パーティやったりします？」","","",""
-00000da8,42,"「やるわよ。だいたい、母さんと２人だけど」","","",""
-00000e48,10,"「２人？」","","",""
+　クリスマスに、パーティやったりします？」","“What is the house of my seniors in Muroto? Do
+you have a party for birthdays and Christmas?”","«Каков дом моих пожилых людей в Мурото? У вас
+есть вечеринка на день рождения и Рождество? »","„Was ist das Haus meiner Senioren in Muroto?
+Haben Sie eine Party für Geburtstage und
+Weihnachten? „"
+00000da8,42,"「やるわよ。だいたい、母さんと２人だけど」","。 I have two mothers.","。 У меня две матери.","Ich habe zwei Mütter."
+00000e48,10,"「２人？」","2 people","2 человека","2 Personen"
 00000e9c,53,"「父さんは仕事が忙しいから、
-　あまり家にいないのよ」","","",""
+　あまり家にいないのよ」","“My father is not at home because he is at work.”","«Мой отец не дома, потому что он на работе. »","„Mein Vater ist nicht zu Hause, weil er bei der
+Arbeit ist. „"
 00000f28,47,"「ふうん…そうなんですか。
-　うちと似てますね」","","",""
-00000fb4,8,"「え？」","","",""
+　うちと似てますね」","I'm right. Like me.","- Я прав. Как я.","Ich habe recht. Wie ich."
+00000fb4,8,"「え？」","?」","?」","?"
 00000ff4,104,"「うちは、両親ともに忙しくて、
 　あんまり家にいないんですよ。
-　だから、お祝い事はいつも果音と２人で…」","","",""
-000010d0,20,"「そうだったんだ…」","","",""
+　だから、お祝い事はいつも果音と２人で…」","“We are busy with our parents and we are not at
+home.” That’s why we always have two people who
+celebrate…”","«Мы заняты с родителями, и мы не дома». Именно
+поэтому у нас всегда есть два человека, которые
+празднуют… »","„Wir sind mit unseren Eltern beschäftigt und sind
+nicht zu Hause.“ Deshalb haben wir immer zwei
+Menschen, die… „"
+000010d0,20,"「そうだったんだ…」","It was that…","Это было так…","Es war, dass…"
 0000113c,57,"「あ、室戸先輩って、俺に妹がいるの
-　知ってましたっけ？」","","",""
+　知ってましたっけ？」","“Oh, my seniors knew my sister?”","«О, мои пожилые знали мою сестру? »","„Oh, meine Senioren kannten meine Schwester? „"
 000011c0,98,"「知ってるわよ。テニス部の子でしょ？
 　放課後の見回りでよく会うし、
-　勉強を教えたりもしてるから」","","",""
-000012d4,30,"「へ～っ、そうだったんですか」","","",""
+　勉強を教えたりもしてるから」","I know. “Tennis is a child? It’s because they
+meet well after school and teach them.”","Я знаю. «Теннис – это ребенок? Это потому, что
+они встречаются хорошо после школы и преподают их.
+»","Ich weiß. „Tennis ist ein Kind? Weil sie sich gut
+nach der Schule treffen und sie lehren. „"
+000012d4,30,"「へ～っ、そうだったんですか」","“What was that?”","— Что это было? »","„Was war das? „"
 00001344,86,"「…それにしても、あなたたちのお父さんも
 　忙しい人だったなんてね。
-　知らなかったわ」","","",""
+　知らなかったわ」","… And even if it is, your father was a busy
+person. I did not know","… И даже если это, твой отец был занят
+человеком. Я не знал","… Und selbst wenn es so ist, war dein Vater
+eine beschäftigte Person. ich weiß nicht"
 00001430,102,"「こういうパーティグッズ、果音が
 　好きなんですよね。アイドル志望だから、
-　コスプレ的なことが好きで」","","",""
-000014e8,22,"「フフッ、そうなんだ」","","",""
+　コスプレ的なことが好きで」","“I like this party goods and sound. “I like
+cosplaying”","“Мне нравится этот товар и звук. «Мне нравится
+cosplaying»","„Ich mag diese Partyartikel und Sound. „Ich mag
+Cosplay“"
+000014e8,22,"「フフッ、そうなんだ」","“F」, it’s right!”","“F」, это правильно!”","“Fverhalten, es ist richtig!”"
 00001578,73,"「私は全然興味がないわね。何をつけても、
-　そう代わり映えしないだろうし」","","",""
-00001644,32,"「そんなことはないと思うけど…」","","",""
+　そう代わり映えしないだろうし」","“I’m not interested in it. No matter what you are
+doing, you will not be reflected instead.","«Я не заинтересован в этом. Независимо от того,
+что вы делаете, вы не будете отражены вместо.","„Ich bin nicht daran interessiert. Egal, was Sie
+tun, Sie werden nicht reflektiert werden statt."
+00001644,32,"「そんなことはないと思うけど…」","“I don’t think it’s like that…”","«Я не думаю, что это так… »","„Ich glaube nicht, dass es so ist… „"
 000016b8,88,"「変身願望がないのよ。
 　見た目が変わっても、中身が変わらないと
-　意味がないでしょう？」","","",""
+　意味がないでしょう？」","There is no desire to change. Even if the
+appearance changes, if the contents do not change,
+will there be no meaning?","Нет желания менять. Даже если внешний вид
+меняется, если содержимое не изменится, не будет
+смысла?","Es gibt keinen Wunsch, sich zu ändern. Auch wenn
+sich das Aussehen ändert, wenn sich der Inhalt
+nicht ändert, wird es keine Bedeutung geben?"
 00001784,75,"「いや、形から入るのもありだと思いますよ。
-　例えば、これをつけてみるとか」","","",""
-000018ac,40,"「ネ、ネコミミを！？　そんなの無理よ！」","","",""
-00001924,14,"「どうして？」","","",""
-00001984,38,"「どうしてって……恥ずかしいじゃない」","","",""
+　例えば、これをつけてみるとか」","No, I think there is also a way to enter from
+the shape. For example, do you use this?","Нет, я думаю, что есть также способ войти из
+формы. Например, вы используете это?","Nein, ich glaube, es gibt auch einen Weg, aus
+der Form zu kommen. Verwenden Sie das zum
+Beispiel?"
+000018ac,40,"「ネ、ネコミミを！？　そんなの無理よ！」","Ne, Nekomi!? It's impossible!","- Нет, Nekomi!? Это невозможно!","Ne, Nekomi!? Es ist unmöglich!"
+00001924,14,"「どうして？」","How do we do?","Как мы делаем?","Wie machen wir das?"
+00001984,38,"「どうしてって……恥ずかしいじゃない」","“How do you do it? It’s so embarrassed?”","«Как это сделать? Это так неловко? »","„Wie machst du das? Es ist so peinlich? „"
 00001a14,51,"「きっと似合いますって。
-　恥ずかしがらなくても…」","","",""
-00001aac,26,"「嫌よ。絶対につけないわ」","","",""
-00001b38,14,"「仕方ない…」","","",""
-00001bc4,12,"「な、何よ」","","",""
-00001bfc,14,"「…不正登校」","","",""
-00001c44,10,"「んぐっ」","","",""
-00001c94,40,"「学校外でも、あのことを持ち出すわけ？」","","",""
+　恥ずかしがらなくても…」","“I’m sure I’m going to work together.” I don't
+shy…","- Я уверен, что буду работать вместе. Я не
+стесняюсь…","„Ich bin sicher, dass ich zusammen arbeiten
+werde.“ Ich schüchte nicht…"
+00001aac,26,"「嫌よ。絶対につけないわ」","。 I'm absolutely not wearing it.","。 Я абсолютно не ношу его.","Ich trage es absolut nicht."
+00001b38,14,"「仕方ない…」","I don't have to do…","Не надо делать…","Ich muss nicht…"
+00001bc4,12,"「な、何よ」","What's it?","- Что это?","Was ist los?"
+00001bfc,14,"「…不正登校」","…Unfair School","…Несправедливая школа","…Unfair School"
+00001c44,10,"「んぐっ」","」","」","!"
+00001c94,40,"「学校外でも、あのことを持ち出すわけ？」","“I don’t bring anything outside of school?”","«Я не приношу ничего за пределами школы? »","„Ich bringe nichts außerhalb der Schule? „"
 00001d20,59,"「すみません…ネコミミ、つけてみてください
-　お願いします」","","",""
+　お願いします」","I don't know … Nekomi, please put it on","Я не знаю… Nekomi, пожалуйста, положить его на","Ich weiß nicht… Nekomi, bitte anlegen"
 00001dac,65,"「うう……わ、わかったわよ！
-　つければいいんでしょ？　つければ」","","",""
-00001f24,14,"「こ、こう？」","","",""
+　つければいいんでしょ？　つければ」","“Oh… I’m not sure! I’m sure you want to do it!”
+Close","“О… Я не уверен! Я уверен, что ты хочешь это
+сделать!» Закрыть","„Oh… ich bin mir nicht sicher! Ich bin sicher,
+dass du es tun willst!“ Schließen"
+00001f24,14,"「こ、こう？」","“Hey, this?”","— Эй, это? »","„Hey, das? „"
 00001f60,47,"「おおっ！　すごくいいです！
-　似合ってます！」","","",""
-00001fbc,32,"「もう…そんなわけないでしょ？」","","",""
+　似合ってます！」","Oh! It is very good! Like it!","О! Это очень хорошо! Понравилось!","Oh! Es ist sehr gut! So!"
+00001fbc,32,"「もう…そんなわけないでしょ？」","“Oh… I don’t know that?”","«О… Я не знаю, что? »","„Oh… das weiß ich nicht? „"
 00002038,77,"「そんなことありますよ。…いっそ、
-　もっと、なりきってもらっていいですか？」","","",""
-000020c4,14,"「なりきる？」","","",""
-00002108,34,"「にゃあって、言ってみてください」","","",""
-00002168,38,"「なっ！　そ、そんなことできるわけ…」","","",""
-000021dc,12,"「不正登校」","","",""
-00002224,18,"「にゃ…にゃあ…」","","",""
+　もっと、なりきってもらっていいですか？」","That’s it. …Is it more?","Это. …Это больше?","Das ist es. …ist es mehr?"
+000020c4,14,"「なりきる？」","?」","?」","?"
+00002108,34,"「にゃあって、言ってみてください」","I have to say,","Я должен сказать,","Ich muss sagen,"
+00002168,38,"「なっ！　そ、そんなことできるわけ…」","“No, you can do that…”","- Нет, вы можете сделать это… »","„Nein, du kannst das… „"
+000021dc,12,"「不正登校」","School","Школа","Schule"
+00002224,18,"「にゃ…にゃあ…」","」","」","!"
 00002258,65,"「写真を撮るから、ポーズをちゃんと
-　取ってもらっていいですか？」","","",""
-000022e4,32,"「写真を！？　そんなのお断り…」","","",""
-000021dc,12,"「不正登校」","","",""
-0000239c,10,"「うう…」","","",""
-00002440,20,"「にゃあ～～～～ん」","","",""
-00002468,22,"シャッターチャンスだ！","","",""
+　取ってもらっていいですか？」","“How can I take a pose properly?”","«Как я могу принять поз правильно? »","„Wie kann ich eine Pose richtig machen? „"
+000022e4,32,"「写真を！？　そんなのお断り…」","Photos!? Not allowed …","Фотографии!? Не разрешено …","Fotos!? Nicht erlaubt …"
+000021dc,12,"「不正登校」","School","Школа","Schule"
+0000239c,10,"「うう…」","」","」","!"
+00002440,20,"「にゃあ～～～～ん」","」","」","!"
+00002468,22,"シャッターチャンスだ！","ter chance!","ter шанс!","Eine Chance!"
 000025c8,51,"「うう……また、人に見せられない写真が
-　増えたわ」","","",""
-000026a4,30,"「絶っ対に誰にも見せないでよ」","","",""
-00002724,20,"「わ、わかってます」","","",""
+　増えたわ」","“Oh… I’m also looking for photos that cannot be
+seen by people.”","«О… Я также ищу фотографии, которые нельзя
+увидеть людьми. »","Oh… Ich bin auch auf der Suche nach Fotos, die
+von Menschen nicht gesehen werden können. „"
+000026a4,30,"「絶っ対に誰にも見せないでよ」","“I don’t see anyone.”","- Я никого не вижу. »","„Ich sehe niemanden. „"
+00002724,20,"「わ、わかってます」","“Well, I know.”","— Ну, я знаю. »","„Nun, ich weiß. „"
 0000278c,49,"「それで、ペン立てを買うのは
-　どうなったのよ？」","","",""
+　どうなったのよ？」","“How did you buy a pen stand?”","«Как вы купили пенный стенд? »","„Wie hast du einen Stiftstand gekauft? „"
 000027e8,47,"「すみません、ネコミミに夢中で
-　忘れてました」","","",""
-00002868,32,"「もう…さっさと買って帰るわよ」","","",""
-00002918,28,"（やっぱり撮るまでもないな）","","",""
+　忘れてました」","“I’m sorry, I’ve forgotten my dream to Nekomi.”","«Я сожалею, я забыл свою мечту в Некоми. »","„Es tut mir leid, ich habe meinen Traum an Nekomi
+vergessen. „"
+00002868,32,"「もう…さっさと買って帰るわよ」","“Oh… I’m going to buy it again.”","«О… Я собираюсь купить его снова. »","„Oh… ich werde es wieder kaufen. „"
+00002918,28,"（やっぱり撮るまでもないな）","Sorry, this entry is only available in 日本語.","Извините, этот техт доступен только в “日本語”.","Leider ist dieser Eintrag nur in 日本語 verfügbar."
 00002a24,47,"「もう…ペン立てを買うのは
-　どうなったのよ？」","","",""
+　どうなったのよ？」","“Now… How did you buy a pen stand?”","«Сейчас… Как вы купили стенд? »","„Jetzt… Wie haben Sie einen Stiftstand gekauft?
+„"
 000027e8,47,"「すみません、ネコミミに夢中で
-　忘れてました」","","",""
-00002b20,36,"「まったく…さっさと買って帰るわよ」","","",""
-00002bf4,24,"「ほら、たぶんこっちよ」","","",""
+　忘れてました」","“I’m sorry, I’ve forgotten my dream to Nekomi.”","«Я сожалею, я забыл свою мечту в Некоми. »","„Es tut mir leid, ich habe meinen Traum an Nekomi
+vergessen. „"
+00002b20,36,"「まったく…さっさと買って帰るわよ」","No, I'm going to buy it.","- Нет, я собираюсь купить его.","Nein, ich werde es kaufen."
+00002bf4,24,"「ほら、たぶんこっちよ」","Hey, maybe here.","- Эй, может, здесь.","Hey, vielleicht hier."
 00002c70,47,"「あ、先輩、ネコミミ！
-　ネコミミつけたまま！」","","",""
-00002d00,42,"「あ！　も、もう！　もっと早く言ってよ！」","","",""
-00002dd0,26,"「そんなこと言われても…」","","",""
-00002e44,18,"「まったくもう…」","","",""
-00002ee8,44,"こうして、一緒にバラエティプラザで過ごした。","","",""
-00002f8c,40,"「イ、イヌミミを！？　そんなの無理よ！」","","",""
-00001924,14,"「どうして？」","","",""
-00001984,38,"「どうしてって……恥ずかしいじゃない」","","",""
+　ネコミミつけたまま！」","“Oh, my seniors, Nekomi! I’m on top!”","«О, мои старшие, Некоми! Я сверху!","„Oh, meine Senioren, Nekomi! Ich bin oben!“"
+00002d00,42,"「あ！　も、もう！　もっと早く言ってよ！」","Oh! Well, it's it! I'm saying it soon!","О! Ну, это! Я говорю это скоро!","Oh! Nun, es ist es! Ich sage es bald!"
+00002dd0,26,"「そんなこと言われても…」","I can say that …","Я могу сказать, что …","Ich kann das sagen…"
+00002e44,18,"「まったくもう…」","」","」","!"
+00002ee8,44,"こうして、一緒にバラエティプラザで過ごした。","Let’s go to the Plaza together.","Пойдем в Плаза вместе.","Gehen wir gemeinsam zur Plaza."
+00002f8c,40,"「イ、イヌミミを！？　そんなの無理よ！」","“Oh, I’m in the world! It’s impossible!”","«О, я в мире! Это невозможно!»","„Oh, ich bin in der Welt! Es ist unmöglich!“"
+00001924,14,"「どうして？」","How do we do?","Как мы делаем?","Wie machen wir das?"
+00001984,38,"「どうしてって……恥ずかしいじゃない」","“How do you do it? It’s so embarrassed?”","«Как это сделать? Это так неловко? »","„Wie machst du das? Es ist so peinlich? „"
 00001a14,51,"「きっと似合いますって。
-　恥ずかしがらなくても…」","","",""
-00001aac,26,"「嫌よ。絶対につけないわ」","","",""
-00001b38,14,"「仕方ない…」","","",""
-00001bc4,12,"「な、何よ」","","",""
-00001bfc,14,"「…不正登校」","","",""
-00001c44,10,"「んぐっ」","","",""
-00001c94,40,"「学校外でも、あのことを持ち出すわけ？」","","",""
+　恥ずかしがらなくても…」","“I’m sure I’m going to work together.” I don't
+shy…","- Я уверен, что буду работать вместе. Я не
+стесняюсь…","„Ich bin sicher, dass ich zusammen arbeiten
+werde.“ Ich schüchte nicht…"
+00001aac,26,"「嫌よ。絶対につけないわ」","。 I'm absolutely not wearing it.","。 Я абсолютно не ношу его.","Ich trage es absolut nicht."
+00001b38,14,"「仕方ない…」","I don't have to do…","Не надо делать…","Ich muss nicht…"
+00001bc4,12,"「な、何よ」","What's it?","- Что это?","Was ist los?"
+00001bfc,14,"「…不正登校」","…Unfair School","…Несправедливая школа","…Unfair School"
+00001c44,10,"「んぐっ」","」","」","!"
+00001c94,40,"「学校外でも、あのことを持ち出すわけ？」","“I don’t bring anything outside of school?”","«Я не приношу ничего за пределами школы? »","„Ich bringe nichts außerhalb der Schule? „"
 00003404,59,"「すみません…イヌミミ、つけてみてください
-　お願いします」","","",""
+　お願いします」","I don't know… I'm going to put it on, please.","Я не знаю… Я собираюсь поставить его,
+пожалуйста.","Ich weiß nicht… Ich werde es bitte anziehen."
 00001dac,65,"「うう……わ、わかったわよ！
-　つければいいんでしょ？　つければ」","","",""
-00001f24,14,"「こ、こう？」","","",""
+　つければいいんでしょ？　つければ」","“Oh… I’m not sure! I’m sure you want to do it!”
+Close","“О… Я не уверен! Я уверен, что ты хочешь это
+сделать!» Закрыть","„Oh… ich bin mir nicht sicher! Ich bin sicher,
+dass du es tun willst!“ Schließen"
+00001f24,14,"「こ、こう？」","“Hey, this?”","— Эй, это? »","„Hey, das? „"
 00001f60,47,"「おおっ！　すごくいいです！
-　似合ってます！」","","",""
-00001fbc,32,"「もう…そんなわけないでしょ？」","","",""
+　似合ってます！」","Oh! It is very good! Like it!","О! Это очень хорошо! Понравилось!","Oh! Es ist sehr gut! So!"
+00001fbc,32,"「もう…そんなわけないでしょ？」","“Oh… I don’t know that?”","«О… Я не знаю, что? »","„Oh… das weiß ich nicht? „"
 00002038,77,"「そんなことありますよ。…いっそ、
-　もっと、なりきってもらっていいですか？」","","",""
-000020c4,14,"「なりきる？」","","",""
-00003808,36,"「わんわんって、言ってみてください」","","",""
-00002168,38,"「なっ！　そ、そんなことできるわけ…」","","",""
-000021dc,12,"「不正登校」","","",""
-0000393c,16,"「わん…わん…」","","",""
+　もっと、なりきってもらっていいですか？」","That’s it. …Is it more?","Это. …Это больше?","Das ist es. …ist es mehr?"
+000020c4,14,"「なりきる？」","?」","?」","?"
+00003808,36,"「わんわんって、言ってみてください」","“I’ll say it!”","- Я скажу!","„Ich sage es!“"
+00002168,38,"「なっ！　そ、そんなことできるわけ…」","“No, you can do that…”","- Нет, вы можете сделать это… »","„Nein, du kannst das… „"
+000021dc,12,"「不正登校」","School","Школа","Schule"
+0000393c,16,"「わん…わん…」","」","」","!"
 00002258,65,"「写真を撮るから、ポーズをちゃんと
-　取ってもらっていいですか？」","","",""
-000022e4,32,"「写真を！？　そんなのお断り…」","","",""
-000021dc,12,"「不正登校」","","",""
-0000239c,10,"「うう…」","","",""
-00003b60,28,"「う～～～っ、わんわんっ！」","","",""
-00002468,22,"シャッターチャンスだ！","","",""
+　取ってもらっていいですか？」","“How can I take a pose properly?”","«Как я могу принять поз правильно? »","„Wie kann ich eine Pose richtig machen? „"
+000022e4,32,"「写真を！？　そんなのお断り…」","Photos!? Not allowed …","Фотографии!? Не разрешено …","Fotos!? Nicht erlaubt …"
+000021dc,12,"「不正登校」","School","Школа","Schule"
+0000239c,10,"「うう…」","」","」","!"
+00003b60,28,"「う～～～っ、わんわんっ！」","U~~~~~~~~~~~~!","U~~~~~~~~~~~~~~!","U~~~~~~~~~~~~~~~~~"
+00002468,22,"シャッターチャンスだ！","ter chance!","ter шанс!","Eine Chance!"
 000025c8,51,"「うう……また、人に見せられない写真が
-　増えたわ」","","",""
-000026a4,30,"「絶っ対に誰にも見せないでよ」","","",""
-00002724,20,"「わ、わかってます」","","",""
+　増えたわ」","“Oh… I’m also looking for photos that cannot be
+seen by people.”","«О… Я также ищу фотографии, которые нельзя
+увидеть людьми. »","Oh… Ich bin auch auf der Suche nach Fotos, die
+von Menschen nicht gesehen werden können. „"
+000026a4,30,"「絶っ対に誰にも見せないでよ」","“I don’t see anyone.”","- Я никого не вижу. »","„Ich sehe niemanden. „"
+00002724,20,"「わ、わかってます」","“Well, I know.”","— Ну, я знаю. »","„Nun, ich weiß. „"
 0000278c,49,"「それで、ペン立てを買うのは
-　どうなったのよ？」","","",""
+　どうなったのよ？」","“How did you buy a pen stand?”","«Как вы купили пенный стенд? »","„Wie hast du einen Stiftstand gekauft? „"
 00003efc,47,"「すみません、イヌミミに夢中で
-　忘れてました」","","",""
-00002868,32,"「もう…さっさと買って帰るわよ」","","",""
-00002918,28,"（やっぱり撮るまでもないな）","","",""
+　忘れてました」","“I’m sorry, I’ve forgotten my dream.”","“Я сожалею, я забыл свою мечту. »","„Es tut mir leid, ich habe meinen Traum
+vergessen. „"
+00002868,32,"「もう…さっさと買って帰るわよ」","“Oh… I’m going to buy it again.”","«О… Я собираюсь купить его снова. »","„Oh… ich werde es wieder kaufen. „"
+00002918,28,"（やっぱり撮るまでもないな）","Sorry, this entry is only available in 日本語.","Извините, этот техт доступен только в “日本語”.","Leider ist dieser Eintrag nur in 日本語 verfügbar."
 00002a24,47,"「もう…ペン立てを買うのは
-　どうなったのよ？」","","",""
+　どうなったのよ？」","“Now… How did you buy a pen stand?”","«Сейчас… Как вы купили стенд? »","„Jetzt… Wie haben Sie einen Stiftstand gekauft?
+„"
 00003efc,47,"「すみません、イヌミミに夢中で
-　忘れてました」","","",""
-00002b20,36,"「まったく…さっさと買って帰るわよ」","","",""
-00002bf4,24,"「ほら、たぶんこっちよ」","","",""
+　忘れてました」","“I’m sorry, I’ve forgotten my dream.”","“Я сожалею, я забыл свою мечту. »","„Es tut mir leid, ich habe meinen Traum
+vergessen. „"
+00002b20,36,"「まったく…さっさと買って帰るわよ」","No, I'm going to buy it.","- Нет, я собираюсь купить его.","Nein, ich werde es kaufen."
+00002bf4,24,"「ほら、たぶんこっちよ」","Hey, maybe here.","- Эй, может, здесь.","Hey, vielleicht hier."
 00004390,47,"「あ、先輩、イヌミミ！
-　イヌミミつけたまま！」","","",""
-00002d00,42,"「あ！　も、もう！　もっと早く言ってよ！」","","",""
-00002dd0,26,"「そんなこと言われても…」","","",""
-00002e44,18,"「まったくもう…」","","",""
-00002ee8,44,"こうして、一緒にバラエティプラザで過ごした。","","",""
-0000468c,40,"「ウ、ウサミミを！？　そんなの無理よ！」","","",""
-00001924,14,"「どうして？」","","",""
-00001984,38,"「どうしてって……恥ずかしいじゃない」","","",""
+　イヌミミつけたまま！」","Oh, senior, inomimi! I'm wearing it!","О, старший, иноми! Я ношу это!","Oh, Senior, inomimi! Ich trage es!"
+00002d00,42,"「あ！　も、もう！　もっと早く言ってよ！」","Oh! Well, it's it! I'm saying it soon!","О! Ну, это! Я говорю это скоро!","Oh! Nun, es ist es! Ich sage es bald!"
+00002dd0,26,"「そんなこと言われても…」","I can say that …","Я могу сказать, что …","Ich kann das sagen…"
+00002e44,18,"「まったくもう…」","」","」","!"
+00002ee8,44,"こうして、一緒にバラエティプラザで過ごした。","Let’s go to the Plaza together.","Пойдем в Плаза вместе.","Gehen wir gemeinsam zur Plaza."
+0000468c,40,"「ウ、ウサミミを！？　そんなの無理よ！」","“Well, whale!? It’s impossible!”","— Ну, кит!? Это невозможно!»","„Nun, Wal!? Es ist unmöglich!“"
+00001924,14,"「どうして？」","How do we do?","Как мы делаем?","Wie machen wir das?"
+00001984,38,"「どうしてって……恥ずかしいじゃない」","“How do you do it? It’s so embarrassed?”","«Как это сделать? Это так неловко? »","„Wie machst du das? Es ist so peinlich? „"
 00001a14,51,"「きっと似合いますって。
-　恥ずかしがらなくても…」","","",""
-00001aac,26,"「嫌よ。絶対につけないわ」","","",""
-00001b38,14,"「仕方ない…」","","",""
-00001bc4,12,"「な、何よ」","","",""
-00001bfc,14,"「…不正登校」","","",""
-00001c44,10,"「んぐっ」","","",""
-00001c94,40,"「学校外でも、あのことを持ち出すわけ？」","","",""
+　恥ずかしがらなくても…」","“I’m sure I’m going to work together.” I don't
+shy…","- Я уверен, что буду работать вместе. Я не
+стесняюсь…","„Ich bin sicher, dass ich zusammen arbeiten
+werde.“ Ich schüchte nicht…"
+00001aac,26,"「嫌よ。絶対につけないわ」","。 I'm absolutely not wearing it.","。 Я абсолютно не ношу его.","Ich trage es absolut nicht."
+00001b38,14,"「仕方ない…」","I don't have to do…","Не надо делать…","Ich muss nicht…"
+00001bc4,12,"「な、何よ」","What's it?","- Что это?","Was ist los?"
+00001bfc,14,"「…不正登校」","…Unfair School","…Несправедливая школа","…Unfair School"
+00001c44,10,"「んぐっ」","」","」","!"
+00001c94,40,"「学校外でも、あのことを持ち出すわけ？」","“I don’t bring anything outside of school?”","«Я не приношу ничего за пределами школы? »","„Ich bringe nichts außerhalb der Schule? „"
 00004ad8,59,"「すみません…ウサミミ、つけてみてください
-　お願いします」","","",""
+　お願いします」","I don't know… Please put it on.","Я не знаю… Пожалуйста, положите его.","Ich weiß nicht… Bitte setzen Sie es an."
 00001dac,65,"「うう……わ、わかったわよ！
-　つければいいんでしょ？　つければ」","","",""
-00001f24,14,"「こ、こう？」","","",""
+　つければいいんでしょ？　つければ」","“Oh… I’m not sure! I’m sure you want to do it!”
+Close","“О… Я не уверен! Я уверен, что ты хочешь это
+сделать!» Закрыть","„Oh… ich bin mir nicht sicher! Ich bin sicher,
+dass du es tun willst!“ Schließen"
+00001f24,14,"「こ、こう？」","“Hey, this?”","— Эй, это? »","„Hey, das? „"
 00001f60,47,"「おおっ！　すごくいいです！
-　似合ってます！」","","",""
-00001fbc,32,"「もう…そんなわけないでしょ？」","","",""
+　似合ってます！」","Oh! It is very good! Like it!","О! Это очень хорошо! Понравилось!","Oh! Es ist sehr gut! So!"
+00001fbc,32,"「もう…そんなわけないでしょ？」","“Oh… I don’t know that?”","«О… Я не знаю, что? »","„Oh… das weiß ich nicht? „"
 00002038,77,"「そんなことありますよ。…いっそ、
-　もっと、なりきってもらっていいですか？」","","",""
-000020c4,14,"「なりきる？」","","",""
+　もっと、なりきってもらっていいですか？」","That’s it. …Is it more?","Это. …Это больше?","Das ist es. …ist es mehr?"
+000020c4,14,"「なりきる？」","?」","?」","?"
 00004ec8,51,"「ウサたんぴょんぴょんって、
-　言ってみてください」","","",""
-00002168,38,"「なっ！　そ、そんなことできるわけ…」","","",""
-000021dc,12,"「不正登校」","","",""
-00004ff4,30,"「ウ、ウサたん…ぴょんぴょん」","","",""
+　言ってみてください」","“Usatan Pyon Pyon, Say”","«Usatan Pyon Pyon, Say»","„Usatan Pyon Pyon, Say“"
+00002168,38,"「なっ！　そ、そんなことできるわけ…」","“No, you can do that…”","- Нет, вы можете сделать это… »","„Nein, du kannst das… „"
+000021dc,12,"「不正登校」","School","Школа","Schule"
+00004ff4,30,"「ウ、ウサたん…ぴょんぴょん」","U, Usatan … Pyon Pyon","U, Usatan … Pyon Pyon","U, Usatan … Pyon Pyon"
 00002258,65,"「写真を撮るから、ポーズをちゃんと
-　取ってもらっていいですか？」","","",""
-000022e4,32,"「写真を！？　そんなのお断り…」","","",""
-000021dc,12,"「不正登校」","","",""
-0000239c,10,"「うう…」","","",""
-00005264,28,"「ウサたん、ぴょんぴょん！」","","",""
-00002468,22,"シャッターチャンスだ！","","",""
+　取ってもらっていいですか？」","“How can I take a pose properly?”","«Как я могу принять поз правильно? »","„Wie kann ich eine Pose richtig machen? „"
+000022e4,32,"「写真を！？　そんなのお断り…」","Photos!? Not allowed …","Фотографии!? Не разрешено …","Fotos!? Nicht erlaubt …"
+000021dc,12,"「不正登校」","School","Школа","Schule"
+0000239c,10,"「うう…」","」","」","!"
+00005264,28,"「ウサたん、ぴょんぴょん！」","サ","Начало","Wer ist da?"
+00002468,22,"シャッターチャンスだ！","ter chance!","ter шанс!","Eine Chance!"
 000025c8,51,"「うう……また、人に見せられない写真が
-　増えたわ」","","",""
-000026a4,30,"「絶っ対に誰にも見せないでよ」","","",""
-00002724,20,"「わ、わかってます」","","",""
+　増えたわ」","“Oh… I’m also looking for photos that cannot be
+seen by people.”","«О… Я также ищу фотографии, которые нельзя
+увидеть людьми. »","Oh… Ich bin auch auf der Suche nach Fotos, die
+von Menschen nicht gesehen werden können. „"
+000026a4,30,"「絶っ対に誰にも見せないでよ」","“I don’t see anyone.”","- Я никого не вижу. »","„Ich sehe niemanden. „"
+00002724,20,"「わ、わかってます」","“Well, I know.”","— Ну, я знаю. »","„Nun, ich weiß. „"
 0000278c,49,"「それで、ペン立てを買うのは
-　どうなったのよ？」","","",""
+　どうなったのよ？」","“How did you buy a pen stand?”","«Как вы купили пенный стенд? »","„Wie hast du einen Stiftstand gekauft? „"
 000055f8,47,"「すみません、ウサミミに夢中で
-　忘れてました」","","",""
-00002868,32,"「もう…さっさと買って帰るわよ」","","",""
-00002918,28,"（やっぱり撮るまでもないな）","","",""
+　忘れてました」","“I’m sorry, I’ve forgotten my dream in Usami.”","“Я сожалею, я забыл свою мечту в Усами. »","„Es tut mir leid, ich habe meinen Traum in Usami
+vergessen. „"
+00002868,32,"「もう…さっさと買って帰るわよ」","“Oh… I’m going to buy it again.”","«О… Я собираюсь купить его снова. »","„Oh… ich werde es wieder kaufen. „"
+00002918,28,"（やっぱり撮るまでもないな）","Sorry, this entry is only available in 日本語.","Извините, этот техт доступен только в “日本語”.","Leider ist dieser Eintrag nur in 日本語 verfügbar."
 00002a24,47,"「もう…ペン立てを買うのは
-　どうなったのよ？」","","",""
+　どうなったのよ？」","“Now… How did you buy a pen stand?”","«Сейчас… Как вы купили стенд? »","„Jetzt… Wie haben Sie einen Stiftstand gekauft?
+„"
 000055f8,47,"「すみません、ウサミミに夢中で
-　忘れてました」","","",""
-00002b20,36,"「まったく…さっさと買って帰るわよ」","","",""
-00002bf4,24,"「ほら、たぶんこっちよ」","","",""
+　忘れてました」","“I’m sorry, I’ve forgotten my dream in Usami.”","“Я сожалею, я забыл свою мечту в Усами. »","„Es tut mir leid, ich habe meinen Traum in Usami
+vergessen. „"
+00002b20,36,"「まったく…さっさと買って帰るわよ」","No, I'm going to buy it.","- Нет, я собираюсь купить его.","Nein, ich werde es kaufen."
+00002bf4,24,"「ほら、たぶんこっちよ」","Hey, maybe here.","- Эй, может, здесь.","Hey, vielleicht hier."
 00005a80,47,"「あ、先輩、ウサミミ！
-　ウサミミつけたまま！」","","",""
-00002d00,42,"「あ！　も、もう！　もっと早く言ってよ！」","","",""
-00002dd0,26,"「そんなこと言われても…」","","",""
-00002e44,18,"「まったくもう…」","","",""
-00002ee8,44,"こうして、一緒にバラエティプラザで過ごした。","","",""
-00005dc4,22,"「さ、中に入りますか」","","",""
-00005e1c,26,"「どうしても撮るつもり？」","","",""
-00005ea4,40,"「ここまで来て、そんなこと言われても…」","","",""
-00005f28,40,"「はぁ…わかったわよ。覚悟を決めるわよ」","","",""
-00006038,38,"「それで、今日は何をつければいいの？」","","",""
-0000608c,24,"「え～と…そうですね…」","","",""
-0000616c,28,"「ネコミミでお願いします！」","","",""
-00006208,22,"「好きねぇ、ネコミミ」","","",""
-0000629c,18,"「ネコミミ…ねぇ」","","",""
-000063a0,20,"「こ、これでいい？」","","",""
+　ウサミミつけたまま！」","Oh, my seniors, my family! I'm holding it!","«О, мои старшие, моя семья! Я держу это!","Oh, meine Senioren, meine Familie! Ich halte es!"
+00002d00,42,"「あ！　も、もう！　もっと早く言ってよ！」","Oh! Well, it's it! I'm saying it soon!","О! Ну, это! Я говорю это скоро!","Oh! Nun, es ist es! Ich sage es bald!"
+00002dd0,26,"「そんなこと言われても…」","I can say that …","Я могу сказать, что …","Ich kann das sagen…"
+00002e44,18,"「まったくもう…」","」","」","!"
+00002ee8,44,"こうして、一緒にバラエティプラザで過ごした。","Let’s go to the Plaza together.","Пойдем в Плаза вместе.","Gehen wir gemeinsam zur Plaza."
+00005dc4,22,"「さ、中に入りますか」","Is it in?","- Это в?","Ist es drin?"
+00005e1c,26,"「どうしても撮るつもり？」","“I’m going to take a picture?”","«Я собираюсь сфотографироваться? »","„Ich werde ein Foto machen? „"
+00005ea4,40,"「ここまで来て、そんなこと言われても…」","I'll come here and say that …","«Я приеду сюда и скажу, что…»","Ich komme hierher und sage das…"
+00005f28,40,"「はぁ…わかったわよ。覚悟を決めるわよ」","I'm… I know. I'll decide whether to take
+action.","- Я… Я знаю. Я решу принять меры.","Ich bin… Ich weiß. Ich werde entscheiden, ob
+ich handeln soll."
+00006038,38,"「それで、今日は何をつければいいの？」","What should I do today?","Что делать сегодня?","Was soll ich heute tun?"
+0000608c,24,"「え～と…そうですね…」","Yes, it's right…","Да, это правильно…","Ja, es ist richtig…"
+0000616c,28,"「ネコミミでお願いします！」","Please do it!","Пожалуйста, сделайте это!","Bitte tu es!"
+00006208,22,"「好きねぇ、ネコミミ」","I like, Nekomi","Мне нравится, Nekomi","Ich mag, Nekomi"
+0000629c,18,"「ネコミミ…ねぇ」","」","」","!"
+000063a0,20,"「こ、これでいい？」","“I’m here?”","- Я здесь? »","„Ich bin hier? „"
 00001f60,47,"「おおっ！　すごくいいです！
-　似合ってます！」","","",""
-00006458,38,"「わ、わかったから、早く撮りなさいよ」","","",""
+　似合ってます！」","Oh! It is very good! Like it!","О! Это очень хорошо! Понравилось!","Oh! Es ist sehr gut! So!"
+00006458,38,"「わ、わかったから、早く撮りなさいよ」","“Well, I know, take it early.”","«Ну, я знаю, взять его рано. »","„Nun, ich weiß, nehmen Sie es früh. „"
 000064d8,61,"「ポーズを取って、
-　にゃあって、言ってもらっていいですか？」","","",""
-00006568,28,"「もう……要求厳しいわよ！」","","",""
-00002440,20,"「にゃあ～～～～ん」","","",""
-00002468,22,"シャッターチャンスだ！","","",""
+　にゃあって、言ってもらっていいですか？」","“I have a pose, and can I say it?”","- У меня есть поза, и я могу это сказать? »","„Ich habe eine Pose und kann ich es sagen? „"
+00006568,28,"「もう……要求厳しいわよ！」","“Oh, I’m!」y demanding!”","«О, я! 」y requireing!»","„Oh, ich bin!"
+00002440,20,"「にゃあ～～～～ん」","」","」","!"
+00002468,22,"シャッターチャンスだ！","ter chance!","ter шанс!","Eine Chance!"
 000067e0,53,"「バッチリ！　室戸先輩の新しい一面が
-　撮れました！」","","",""
+　撮れました！」","B ri! The new face of Mr. Muroto was taken!","B ri! Новое лицо господина Мурото было принято!","B ri! Das neue Gesicht von Mr. Muroto wurde
+genommen!"
 00006854,59,"「新しい一面も何も、人に見せられない写真が
-　増えただけよ」","","",""
-00002918,28,"（やっぱり撮るまでもないな）","","",""
-00006a48,16,"「撮らないの？」","","",""
-00006a7c,40,"「なんか、見るだけで満足しちゃいました」","","",""
-00006af8,40,"「もう！　何のためにここまで来たのよ！」","","",""
-00006ba8,30,"「さ、用も済んだし、帰るわよ」","","",""
+　増えただけよ」","“I’ve just created a new picture that can’t be
+seen by people.”","«Я только что создал новую картину, которую
+нельзя увидеть людям. »","„Ich habe gerade ein neues Bild erstellt, das von
+Menschen nicht gesehen werden kann. „"
+00002918,28,"（やっぱり撮るまでもないな）","Sorry, this entry is only available in 日本語.","Извините, этот техт доступен только в “日本語”.","Leider ist dieser Eintrag nur in 日本語 verfügbar."
+00006a48,16,"「撮らないの？」","“Do not take photos?”","«Не фотографировать? »","„Keine Fotos? „"
+00006a7c,40,"「なんか、見るだけで満足しちゃいました」","I was satisfied just by seeing it.","- Я был доволен, только увидев это.","Ich war zufrieden, indem ich es sah."
+00006af8,40,"「もう！　何のためにここまで来たのよ！」","“Oh! I’m here for anything!”","«О! Я здесь для всего! »","„Oh! Ich bin für alles da! „"
+00006ba8,30,"「さ、用も済んだし、帰るわよ」","“No, I’ve done it and I’m back.”","- Нет, я это сделал, и я вернулся. »","„Nein, ich habe es getan und bin zurück. „"
 00006c4c,51,"「あ！　先輩！　ネコミミ！
-　ネコミミついたまま！」","","",""
+　ネコミミついたまま！」","Oh! senior! Nekomi! Nekomi has gone!","«О! старший! Некоми! Некоми ушел!","Oh, Senior! Nekomi! Nekomi ist weg!"
 00006cec,76,"「あ！　も、もう！
 　そういうことは早く言ってって、
-　この間言ったでしょ！」","","",""
-00002dd0,26,"「そんなこと言われても…」","","",""
+　この間言ったでしょ！」","“Oh! Well, it’s all right! That’s the time I told
+you that it’s fast!”","«О! Ну, это все правильно! Это время, когда я
+сказал вам, что это быстро!»","„Oh! Es ist schon gut! Das ist die Zeit, die ich
+dir sagte, dass es schnell ist!“"
+00002dd0,26,"「そんなこと言われても…」","I can say that …","Я могу сказать, что …","Ich kann das sagen…"
 00006e68,59,"「このままお店を出たら、
-　お店の人に怒られちゃうじゃない」","","",""
-00006f14,32,"「ははは、まるで万引きですよね」","","",""
-00006f90,24,"「笑い事じゃないわよ！」","","",""
-00002ee8,44,"こうして、一緒にバラエティプラザで過ごした。","","",""
-00007074,28,"「イヌミミでお願いします！」","","",""
-0000710c,22,"「好きねぇ、イヌミミ」","","",""
-0000719c,18,"「イヌミミ…ねぇ」","","",""
-000063a0,20,"「こ、これでいい？」","","",""
+　お店の人に怒られちゃうじゃない」","If you leave this shop, you will not be angry
+with the people of the shop.","Если вы покидаете этот магазин, вы не будете
+сердиться с людьми магазина.","Wenn Sie diesen Laden verlassen, werden Sie nicht
+wütend auf die Leute des Ladens sein."
+00006f14,32,"「ははは、まるで万引きですよね」","“It’s like a discount.”","«Это как скидка. »","„Es ist wie ein Rabatt. „"
+00006f90,24,"「笑い事じゃないわよ！」","“I’m not laughing!”","«Я не смеюсь! »","„Ich lache nicht! „"
+00002ee8,44,"こうして、一緒にバラエティプラザで過ごした。","Let’s go to the Plaza together.","Пойдем в Плаза вместе.","Gehen wir gemeinsam zur Plaza."
+00007074,28,"「イヌミミでお願いします！」","Please do it!","Пожалуйста, сделайте это!","Bitte tu es!"
+0000710c,22,"「好きねぇ、イヌミミ」","I like it, inomimi","Мне нравится, иноми","Ich mag es, inomimi"
+0000719c,18,"「イヌミミ…ねぇ」","」","」","!"
+000063a0,20,"「こ、これでいい？」","“I’m here?”","- Я здесь? »","„Ich bin hier? „"
 00001f60,47,"「おおっ！　すごくいいです！
-　似合ってます！」","","",""
-00006458,38,"「わ、わかったから、早く撮りなさいよ」","","",""
+　似合ってます！」","Oh! It is very good! Like it!","О! Это очень хорошо! Понравилось!","Oh! Es ist sehr gut! So!"
+00006458,38,"「わ、わかったから、早く撮りなさいよ」","“Well, I know, take it early.”","«Ну, я знаю, взять его рано. »","„Nun, ich weiß, nehmen Sie es früh. „"
 000073e4,63,"「ポーズを取って、わんわんって、
-　言ってもらっていいですか？」","","",""
-00006568,28,"「もう……要求厳しいわよ！」","","",""
-00003b60,28,"「う～～～っ、わんわんっ！」","","",""
-00002468,22,"シャッターチャンスだ！","","",""
+　言ってもらっていいですか？」","“What do you say about taking a pose?”","— Что вы говорите о принятии позы? »","„Was sagst du über eine Pose? „"
+00006568,28,"「もう……要求厳しいわよ！」","“Oh, I’m!」y demanding!”","«О, я! 」y requireing!»","„Oh, ich bin!"
+00003b60,28,"「う～～～っ、わんわんっ！」","U~~~~~~~~~~~~!","U~~~~~~~~~~~~~~!","U~~~~~~~~~~~~~~~~~"
+00002468,22,"シャッターチャンスだ！","ter chance!","ter шанс!","Eine Chance!"
 000067e0,53,"「バッチリ！　室戸先輩の新しい一面が
-　撮れました！」","","",""
+　撮れました！」","B ri! The new face of Mr. Muroto was taken!","B ri! Новое лицо господина Мурото было принято!","B ri! Das neue Gesicht von Mr. Muroto wurde
+genommen!"
 00006854,59,"「新しい一面も何も、人に見せられない写真が
-　増えただけよ」","","",""
-00002918,28,"（やっぱり撮るまでもないな）","","",""
-00006a48,16,"「撮らないの？」","","",""
-00006a7c,40,"「なんか、見るだけで満足しちゃいました」","","",""
-00006af8,40,"「もう！　何のためにここまで来たのよ！」","","",""
-00006ba8,30,"「さ、用も済んだし、帰るわよ」","","",""
+　増えただけよ」","“I’ve just created a new picture that can’t be
+seen by people.”","«Я только что создал новую картину, которую
+нельзя увидеть людям. »","„Ich habe gerade ein neues Bild erstellt, das von
+Menschen nicht gesehen werden kann. „"
+00002918,28,"（やっぱり撮るまでもないな）","Sorry, this entry is only available in 日本語.","Извините, этот техт доступен только в “日本語”.","Leider ist dieser Eintrag nur in 日本語 verfügbar."
+00006a48,16,"「撮らないの？」","“Do not take photos?”","«Не фотографировать? »","„Keine Fotos? „"
+00006a7c,40,"「なんか、見るだけで満足しちゃいました」","I was satisfied just by seeing it.","- Я был доволен, только увидев это.","Ich war zufrieden, indem ich es sah."
+00006af8,40,"「もう！　何のためにここまで来たのよ！」","“Oh! I’m here for anything!”","«О! Я здесь для всего! »","„Oh! Ich bin für alles da! „"
+00006ba8,30,"「さ、用も済んだし、帰るわよ」","“No, I’ve done it and I’m back.”","- Нет, я это сделал, и я вернулся. »","„Nein, ich habe es getan und bin zurück. „"
 00007b88,51,"「あ！　先輩！　イヌミミ！
-　イヌミミついたまま！」","","",""
+　イヌミミついたまま！」","Oh! senior! Inumimi! I'm holding it!","«О! старший! Инумими! Я держу это!","Oh, Senior! Inumimi! Ich halte es!"
 00006cec,76,"「あ！　も、もう！
 　そういうことは早く言ってって、
-　この間言ったでしょ！」","","",""
-00002dd0,26,"「そんなこと言われても…」","","",""
+　この間言ったでしょ！」","“Oh! Well, it’s all right! That’s the time I told
+you that it’s fast!”","«О! Ну, это все правильно! Это время, когда я
+сказал вам, что это быстро!»","„Oh! Es ist schon gut! Das ist die Zeit, die ich
+dir sagte, dass es schnell ist!“"
+00002dd0,26,"「そんなこと言われても…」","I can say that …","Я могу сказать, что …","Ich kann das sagen…"
 00006e68,59,"「このままお店を出たら、
-　お店の人に怒られちゃうじゃない」","","",""
-00006f14,32,"「ははは、まるで万引きですよね」","","",""
-00006f90,24,"「笑い事じゃないわよ！」","","",""
-00002ee8,44,"こうして、一緒にバラエティプラザで過ごした。","","",""
-00007fa4,28,"「ウサミミでお願いします！」","","",""
-0000803c,22,"「好きねぇ、ウサミミ」","","",""
-000080cc,18,"「ウサミミ…ねぇ」","","",""
-000063a0,20,"「こ、これでいい？」","","",""
+　お店の人に怒られちゃうじゃない」","If you leave this shop, you will not be angry
+with the people of the shop.","Если вы покидаете этот магазин, вы не будете
+сердиться с людьми магазина.","Wenn Sie diesen Laden verlassen, werden Sie nicht
+wütend auf die Leute des Ladens sein."
+00006f14,32,"「ははは、まるで万引きですよね」","“It’s like a discount.”","«Это как скидка. »","„Es ist wie ein Rabatt. „"
+00006f90,24,"「笑い事じゃないわよ！」","“I’m not laughing!”","«Я не смеюсь! »","„Ich lache nicht! „"
+00002ee8,44,"こうして、一緒にバラエティプラザで過ごした。","Let’s go to the Plaza together.","Пойдем в Плаза вместе.","Gehen wir gemeinsam zur Plaza."
+00007fa4,28,"「ウサミミでお願いします！」","Please do it!","Пожалуйста, сделайте это!","Bitte tu es!"
+0000803c,22,"「好きねぇ、ウサミミ」","I like it, Usami","Мне нравится, Усами","Ich mag es, Usami"
+000080cc,18,"「ウサミミ…ねぇ」","」","」","!"
+000063a0,20,"「こ、これでいい？」","“I’m here?”","- Я здесь? »","„Ich bin hier? „"
 00001f60,47,"「おおっ！　すごくいいです！
-　似合ってます！」","","",""
-00006458,38,"「わ、わかったから、早く撮りなさいよ」","","",""
+　似合ってます！」","Oh! It is very good! Like it!","О! Это очень хорошо! Понравилось!","Oh! Es ist sehr gut! So!"
+00006458,38,"「わ、わかったから、早く撮りなさいよ」","“Well, I know, take it early.”","«Ну, я знаю, взять его рано. »","„Nun, ich weiß, nehmen Sie es früh. „"
 00008334,77,"「ポーズを取って、ウサたん、ぴょんぴょん
-　って、言ってもらっていいですか？」","","",""
-00006568,28,"「もう……要求厳しいわよ！」","","",""
-000084ac,32,"「ウサたん、ぴょんぴょ～～ん！」","","",""
-00002468,22,"シャッターチャンスだ！","","",""
+　って、言ってもらっていいですか？」","“What do you say about taking a pose?","— Что вы говорите о принятии позы?","„Was sagst du über eine Pose?"
+00006568,28,"「もう……要求厳しいわよ！」","“Oh, I’m!」y demanding!”","«О, я! 」y requireing!»","„Oh, ich bin!"
+000084ac,32,"「ウサたん、ぴょんぴょ～～ん！」","!」","!」","!"
+00002468,22,"シャッターチャンスだ！","ter chance!","ter шанс!","Eine Chance!"
 000067e0,53,"「バッチリ！　室戸先輩の新しい一面が
-　撮れました！」","","",""
+　撮れました！」","B ri! The new face of Mr. Muroto was taken!","B ri! Новое лицо господина Мурото было принято!","B ri! Das neue Gesicht von Mr. Muroto wurde
+genommen!"
 00006854,59,"「新しい一面も何も、人に見せられない写真が
-　増えただけよ」","","",""
-00002918,28,"（やっぱり撮るまでもないな）","","",""
-00006a48,16,"「撮らないの？」","","",""
-00006a7c,40,"「なんか、見るだけで満足しちゃいました」","","",""
-00006af8,40,"「もう！　何のためにここまで来たのよ！」","","",""
-00006ba8,30,"「さ、用も済んだし、帰るわよ」","","",""
+　増えただけよ」","“I’ve just created a new picture that can’t be
+seen by people.”","«Я только что создал новую картину, которую
+нельзя увидеть людям. »","„Ich habe gerade ein neues Bild erstellt, das von
+Menschen nicht gesehen werden kann. „"
+00002918,28,"（やっぱり撮るまでもないな）","Sorry, this entry is only available in 日本語.","Извините, этот техт доступен только в “日本語”.","Leider ist dieser Eintrag nur in 日本語 verfügbar."
+00006a48,16,"「撮らないの？」","“Do not take photos?”","«Не фотографировать? »","„Keine Fotos? „"
+00006a7c,40,"「なんか、見るだけで満足しちゃいました」","I was satisfied just by seeing it.","- Я был доволен, только увидев это.","Ich war zufrieden, indem ich es sah."
+00006af8,40,"「もう！　何のためにここまで来たのよ！」","“Oh! I’m here for anything!”","«О! Я здесь для всего! »","„Oh! Ich bin für alles da! „"
+00006ba8,30,"「さ、用も済んだし、帰るわよ」","“No, I’ve done it and I’m back.”","- Нет, я это сделал, и я вернулся. »","„Nein, ich habe es getan und bin zurück. „"
 00008a9c,51,"「あ！　先輩！　ウサミミ！
-　ウサミミついたまま！」","","",""
+　ウサミミついたまま！」","Oh! senior! Usami! I'm holding it!","«О! старший! Усами! Я держу это!","Oh, Senior! Usami! Ich halte es!"
 00006cec,76,"「あ！　も、もう！
 　そういうことは早く言ってって、
-　この間言ったでしょ！」","","",""
-00002dd0,26,"「そんなこと言われても…」","","",""
+　この間言ったでしょ！」","“Oh! Well, it’s all right! That’s the time I told
+you that it’s fast!”","«О! Ну, это все правильно! Это время, когда я
+сказал вам, что это быстро!»","„Oh! Es ist schon gut! Das ist die Zeit, die ich
+dir sagte, dass es schnell ist!“"
+00002dd0,26,"「そんなこと言われても…」","I can say that …","Я могу сказать, что …","Ich kann das sagen…"
 00006e68,59,"「このままお店を出たら、
-　お店の人に怒られちゃうじゃない」","","",""
-00006f14,32,"「ははは、まるで万引きですよね」","","",""
-00006f90,24,"「笑い事じゃないわよ！」","","",""
-00002ee8,44,"こうして、一緒にバラエティプラザで過ごした。","","",""
+　お店の人に怒られちゃうじゃない」","If you leave this shop, you will not be angry
+with the people of the shop.","Если вы покидаете этот магазин, вы не будете
+сердиться с людьми магазина.","Wenn Sie diesen Laden verlassen, werden Sie nicht
+wütend auf die Leute des Ladens sein."
+00006f14,32,"「ははは、まるで万引きですよね」","“It’s like a discount.”","«Это как скидка. »","„Es ist wie ein Rabatt. „"
+00006f90,24,"「笑い事じゃないわよ！」","“I’m not laughing!”","«Я не смеюсь! »","„Ich lache nicht! „"
+00002ee8,44,"こうして、一緒にバラエティプラザで過ごした。","Let’s go to the Plaza together.","Пойдем в Плаза вместе.","Gehen wir gemeinsam zur Plaza."

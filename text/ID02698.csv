@@ -1,29 +1,41 @@
-000000a0,32,"「ん……誰だ？　こんな時間に…」","","",""
-000000fc,18,"（あ、室戸先輩！）","","",""
-00000158,12,"「もしもし」","","",""
-000001b4,36,"「ごめんなさい、夜遅くに電話して…」","","",""
-00000208,20,"「あ…もしかして…」","","",""
+000000a0,32,"「ん……誰だ？　こんな時間に…」","“Who are you? This time…”","- Кто ты? На этот раз…»","„Wer sind Sie? Dieses Mal…“"
+000000fc,18,"（あ、室戸先輩！）","(Oh, my seniors!)","(О, мои пожилые!)","(Oh, meine Senioren!)"
+00000158,12,"「もしもし」","」","」","!"
+000001b4,36,"「ごめんなさい、夜遅くに電話して…」","I'll call you late at night…","- Я позвоню тебе поздно ночью…","Ich rufe dich spät nachts an…"
+00000208,20,"「あ…もしかして…」","」","」","!"
 0000024c,66,"「ええ……どうしても、
 　親戚の用事が外せなくて。
-　ごめんなさい」","","",""
-000002e4,30,"「あ…ごめんなさい、夜遅くに」","","",""
+　ごめんなさい」","
+Ehhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+","
+hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh","Was ist los?"
+000002e4,30,"「あ…ごめんなさい、夜遅くに」","Oh, I'm late at night.","- О, я поздно ночью.","Oh, ich bin spät in der Nacht."
 00000330,55,"「いや、いいですけど、どうかしました？
-　こんな時間に」","","",""
+　こんな時間に」","No, I'm good, but how did you do it? In this
+time","- Нет, я хорош, но как ты это сделал? В это время","Nein, ich bin gut, aber wie hast du das gemacht?
+In dieser Zeit"
 00000388,69,"「それが……日曜日、どうしても外せない
-　親戚の用事が出来ちゃって…」","","",""
-000003fc,8,"「えっ」","","",""
-00000428,36,"「遊園地……行けなくなっちゃったの」","","",""
-00000470,20,"「そ、そうなんだ…」","","",""
-000004b4,18,"「ごめんなさい…」","","",""
-00000518,38,"「いや……親戚の用事なら仕方ないから」","","",""
+　親戚の用事が出来ちゃって…」","It's a Sunday, I can't remove it anymore. I can
+use it for relatives …","- Это воскресенье, я больше не могу удалить его.
+Я могу использовать его для родственников …","Es ist ein Sonntag, ich kann es nicht mehr
+entfernen. Ich kann es für Verwandte verwenden …"
+000003fc,8,"「えっ」","」","」","!"
+00000428,36,"「遊園地……行けなくなっちゃったの」","Amusement park … I can't go to","Парк развлечений … Я не могу пойти в","Amusement Park, ich kann nicht gehen"
+00000470,20,"「そ、そうなんだ…」","It's right…","«Это правильно…»","Es ist richtig…"
+000004b4,18,"「ごめんなさい…」","」","」","!"
+00000518,38,"「いや……親戚の用事なら仕方ないから」","“No, I’m not sure if you’re a relative.”","- Нет, я не уверен, если ты родственник. »","„Nein, ich bin nicht sicher, ob Sie ein
+Verwandter sind. „"
 0000056c,67,"「遊園地は、中間テストが終わったら、
-　一緒に行きましょう？　ね？」","","",""
+　一緒に行きましょう？　ね？」","“When the middle test is over, let’s go
+together?”","«Когда средний тест закончился, давайте вместе? »","„Wenn der mittlere Test vorbei ist, gehen wir
+zusammen? „"
 000005d0,53,"「そうだね、テストが終わったら、
-　あらためて誘うよ」","","",""
-00000634,8,"「ええ」","","",""
+　あらためて誘うよ」","“Yes, when the test is over, I will invite you.”","«Да, когда тест окончен, я приглашу вас. »","„Ja, wenn der Test vorbei ist, werde ich dich
+einladen. „"
+00000634,8,"「ええ」","Home","Начало","Home"
 00000660,45,"「それじゃあ……ごめんね。
-　おやすみなさい」","","",""
-000006bc,14,"「おやすみ…」","","",""
-00000704,28,"（親戚の用事か…まいったな）","","",""
+　おやすみなさい」","“I’m sorry. 」","— Прости. 」","„Es tut mir leid. !"
+000006bc,14,"「おやすみ…」","」","」","!"
+00000704,28,"（親戚の用事か…まいったな）","(Is it for relatives?)","(Это для родственников?)","(Ist es für Verwandte?)"
 00000750,53,"（これで、この週末は寂しく１人だな。
-　がっかりだ…）","","",""
+　がっかりだ…）","This weekend is a sad one.","В эти выходные грустно.","Dieses Wochenende ist traurig."

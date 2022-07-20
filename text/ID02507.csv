@@ -1,43 +1,81 @@
-0000014c,18,"（あ、室戸先輩…）","","",""
-0000020c,22,"シャッターチャンスだ！","","",""
-000002d4,20,"（撮るまでもないな）","","",""
+0000014c,18,"（あ、室戸先輩…）","(A)","(А)","(A)"
+0000020c,22,"シャッターチャンスだ！","ter chance!","ter шанс!","Eine Chance!"
+000002d4,20,"（撮るまでもないな）","(It is not until you take it)","(Это не до тех пор, пока вы не принимаете его)","(Es ist nicht, bis du es nimmst)"
 00000328,55,"「室戸先輩、ノートパソコンで、
-　何、見てるんですか？」","","",""
-000004b8,51,"「あ、\p01君。卒業アルバムの写真を
-　選んでたのよ」","","",""
-00000578,8,"「え…」","","",""
+　何、見てるんですか？」","“What do you see in Muroto seniors and laptops?”","«Что вы видите в Muroto старших и ноутбуках? »","„Was sehen Sie in Muroto Senioren und Laptops? „"
+00000578,8,"「え…」","」","」","!"
 000005d0,108,"「あっという間ね、３年間なんて。
 　こうして、フォト部と写真部が撮った写真を
-　見てると、つくづくそう思うわ」","","",""
+　見てると、つくづくそう思うわ」","For 3 years In this way, if you look at the
+photos taken by the photo department and the photo
+department, I think it will be created.","На 3 года Таким образом, если вы посмотрите на
+фотографии, сделанные фотоотделом и фотоотделом, я
+думаю, что он будет создан.","3 Jahre Auf diese Weise, wenn Sie Blick auf die
+Fotos von der Fotoabteilung und der Fotoabteilung,
+Ich denke, es wird erstellt."
 00000724,86,"「卒業アルバム…なんて言われると、
 　もうすぐ卒業しちゃうんだなって…
-　実感しますよ」","","",""
-000007ec,26,"「フフッ、そうね。私もよ」","","",""
+　実感しますよ」","Alumni album … I'm going to graduate soon… I
+feel.","Alumni альбом … Я скоро буду выпускнику… Я
+чувствую.","Alumni Album … Ich werde bald abschließen…
+Ich fühle mich."
+000007ec,26,"「フフッ、そうね。私もよ」","“I’m sorry. Home","— Прости. Начало","„Es tut mir leid. Home"
 000008cc,69,"「もうすぐ…この学園とも、
-　お別れなんだなって…とても寂しくなるわ」","","",""
-0000099c,14,"「室戸先輩…」","","",""
+　お別れなんだなって…とても寂しくなるわ」","Now … This school is also a separate thing …
+I'm so lonely.","Сейчас… Эта школа тоже отдельная вещь … Я
+так одинок.","Jetzt… Diese Schule ist auch eine separate
+Sache… ich bin so einsam."
+0000099c,14,"「室戸先輩…」","Muroto seniors …","Мурото старший …","Muroto Senioren …"
 00000a2c,102,"「ダメね、感傷的になっちゃ。誰しも、
 　いつかはここを巣立っていくんだから、
-　前向きに捉えなくちゃね」","","",""
-00000b20,16,"「…そうですね」","","",""
+　前向きに捉えなくちゃね」","“Well, I’m so suspicious. Everyone, I'm always
+here, so I don't take it forward.","«Ну, я так подозрительный. Все, я всегда здесь,
+поэтому я не принимаю его вперед.","„Nun, ich bin so verdächtig. Jeder, ich bin immer
+hier, also nehme ich es nicht vor."
+00000b20,16,"「…そうですね」","…I'm right.","- Я прав.","…ich habe recht."
 00000b74,65,"「卒業アルバムの写真を選ぶのって、
-　生徒会長の仕事なんですか？」","","",""
-00000c28,42,"「もちろん、私１人で決める訳じゃないわよ」","","",""
+　生徒会長の仕事なんですか？」","“How do you choose a photo of your graduation
+album?","«Как вы выбираете фото вашего выпускного альбома?","„Wie wählen Sie ein Foto Ihres Abschlussalbums?"
+00000c28,42,"「もちろん、私１人で決める訳じゃないわよ」","“Of course, I don’t decide by myself.”","- Конечно, я не решаю самостоятельно. »","„Natürlich entscheide ich mich selbst nicht. „"
 00000ca0,116,"「フォト部の部長のかつみ、写真部の部長の
 　九堂、それから、３年の担任の先生方、
-　校長先生、教頭先生、そして、私…」","","",""
+　校長先生、教頭先生、そして、私…」","The wigs of the Director of Photography, the
+ninth hall of the Director of Photography, the
+teacher of the 3 years, the principal teacher, the
+teacher of the head, and I …","Стрижки директора фотографии, девятый зал
+директора фотографии, учитель 3 лет, главный
+учитель, учитель головы, и я …","Die Perücken des Kameraden, der neunten Halle des
+Kameraden, der Lehrer der drei Jahre, der
+Hauptlehrer, der Lehrer des Kopfes, und ich …"
 00000dec,63,"「全員が推す写真を持ち寄って、
-　あとは話し合いで決められるの」","","",""
-00000e8c,12,"「なるほど」","","",""
+　あとは話し合いで決められるの」","“All of us have the photos we make, and we can
+decide by discussion.”","«У всех нас есть фотографии, которые мы делаем, и
+мы можем решить, обсуждая. »","„Alle von uns haben die Fotos, die wir machen,
+und wir können durch Diskussion entscheiden. „"
+00000e8c,12,"「なるほど」","」","」","!"
 00000ef8,104,"「けど、選べないものね。
 　どの写真も懐かしくて、思い入れ深くて…。
-　できることなら、すべて載せたいわ」","","",""
-00001008,42,"「いつまでに、選ばなきゃならないんです？」","","",""
+　できることなら、すべて載せたいわ」","“But I can’t choose it.” Every photo is
+nostalgic, I am deeply keen. If you can do it, I
+want to put it all.","- Но я не могу выбрать его. Каждая фотография
+ностальгическая, я глубоко увлечена. Если вы
+можете это сделать, я хочу поставить его все.","„Aber ich kann es nicht wählen.“ Jedes Foto ist
+nostalgisch, ich bin zutiefst begeistert. Wenn du
+es kannst, will ich alles hinlegen."
+00001008,42,"「いつまでに、選ばなきゃならないんです？」","“When should I choose?”","- Когда я должен выбрать? »","„Wann sollte ich wählen? „"
 000010a0,67,"「まだ先よ。今年の学園祭も終わってないし、
-　２学期末ってところね」","","",""
+　２学期末ってところね」","。 This year's school festival is not over, but it
+is the end of the second semester.","。 В этом году школьный фестиваль не закончился,
+но это конец второго семестра».","。 Das diesjährige Schulfestival ist nicht vorbei,
+aber es ist das Ende des zweiten Semesters."
 00001160,73,"「そっか…。じゃあ、俺が撮った写真も、
-　選ばれるように、がんばりますよ」","","",""
+　選ばれるように、がんばりますよ」","。 Well, I will do my best to see my photos.","。 Ну, я сделаю все возможное, чтобы увидеть мои
+фотографии.","。 Ich werde mein Bestes tun, um meine Fotos zu
+sehen."
 0000121c,83,"「…そうね。あなたの写真が、卒業アルバムを
-　飾ってくれるなら、私もすごくうれしい」","","",""
-00001304,16,"「がんばってね」","","",""
-00001344,10,"「…はい」","","",""
+　飾ってくれるなら、私もすごくうれしい」","… Yeah. If your photo will decorate your
+graduation album, I’m so happy.”","… Да. Если ваше фото украшает ваш альбом
+выпускной, я так счастлив. »","… Ja. Wenn Ihr Foto Ihr Abschlussalbum
+dekorieren wird, bin ich so glücklich. „"
+00001304,16,"「がんばってね」","」","」","!"
+00001344,10,"「…はい」","…Yes.","-- Да.","Ja."

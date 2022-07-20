@@ -1,224 +1,337 @@
-00000204,40,"「目当てのカフェって、こっちの方なの？」","","",""
-0000025c,14,"「そうですよ」","","",""
+00000204,40,"「目当てのカフェって、こっちの方なの？」","“What is the cafe you want to see?”","«Какое кафе вы хотите увидеть? »","„Was ist das Café, das Sie sehen wollen? „"
+0000025c,14,"「そうですよ」","“Yes!”","«Да!»","„Ja!“"
 000002d0,51,"「こっちに大人っぽいカフェなんか
-　あったかしら…」","","",""
+　あったかしら…」","There was an adult-like cafe here …","«Есть взрослое кафе здесь…»","Es gab hier ein erwachsenes Café…"
 00000370,80,"「あ、もしかして、甘味処？
 　あそこなら、和風カフェと、
-　言えなくもないわよね」","","",""
-0000042c,24,"「残念ながら、外れです」","","",""
-000004a0,40,"「外れなの？　じゃあ、いったいどこへ…」","","",""
-0000052c,28,"「ついてくればわかりますよ」","","",""
-00000590,30,"「行ってのお楽しみってわけね」","","",""
-000005d8,16,"「そういうこと」","","",""
-0000063c,32,"「フフッ、どんなお店なのかしら」","","",""
-000006c4,16,"「え？　ここ？」","","",""
-00000704,18,"「そうですけど？」","","",""
+　言えなくもないわよね」","“Oh, it’s a sweet place? If it’s there, it’s a
+Japanese-style cafe, and it’s not easy to say.”","«О, это сладкое место? Если это там, это кафе
+японского стиля, и это не легко сказать. »","„Oh, es ist ein süßer Ort? Wenn es dort ist, ist
+es ein japanisches Café, und es ist nicht einfach
+zu sagen. „"
+0000042c,24,"「残念ながら、外れです」","Unfortunately, it's out.","«К сожалению, это не так».","Leider ist es raus."
+000004a0,40,"「外れなの？　じゃあ、いったいどこへ…」","“Where are you out?”","— Где ты? »","„Wo bist du draußen? „"
+0000052c,28,"「ついてくればわかりますよ」","I'll be able to see it if it is attached.","- Я смогу увидеть его, если он прикреплен.","Ich kann es sehen, wenn es angebracht ist."
+00000590,30,"「行ってのお楽しみってわけね」","I'm looking forward to it.","- Я с нетерпением жду этого.","Ich freue mich darauf."
+000005d8,16,"「そういうこと」","“What is that?”","— Что это? »","„Was ist das? „"
+0000063c,32,"「フフッ、どんなお店なのかしら」","“What kind of shops are you?”","«Какие магазины вы? »","„Was für Geschäfte bist du? „"
+000006c4,16,"「え？　ここ？」","?」","?」","?"
+00000704,18,"「そうですけど？」","“I’m right?”","- Я прав? »","„Ich habe recht? „"
 000007f4,57,"「ここって、カフェはカフェでも、
-　ダーツカフェじゃない」","","",""
-0000085c,24,"「大人っぽいでしょう？」","","",""
+　ダーツカフェじゃない」","“It’s not a dart cafe”","«Это не бартное кафе»","“Es ist kein Dart Café”"
+0000085c,24,"「大人っぽいでしょう？」","“Is it like an adult?”","- Это как взрослый? »","„Ist es wie ein Erwachsener? „"
 000008c8,67,"「それはそうだけど、ここは、
-　お茶をするというより、遊ぶ所よね？」","","",""
+　お茶をするというより、遊ぶ所よね？」","“It’s right, but it’s a place to play rather than
+tea?”","«Это правильно, но это место, чтобы играть, а не
+чай? »","“Es ist richtig, aber es ist ein Ort zu spielen
+statt Tee? „"
 000009c4,96,"「以前、先輩が連れて行ってくれたカフェの
 　お返しです。今日は、勉強じゃなくて、
-　遊びですけど」","","",""
-00000a78,20,"「あ…そういうこと」","","",""
-00000b18,28,"「いいわよ、やりましょうか」","","",""
+　遊びですけど」","It is a cafe that the seniors took me before.
+Sorry, this entry is only available in Japanese.","Это кафе, которое старатели взяли меня раньше.
+Извините, этот техт доступен только в “Японский”.","Es ist ein Café, das die Senioren mich vorher
+genommen haben. Leider ist dieser Eintrag nur auf
+Japanisch verfügbar."
+00000a78,20,"「あ…そういうこと」","“Oh… That’s it.”","«О… Это. »","Oh… Das ist es. „"
+00000b18,28,"「いいわよ、やりましょうか」","“Well, let’s do it!”","- Ну, давайте сделаем это! »","„Nun, machen wir es! „"
 00000b98,65,"「ダーツだけじゃなく、ビリヤードもあるけど
-　どっちをやります？」","","",""
-00000c20,28,"「ビリヤードの方がいいわね」","","",""
-00000c74,34,"「オッケー。じゃあ、ビリヤードで」","","",""
+　どっちをやります？」","“It’s not just a darts, but there’s also a
+billiard, but what do you do?”","«Это не просто дартс, но есть также бильярд, но
+что вы делаете? »","“Es ist nicht nur ein Dart, aber es gibt auch
+einen Billard, aber was tun Sie? „"
+00000c20,28,"「ビリヤードの方がいいわね」","I want to have a billiard.","- Я хочу иметь бильярд.","Ich will einen Billard haben."
+00000c74,34,"「オッケー。じゃあ、ビリヤードで」","“Ockey.” Then, in the billiards","«Окей». Затем, в бильярде","„Ockey“. Dann, in den Billard"
 00000ce4,92,"「ダーツが狙ったところに当たると
 　スカッとしますよ。
-　勉強の気晴らしにいいかなぁと思って」","","",""
-00000a78,20,"「あ…そういうこと」","","",""
-00000e40,36,"「フフッ、いいわよ。やりましょうか」","","",""
-00000ef4,42,"「ただし、やるのはビリヤードの方がいいわ」","","",""
-00000f74,20,"「ダーツじゃなく？」","","",""
-00000fdc,8,"「ええ」","","",""
-0000101c,18,"「いいですけど？」","","",""
-00001084,12,"「それっ！」","","",""
-000010f0,24,"「ナ、ナイスブレイク！」","","",""
+　勉強の気晴らしにいいかなぁと思って」","If you hit the place where the darts aimed, you
+will beとed. I think it is good for studying.","Если вы попали в место, где дарты направлены, вы
+будете побеждены. Я думаю, что это хорошо для
+изучения.","Wenn Sie den Ort treffen, wo die Darts zielten,
+werden Sie verwüstet. Ich glaube, es ist gut fürs
+Studium."
+00000a78,20,"「あ…そういうこと」","“Oh… That’s it.”","«О… Это. »","Oh… Das ist es. „"
+00000e40,36,"「フフッ、いいわよ。やりましょうか」","I'm happy. Let's do it!","- Я счастлив. Давайте сделаем это!","Ich bin glücklich. Los!"
+00000ef4,42,"「ただし、やるのはビリヤードの方がいいわ」","However, it is better to have a billiard","«Как бы ни было, лучше иметь бильярд»","Es ist jedoch besser, einen Billard zu haben"
+00000f74,20,"「ダーツじゃなく？」","Dart","Dart","Dart"
+00000fdc,8,"「ええ」","」","」","!"
+0000101c,18,"「いいですけど？」","“I’m good.”","«Я хорошо. »","„Ich bin gut. „"
+00001084,12,"「それっ！」","It's it!","- Это!","Das ist es!"
+000010f0,24,"「ナ、ナイスブレイク！」","Nス Break!","Северный перерыв!","N Break!"
 000011a0,55,"「１番の球は……あそこね。
-　うん、ラインがあいてるわ」","","",""
-00001230,42,"「左３分の１ぐらいを、強すぎない感じで…」","","",""
-000012b4,26,"（…構えが様になってるぞ）","","",""
-000012e0,22,"シャッターチャンスだ！","","",""
-00001398,20,"（撮るまでもないな）","","",""
-000013f8,24,"「よく狙って……それ！」","","",""
-000014ec,20,"「ナイスショット！」","","",""
+　うん、ラインがあいてるわ」","The first ball is… it is. Yes, the line
+is」ing.","Первый шар… это. Да, строка 」ing.","Der erste Ball ist… es ist. Ja, die Linie
+läuft."
+00001230,42,"「左３分の１ぐらいを、強すぎない感じで…」","“It’s about one third left, it’s too strong…”","«Одна третья левая, это слишком сильная… »","„Es ist etwa ein Drittel übrig, es ist zu
+stark… „"
+000012b4,26,"（…構えが様になってるぞ）","Sorry, this entry is only available in 日本語.","Извините, этот техт доступен только в “日本語”.","Leider ist dieser Eintrag nur in 日本語 verfügbar."
+000012e0,22,"シャッターチャンスだ！","ter chance!","ter шанс!","Eine Chance!"
+00001398,20,"（撮るまでもないな）","(It is not until you take it)","(Это не до тех пор, пока вы не принимаете его)","(Es ist nicht, bis du es nimmst)"
+000013f8,24,"「よく狙って……それ！」","It's good!","«Это хорошо!»","Es ist gut!"
+000014ec,20,"「ナイスショット！」","“Nice Shot!”","“Ницо выстрел!”","„Nice Shot!“"
 000015d4,78,"「すごい、ちゃんと手玉の位置も
 　計算されてる。
-　結構やり込んだクチですか？」","","",""
+　結構やり込んだクチですか？」","“Wow, the position of the handball is also
+calculated. Are you sure you are doing it?","«Вау, позиция гандбола также рассчитывается. Вы
+уверены, что это делаете?","„Wow wird auch die Position des Handballs
+berechnet. Bist du sicher, dass du es machst?"
 00001668,75,"「そうでもないんだけど、相性がいいのよ。
-　ビリヤードって物理の応用だから」","","",""
-00001728,14,"「なるほど…」","","",""
+　ビリヤードって物理の応用だから」","“I don’t have it, but it’s good. Billiards are
+the application of physics.","«У меня нет, но это хорошо. Бильярд – применение
+физики.","„Ich habe es nicht, aber es ist gut. Billard sind
+die Anwendung der Physik."
+00001728,14,"「なるほど…」","」","」","!"
 00001788,79,"「球を落とすのが難しければ難しいほど、
-　難問に挑んでる気がして、楽しいのよね」","","",""
+　難問に挑んでる気がして、楽しいのよね」","“If it is difficult to drop the ball, the more
+difficult it is, the more difficult it is, the
+more it is fun to challenge the difficulties.”","«Если трудно бросить мяч, чем сложнее, тем
+сложнее, тем сложнее, тем больше весело бросить
+вызов сложностям. »","„Wenn es schwierig ist, den Ball zu fallen, umso
+schwieriger ist es, desto schwieriger ist es, umso
+mehr ist es lustig, die Schwierigkeiten
+herauszufordern. „"
 00001840,69,"「そっか…うまいところを見せて、
-　かっこつけようと思ったんだけど…」","","",""
-000018d8,36,"「ってことは、相当自信があるのね？」","","",""
+　かっこつけようと思ったんだけど…」","It's so… I'd like to show a good place, and I'd
+like to cool…","Это так… Я хотел бы показать хорошее место, и я
+хотел бы охладить…","Es ist so… Ich möchte einen guten Ort zeigen,
+und ich würde gerne cool…"
+000018d8,36,"「ってことは、相当自信があるのね？」","“Well, do you have confidence?”","— Ну, ты уверен? »","„Nun, hast du Vertrauen? „"
 00001960,55,"「普通には打てますよ。
-　中学のころやり込みましたから」","","",""
+　中学のころやり込みましたから」","I usually hit. I've been in the middle school","Я обычно ударил. Я был в средней школе","Ich treffe mich normalerweise. Ich war in der
+Mittelschule"
 00001a08,78,"「じゃあ、勝負しましょうか？
 　勝った方が、肉屋さんのメンチカツを
-　おごりよ」","","",""
+　おごりよ」","Let’s win! You will be able to win the meat shop.","Победим! Вы сможете выиграть мясной магазин.","Lasst uns gewinnen! Sie können den Fleischladen
+gewinnen."
 00001b10,59,"「じゃあ、勝負しましょうか？
-　勝った方が、アイスおごりね」","","",""
+　勝った方が、アイスおごりね」","Let’s win! Ice cream","Победим! Мороженое","Lasst uns gewinnen! Speiseeis"
 00001bd0,49,"「いいですよ。
-　真剣勝負の方が楽しいですからね」","","",""
-00001c48,20,"「負けないわよ～っ」","","",""
-00001c94,14,"「こっちこそ」","","",""
-00001ce0,36,"こうして一緒にビリヤードを楽しんだ。","","",""
-00001e60,32,"「今日もビリヤードにしますか？」","","",""
-00001ed8,40,"「ううん、今日はダーツをやってみたいわ」","","",""
-00001fa4,32,"「やってみたい？　…ってことは」","","",""
-0000200c,28,"「初めてよ。教えてくれる？」","","",""
+　真剣勝負の方が楽しいですからね」","I'm good. It’s fun to win serious swords.”","Я хорошо. Это весело, чтобы выиграть серьезные
+мечи. »","Ich bin gut. Es macht Spaß, schwere Schwerter zu
+gewinnen. „"
+00001c48,20,"「負けないわよ～っ」","“I don’t lose it!”","- Я не теряю его! »","„Ich verliere es nicht! „"
+00001c94,14,"「こっちこそ」","」","」","!"
+00001ce0,36,"こうして一緒にビリヤードを楽しんだ。","I enjoyed billiards together.","Я наслаждался бильярдом вместе.","Ich genossen Billard zusammen."
+00001e60,32,"「今日もビリヤードにしますか？」","“Do you want to play billiards today?”","«Вы хотите играть в бильярд сегодня? »","„Willst du heute Billard spielen? „"
+00001ed8,40,"「ううん、今日はダーツをやってみたいわ」","“Yes, I want to do darts today.”","«Да, я хочу делать дарты сегодня. »","„Ja, ich möchte heute Darts machen. „"
+00001fa4,32,"「やってみたい？　…ってことは」","“I want to do it?”","- Я хочу это сделать? »","„Ich will es tun? „"
+0000200c,28,"「初めてよ。教えてくれる？」","First time Can you tell me?","Первый раз Можете ли вы сказать мне?","Erstes Mal Kannst du es mir sagen?"
 0000208c,49,"「もちろんです！
-　テーブルチャージしてきますね」","","",""
-00002144,22,"「さ、始めましょうか」","","",""
-000021a0,22,"「よろしくね、\p01君」","","",""
-000021ec,14,"「こちらこそ」","","",""
+　テーブルチャージしてきますね」","Of course! I will charge the table.","Конечно! Заряжу стол.","Natürlich! Ich werde den Tisch aufladen."
+00002144,22,"「さ、始めましょうか」","Let’s start","Начнем","Beginnen wir"
+000021ec,14,"「こちらこそ」","This is","Это","Das ist"
 00002228,79,"「お店のレンタルダーツはイマイチなので、
-　俺のマイダーツを交互に投げましょう」","","",""
+　俺のマイダーツを交互に投げましょう」","The rental darts of the shop are imitation, so
+let's throw your own m、s alternately.","Дарты аренды магазина являются имитацией, поэтому
+давайте бросим ваши собственные м, поочередно.","Die Mietwagen des Ladens sind Nachahmung, also
+werfen wir Ihre eigenen m、s abwechselnd."
 000022c8,47,"「マイダーツ？　自分のダーツを
-　持ってるの？」","","",""
+　持ってるの？」","“My darts? Have your darts?”","«Мои дарты? Есть ли у вас дартс? »","„Meine Darts? Haben Sie Ihre Darts? „"
 0000237c,74,"「ビリヤードのキューほど、
 　高くないですからね。
-　中学の時に買いました」","","",""
-00002418,20,"「ふうん、本格的ね」","","",""
+　中学の時に買いました」","The billiard queue is not high. I bought it at
+the time of middle school","Бильярдная очередь не высока. Я купил его во
+время средней школы","Die Billardschlange ist nicht hoch. Ich habe es
+zum Zeitpunkt der Mittelschule gekauft."
+00002418,20,"「ふうん、本格的ね」","Fee, full-fledged","Пусть, полноценно","Fee, vollgeflickt"
 000024bc,47,"「間咲さんに、だっつんって
-　呼ばれるわけだわ」","","",""
-00002520,40,"「グホッ！　いわれを知ってるんですか？」","","",""
+　呼ばれるわけだわ」","“I don’t want to be called by Mr. Masaki.”","«Я не хочу называться г-ном Масаки. »","„Ich will nicht von Mr. Masaki angerufen werden.
+„"
+00002520,40,"「グホッ！　いわれを知ってるんですか？」","“G ! Do you know you?”","«Г! Ты знаешь тебя? »","„G! Kennst du dich? „"
 0000259c,110,"「ええ。あれだけ、あなたのことを
 　だっつん、だっつんって呼んでれば、
-　どうしてだっつんなのか聞いてみるわよ」","","",""
+　どうしてだっつんなのか聞いてみるわよ」","Home If you call you, you can hear what you are.","Начало Если вы звоните, вы можете услышать, что
+вы находитесь.","Home Wenn du dich anrufst, kannst du hören, was
+du bist."
 00002694,75,"「そっか…疑問に思ったことを、放っておく
-　人じゃないですよね、室戸先輩は」","","",""
+　人じゃないですよね、室戸先輩は」","“I’m not a person, I’m not a person who wants to
+give me a question.”","«Я не человек, я не человек, который хочет дать
+мне вопрос. »","„Ich bin keine Person, ich bin keine Person, die
+mir eine Frage stellen möchte. „"
 00002724,67,"「そういうこと。さすが、私のことを
-　よくわかってるわね、だっつん」","","",""
-000027dc,32,"「うう…その呼び方はちょっと…」","","",""
+　よくわかってるわね、だっつん」","“T。 is that.” I know, I know, I know.","“T。 это.” Я знаю, знаю, знаю.","„T。 ist das.“ Ich weiß, ich weiß."
+000027dc,32,"「うう…その呼び方はちょっと…」","Oh…It's a little…","«О… Это немного…»","Oh… es ist ein wenig…"
 00002850,61,"「フフッ、ちょっと呼んでみたかっただけよ。
-　もう呼ばないわ」","","",""
+　もう呼ばないわ」","I just wanted to call it a little. I don't call
+it anymore.","- Я просто хотел немного назвать это. Я больше не
+звоню.","Ich wollte es nur ein wenig nennen. Ich nenne es
+nicht mehr."
 00002928,47,"「さ、教えてくれる？
-　記念すべき、初ダーツよ」","","",""
+　記念すべき、初ダーツよ」","“Well, do you tell me?”","— Ну, ты мне говоришь? »","Sagst du es mir? „"
 000029dc,96,"「え～と…まずは体を斜めに構えて、
 　前に出した方の足先を、ダーツボードの方へ
-　向けてください」","","",""
-00002a60,10,"「こう？」","","",""
-00002a98,12,"「そうそう」","","",""
-00002b44,40,"「あの的の真ん中がブルって言うのよね？」","","",""
-00002b90,20,"「よく知ってますね」","","",""
-00002c0c,40,"「ちゃんとネットで、予習しておいたのよ」","","",""
-00002c58,26,"「ははは、先輩らしいなぁ」","","",""
-00002cac,14,"「でしょう？」","","",""
+　向けてください」","
+“Ehhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh","
+hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh","hhhhhhhhhhhhhhhhhhh"
+00002a60,10,"「こう？」","?」","?」","?"
+00002a98,12,"「そうそう」","S」","S」","S!"
+00002b44,40,"「あの的の真ん中がブルって言うのよね？」","“You say that the middle of that direction is
+bull?”","- Вы говорите, что в середине этого направления
+бык? »","„Du sagst, dass die Mitte dieser Richtung Bulle
+ist? „"
+00002b90,20,"「よく知ってますね」","“I know it well.”","«Я знаю это хорошо. »","„Ich weiß es gut. „"
+00002c0c,40,"「ちゃんとネットで、予習しておいたのよ」","I had a preliminary study with the net","«У меня было предварительное исследование с
+сетью»","Ich hatte eine Vorstudie mit dem Netz"
+00002c58,26,"「ははは、先輩らしいなぁ」","“I’m a senior.”","«Я старший. »","„Ich bin ein Senior. „"
+00002cac,14,"「でしょう？」","“Is it?”","— Это? »","„Ist es? „"
 00002cdc,51,"「え～と、もうちょっと胸を張った方が
-　いいですね」","","",""
-00002d68,16,"「こんな感じ？」","","",""
-00002a98,12,"「そうそう」","","",""
-00002de4,32,"（それにしても…胸がないなぁ…）","","",""
-00002ebc,8,"「あ…」","","",""
-00002fd8,26,"「今、胸元をのぞいたわね」","","",""
+　いいですね」","Eh, it's better to have a little more chest.","«Эх, лучше иметь немного больше сундука».","Es ist besser, etwas mehr Brust zu haben."
+00002d68,16,"「こんな感じ？」","“This is what?”","- Это что? »","„Das ist was? „"
+00002a98,12,"「そうそう」","S」","S」","S!"
+00002de4,32,"（それにしても…胸がないなぁ…）","(I don’t have a chest…)","(У меня нет сундука…)","(Ich habe keine Brust…)"
+00002ebc,8,"「あ…」","」","」","!"
+00002fd8,26,"「今、胸元をのぞいたわね」","Now, I've seen my chest.","- Теперь я видел мой сундук.","Jetzt habe ich meine Brust gesehen."
 000030e4,55,"「の、のぞいてないですよ！
-　自然に…目に入っただけで」","","",""
-0000316c,34,"「それをのぞいてるって言うのよ！」","","",""
-000031b8,16,"「はは…つい…」","","",""
-00003230,32,"「もう、油断も隙もないんだから」","","",""
-000032a8,22,"「すみません、つい…」","","",""
+　自然に…目に入っただけで」","I don't see it! Naturally … just by entering
+eyes","Не вижу! Естественно … только введя глаза","Ich sehe es nicht! Natürlich… nur durch die
+Augeneingänge"
+0000316c,34,"「それをのぞいてるって言うのよ！」","“I say that I’m looking at it!”","- Я говорю, что я смотрю на него! »","„Ich sage, ich sehe es an! „"
+000031b8,16,"「はは…つい…」","」","」","!"
+00003230,32,"「もう、油断も隙もないんだから」","“Oh, there is no gap between oil and oil.”","«О, нет разрыва между маслом и маслом. »","„Oh, es gibt keine Lücke zwischen Öl und Öl. „"
+000032a8,22,"「すみません、つい…」","I don't know…","Я не знаю…","Ich weiß nicht…"
 00003334,49,"「つい、じゃないわよ。
-　油断も隙もないんだから」","","",""
-00003408,28,"「のぞこうにも谷間がない…」","","",""
-00003478,22,"「なんですってぇ～っ」","","",""
+　油断も隙もないんだから」","I'm sorry. I don’t have any gaps in oil.","Прости. У меня нет пробелов в масле.","Es tut mir leid. Ich habe keine Lücken im Öl."
+00003408,28,"「のぞこうにも谷間がない…」","Nozoko has no valleys …","Незоко не имеет долин…","Nozoko hat keine Täler…"
+00003478,22,"「なんですってぇ～っ」","What's it?","- Что это?","Was ist los?"
 0000351c,49,"「ある！　ある！　あります！
-　谷間、あります！」","","",""
+　谷間、あります！」","There is a valley!","Есть долина!","Da ist ein Tal!"
 000035a0,51,"「当たり前よ！　ささやかだけど
-　あるんだからね！」","","",""
+　あるんだからね！」","It's natural! It's kind, but it's not!","Это естественно! Это хорошо, но это не!","Es ist natürlich! Es ist freundlich, aber es ist
+nicht!"
 00003694,45,"「余計なとこ見ないで、
-　ちゃんと教えてよね」","","",""
-00003748,14,"「すみません」","","",""
-000037a8,18,"「さ、もう一度よ」","","",""
+　ちゃんと教えてよね」","“I don’t see too much, I’m telling you.”","«Я не вижу слишком много, я говорю вам. »","„Ich sehe nicht zu viel, ich sage es dir. „"
+00003748,14,"「すみません」","I don't know","Я не знаю","Ich weiß es nicht"
+000037a8,18,"「さ、もう一度よ」","I'm again!","- Я снова!","Ich bin wieder!"
 000037f4,67,"「足先をダーツボードの方に向けて、
-　少し胸を張るんだったわよね？」","","",""
-00003864,28,"「そうそう、そんな感じです」","","",""
-00003920,30,"「よ～し、ブルを狙うわよ～っ」","","",""
-000039a4,38,"「それで、どうやって投げればいいの？」","","",""
+　少し胸を張るんだったわよね？」","“I’m a little bit nervous about my feet to the
+dartboard?”","«Я немного нервничаю о моих ногах до панели? »","„Ich bin etwas nervös über meine Füße zum
+Dartboard? „"
+00003864,28,"「そうそう、そんな感じです」","“So, it’s like that.”","«Так, это так. »","„So ist es so. „"
+00003920,30,"「よ～し、ブルを狙うわよ～っ」","Yes, I'm aiming for the bull~","Да, я нацелен на бык~","Ja, ich will den Bullen."
+000039a4,38,"「それで、どうやって投げればいいの？」","How do I throw it?","Как я его бросаю?","Wie werfe ich es?"
 000039f8,94,"「肘を動かさないように固定して、
 　肘から上と手首のスナップを使って投げれば
-　オッケーですよ」","","",""
-00003ab0,38,"「肘を動かさないように……難しいわね」","","",""
+　オッケーですよ」","“Fix the elbow so that you don’t move the elbow
+and throw it with a snap on the upper and wrist
+from the elbow.”","“Найдите локтейль, чтобы вы не двигали локтейль и
+бросите его с защелкой на верхнем и запястье от
+локтейля. »","“Fix the elbow so dass Sie nicht bewegen die
+Ellbogen und werfen es mit einem Snap auf dem
+oberen und Handgelenk aus dem Ellbogen. „"
+00003ab0,38,"「肘を動かさないように……難しいわね」","Don't move the elbow…It's difficult.","Не двигайте локтейль… Это сложно.","Beweg den Ellbogen nicht… Es ist schwierig."
 00003b50,67,"（うう…どうしても、胸元が気になる。
-　シャッターチャンス…だよな）","","",""
-00002ebc,8,"「あ…」","","",""
+　シャッターチャンス…だよな）","Sorry, this entry is only available in Japanese.
+ter Opportunities","Извините, этот техт доступен только в “Японский”.
+ter Возможности","Leider ist dieser Eintrag nur auf Japanisch
+verfügbar. ter Möglichkeiten"
+00002ebc,8,"「あ…」","」","」","!"
 00003d60,43,"「今、撮ったでしょう！
-　何考えてるのよ！」","","",""
-00003dec,36,"「す、すみません、初ダーツ記念に…」","","",""
+　何考えてるのよ！」","“I’ve taken it now!” What do you think?","«Я взял это сейчас!» Что вы думаете?","„Ich habe es jetzt genommen!“ Was denkst du?"
+00003dec,36,"「す、すみません、初ダーツ記念に…」","No, I don't know, it's the first dart
+commemorative…","Нет, я не знаю, это первый дарт памят…","Nein, ich weiß nicht, es ist das erste
+Dart-Gedenk…"
 00003e58,67,"「だからって、胸元を撮ることないでしょ！？
-　恥ずかしいじゃない！」","","",""
-00003ed0,28,"「だ、誰にも見せませんから」","","",""
-00003f40,16,"「当たり前よ！」","","",""
-00003f98,30,"こうして、一緒にダーツをした。","","",""
+　恥ずかしいじゃない！」","“So you don’t take your chest!” I'm so
+embarrassed!","“Так ты не берешь своего сундука!” Я так смущен!","„So nimmst du deine Brust nicht!“ Ich bin so
+peinlich!"
+00003ed0,28,"「だ、誰にも見せませんから」","“No, I don’t show anyone.”","- Нет, я никого не покажу. »","„Nein, ich zeige niemanden. „"
+00003f40,16,"「当たり前よ！」","“It’s natural!”","«Это естественно!»","„Es ist natürlich!“"
+00003f98,30,"こうして、一緒にダーツをした。","I made a dart together.","Сделал дарт вместе.","Ich habe zusammen einen Dart gemacht."
 0000407c,55,"「今日は、ダーツとビリヤード、
-　どっちをやりますか？」","","",""
-00004114,14,"「ビリヤード」","","",""
-00004184,14,"「ダーツは？」","","",""
-000041cc,26,"「胸元ばかり見るから嫌よ」","","",""
+　どっちをやりますか？」","“Do you do darts, billiards, and any other thing
+today?”","«Вы делаете дарты, бильярд, и любая другая вещь
+сегодня? »","„Sagst du, Billard und was anderes heute? „"
+00004114,14,"「ビリヤード」","Billiards","Бильярд","Billard"
+00004184,14,"「ダーツは？」","“What is darts?”","«Что такое дартс? »","„Was sind Darts? „"
+000041cc,26,"「胸元ばかり見るから嫌よ」","“I don’t like it because I see only my chest.”","«Я не люблю это, потому что вижу только мой
+сундук. »","„Ich mag es nicht, weil ich nur meine Brust sehe.
+„"
 00004258,71,"「う……もう見ないんで、ダーツを選択肢に
-　復活させてくれないかなぁと」","","",""
-000042f0,20,"「…本当に見ない？」","","",""
-0000433c,14,"「努力します」","","",""
-0000439c,68,"「フフッ、ならいいわよ。
-　どちらでも、\p01君の好きな方を
-　選んで」","","",""
-00004444,20,"「じゃあ、今日は…」","","",""
-000044ec,14,"「ダーツで！」","","",""
-00004534,22,"「ダーツね、いいわよ」","","",""
+　復活させてくれないかなぁと」","“Oh… I don’t see it anymore and don’t let me
+resurrect my darts.”","«О… Я больше не вижу и не позволяю мне
+воскресить мои дарты. »","„Oh… ich sehe es nicht mehr und lass mich meine
+Darts nicht auferstehen. „"
+000042f0,20,"「…本当に見ない？」","“…I don’t really see it?”","«… Я не вижу это? »","„… Ich sehe es nicht wirklich? „"
+0000433c,14,"「努力します」","We will do our best","«Мы сделаем все возможное»","Wir werden unser Bestes tun"
+00004444,20,"「じゃあ、今日は…」","Hey, today…","«Эй, сегодня…»","Hey, heute…"
+000044ec,14,"「ダーツで！」","Dart","Dart","Dart"
+00004534,22,"「ダーツね、いいわよ」","Dart, I'm good.","- Дат, я хорош.","Dart, ich bin gut."
 000045bc,75,"「え～と…足先をダーツボードの方に向けて、
-　少し胸を張るんだったわよね？」","","",""
-00002a98,12,"「そうそう」","","",""
+　少し胸を張るんだったわよね？」","“Oh… I got a little bit of my heart to the
+darts board on my feet?”","«О… Я немного у меня сердце к доске дартов на
+моих ногах? »","„Oh… ich habe ein wenig mein Herz auf den
+Darts-Board auf meinen Füßen? „"
+00002a98,12,"「そうそう」","S」","S」","S!"
 0000469c,51,"「そばに来て、もう一度フォームを
-　教えてくれる？」","","",""
-000046fc,12,"「オッケー」","","",""
+　教えてくれる？」","“Where do you come to buckwheat and tell me the
+form again?”","«Где ты приезжаешь к грегу и скажи мне форму
+снова? »","„Wo kommst du zu Buchweizen und sagst mir das
+Formular wieder? „"
+000046fc,12,"「オッケー」","Ockey","Окей","Ockey"
 000047e0,61,"「肘を動かさないように気をつけて、
-　投げるんだったわよね？」","","",""
-00004878,18,"「そんな感じです」","","",""
+　投げるんだったわよね？」","“I’m throwing it out so that I don’t move my
+elbow?”","«Я выбрасываю это, чтобы я не двигал свой локт? »","„Ich werfe es aus, damit ich meinen Ellbogen
+nicht bewege? „"
+00004878,18,"「そんな感じです」","“It’s like that.”","- Это так. »","„So ist es. „"
 00004904,59,"「難しいのよねぇ。…つい、肩で投げようと
-　してしまって…」","","",""
+　してしまって…」","“It’s difficult to do.” … Finally, throw it on
+the shoulder…","- Это трудно сделать. … Наконец, бросьте его на
+плечо…","„Es ist schwierig zu tun.“ … Schließlich werfen
+Sie es auf die Schulter…"
 000049a8,69,"「最初はみんなそうですよ。
-　え～と…ちょっと肩に力が入ってるかな？」","","",""
-00004a28,36,"「いけない、リラックス、リラックス」","","",""
+　え～と…ちょっと肩に力が入ってるかな？」","“It’s all right. Oh~. Is there any force on the
+shoulder?","«Это все правильно. Ох~. Есть ли сила на плече?","„Es ist in Ordnung. Oh. Gibt es eine Kraft auf
+der Schulter?"
+00004a28,36,"「いけない、リラックス、リラックス」","I have to relax and relax","«Мне нужно отдыхать и отдыхать»","Ich muss mich entspannen und entspannen"
 00004aa8,57,"（うう……見ちゃいけないと思えば思うほど、
-　見てしまう）","","",""
-00002ebc,8,"「あ…」","","",""
-00004c74,38,"「ちょっと…また胸元、見てたでしょう」","","",""
+　見てしまう）","(Oh, I think I can't see it.)","(О, я думаю, что я не вижу это.)","(Oh, ich glaube, ich kann es nicht sehen.)"
+00002ebc,8,"「あ…」","」","」","!"
+00004c74,38,"「ちょっと…また胸元、見てたでしょう」","It's a little … I'll see it again","Это немного … Я увижу это снова","Es ist ein wenig… ich werde es wieder sehen"
 00004cd0,69,"「す、すみません！　つい…。
-　見ないように努力はしてるんですけど…」","","",""
-00004d6c,40,"「も～っ、エッチ！　雑念を払いなさい！」","","",""
-00004e0c,16,"「努力します！」","","",""
-00004e70,14,"「まったく…」","","",""
-00003f98,30,"こうして、一緒にダーツをした。","","",""
-00004f40,18,"「ビリヤードで！」","","",""
-00004f80,26,"「ビリヤードね、いいわよ」","","",""
-00001084,12,"「それっ！」","","",""
+　見ないように努力はしてるんですけど…」","。 I'm trying to see…","。 Я пытаюсь увидеть…","Ich versuche zu sehen…"
+00004d6c,40,"「も～っ、エッチ！　雑念を払いなさい！」","Hmm~hmm, Ech! Please pay the compassion!","Hmm~hmm, Ech! Пожалуйста, оплатите сострадание!","Hmm~hmm, Ech! Bitte zahlen Sie das Mitgefühl!"
+00004e0c,16,"「努力します！」","We will do our best!","«Мы сделаем все возможное!»","Wir werden unser Bestes tun!"
+00004e70,14,"「まったく…」","」","」","!"
+00003f98,30,"こうして、一緒にダーツをした。","I made a dart together.","Сделал дарт вместе.","Ich habe zusammen einen Dart gemacht."
+00004f40,18,"「ビリヤードで！」","In billiards!","В бильярде!","In Billard!"
+00004f80,26,"「ビリヤードね、いいわよ」","I'm a billiard, right?","- Я бильярд, правда?","Ich bin Billard, richtig?"
+00001084,12,"「それっ！」","It's it!","- Это!","Das ist es!"
 00005040,77,"「相変わらず、ナイスブレイクだなぁ。
-　力強くはないけど、ちゃんと球が散るし」","","",""
-000050bc,42,"「きちんと当てれば、それだけで散るものよ」","","",""
-00005178,40,"「うまくクッションを利用して、１番を…」","","",""
-000051d0,36,"（胸元を撮ると怒られるし、足下を…）","","",""
-0000527c,40,"（おおっ！　まさにシャッターチャンス！）","","",""
-000012e0,22,"シャッターチャンスだ！","","",""
-00002ebc,8,"「あ…」","","",""
+　力強くはないけど、ちゃんと球が散るし」","It's aスbreak, it's not. It is not strong, but
+the ball is scattered properly.","«Это スbreak, это не так. Это не сильный, но мяч
+разбросан правильно.","Es ist ein Abbruch, es ist nicht. Es ist nicht
+stark, aber der Ball ist richtig verstreut."
+000050bc,42,"「きちんと当てれば、それだけで散るものよ」","If you put it properly, it's just a thing that
+scatters.","Если вы положили его правильно, это просто вещь,
+которая разбросана.","Wenn du es richtig machst, ist es nur eine Sache,
+die verstreut."
+00005178,40,"「うまくクッションを利用して、１番を…」","Using the cushion well, the first…","Используя подушка хорошо, первый…","Das Kissen gut verwenden, das erste…"
+000051d0,36,"（胸元を撮ると怒られるし、足下を…）","(When you take a chest, you will be angry, and
+under the feet…)","(Когда вы берете сундуки, вы будете сердиться, и
+под ногами…)","(Wenn Sie eine Brust nehmen, werden Sie wütend
+sein, und unter den Füßen…)"
+0000527c,40,"（おおっ！　まさにシャッターチャンス！）","(Oh! It is aシャッター chance!)","(О! Это спектакль спектакля!)","(Oh! Es ist eine Chance!)"
+000012e0,22,"シャッターチャンスだ！","ter chance!","ter шанс!","Eine Chance!"
+00002ebc,8,"「あ…」","」","」","!"
 0000547c,65,"「ちょ、ちょっと！　そんな下から撮るなんて
-　どういうつもり！？」","","",""
-00005520,32,"「だ、大丈夫、見えてないですよ」","","",""
+　どういうつもり！？」","“Oh, it’s a little! What’s going to take it from
+below?”","«О, это немного! Что займет от ниже? »","„Oh, es ist ein wenig! Was wird es von unten
+nehmen? „"
+00005520,32,"「だ、大丈夫、見えてないですよ」","It's okay, it's not visible.","- Это нормально, это не видно.","Es ist okay, es ist nicht sichtbar."
 00005590,55,"「そんなの当たり前でしょ！
-　見えてたら盗撮じゃない！」","","",""
-0000563c,30,"「で、ですよね。気をつけます」","","",""
-00001398,20,"（撮るまでもないな）","","",""
-00002ebc,8,"「あ…」","","",""
+　見えてたら盗撮じゃない！」","That’s right! If you look at it, it is not a 撮ef!","Это правильно! Если вы посмотрите на него, это не
+撮ef!","Das stimmt! Wenn Sie es betrachten, ist es kein
+撮ef!"
+0000563c,30,"「で、ですよね。気をつけます」","That’s right. Be careful","Это правильно. Будьте осторожны","Das stimmt. Sei vorsichtig."
+00001398,20,"（撮るまでもないな）","(It is not until you take it)","(Это не до тех пор, пока вы не принимаете его)","(Es ist nicht, bis du es nimmst)"
+00002ebc,8,"「あ…」","」","」","!"
 00005810,55,"「ちょ、ちょっと！　そんな下から
-　どういうつもり！？」","","",""
-000058a8,32,"「だ、大丈夫、撮ってないですよ」","","",""
+　どういうつもり！？」","I'm a little! What's going on from below?","- Я немного! Что происходит от ниже?","Ich bin ein wenig! Was ist von unten los?"
+000058a8,32,"「だ、大丈夫、撮ってないですよ」","“No, it’s okay, I don’t take it.”","- Нет, это нормально, я не принимаю его. »","„Nein, es ist okay, ich nehme es nicht. „"
 00005918,73,"「撮ってる撮ってないの問題じゃないでしょ！
-　そんな下からのぞくなんて！」","","",""
-0000563c,30,"「で、ですよね。気をつけます」","","",""
-00005a00,18,"「まったくもう…」","","",""
-00005a50,34,"こうして、一緒にビリヤードをした。","","",""
+　そんな下からのぞくなんて！」","It is not a problem not to take a picture! That's
+it!","Это не проблема, чтобы не сфотографироваться!
+Это!","Es ist kein Problem, kein Bild zu machen! Das ist
+es!"
+0000563c,30,"「で、ですよね。気をつけます」","That’s right. Be careful","Это правильно. Будьте осторожны","Das stimmt. Sei vorsichtig."
+00005a00,18,"「まったくもう…」","」","」","!"
+00005a50,34,"こうして、一緒にビリヤードをした。","I played a billiard together.","Я играл бильярд вместе.","Ich habe zusammen einen Billard gespielt."

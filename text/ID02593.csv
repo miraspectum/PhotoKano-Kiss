@@ -1,103 +1,162 @@
-00000148,26,"（え～と…次の授業は…と）","","",""
+00000148,26,"（え～と…次の授業は…と）","Sorry, this entry is only available in Japanese.","Извините, этот техт доступен только в “Японский”.","Leider ist dieser Eintrag nur auf Japanisch
+verfügbar."
 00000190,79,"（英語か。ん？　何か忘れてる気が……あ！
-　宿題があったんだ！　やってないぞ！）","","",""
+　宿題があったんだ！　やってないぞ！）","English Do you have a homework?","Русский У вас домашняя работа?","Englisch Haben Sie eine Hausaufgaben?"
 0000020c,49,"（どうする…今からやって間に合うか？
-　無理だな）","","",""
-0000026c,32,"（…室戸先輩ならすぐ解けるはず）","","",""
-000002cc,30,"（昼休みは、たぶん図書室だな）","","",""
-00000368,14,"（あ、いた！）","","",""
-00000404,36,"「室戸先輩！　ちょっといいですか？」","","",""
-0000047c,43,"「\p01君、声が大きい。
-　図書室では静かに」","","",""
+　無理だな）","(How do I do?)","(Как мне сделать?)","(Wie mache ich das?)"
+0000026c,32,"（…室戸先輩ならすぐ解けるはず）","(…You should be able to solve it immediately if
+you are a senior at Mur室)","(… Вы должны немедленно решить его, если вы
+старший в Mur))","(…) Sie sollten in der Lage sein, es sofort zu
+lösen, wenn Sie ein Senior bei Murblend)"
+000002cc,30,"（昼休みは、たぶん図書室だな）","(Lunch break is probably a library)","(Лунч-брейк, вероятно, библиотека)","(Lunch Break ist wahrscheinlich eine Bibliothek)"
+00000368,14,"（あ、いた！）",")",")",")"
+00000404,36,"「室戸先輩！　ちょっといいですか？」","Muroto seniors! How about it?","Мурото старшие! Как насчет этого?","Muroto Senioren! Wie wär's damit?"
 0000050c,53,"「あ…すみません。室戸先輩がいて
-　うれしかったので」","","",""
-00000598,8,"「え…」","","",""
-000005c4,36,"「あ、いや、その…深い意味じゃなく」","","",""
-00000638,34,"「わ、わかってるわよ、そんなこと」","","",""
-00000718,36,"「それで、何なのよ？　私に何か用？」","","",""
-000007b4,38,"「それが…英語の宿題をやってなくて…」","","",""
+　うれしかったので」","I don't know. Because there were seniors in
+Murodo and it was good","Не знаю. Потому что были пожилые люди в Муродо и
+это было хорошо»","Ich weiß es nicht. Weil es Senioren in Murodo und
+es war gut"
+00000598,8,"「え…」","」","」","!"
+000005c4,36,"「あ、いや、その…深い意味じゃなく」","Oh, no, that is not a deep meaning.","«О, нет, это не глубокий смысл».","Oh nein, das ist keine tiefe Bedeutung."
+00000638,34,"「わ、わかってるわよ、そんなこと」","“Well, you know, that’s that.”","— Ну, ты знаешь, это. »","„Nun, weißt du, das ist das. „"
+00000718,36,"「それで、何なのよ？　私に何か用？」","“What is it? What is it?”","— Что это? Что это? »","„Was ist das? Was ist los? „"
+000007b4,38,"「それが…英語の宿題をやってなくて…」","“It’s not doing English homework…”","«Это не делает английскую домашнюю работу… »","„Es macht keine englische Hausarbeit… „"
 00000838,51,"「教えて欲しいの？　いいわよ、
-　特に用事もないし」","","",""
+　特に用事もないし」","I want to tell you? Good, there is no special
+thing.","- Я хочу тебе сказать? Хорошо, нет особой вещи.","Ich will es dir sagen? Gut, es gibt keine
+besondere Sache."
 00000904,51,"「そうじゃなくて、
-　先輩にやってもらおうかなって」","","",""
+　先輩にやってもらおうかなって」","“I don’t do that, I want to do it to my seniors.”","«Я не делаю этого, я хочу сделать это своим
+старшим. »","„Das tue ich nicht, ich will es meinen Senioren
+antun. „"
 0000096c,59,"「なっ！　何で私が、君の宿題を
-　やらなきゃいけないのよ！」","","",""
-00000a8c,30,"「室戸先輩、図書室では静かに」","","",""
-00000b00,16,"「んぐ…つい…」","","",""
-00000bc8,12,"「不正登校」","","",""
-00000c18,24,"「ま、また私を脅す気？」","","",""
-00000cb0,22,"「脅すってほどじゃ…」","","",""
-00000d24,32,"「どう考えたって脅しでしょう？」","","",""
+　やらなきゃいけないのよ！」","“No! I have to do your homework!”","«Нет! Я должен сделать вашу домашнюю работу! »","„Nein! Ich muss deine Hausaufgaben machen! „"
+00000a8c,30,"「室戸先輩、図書室では静かに」","Muroto seniors, books in the library","Мурото старшие, книги в библиотеке","Muroto Senioren, Bücher in der Bibliothek"
+00000b00,16,"「んぐ…つい…」","」","」","!"
+00000bc8,12,"「不正登校」","School","Школа","Schule"
+00000c18,24,"「ま、また私を脅す気？」","“Well, how do you threaten me?”","— Ну, как ты меня угрожаешь? »","„Nun, wie bedrohen Sie mich? „"
+00000cb0,22,"「脅すってほどじゃ…」","“It’s so threatened…”","«Это так угрожает…»","„Es ist so bedroht…“"
+00000d24,32,"「どう考えたって脅しでしょう？」","How do you think?","- Как ты думаешь?","Wie denkst du?"
 00000de0,79,"「言うことを聞かないなら、あの写真を
-　画像掲示板に貼って世界中にさらしたり…」","","",""
+　画像掲示板に貼って世界中にさらしたり…」","If you don't hear what you say, you can put that
+photo on the image bulletin board and spread it
+around the world …","Если вы не слышите, что вы говорите, вы можете
+поставить эту фотографию на доске объявлений
+изображения и распространять ее по всему миру …","Wenn du nicht hörst, was du sagst, kannst du das
+Foto auf das Bildblattbrett legen und es auf der
+ganzen Welt verbreiten…"
 00000ec0,88,"「大量にプリントアウトして、
 　屋上からばらまいたり…そんなことを
-　する気なんでしょ？」","","",""
+　する気なんでしょ？」","“I print out a large amount, and it’s going to be
+out of the rooftop… I’m wondering how to do
+that?”","“Я распечатаю большое количество, и это будет из
+крыши… Мне интересно, как это сделать? »","“Ich drucke eine große Menge aus, und es wird aus
+dem Dach sein… Ich frage mich, wie man das
+macht? „"
 00000fa0,63,"「さすが、室戸先輩、
-　いろいろ思いつきますね。参考になります」","","",""
-0000101c,36,"「ぐっ…そんな脅しには屈しないわよ」","","",""
+　いろいろ思いつきますね。参考になります」","S思い, the seniors of the Mur。, I think. 参考","S theい, пожилые люди Мур。, я думаю. 考考考","Seine, die Senioren der Mur。, glaube ich.
+ZEITSCHRIFTEN"
+0000101c,36,"「ぐっ…そんな脅しには屈しないわよ」","“Well… I don’t squeak it.”","«Ну… Я не сжимаю его. »","„Nun… Ich habe es nicht geschlagen. „"
 000010f4,104,"「私は、２期連続で光河学園の
 　生徒会長を務める、室戸亜岐よ。
-　その責任と立場において、断固拒否するわ」","","",""
+　その責任と立場において、断固拒否するわ」","I am a student president of Koga Gakuen for two
+consecutive years. We will refuse to break in our
+responsibility and position.","Я - студенческий президент Коги Гакуен в течение
+двух лет подряд. Мы откажемся от нарушения нашей
+ответственности и должности».","Ich bin Schülerpräsident von Koga Gakuen für zwei
+aufeinanderfolgende Jahre. Wir werden uns weigern,
+in unserer Verantwortung und Position zu brechen."
 000011d0,69,"「先輩がすごい生徒会長だからこそ、
-　不正登校がバレると困るんじゃ？」","","",""
-00001264,12,"「うぐぐっ」","","",""
+　不正登校がバレると困るんじゃ？」","“I’m a student president whose seniors are
+amazing, so don’t you have to worry if you’re a
+rogue school?”","«Я студенческий президент, старший изумительный,
+так что вам не нужно беспокоиться, если вы родная
+школа? »","„Ich bin ein Student Präsident, dessen Senioren
+erstaunlich sind, also müssen Sie sich nicht
+Sorgen machen, wenn Sie eine Schurkenschule sind?
+„"
+00001264,12,"「うぐぐっ」","」","」","!"
 000012e0,67,"「次の授業までに終わらせないと、
-　まずいんです！　助けると思って」","","",""
-00001370,14,"「…い、嫌よ」","","",""
+　まずいんです！　助けると思って」","“I don’t want to finish the next class!” I want
+to help","«Я не хочу закончить следующий класс!» Я хочу
+помочь","„Ich will nicht die nächste Klasse beenden!“ Ich
+will helfen"
+00001370,14,"「…い、嫌よ」","“I don’t like it.”","- Мне это не нравится. »","„Ich mag es nicht. „"
 000013fc,86,"「仕方ない…あの写真、ポスターにして
 　廊下に貼りだした上に、屋上から
-　ばらまいて…」","","",""
+　ばらまいて…」","… I put it on the corridor as a photo and a
+poster, and then I put it on the rooftop.","… Я положил его на коридор как фото и плакат, а
+затем я положил его на крышу.","… Ich habe es als Foto und Poster auf den Flur
+gelegt und dann auf das Dach gelegt."
 00001474,67,"「チェーンメールと画像掲示板で
-　世界中にさらすけど、いいですか？」","","",""
-00001504,38,"「わ、私を徹底的に陥れるって言うの？」","","",""
-000015b8,12,"「…んくっ」","","",""
+　世界中にさらすけど、いいですか？」","“Chain mail and image bulletin boards are all
+around the world?”","«Черная почта и изображения доски бюллетени по
+всему миру? »","„Die Post- und Bild-Bulletin-Boards sind auf der
+ganzen Welt? „"
+00001504,38,"「わ、私を徹底的に陥れるって言うの？」","“Well, do you say that you can get me
+completely?”","— Ну, ты говоришь, что ты можешь получить меня
+полностью? »","„Nun, sagen Sie, dass Sie mich komplett holen
+können? „"
+000015b8,12,"「…んくっ」","」","」","!"
 00001644,59,"「…わ、わかったわよ！
-　やるわよ…やればいいんでしょ！？」","","",""
-00001728,26,"「ありがとうございます！」","","",""
+　やるわよ…やればいいんでしょ！？」","… I'm not sure! I'm doing it… I want to do
+it!","… Я не уверен! Я делаю это… Я хочу это
+сделать!","… Ich bin mir nicht sicher! Ich mache es… Ich
+will es tun!"
+00001728,26,"「ありがとうございます！」","Thank you!","Спасибо!","Danke!"
 000017ac,80,"「けど、今回だけよ、いいわね？
 　宿題は自分でやらなきゃ
-　身に付かないんだから」","","",""
-00001870,30,"「わかりました。恩に着ます！」","","",""
-00001930,22,"「この……このっ……」","","",""
+　身に付かないんだから」","“But this time, right? I have to do my homework
+for myself.”","- Но это время, верно? Я должен сделать свою
+домашнюю работу для себя. »","„Aber diesmal, richtig? Ich muss meine
+Hausaufgaben für mich erledigen. „"
+00001870,30,"「わかりました。恩に着ます！」","。 Contact Us","。 Связаться с нами","Kontaktieren Sie uns"
+00001930,22,"「この……このっ……」","This… This is…","Это… Это…","Das… Das ist…"
 00001974,53,"「うわ、すごい勢い…。
-　よくそんな速さで解けますね」","","",""
-000019dc,26,"「この程度の和訳、当然よ」","","",""
-00001a54,18,"「さすが室戸先輩」","","",""
-00001a78,22,"シャッターチャンスだ！","","",""
-00001b60,20,"（撮るまでもないな）","","",""
+　よくそんな速さで解けますね」","Wow, amazing momentum…. I can solve it well
+with such speed.","«Вау, удивительный импульс…. Я могу решить это
+хорошо с такой скоростью.","Wow, erstaunliche Momentum…. Ich kann es mit
+solcher Geschwindigkeit gut lösen."
+000019dc,26,"「この程度の和訳、当然よ」","This is the Japanese translation, of course.","Это японский перевод, конечно.","Das ist natürlich die japanische Übersetzung."
+00001a54,18,"「さすが室戸先輩」","Sasuga Mur輩 Seniors","Сасуга Мур輩 Старшие","Sasuga Mur gleichen Senioren"
+00001a78,22,"シャッターチャンスだ！","ter chance!","ter шанс!","Eine Chance!"
+00001b60,20,"（撮るまでもないな）","(It is not until you take it)","(Это не до тех пор, пока вы не принимаете его)","(Es ist nicht, bis du es nimmst)"
 00001ba8,51,"「…あ、そこの文って、
-　何でそう訳されるんです？」","","",""
-00001c48,8,"「え？」","","",""
-00001da0,43,"「ははぁ、thatの用法を
-　勘違いしてるわね」","","",""
-00001e38,16,"「…と言うと？」","","",""
-00001ea8,47,"「このthatは関係代名詞じゃなくて、
-　接続詞よ」","","",""
+　何でそう訳されるんです？」","“…Well, what is the sentence of it?","— Ну, что это приговор?","„…Nun, was ist der Satz davon?"
+00001c48,8,"「え？」","?」","?」","?"
+00001e38,16,"「…と言うと？」","“What do you say?”","— Что ты говоришь? »","„Was sagst du? „"
 00001f0c,51,"「そ、そうなんですか？
-　よくすぐ区別がつきますね」","","",""
-00001f88,92,"「簡単よ。thatの後を見て。
-　名詞、動詞、目的語…そこだけで文として
-　成立してるでしょう？」","","",""
-00002068,16,"「…そうですね」","","",""
-000020e4,59,"「つまり、このthatは、
-　同格の名詞節を導く接続詞ってこと」","","",""
-000021b4,75,"「ひとことで言うなら、後に完全な文が続く
-　thatは接続詞ってわけ。覚えた？」","","",""
-00002274,30,"「…なるほど、そうだったのか」","","",""
+　よくすぐ区別がつきますね」","“Is that right?” “I’m getting different from it.”","- Это правильно? «Я разбираюсь от него. »","„Ist das richtig?“ „Ich werde anders. „"
+00002068,16,"「…そうですね」","…I'm right.","- Я прав.","…ich habe recht."
+00002274,30,"「…なるほど、そうだったのか」","…Is it like that?","… Это нравится?","… Ist es so?"
 000022e4,47,"「この程度のことを知らないなんて、
-　ダメねぇ」","","",""
-00002388,34,"「じゃあ、次の文はどうなんです？」","","",""
+　ダメねぇ」","“I don’t know what to do with this.”","«Я не знаю, что с этим делать. »","„Ich weiß nicht, was ich damit zu tun habe. „"
+00002388,34,"「じゃあ、次の文はどうなんです？」","“What is the next sentence?”","«Что такое следующее предложение? »","„Was ist der nächste Satz? „"
 00002404,53,"「…教えて欲しいなら、
-　最初からそう言えばいいのに」","","",""
+　最初からそう言えばいいのに」","…If you want to tell me, you can say that from
+the beginning.","… Если ты хочешь сказать мне, ты можешь
+сказать, что с самого начала».","… Wenn du es mir sagen willst, kannst du das
+von Anfang an sagen."
 00002470,53,"「いや…ここまで速く解いていくと
-　思わなかったので」","","",""
+　思わなかったので」","“No, I didn’t think I could solve this fast.”","- Нет, я не думал, что я мог бы решить это
+быстро. »","„Nein, ich dachte nicht, dass ich das schnell
+lösen könnte. „"
 000024e0,96,"「昼休みが終わるまで、
 　まだ少し時間があるわ。教えてあげるから、
-　あとは自分で解きなさいよ？」","","",""
-000025d8,16,"「…そうします」","","",""
-00002630,42,"こうして、室戸先輩に英語を教えてもらった。","","",""
+　あとは自分で解きなさいよ？」","I have a little time until the lunch break
+ends. Let me know, and let me know.","«У меня мало времени, пока обед не закончится
+перерыв». Дайте мне знать, и дайте мне знать.","Ich habe etwas Zeit, bis die Mittagspause
+endet. Lassen Sie mich wissen, und lassen Sie
+mich wissen."
+000025d8,16,"「…そうします」","…I do it!","…Я делаю это!","…ich mache es!"
+00002630,42,"こうして、室戸先輩に英語を教えてもらった。","In this way, I taught me English to my seniors.","Таким образом, я научил меня английский своим
+старшим.","Auf diese Weise unterrichtete ich mich Englisch
+zu meinen Senioren."
 00002688,98,"「はぁ…文法がわかっても、
 　単語がわからないんじゃ意味ないでしょう？
-　ボキャブラリーなさすぎよ」","","",""
-00002718,16,"「すみません…」","","",""
+　ボキャブラリーなさすぎよ」","
+“Hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+Bocabulary too much","
+hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+Bocabulary слишком много","hhhhhhhhhhhhhhhh Bocabulal zu viel"
+00002718,16,"「すみません…」","」","」","!"

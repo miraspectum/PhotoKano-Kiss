@@ -1,45 +1,67 @@
-0000024c,16,"「あら、\p01君」","","",""
 0000028c,43,"「あ、かつみさん。
-　これから水泳ですか？」","","",""
-00000314,16,"「ええ、そうよ」","","",""
+　これから水泳ですか？」","。 Are you swimming?","。 Вы плаваете?","。 Schwimmst du?"
+00000314,16,"「ええ、そうよ」","Yes, it is.","- Да, это.","Ja, das ist es."
 0000039c,102,"「そろそろ水泳部以外はプール納めだし、
 　私たち３年は、もう学校のプールで
-　泳ぐこともなくなるから…」","","",""
-000004dc,20,"「楽しんでくるわよ」","","",""
-00000534,22,"「そっか…そうですね」","","",""
-00000598,63,"「それにしても…ラッキーね、\p01君。
-　ここに居合わせるなんて」","","",""
-00000690,20,"「？　何がですか？」","","",""
+　泳ぐこともなくなるから…」","“I don’t have a swimming pool outside the
+swimming pool, but we’re not able to swim in the
+school…”","«У меня нет бассейна за пределами бассейна, но мы
+не можем плавать в школе… »","„Ich habe keinen Pool außerhalb des Pools, aber
+wir können nicht in der Schule schwimmen… „"
+000004dc,20,"「楽しんでくるわよ」","Enjoy","Приятно","Genau"
+00000534,22,"「そっか…そうですね」","It's right… it's right.","Это правильно… это правильно.","Es ist richtig… Es ist richtig."
+00000690,20,"「？　何がですか？」","What?","Что?","Was?"
 000006f8,51,"「このあと、滅多に見られないものが
-　見られるわよ」","","",""
-00000798,8,"「え？」","","",""
-000007f4,20,"「フフッ、じゃあね」","","",""
-0000092c,34,"（滅多に見られないもの？　何だ？）","","",""
-00000b0c,24,"「ああああっ、\p01君！」","","",""
-00000c18,40,"「む、室戸先輩！　その格好…競泳水着！」","","",""
-00000cc4,36,"「その…これしか持ってきてなくて…」","","",""
-00000d48,28,"「間違えて持ってきたとか？」","","",""
-00000dc4,26,"「いえ、そうじゃなくて…」","","",""
+　見られるわよ」","“You can see things that are rarely seen.”","“Вы можете увидеть вещи, которые редко видны. »","„Du kannst Dinge sehen, die selten gesehen
+werden. „"
+00000798,8,"「え？」","?」","?」","?"
+000007f4,20,"「フフッ、じゃあね」","Fift,jah","Фифт,джа","Fift,jah"
+0000092c,34,"（滅多に見られないもの？　何だ？）","(Don’t you see it?)","(Не видишь?)","(Sie sehen es nicht?)"
+00000c18,40,"「む、室戸先輩！　その格好…競泳水着！」","“Oh, my seniors in Muroto! That cool…
+swimsuit!”","«О, мои старшие в Мурото! Это круто… купальник!","„Oh, meine Senioren in Muroto! Dieser coole
+Badeanzug!“"
+00000cc4,36,"「その…これしか持ってきてなくて…」","“It’s… I’m only able to have it…”","«Это… Я только умею… »","„Es ist… Ich kann es nur… „"
+00000d48,28,"「間違えて持ってきたとか？」","“I’m having a mistake?”","— У меня ошибка? »","„Ich habe einen Fehler? „"
+00000dc4,26,"「いえ、そうじゃなくて…」","“No, it’s not…”","«Нет, это не… »","„Nein, es ist nicht… „"
 00000e40,73,"「水泳部の後輩にお願いして、放課後、
-　時々泳がせてもらうことにしたのよ」","","",""
-00000f14,8,"「え…」","","",""
+　時々泳がせてもらうことにしたのよ」","“I asked the juniors of the swimming club and
+asked them to swim after school.”","«Я спросил юниоров плавательного клуба и попросил
+их плавать после школы. »","„Ich fragte die Junioren des Schwimmclubs und bat
+sie, nach der Schule zu schwimmen. „"
+00000f14,8,"「え…」","」","」","!"
 00000f70,65,"「勉強や生徒会の仕事ばかりで、
-　根を詰めすぎるのもよくないから」","","",""
+　根を詰めすぎるのもよくないから」","“I’m just studying and working in a student
+group, so I don’t have to get too much root.”","«Я просто учусь и работаю в студенческой группе,
+поэтому мне не нужно получать слишком много корня.
+»","„Ich studiere und arbeite nur in einer
+Studentengruppe, also muss ich nicht zu viel
+Wurzel bekommen. „"
 00001008,45,"「そうなんですか？
-　すごくいいですよ、それ」","","",""
-00001094,14,"「でしょう？」","","",""
+　すごくいいですよ、それ」","What is it? It's really good.","Что это? Это действительно хорошо.","Was ist los? Es ist wirklich gut."
+00001094,14,"「でしょう？」","“Is it?”","— Это? »","„Ist es? „"
 000010f0,106,"「けど、今日、水泳の授業があることを
 　すっかり忘れてて。うっかり、
-　競泳水着しか持ってきてなかったのよ」","","",""
-000011ec,22,"シャッターチャンスだ！","","",""
-00001298,38,"「ちょ、ちょっと、まさか、撮る気！？」","","",""
+　競泳水着しか持ってきてなかったのよ」","“But remember to have a swimming lesson today. “I
+didn’t have swimsuits.”","«Но помните, чтобы иметь урок плавания сегодня.
+«У меня нет купальников. »","„Aber denken Sie daran, heute eine Schwimmstunde
+zu haben. „Ich hatte keine Badeanzüge. „"
+000011ec,22,"シャッターチャンスだ！","ter chance!","ter шанс!","Eine Chance!"
+00001298,38,"「ちょ、ちょっと、まさか、撮る気！？」","“A little, a little, a little, a little, a
+little!”","- Немного, немного, немного, немного, немного! »","„Ein wenig, ein wenig, ein wenig, ein wenig, ein
+wenig! „"
 00001354,75,"「もちろん。このシャッターチャンスを
-　逃したら、フォト部部員の名折れです」","","",""
-000013fc,24,"「もう…仕方ないわねぇ」","","",""
+　逃したら、フォト部部員の名折れです」","Of course. If you miss thisシャッター opportunity,
+it is the name of the photo crew.","- Конечно. Если вы пропустили эту спектакль, то
+это название фото экипажа.","Natürlich. Wenn Sie diese Gelegenheit
+verpassen, ist es der Name der Fotocrew."
+000013fc,24,"「もう…仕方ないわねぇ」","Oh… I don't have to do it!","«О… Мне это не надо!»","Oh… ich muss es nicht tun!"
 000014ac,61,"「は、早く撮ってよ。
-　うちのクラスの子たちが来るでしょう？」","","",""
-000016d8,20,"（撮るまでもないな）","","",""
+　うちのクラスの子たちが来るでしょう？」","“I’m taking it soon.” What are the children of
+our class?","- Я уже скоро это принимаю. Каковы дети нашего
+класса?","„Ich nehme es bald.“ Was sind die Kinder unserer
+Klasse?"
+000016d8,20,"（撮るまでもないな）","(It is not until you take it)","(Это не до тех пор, пока вы не принимаете его)","(Es ist nicht, bis du es nimmst)"
 00001750,45,"「恥ずかしいから行くわよ。
-　じゃあ、またね」","","",""
-000017ec,18,"「水泳がんばって」","","",""
-00001850,14,"「ありがとう」","","",""
+　じゃあ、またね」","I'm so embarrassed. 」","Я так смущен. 」","Ich bin so peinlich. !"
+000017ec,18,"「水泳がんばって」","Swimming","Свиминг","Swimming"
+00001850,14,"「ありがとう」","Thank you","Спасибо","Danke."

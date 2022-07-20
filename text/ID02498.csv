@@ -1,30 +1,51 @@
 00000138,61,"「はぁ…喜多川先生に居残りさせられて、
-　すっかり出遅れたぞ」","","",""
-000001a4,42,"「Ａランチはもう売り切れか。Ｂランチは…」","","",""
-000002e4,26,"「\p01君、これから昼食？」","","",""
-0000036c,36,"「そうですけど、室戸先輩もですか？」","","",""
+　すっかり出遅れたぞ」","
+Hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh","
+hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh","Was ist denn?"
+000001a4,42,"「Ａランチはもう売り切れか。Ｂランチは…」","“A lunch is sold out!” B Lunch","«Обед продается!» B Обед","„Ein Mittagessen ist ausverkauft!“ B Mittagessen"
+0000036c,36,"「そうですけど、室戸先輩もですか？」","“Is it, but do you have seniors?”","- Это, но у вас есть пожилые люди? »","„Ist es, aber hast du Senioren? „"
 000003f0,51,"「ええ。生徒会の仕事をしてたら
-　遅くなっちゃって」","","",""
+　遅くなっちゃって」","Home When I work for a student group, I will be
+late.","Home Когда Я работаю для студенческой группы, я
+опоздаю.","Home Wann Ich arbeite für eine Studentengruppe,
+ich bin spät dran."
 000004b0,51,"「いつもはかつみと食べるんだけど、
-　今日は１人ね」","","",""
-000005d0,30,"「俺が一緒してもいいですか？」","","",""
-0000063c,22,"「本当？　うれしいわ」","","",""
+　今日は１人ね」","“I’m always eating wigs, but I’m one person
+today.”","«Я всегда есть парики, но я один человек сегодня.
+»","„Ich esse immer Perücken, aber ich bin heute eine
+Person. „"
+000005d0,30,"「俺が一緒してもいいですか？」","“Can I do it with me?”","- Могу ли я сделать это со мной? »","„Kann ich es mit mir machen? „"
+0000063c,22,"「本当？　うれしいわ」","True?","- Правда?","True?"
 000006f8,94,"「１人で食べる昼食は味気ないし、
 　誰か一緒に食べてくれる人が
-　いないかなって、思ってたのよ」","","",""
+　いないかなって、思ってたのよ」","“I don’t like eating lunch with one person, but I
+thought there were no people who eat together.”","«Я не люблю есть обед с одним человеком, но я
+думал, что нет людей, которые едят вместе. »","“Ich mag es nicht, mit einer Person Mittagessen
+zu essen, aber ich dachte, es gäbe keine Menschen,
+die zusammen essen. „"
 000007e8,79,"「けど、私って普段、厳しく接してるから、
-　なかなか気の置けない人が増えなくて」","","",""
-000008cc,30,"「俺に遠慮することないですよ」","","",""
-00000948,14,"「ありがとう」","","",""
-000009d4,34,"「じゃあ、一緒に食べましょうか？」","","",""
-00000a24,8,"「ええ」","","",""
+　なかなか気の置けない人が増えなくて」","“But I usually have a strict  , so I don’t have
+more people who don’t care about it.”","«Но у меня обычно есть строгий, поэтому у меня
+нет больше людей, которые не заботятся об этом. »","“Aber ich habe normalerweise eine strenge, so
+habe ich nicht mehr Menschen, die sich darum
+kümmern. „"
+000008cc,30,"「俺に遠慮することないですよ」","“I don’t want to stop me.”","«Я не хочу останавливать меня. »","„Ich will mich nicht aufhalten. „"
+00000948,14,"「ありがとう」","Thank you","Спасибо","Danke."
+000009d4,34,"「じゃあ、一緒に食べましょうか？」","Let’s eat together?","Давайте едим вместе?","Essen wir zusammen?"
+00000a24,8,"「ええ」","」","」","!"
 00000ab8,49,"「今日の日替わりは……残念、
-　Ａはもうないのね」","","",""
+　Ａはもうないのね」","It is today's day change… I'm sorry, I don't
+have anymore.","Это сегодня изменение дня… Извините, у меня
+больше нет.","Es ist die heutige Tagesänderung… Es tut mir
+leid, ich habe nicht mehr."
 00000bbc,77,"「こういうのって、売れ残ってるＢより、
-　Ａの方がおいしそうに思えるのよねぇ」","","",""
-00000cd4,22,"「ははは、そうですね」","","",""
-00000d5c,40,"こうして、室戸先輩と一緒に昼食を取った。","","",""
-00000dc4,34,"「１人で食べるのもいいもんですよ」","","",""
-00000e44,38,"「フフッ、そうね。たまにはいいわよね」","","",""
-00000efc,18,"「じゃあ、またね」","","",""
-00000f3c,14,"「ええ、また」","","",""
+　Ａの方がおいしそうに思えるのよねぇ」","“I think that A seems to be more delicious than B
+that sells.”","«Я думаю, что кажется более вкусным, чем B,
+который продает. »","„Ich glaube, A scheint köstlicher zu sein als B,
+das verkauft. „"
+00000cd4,22,"「ははは、そうですね」","It's right.","- Это правильно.","Es ist richtig."
+00000d5c,40,"こうして、室戸先輩と一緒に昼食を取った。","I had lunch with my seniors.","Я обедал со своими старшими.","Ich hatte Mittagessen mit meinen Senioren."
+00000dc4,34,"「１人で食べるのもいいもんですよ」","“I love eating alone.”","«Я люблю есть в одиночку. »","„Ich liebe es allein zu essen. „"
+00000e44,38,"「フフッ、そうね。たまにはいいわよね」","“I’m sorry. It’s nice to have it.","— Прости. Это приятно иметь его.","„Es tut mir leid. Es ist schön, es zu haben."
+00000efc,18,"「じゃあ、またね」","Yeah, again","Да, опять","Ja, wieder"
+00000f3c,14,"「ええ、また」","」","」","!"

@@ -1,74 +1,144 @@
 00000264,71,"「はぁ…まったく。誰か知らないけど、
-　使ったら使いっぱなしなんだから」","","",""
-0000031c,34,"「室戸先輩、何やってるんですか？」","","",""
-000003b4,14,"「あ、\p01君」","","",""
-000004b8,28,"「白線引きを片付けてるのよ」","","",""
+　使ったら使いっぱなしなんだから」","。 I don’t know someone, but I don’t use it if I
+use it.","。 Я не знаю кого-то, но я не использую его, если
+я его использую.","。 Ich kenne niemanden, aber ich benutze es nicht,
+wenn ich es benutze."
+0000031c,34,"「室戸先輩、何やってるんですか？」","“What are you doing?”","— Что ты делаешь? »","„Was machst du da? „"
+000004b8,28,"「白線引きを片付けてるのよ」","I can clean up the white line","«Я могу очистить белую линию»","Ich kann die weiße Linie aufräumen"
 00000544,69,"「誰が使ったか知らないけど、
-　出しっぱなしにしちゃう人がいるのよね」","","",""
+　出しっぱなしにしちゃう人がいるのよね」","“I don’t know who to use it, but there are people
+who want to get out of it.”","«Я не знаю, кто его использовать, но есть люди,
+которые хотят выйти из него. »","„Ich weiß nicht, wer es benutzen soll, aber es
+gibt Menschen, die aus ihm herauskommen wollen. „"
 00000644,82,"「使ったあとは、ちゃんと体育倉庫に
 　片付けておかないと、
-　次に使う人が困るのに」","","",""
+　次に使う人が困るのに」","After using it, if you don't clean up your
+physical and physical education warehouse, then
+the next person will be troubled.","После его использования, если вы не очистите свой
+физический и физический склад образования, то
+следующий человек будет неприятно.","Nach der Verwendung, wenn Sie Ihr physisches und
+physisches Bildungslager nicht aufräumen, wird die
+nächste Person beunruhigt."
 0000071c,53,"「それは…そうですけど、
-　室戸先輩が片付けなくても」","","",""
+　室戸先輩が片付けなくても」","“It’s right, but it doesn’t have to be cleaned up
+by my seniors.”","«Это правильно, но не нужно очищать пожилым
+людям. »","“Es ist richtig, aber es muss nicht von meinen
+Senioren gereinigt werden. „"
 000007dc,76,"「誰しもそうなのよね。
 　自分がやらなくても…って、
-　どうしても思っちゃう」","","",""
+　どうしても思っちゃう」","“Who is it?” I don't have to do it… I'm
+thinking about it.","- Кто это? Мне не нужно делать это… Я думаю об
+этом.","„Wer ist es?“ Ich muss es nicht tun… Ich denke
+darüber nach."
 000008ec,57,"「けど、私は生徒会長だから、
-　何事も率先してやらないと」","","",""
-00000994,20,"「俺が片付けますよ」","","",""
+　何事も率先してやらないと」","“But I’m a student president, so I don’t do
+anything.”","«Но я студенческий президент, поэтому я ничего не
+делаю. »","“Aber ich bin Student Präsident, also tue ich
+nichts. „"
+00000994,20,"「俺が片付けますよ」","I'll clean up.","- Я умру.","Ich werde aufräumen."
 000009f8,71,"「室戸先輩は全国模擬試験が近いんだから、
-　勉強に専念した方がいいです」","","",""
+　勉強に専念した方がいいです」","Muroto seniors have a close examination, so it is
+better to concentrate on studying.","«Старшие у Мурото есть тесная экспертиза, поэтому
+лучше концентрироваться на обучении».","Muroto Senioren haben eine enge Prüfung, so ist
+es besser, sich auf das Studium zu konzentrieren."
 00000ab8,98,"「ありがとう。…けど、いいのよ。
 　ついでに散らかり放題の、
-　体育倉庫も片付けようと思ってたから」","","",""
+　体育倉庫も片付けようと思ってたから」","Thank you. … but it's good. I thought that
+all-you-can-drink all-you-can-drink, sports
+warehouses are also cleaned up.","Спасибо. … но это хорошо. Я думал, что
+все-you-can-drink all-you-can-drink, спортивные
+склады также очищены.","Danke. … aber es ist gut. Ich dachte, dass
+all-you-can-drink all-you-can-drink, Sportlager
+werden auch gereinigt."
 00000b98,79,"「なら、それもやっておきます。だから、
-　気にせず、全国模試に集中してください」","","",""
-00000c44,22,"「\p01君……いいの？」","","",""
-00000c7c,12,"「もちろん」","","",""
-00000cf0,36,"「ありがとう。…じゃあ、甘えるわね」","","",""
+　気にせず、全国模試に集中してください」","If I do it, I will do it. So, don’t worry, focus
+on the national simulator.”","Если я это сделаю, я это сделаю. Итак, не
+волнуйтесь, фокусируйтесь на национальном
+симуляторе. »","Wenn ich es tue, werde ich es tun. Also, keine
+Sorge, Fokus auf den nationalen Simulator. „"
+00000c7c,12,"「もちろん」","Of course","Конечно","Natürlich"
+00000cf0,36,"「ありがとう。…じゃあ、甘えるわね」","Thank you. …I'm so sweet.","Спасибо. …Я такой сладкий.","Danke. Ich bin so süß."
 00000dd4,47,"「何かあったら声をかけて。
-　図書室にいるから」","","",""
-00000e30,8,"「はい」","","",""
-00000ec4,22,"「じゃあ、よろしくね」","","",""
-00000fd8,22,"「…さて、片付けるか」","","",""
+　図書室にいるから」","If you have any questions, please contact us.
+Library","Если у вас возникли вопросы, свяжитесь с нами.
+Библиотека","Wenn Sie Fragen haben, kontaktieren Sie uns
+bitte. Bibliothek"
+00000e30,8,"「はい」","Yes","Да","Ja"
+00000ec4,22,"「じゃあ、よろしくね」","Yes, thank you!","- Да, спасибо!","Ja, danke!"
+00000fd8,22,"「…さて、片付けるか」","…Well, you can clean up?","-- Ну, ты можешь очистить?","…Nun kannst du aufräumen?"
 0000101c,57,"「あ～っ、だっつん！
-　白線引き、持ってっちゃダメ～ッ！」","","",""
-000011e4,14,"「あ、ののか」","","",""
+　白線引き、持ってっちゃダメ～ッ！」","Oh, it's it! I'm going to have a white line!","О, это! Я собираюсь иметь белую линию!","Oh, das ist es! Ich werde eine weiße Linie haben!"
+000011e4,14,"「あ、ののか」","」","」","!"
 00001258,92,"「やっと見つけたよぉ、
 　ずいぶん探したんだからぁ。
-　まさか、だっつんが持ってるなんてねぇ」","","",""
-00001340,32,"「そっか、こいつを探してたのか」","","",""
+　まさか、だっつんが持ってるなんてねぇ」","I finally found it, because I was looking for
+it. Well, you can have it!","- Я наконец нашел его, потому что я искал его.
+Ну, у тебя есть!","Ich fand es endlich, weil ich danach suchte. Du
+kannst es haben!"
+00001340,32,"「そっか、こいつを探してたのか」","“Who did you look for this?”","«Кто ты искал это? »","„Wer haben Sie danach gesucht? „"
 000013c0,81,"「うん。いっつも体育倉庫になくてねぇ。
-　みんな使ったら使いっぱなしなんだよなぁ」","","",""
+　みんな使ったら使いっぱなしなんだよなぁ」","。 I'm not a physical warehouse. It’s not easy to
+use if everyone uses it.","。 Я не физический склад. Это не легко
+использовать, если каждый использует его.","Ich bin kein physisches Lager. Es ist nicht
+einfach zu bedienen, wenn jeder es verwendet."
 000014d4,83,"「じゃあ、ここに置きっぱなしにしてたのは、
-　ソフトボール部じゃないってことだな？」","","",""
+　ソフトボール部じゃないってことだな？」","“I’m not a softball club that I left here?”","«Я не софтбол-клуб, который я оставил здесь? »","„Ich bin kein Softball-Club, den ich hier
+gelassen habe? „"
 00001578,59,"「うちはそんなことしないよぉ。
-　必ず、体育倉庫に戻してる」","","",""
-00001620,32,"「どこの部が戻してないんだよ？」","","",""
-000016ac,24,"「う～ん……わかんない」","","",""
+　必ず、体育倉庫に戻してる」","“I don’t do that.” I'm always back to a physical
+warehouse.","- Я это не делаю. Я всегда вернусь на физический
+склад.","„Das tue ich nicht.“ Ich bin immer wieder in ein
+physisches Lager."
+00001620,32,"「どこの部が戻してないんだよ？」","“Where is the part returned?”","— Где возвращается часть? »","„Wo ist der Teil zurückgekehrt? „"
+000016ac,24,"「う～ん……わかんない」","……","………","…"
 00001750,104,"「ただ、体育倉庫って、
 　ゴチャゴチャしてるから、適当でいいやって
-　気持ちになるのは、わかんなくもない」","","",""
+　気持ちになるのは、わかんなくもない」","“I’m just a physical education warehouse, so I
+don’t have to worry about doing it right and
+good.”","«Я просто физический склад образования, поэтому
+мне не нужно беспокоиться о том, чтобы сделать это
+правильно и хорошо. »","„Ich bin nur ein physisches Bildungslager, also
+muss ich mich nicht darum kümmern, es richtig und
+gut zu tun. „"
 00001870,61,"「その通りだな。よし、これから
-　片付けるから、お前も手伝え」","","",""
-0000190c,38,"「え～っ、そんなぁ！　面倒くさいよぉ」","","",""
+　片付けるから、お前も手伝え」","“It’s right.” So, from now on, I'll be able to
+tell you even before.","«Это правильно». Так что, отныне, я смогу сказать
+тебе еще раньше».","„Es ist richtig.“ Von nun an kann ich es dir noch
+sagen."
+0000190c,38,"「え～っ、そんなぁ！　面倒くさいよぉ」","Yes, it's like it! It's troublesome!","- Да, это так! Это неприятно!","Ja, es ist so! Es ist beunruhigend!"
 000019d4,69,"「一番、体育倉庫を使ってるのは運動部だろ？
-　面倒くさがってる場合か」","","",""
-00001a74,34,"「それはそうだけど、なんで私が…」","","",""
+　面倒くさがってる場合か」","“Is it the most important part of exercise using
+a physical warehouse? If you are troublesome?”","«Это самая важная часть упражнений с помощью
+физического склада? Если вам неприятно? »","„Ist es der wichtigste Teil der Übung mit einem
+physischen Lager? Wenn du Ärger hast? „"
+00001a74,34,"「それはそうだけど、なんで私が…」","It's so, but I'm…","«Это так, но я…»","Es ist so, aber ich bin…"
 00001ae8,61,"「そうやって、誰かがやってくれるって考えが
-　よくないんだ！」","","",""
-00001b84,42,"「おお～、だっつんが正論を。かっこいい～」","","",""
-00001c34,40,"「まぁ、室戸先輩の受け売りなんだけどな」","","",""
+　よくないんだ！」","“I don’t think that someone will do it!”","“Я не думаю, что кто-то сделает это! »","„Ich glaube nicht, dass jemand es tun wird! „"
+00001b84,42,"「おお～、だっつんが正論を。かっこいい～」","“Oh, I’m just talking about it.”","«О, я просто говорю об этом. »","„Oh, ich rede nur darüber. „"
+00001c34,40,"「まぁ、室戸先輩の受け売りなんだけどな」","“Well, I don’t sell my seniors.”","«Ну, я не продаю своих пожилых людей. »","„Nun, ich verkaufe meine Senioren nicht. „"
 00001cbc,63,"「なんだ、そっか。けど、言われたことを
-　実践するのって偉いね」","","",""
+　実践するのって偉いね」","“What’s it?” But it is great to practice what I
+said.","- Что это? Но это здорово, чтобы практиковать то,
+что я сказал.","„Was ist das?“ Aber es ist toll zu üben, was ich
+gesagt habe."
 00001d70,92,"「そんなわけで、手伝え。
 　２人で片付ければすぐに終わるし、
-　白線引きも見つけやすくなるぞ」","","",""
+　白線引きも見つけやすくなるぞ」","“T。’s why it’s done.” If two people are cleaned
+up, they will finish immediately and the white
+line will be easier to find.","«Т. Почему это делается». Если два человека
+очищены, они закончатся немедленно, и белая линия
+будет легче найти.","“T。 ist, warum es getan ist.” Wenn zwei Menschen
+gereinigt werden, werden sie sofort fertig und die
+weiße Linie wird leichter zu finden sein."
 00001e04,49,"「よ～し、じゃあやろっか！
-　一緒に片付けるよ！」","","",""
-00001eb0,18,"「そうこなきゃな」","","",""
-00001f3c,38,"「いいことしたあとは、気持ちいいねぇ」","","",""
-00001f84,30,"「早っ！　まだやってないぞ！」","","",""
-00001fd0,28,"「あはは、気分だけ先行で～」","","",""
-0000201c,10,"「ったく」","","",""
-00002068,44,"こうして、ののかと一緒に体育倉庫を片付けた。","","",""
+　一緒に片付けるよ！」","Yes, it's so cool! Let's clean up together!","- Да, это так круто! Давайте очистим вместе!","Ja, es ist so cool! Lasst uns gemeinsam
+aufräumen!"
+00001eb0,18,"「そうこなきゃな」","“I have to do it”","«Я должен это сделать»","„Ich muss es tun“"
+00001f3c,38,"「いいことしたあとは、気持ちいいねぇ」","After you have done it, feel like it!","После того, как вы это сделали, почувствуйте
+себя!","Nachdem du es getan hast, fühle dich wie es!"
+00001f84,30,"「早っ！　まだやってないぞ！」","I'm not doing it!","«Я не делаю этого!»","Ich mache es nicht!"
+00001fd0,28,"「あはは、気分だけ先行で～」","“Aha is just a precedent”","“Aha - это только прецедент”","„Aha ist nur ein Präzedenzfall“"
+0000201c,10,"「ったく」","」","」","!"
+00002068,44,"こうして、ののかと一緒に体育倉庫を片付けた。","Then, I cleaned up a physical warehouse with the
+heel.","Затем я очистить физический склад с каблуком.","Dann habe ich ein physisches Lager mit der Ferse
+gereinigt."

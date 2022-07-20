@@ -1,236 +1,377 @@
 00000198,63,"（さ～て、そろそろ家を出ないと、
-　待ち合わせの時間に遅れるぞ）","","",""
+　待ち合わせの時間に遅れるぞ）","Sorry, this entry is only available in Japanese.","Извините, этот техт доступен только в “Японский”.","Leider ist dieser Eintrag nur auf Japanisch
+verfügbar."
 00000204,102,"（つきあい始めてから、初めてのデートで、
 　いきなり遅刻してる場合じゃない。
-　今日は盛り上げないとな）","","",""
-000004ac,22,"「あ、もう来てたんだ」","","",""
-0000058c,8,"「あ…」","","",""
-000006b4,30,"「ううん、私も今来たところよ」","","",""
-0000073c,20,"「そっか、よかった」","","",""
+　今日は盛り上げないとな）","Sorry, this entry is only available in 日本語.
+Sorry, this entry is only available in 日本語.","Извините, этот техт доступен только в “日本語”.
+Извините, этот техт доступен только в “日本語”.","Leider ist dieser Eintrag nur in 日本語 verfügbar.
+Leider ist dieser Eintrag nur in 日本語 verfügbar."
+000004ac,22,"「あ、もう来てたんだ」","“Oh, I’ve come again!”","«О, я снова пришел!»","„Oh, ich bin wieder gekommen!“"
+0000058c,8,"「あ…」","」","」","!"
+000006b4,30,"「ううん、私も今来たところよ」","Yes, I'm here now.","- Да, я здесь сейчас.","Ja, ich bin jetzt hier."
+0000073c,20,"「そっか、よかった」","It was so good.","- Это было так хорошо.","Es war so gut."
 000007b0,61,"「今日はもうお昼だから、
-　おはようの投げキッスはしないわよ」","","",""
+　おはようの投げキッスはしないわよ」","“I don’t squeez the squeezing of a good morning,
+because today’s lunch is another day.”","«Я не сжимаю сжатие хорошего утра, потому что
+сегодня обед другой день. »","„Ich quetsche nicht das Quetschen eines guten
+Morgens, denn das heutige Mittagessen ist ein
+weiterer Tag. „"
 00000850,55,"「しまった…もっと早く待ち合わせておけば
-　よかったか」","","",""
-000008e4,24,"「フフッ、もう遅いわよ」","","",""
-00000990,22,"「さ、行きましょうか」","","",""
-00000bb8,28,"「よかったわ、空いてそうね」","","",""
-00000c80,36,"「プールシーズンも終わりだからなぁ」","","",""
+　よかったか」","I'm… I'm glad if I waited more quickly.","- Я… Я рад, если я ждал быстрее.","Ich bin… Ich bin froh, wenn ich schneller
+gewartet habe."
+000008e4,24,"「フフッ、もう遅いわよ」","Fフ, I'm already slow.","ФБ, я уже медленно.","Ich bin schon langsam."
+00000990,22,"「さ、行きましょうか」","Let’s go","Пойдем","Gehen wir."
+00000bb8,28,"「よかったわ、空いてそうね」","I'm glad, I'm empty.","- Я рад, я пуст.","Ich bin froh, ich bin leer."
+00000c80,36,"「プールシーズンも終わりだからなぁ」","“The pool season is over.”","«Сезон бассейна закончился. »","„Die Poolsaison ist vorbei. „"
 00000d18,47,"「来年はプールで泳ぐのもいいなぁ、
-　夏休みに」","","",""
-00000db8,24,"「あ、いいわね、約束よ」","","",""
-00000e9c,26,"「楽しかったわね、プール」","","",""
-00000ed8,36,"「来年もまた泳ぎたいなぁ、夏休みに」","","",""
-00000f68,20,"「いいわね、約束よ」","","",""
-0000117c,28,"「さ～て、何から乗ろうか…」","","",""
-000011e8,20,"「フフッ、クスクス」","","",""
-00001284,22,"「ん？　どうかした？」","","",""
-000012f8,18,"「ううん、何でも」","","",""
-000013a8,38,"「ただ、ちょっとおかしくなっちゃって」","","",""
+　夏休みに」","I love swimming in the pool next year, summer
+vacation","«Я люблю плавать в бассейне в следующем году,
+летний отдых»","Ich liebe Schwimmen im Pool im nächsten Jahr,
+Sommerurlaub"
+00000db8,24,"「あ、いいわね、約束よ」","Oh, it's good, it's promise.","О, это хорошо, это обещание.","Oh, es ist gut, es ist Versprechen."
+00000e9c,26,"「楽しかったわね、プール」","It was fun, it was a pool","Это было весело, это был бассейн","Es war lustig, es war ein Pool"
+00000ed8,36,"「来年もまた泳ぎたいなぁ、夏休みに」","I want to swim again next year, summer vacation","«Я хочу снова плавать в следующем году, летние
+каникулы»","Ich will nächstes Jahr wieder schwimmen,
+Sommerurlaub"
+00000f68,20,"「いいわね、約束よ」","I'm good, I promise.","- Я хорошо, я обещаю.","Ich bin gut, versprochen."
+0000117c,28,"「さ～て、何から乗ろうか…」","How to get from?","- Как добраться?","Wie kommt man von?"
+000011e8,20,"「フフッ、クスクス」","“F」, Kuskus”","«Ф」, Кускус»","‚F!, Kuskus‘"
+00001284,22,"「ん？　どうかした？」","What?","Что?","Was?"
+000012f8,18,"「ううん、何でも」","Yes, anything","Да, ничего","Ja, alles"
+000013a8,38,"「ただ、ちょっとおかしくなっちゃって」","“I’m just a little bit confusing.”","«Я просто немного путаю. »","„Ich bin nur ein wenig verwirrend. „"
 0000142c,82,"「私が彼と一緒に遊園地だなんて、
 　ちょっと前じゃ、
-　まるで考えられなかったから」","","",""
+　まるで考えられなかったから」","“I’m a遊園地 park with him, but I couldn’t think
+it’s just a little ahead.”","“Я с ним парк 地地和, но я не мог думать, что это
+просто немного вперед. »","„Ich bin ein schlechter Park mit ihm, aber ich
+konnte nicht denken, es ist nur ein wenig voraus.
+„"
 000014ec,92,"「それなら俺もそう。
 　夏休み、何にもなくてぼやいてたのに、
-　こうして彼女とデートだなんて」","","",""
+　こうして彼女とデートだなんて」","I'm not. Summer vacation, I'm not going to date
+with her.","- Я не. Летний отдых, я не буду свидаться с ней.","Ich bin es nicht. Sommerurlaub, ich werde nicht
+mit ihr ausgehen."
 000015b0,49,"「亜岐みたいな彼女が出来るなんて、
-　夢みたいだ」","","",""
+　夢みたいだ」","“I want to see her like a varied dream.”","«Хочу увидеть ее как разнообразную мечту. »","„Ich möchte sie wie einen abwechslungsreichen
+Traum sehen. „"
 00001648,57,"「もう…いきなりそんなことを…。
-　まだ周りは明るいわよ」","","",""
-00001770,38,"「１日は長いし、ゆっくり回りましょう」","","",""
-0000184c,46,"こうして、２人でアトラクションを回っていった。","","",""
+　まだ周りは明るいわよ」","“Oh… I’m going to do that…” I'm still bright
+around.","«О… Я собираюсь это сделать…» Я все еще яркий
+вокруг.","„Oh… ich werde das tun…“ Ich bin immer noch
+hell."
+00001770,38,"「１日は長いし、ゆっくり回りましょう」","One day is long, let's go slowly.","Один день длинный, пойдем медленно.","Ein Tag ist lang, gehen wir langsam."
+0000184c,46,"こうして、２人でアトラクションを回っていった。","Let’s go around the attractions with two people.","Пойдем вокруг достопримечательностей с двумя
+людьми.","Gehen wir mit zwei Leuten um die Attraktionen."
 00001a50,106,"「ん～っ、楽しかったわぁ。
 　ジェットコースターで思いっきり叫んだし、
-　勉強のストレスが吹っ飛んだみたい」","","",""
-00001bbc,14,"「よかった…」","","",""
-00001c28,28,"「そろそろ帰りましょうか？」","","",""
+　勉強のストレスが吹っ飛んだみたい」","It was fun. I screamed in a jet coaster, and the
+stress of studying is blown away.","Это было весело. Я кричал в струйном побережье, и
+стресс исследования выдушен.","Es war lustig. Ich schrie in einer Jet-Küste, und
+der Stress des Studiums ist weggeblasen."
+00001bbc,14,"「よかった…」","」","」","!"
+00001c28,28,"「そろそろ帰りましょうか？」","“Let’s go home?”","- Поехали домой? »","„Wir gehen nach Hause? „"
 00001c68,53,"「いや、まだ大事なアトラクションに
-　行ってないから」","","",""
-00001cfc,18,"「そう？　どこ？」","","",""
-00001de0,36,"「ついてくればわかるよ。ほらこっち」","","",""
-00001e78,18,"「あ、ちょっと…」","","",""
-00001fcc,30,"「これこれ、ここに行かないと」","","",""
+　行ってないから」","“Now, I’m not going to a fair .”","“Теперь я не собираюсь на ярмарку.”","„Jetzt gehe ich nicht zur Messe.“"
+00001cfc,18,"「そう？　どこ？」","“Where?”","— Где? »","„Wo? „"
+00001de0,36,"「ついてくればわかるよ。ほらこっち」","“You can understand it if you follow it.” Home","«Вы можете понять это, если вы следите за ним».
+Начало","“Sie können es verstehen, wenn Sie es folgen.”
+Home"
+00001e78,18,"「あ、ちょっと…」","“Oh, it’s a little…”","«О, это немного… »","„Oh, es ist ein wenig… „"
+00001fcc,30,"「これこれ、ここに行かないと」","This is not done here","Это здесь не сделано","Dies ist hier nicht getan"
 000020a4,59,"「『地獄のゾンビハウス』…って、
-　ホラーハウスじゃない！」","","",""
-00002190,16,"「そうだけど？」","","",""
-00002208,40,"「嫌よ！　こんな所、絶対入らないわよ！」","","",""
+　ホラーハウスじゃない！」","“It’s not a horror house”","«Это не ужасный дом»","„Es ist kein Horrorhaus“"
+00002190,16,"「そうだけど？」","“Well, right?”","— Ну, правда? »","„Nun, richtig? „"
+00002208,40,"「嫌よ！　こんな所、絶対入らないわよ！」","I don't like it!","- Мне это не нравится!","Ich mag es nicht!"
 000022bc,55,"「あれ？　怖いの？
-　ゾンビなんてありもしないものを？」","","",""
-0000235c,8,"「えっ」","","",""
+　ゾンビなんてありもしないものを？」","“Well? Is it scary? What is z e?”","— Ну что? Это страшно? Что такое z e?»","„Nun? Ist es beängstigend? Was ist z e?“"
+0000235c,8,"「えっ」","」","」","!"
 00002394,74,"「亜岐ほど聡明な人が、
 　ゾンビとか幽霊なんて、
-　まさか信じてないよね？」","","",""
-0000242c,42,"「し、信じてないわよ！　当たり前じゃない」","","",""
+　まさか信じてないよね？」","“I don’t believe that z es and ghosts are so
+suspicious about others.”","«Я не верю, что z es и призраков так
+подозрительно о других. »","“Ich glaube nicht, dass z es und Geister sind so
+verdächtig über andere. „"
+0000242c,42,"「し、信じてないわよ！　当たり前じゃない」","“I don’t believe it! It’s natural.”","- Я не верю! Это естественно. »","„Ich glaube es nicht! Es ist natürlich. „"
 000024f4,71,"「じゃあ、入れるんじゃない？
-　信じてないものを怖がったりしないよね？」","","",""
-00002588,8,"「う…」","","",""
+　信じてないものを怖がったりしないよね？」","“Well, don’t you put it? Don’t you be afraid of
+something you don’t believe?”","— Ну, ты не ставишь? Вы не боитесь чего-то, что
+не верите? »","„Nun, setzen Sie es nicht? Haben Sie keine Angst
+vor etwas, das Sie nicht glauben? „"
+00002588,8,"「う…」","」","」","!"
 0000260c,88,"「そ、そうね、ゾンビなんて非科学的なもの、
 　怖がるわけないじゃない。
-　さ、行きましょ」","","",""
-00002800,32,"（フッフッフッ、うまくいったぞ）","","",""
+　さ、行きましょ」","“Now, z es are non-scientific, not scary. Home","«Сейчас, z es ненаучно, не страшно. Начало","„Jetzt sind z es nicht-wissenschaftlich, nicht
+beängstigend. Home"
+00002800,32,"（フッフッフッ、うまくいったぞ）","(Fuffフ, it's fine)","(Фуфб, это хорошо)","(Fuff bequem, es ist gut)"
 000028d4,47,"「うぅ……何だか、うまく乗せられた
-　気がする」","","",""
+　気がする」","“Oh… I feel that I got on it well.”","«О… Я чувствую, что я получил на нем хорошо. »","„Oh… ich fühle, dass ich gut drauf bin. „"
 00002a0c,49,"「嫌な音楽ねぇ、
-　いかにも何かが出そうじゃない」","","",""
-00002a6c,20,"「あれ？　怖いの？」","","",""
+　いかにも何かが出そうじゃない」","“I don’t like music, but I don’t have anything.”","«Я не люблю музыку, но у меня нет ничего. »","„Ich mag keine Musik, aber ich habe nichts. „"
+00002a6c,20,"「あれ？　怖いの？」","“Well? Is it scary?”","— Ну что? Это страшно? »","„Nun? Ist es beängstigend? „"
 00002aa4,55,"「こ、怖くないわよ！
-　一般論を言ったまでよ、一般論を」","","",""
-00002b08,10,"「ははは」","","",""
-00002b50,28,"「お、扉がある。開けるよ？」","","",""
-00002b9c,16,"「い、いいわよ」","","",""
-00002c4c,40,"「ウォオオオオオオォオオオオオオオン！」","","",""
-00002cac,16,"「うわああっ！」","","",""
-00002cec,20,"「きゃああああっ！」","","",""
-00002d74,42,"「いやっ！　来ないでぇ！　いやあああぁ！」","","",""
+　一般論を言ったまでよ、一般論を」","I'm not scared! I'm not afraid of the general
+theory until I said the general theory.","- Я не боюсь! Я не боюсь общей теории, пока я не
+сказал общую теорию».","Ich habe keine Angst! Ich habe keine Angst vor
+der allgemeinen Theorie, bis ich die allgemeine
+Theorie sagte."
+00002b08,10,"「ははは」","」","」","!"
+00002b50,28,"「お、扉がある。開けるよ？」","There is a door. How to open?","Есть дверь. Как открыть?","Es gibt eine Tür. Wie zu öffnen?"
+00002b9c,16,"「い、いいわよ」","“I’m good.”","«Я хорошо. »","„Ich bin gut. „"
+00002c4c,40,"「ウォオオオオオオォオオオオオオオン！」","“Wooooooooooooooooooooon!”","“Wooooooooooooooooooooooon!”","„Wooooooooooooooooooooooon!“"
+00002cac,16,"「うわああっ！」","っ","ФУТБОЛ",","
+00002cec,20,"「きゃああああっ！」","っ","ФУТБОЛ",","
+00002d74,42,"「いやっ！　来ないでぇ！　いやあああぁ！」","No! Don't come!","Нет! Не приходите!","Nein! Komm nicht!"
 00002dcc,65,"「そ、そんなにしがみつかれたら動けな…。
-　大丈夫、中は人だから」","","",""
+　大丈夫、中は人だから」","“I can’t move if I see it. It’s okay, because
+it’s a person inside it.”","«Я не могу двигаться, если вижу это. Это
+нормально, потому что это человек внутри него. »","„Ich kann mich nicht bewegen, wenn ich es sehe.
+Es ist okay, denn es ist eine Person darin. „"
 00002e38,57,"「それでも怖いのぉ！
-　無理！　無理よ！　こんなところ！」","","",""
-00002ea0,26,"「そんなに怖がるなんて…」","","",""
+　無理！　無理よ！　こんなところ！」","I'm still scary! I can't! I can't do it!","- Я все еще страшен! Я не могу! Я не могу это
+сделать!","Ich bin immer noch beängstigend! Ich kann nicht!
+Ich kann es nicht!"
+00002ea0,26,"「そんなに怖がるなんて…」","“It’s so scary…”","«Это так страшно…»","„Es ist so beängstigend…“"
 00002f00,72,"「うぅ…本当は苦手なの。
 　暗がりも、ゾンビも、
-　みんな怖いんだから！」","","",""
-00003008,24,"「うぅ……いやあぁ……」","","",""
+　みんな怖いんだから！」","“Oh… I’m not good at it. Darkness, Z e,
+Everyone is scared!","«О… Я не хорошо на нем. Темнота, Z e, Все
+страшно!","Oh… Ich bin nicht gut darin. Dunkelheit, Z e,
+Jeder hat Angst!"
+00003008,24,"「うぅ……いやあぁ……」","
+Uhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh…hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh","
+hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh","Was ist los?"
 0000308c,71,"（ちょっと悪ふざけが過ぎたか。
-　冷静な先輩が、こんなに取り乱すとは…）","","",""
+　冷静な先輩が、こんなに取り乱すとは…）","Sorry, this entry is only available in 日本語. It’s
+a quiet senior, but it’s like this…)","Извините, этот техт доступен только в “日本語”. Это
+тихий старший, но это так…)","Leider ist dieser Eintrag nur in 日本語 verfügbar.
+Es ist ein ruhiger Senior, aber es ist wie
+diese…)"
 000030f4,57,"「入口に戻ろう！　入ったばかりだから、
-　すぐ出られるよ」","","",""
-00003190,16,"「ええ、お願い」","","",""
-000032e0,24,"タッタッタッタッタッタッ","","",""
-00002c4c,40,"「ウォオオオオオオォオオオオオオオン！」","","",""
-000034c4,16,"「はぁ…はぁ…」","","",""
-000034f8,22,"「はぁ…はぁ…ふぅ…」","","",""
-0000353c,36,"「亜岐って、意外と恐がりなんだなぁ」","","",""
+　すぐ出られるよ」","Let's go back to the entrance! I just entered, so
+I can go out soon.","«Вернуться к входу! Я только что вошел, так что я
+могу скоро выйти».","Wir gehen zurück zum Eingang! Ich bin gerade
+eingetreten, damit ich bald ausgehen kann."
+00003190,16,"「ええ、お願い」","Eh, please","Eh, пожалуйста","Eh, bitte"
+000032e0,24,"タッタッタッタッタッタッ","
+Tattattattattattattattattattattattattattattattattattattattattattattattattattattattatattatattatattatattatattatattatattatattatattatattatattatattatattatattatattatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatata","
+Tattattattatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatat","Betrugsbekämpfung"
+00002c4c,40,"「ウォオオオオオオォオオオオオオオン！」","“Wooooooooooooooooooooon!”","“Wooooooooooooooooooooooon!”","„Wooooooooooooooooooooooon!“"
+000034c4,16,"「はぁ…はぁ…」","」","」","!"
+000034f8,22,"「はぁ…はぁ…ふぅ…」","
+Hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh","
+hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh","Was ist denn?"
+0000353c,36,"「亜岐って、意外と恐がりなんだなぁ」","“Aki is surprisingly a」ible.”","«Аки удивительно 」ible. »","„Aki ist überraschend ein fahrbar. „"
 000035d0,102,"「もう！　非科学的なものはかえって怖いの！
 　得体の知れないものって、
-　本能的にすごく怖いじゃない？」","","",""
-0000371c,28,"「ゾンビも幽霊も大っ嫌い！」","","",""
-000037b4,30,"「最初からそう言えばいいのに」","","",""
-00003834,38,"「それは…あなたがうまく乗せるから…」","","",""
-000038d8,22,"「そっか、俺のせいか」","","",""
-00003948,34,"「そうよ、あなたのせいなんだから」","","",""
+　本能的にすごく怖いじゃない？」","“Now! I’m afraid of non-scientific things! What I
+can’t know about the body is really scary?”","«Сейчас! Я боюсь ненаучных вещей! Что я не могу
+знать о теле действительно страшно? »","„Jetzt! Ich habe Angst vor
+nicht-wissenschaftlichen Dingen! Was ich nicht
+über den Körper wissen kann, ist wirklich
+beängstigend? „"
+0000371c,28,"「ゾンビも幽霊も大っ嫌い！」","Zっes and ghosts are too big!","Zes и призраков слишком велики!","Zinkes und Geister sind zu groß!"
+000037b4,30,"「最初からそう言えばいいのに」","I want to say that from the beginning","«Хочу сказать, что с самого начала»","Ich will das von Anfang an sagen"
+00003834,38,"「それは…あなたがうまく乗せるから…」","It's because you can get on…","Это потому, что вы можете получить на…","Es ist, weil du weitermachen kannst…"
+000038d8,22,"「そっか、俺のせいか」","“Well, my fault?”","— Ну, моя вина? »","„Nun, meine Schuld? „"
+00003948,34,"「そうよ、あなたのせいなんだから」","“Yes, you are your fault.”","— Да, ты твоя вина. »","„Ja, du bist deine Schuld. „"
 00003a3c,59,"「ごめん。ちょっと、その辺のベンチに
-　座って、休もうか？」","","",""
-00003b2c,28,"「…そうね、一休みしましょ」","","",""
+　座って、休もうか？」","。 Let’s sit and rest on the .","。 Давайте сидеть и отдыхать на .","。 Lassen Sie uns sitzen und ruhen auf der ."
+00003b2c,28,"「…そうね、一休みしましょ」","…Yes, let's take a break.","- Да, давайте побывать.","…Ja, lass uns eine Pause machen."
 00003c30,59,"「すっかり暗くなっちゃったなぁ。
-　今日一日、楽しかったね」","","",""
-00003cc4,10,"「むすっ」","","",""
-00003cf0,32,"「あれ？　まだ機嫌直ってない？」","","",""
-00003d4c,42,"「直らないわよ。あんな目に遭ったんだから」","","",""
-00003de0,12,"「そっか…」","","",""
-00003e54,38,"（まいったな、どうする？　…そうだ！）","","",""
+　今日一日、楽しかったね」","It's dark. It was fun today.","Это темно. Это было весело сегодня.","Es ist dunkel. Es hat heute Spaß gemacht."
+00003cc4,10,"「むすっ」","」","」","!"
+00003cf0,32,"「あれ？　まだ機嫌直ってない？」","“Well? Isn’t it reって?”","— Ну что? Не так ли? »","„Nun? Ist es nicht neu? „"
+00003d4c,42,"「直らないわよ。あんな目に遭ったんだから」","“I don’t have it.” I've seen it.","- У меня нет. Я видел это.","„Ich habe es nicht.“ Ich habe es gesehen."
+00003de0,12,"「そっか…」","っ","ФУТБОЛ",","
+00003e54,38,"（まいったな、どうする？　…そうだ！）","(What do you do?)","(Что вы делаете?)","(Was machst du?)"
 00003e9c,57,"「じゃあ、埋め合わせに
-　ロマンチックなとこへ行こうか？」","","",""
-00003f48,24,"「ロマンチックなとこ？」","","",""
-00003fc4,40,"「そう、遊園地の定番。気に入ると思うよ」","","",""
+　ロマンチックなとこへ行こうか？」","“So, let’s go to a romantic meeting?”","— Итак, пойдем на романтическую встречу? »","„So, gehen wir zu einem romantischen Treffen? „"
+00003f48,24,"「ロマンチックなとこ？」","Romantic","Романтика","Romantisch"
+00003fc4,40,"「そう、遊園地の定番。気に入ると思うよ」","“Yes, I’m a。 park. I like it.","“Да, я。 парк. Мне это нравится.","„Ja, ich bin a。 Park. Mir gefällt es."
 00004084,81,"「フフッ、そうよね～。せっかく来たのに、
-　観覧車に乗らないなんて、ないわよね～」","","",""
-00004104,26,"「よかった、機嫌が直って」","","",""
+　観覧車に乗らないなんて、ないわよね～」","“Happy, right?” I'm not going to ride a Ferris
+Wheel even though I came.","«Счастливо, верно?» Я не собираюсь ездить на
+Ferris Колесо, хотя я пришел.","„Happy, richtig?“ Ich werde keine Fähre fahren
+Rad, obwohl ich gekommen bin."
+00004104,26,"「よかった、機嫌が直って」","I'm glad, I'm sorry.","- Я рад, я сожалею.","Ich bin froh, es tut mir leid."
 00004208,90,"「べつに機嫌が悪かったわけじゃないわよ。
 　ちょっと、困らせちゃおっかなって
-　思っただけ」","","",""
+　思っただけ」","“I don’t have a bad mood.” I'm a little troubled,
+I just thought.","«У меня нет плохого настроения». Я немного беден,
+я просто думал.","„Ich habe keine schlechte Stimmung.“ Ich bin
+etwas beunruhigt, ich dachte nur."
 000042f4,51,"「ちょっとどころか、十分過ぎるぐらい
-　困ったって」","","",""
-00004374,14,"「反省した？」","","",""
-000043a4,10,"「すごく」","","",""
-0000440c,28,"「フフッ、なら許してあげる」","","",""
+　困ったって」","I'm a little troubled, too much.","- Я немного беден, слишком много.","Ich bin etwas beunruhigt, zu viel."
+00004374,14,"「反省した？」","“What’s wrong?”","- Что не так? »","„Was ist los? „"
+000043a4,10,"「すごく」","」","」","!"
+0000440c,28,"「フフッ、なら許してあげる」","F」, if forgive","F」, если прости","Fibel, wenn vergeben"
 000044e0,55,"「ほら、もうずいぶん高いところまで
-　上がってきたわよ」","","",""
+　上がってきたわよ」","“I’ve come up to the higher place.”","«Я приду к более высокому месту. »","„Ich bin auf den höheren Platz gekommen. „"
 000045d8,61,"「あ、見て見て！　夜景がきれい。
-　街並みがキラキラしてる～」","","",""
-000046b4,18,"「プッ、はははは」","","",""
-00004730,30,"「どうしたの？　急に笑って？」","","",""
+　街並みがキラキラしてる～」","Oh, see! The night view is beautiful. The
+streets are beautiful!","О, посмотри! Ночной вид красивый. Улицы
+прекрасны!","Oh, siehe! Die Nachtsicht ist wunderschön. Die
+Straßen sind wunderschön!"
+000046b4,18,"「プッ、はははは」","“Pu, Hahahahahahahahahaha”","«Пу, Хахахахахахахахахахахахаа»","„Pu, Hahahahahahahahahahahaha“"
+00004730,30,"「どうしたの？　急に笑って？」","“What did you do?”","— Что ты сделал? »","„Was hast du getan? „"
 00004808,79,"「観覧車に、高飛び込みに、丘の上公園。
-　亜岐は、本当に高いところが好きだなぁ」","","",""
-0000058c,8,"「あ…」","","",""
+　亜岐は、本当に高いところが好きだなぁ」","To the Ferris wheel, high jumping, hill top
+park. Aki really likes the high","Для колеса Феррис, высокий прыжок, горный
+верхний парк. Aki действительно любит высокий","Zu dem Riesenrad, Hochspringen, Bergtoppark. Aki
+mag das hohe"
+0000058c,8,"「あ…」","」","」","!"
 00004928,79,"「観覧車に、高飛び込みに、校舎裏の塀。
-　亜岐は、本当に高いところが好きだなぁ」","","",""
-0000058c,8,"「あ…」","","",""
-00004a2c,22,"「校舎裏の塀は余計よ」","","",""
-00004aac,12,"「はははは」","","",""
-00004b08,10,"「フフッ」","","",""
-00004b7c,40,"「そうね、高いところが好きよね、私って」","","",""
+　亜岐は、本当に高いところが好きだなぁ」","Fence behind the school building, with high
+jumping on the Ferris Wheel. Aki really likes the
+high","Отсутствие за зданием школы, с высоким прыжком
+на колесах Феррис. Aki действительно любит высокий","Fence hinter dem Schulgebäude, mit hohem
+Springen auf dem Ferris Wheel. Aki mag das hohe"
+0000058c,8,"「あ…」","」","」","!"
+00004a2c,22,"「校舎裏の塀は余計よ」","The fence behind the school building is extra","Забор за зданием школы является дополнительным","Der Zaun hinter dem Schulgebäude ist extra"
+00004aac,12,"「はははは」","」","」","!"
+00004b08,10,"「フフッ」","」","」","!"
+00004b7c,40,"「そうね、高いところが好きよね、私って」","Yes, I like high things, I'm.","- Да, мне нравятся высокие вещи, я.","Ja, ich mag hohe Dinge."
 00004cf8,65,"「こうして、好きな人と一緒に
-　観覧車に乗って、夜景を見つめて…」","","",""
-00004e20,14,"「幸せよ、私」","","",""
-00004e5c,10,"「亜岐…」","","",""
-00004eb0,36,"「もう暗いから、言ってもいいよね？」","","",""
-00004f24,8,"「ん？」","","",""
+　観覧車に乗って、夜景を見つめて…」","This way, with people who like to ride a Ferris
+Wheel, and look at the night view …","Этот способ, с людьми, которые любят ездить на
+колеса Феррис, и смотреть на ночной вид …","Auf diese Weise, mit Menschen, die gerne ein
+Ferris-Rad fahren, und schauen Sie sich die
+Nachtansicht an…"
+00004e20,14,"「幸せよ、私」","Happy, I","Счастливый, я","Happy, I"
+00004e5c,10,"「亜岐…」","岐","岐","岐"
+00004eb0,36,"「もう暗いから、言ってもいいよね？」","“It’s darker, so don’t you say it?”","- Это темнее, так что вы не говорите? »","„Es ist dunkler, also sagst du es nicht? „"
+00004f24,8,"「ん？」","?」","?」","?"
 00004f50,51,"「亜岐みたいな彼女が出来て…、
-　本当に夢みたいだ」","","",""
-0000058c,8,"「あ…」","","",""
-00005098,26,"「そっちへ行ってもいい？」","","",""
-000050e0,26,"「もちろん。…そばに来て」","","",""
-000051cc,8,"「……」","","",""
-00005214,28,"「ね、ひとつ聞いてもいい？」","","",""
-00005260,8,"「何？」","","",""
+　本当に夢みたいだ」","“She likes to be varied… I really want to
+dream.”","“Она любит быть разнообразными… Я очень хочу
+мечтать. »","„Sie mag abwechslungsreich sein… Ich will
+wirklich träumen. „"
+0000058c,8,"「あ…」","」","」","!"
+00005098,26,"「そっちへ行ってもいい？」","“Do you go there?”","— Ты туда идешь? »","„Machst du da hin? „"
+000050e0,26,"「もちろん。…そばに来て」","Of course. …Coming Soba","- Конечно. …Приходящие Soba","Natürlich. …Kommt Soba"
+000051cc,8,"「……」","…","…","…"
+00005214,28,"「ね、ひとつ聞いてもいい？」","“Well, do you hear one?”","— Ну, ты слышишь? »","„Nun, hörst du einen? „"
+00005260,8,"「何？」","What is ?","Что такое ?","Was ist ?"
 000052ac,100,"「私……こうして、あなたの隣に
 　座ってるだけで、ドキドキして…
-　ずっと寄り添っていたいって思うの」","","",""
+　ずっと寄り添っていたいって思うの」","“I’m so excited that I’m just sitting next to
+you… I think I’m always close to you.”","“Я так взволнован, что я просто сижу рядом с
+вами… Я думаю, что я всегда рядом с вами. »","„Ich bin so aufgeregt, dass ich nur neben dir
+sitze… Ich glaube, ich bin immer nahe bei dir. „"
 00005408,94,"「ううん、それどころか、
 　あなたのためなら何だって出来る。
-　あなたの望むことを何でもしたい」","","",""
-00005538,38,"「これって……愛してる……ってこと？」","","",""
-000055dc,8,"「え…」","","",""
+　あなたの望むことを何でもしたい」","Yes, it is, you can stop for you. Whatever you
+want","- Да, это, вы можете остановиться для вас. Все,
+что вы хотите","Ja, es ist, du kannst für dich aufhalten. Was
+immer du willst"
+00005538,38,"「これって……愛してる……ってこと？」","“I love this… what I do?”","«Я люблю это… что я делаю? »","„Ich liebe das… was ich tue? „"
+000055dc,8,"「え…」","」","」","!"
 00005640,88,"「ほ、ほら、私って理詰めの人じゃない？
 　だから、知りたいのよ。
-　この感情が、何なのか」","","",""
+　この感情が、何なのか」","“I’m not a person who is satisfactory to me. So I
+want to know. What is this feeling?","«Я не человек, который удовлетворяет мне. Так что
+я хочу знать. Что такое чувство?","„Ich bin keine Person, die mir zufrieden ist.
+Also will ich es wissen. Was ist das für ein
+Gefühl?"
 000057c4,86,"「あなたを好きになって、
 　あなたが好きになってくれて、
-　そして生まれた、この感情…」","","",""
+　そして生まれた、この感情…」","“I love you, I love you, and this feeling was
+born…”","«Я люблю тебя, люблю тебя, и это чувство
+родилась… »","„Ich liebe dich, ich liebe dich und dieses Gefühl
+wurde geboren… „"
 000058d8,55,"「私……これが、愛なんじゃないかって…、
-　そう思うの」","","",""
-00004e5c,10,"「亜岐…」","","",""
-00005a1c,24,"「あなたは、どう思う？」","","",""
+　そう思うの」","“I… I think this is a love…”","«Я… Я думаю, что это любовь… »","„Ich… Ich glaube, das ist eine Liebe… „"
+00004e5c,10,"「亜岐…」","岐","岐","岐"
+00005a1c,24,"「あなたは、どう思う？」","What do you think?","Что вы думаете?","Was denkst du?"
 00005a98,85,"（そっか…愛…か。言葉ではわかってたけど、
-　どんな感情なのか、考えたこともなかった）","","",""
+　どんな感情なのか、考えたこともなかった）","っ Sorry, this entry is only available in
+Japanese.","ФУТБОЛ Извините, этот техт доступен только в
+“Японский”.",", Leider ist dieser Eintrag nur auf Japanisch
+verfügbar."
 00005b48,96,"（大好きな女の子と、こうして一緒に
 　過ごして、見つめ合って……
-　彼女を…大切にしたいって思う）","","",""
+　彼女を…大切にしたいって思う）","(I want to spend together with my favorite girl's
+child, and see her… I want to be important)","(Я хочу провести вместе с любимым ребенком моей
+девочки, и увидеть ее… Я хочу быть важным)","(Ich möchte zusammen mit dem Kind meines
+Lieblingsmädchens verbringen und sie sehen… Ich
+will wichtig sein)"
 00005bf8,45,"（この感情が……愛なのか？
-　愛……なんだな）","","",""
+　愛……なんだな）","(Is this feeling…love? Love…)","(Это чувство…любовь? Любовь…)","(Ist das Gefühl… Liebe? Liebe…)"
 00005c74,110,"「ああ…俺も、亜岐と同じように、
 　ドキドキするし、ずっとそばにいたい。
-　亜岐のためなら何でも出来るって思う」","","",""
-00005d2c,24,"「愛……してるよ、亜岐」","","",""
-0000058c,8,"「あ…」","","",""
-00005e04,26,"「うん。私も……愛してる」","","",""
-00005e88,8,"「亜岐」","","",""
-00005ee0,12,"「\p02さん」","","",""
-00005fec,8,"「ん…」","","",""
-000060d4,36,"（亜岐……ずっと、こうしていたい…）","","",""
+　亜岐のためなら何でも出来るって思う」","“Oh… I want to do it all the time, just like a
+。. I think I can do anything because of the
+ambition.","«О… Я хочу сделать это все время, как и 。. Я
+думаю, что могу сделать что-нибудь из-за амбиции.","Oh… Ich will es die ganze Zeit tun, genau wie
+ein 。. Ich glaube, ich kann wegen des Ehrgeizs
+alles tun."
+00005d2c,24,"「愛……してるよ、亜岐」","I love you, I'm 岐","«Я люблю тебя, я »","Ich liebe dich, ich bin 岐"
+0000058c,8,"「あ…」","」","」","!"
+00005e04,26,"「うん。私も……愛してる」","。 I love you","。 Я люблю тебя","Ich liebe dich"
+00005e88,8,"「亜岐」","岐","岐","岐"
+00005fec,8,"「ん…」","」","」","!"
+000060d4,36,"（亜岐……ずっと、こうしていたい…）","(Aki … I want to do this for a long time …)","(Аки … Я хочу сделать это в течение длительного
+времени …)","(Aki… ich will das schon lange machen…)"
 00006244,67,"「今日は、とっても素敵な一日を
-　ありがとう。何もかも楽しかったわ」","","",""
-000062b4,20,"「ゾンビハウスも？」","","",""
-00006310,34,"「もちろん。二度と行かないけどね」","","",""
-00002b08,10,"「ははは」","","",""
+　ありがとう。何もかも楽しかったわ」","Today is a very nice day. It was fun.","«Сегодня очень хороший день». Это было весело.","Heute ist ein sehr schöner Tag. Es war lustig."
+000062b4,20,"「ゾンビハウスも？」","Z?」e House","З?」е Дом","Z? Haus"
+00006310,34,"「もちろん。二度と行かないけどね」","Of course. I don't go again.","- Конечно. Я не пошел снова.","Natürlich. Ich gehe nicht mehr."
+00002b08,10,"「ははは」","」","」","!"
 000063ec,63,"「それにしても、観覧車の上で
-　愛に気づくなんて、亜岐らしいよ」","","",""
+　愛に気づくなんて、亜岐らしいよ」","“It’s varied to notice love on the Ferris wheel
+even if it’s.”","«Разнообразно, чтобы заметить любовь на колесе
+Ferris, даже если это. »","„Es ist abwechslungsreich, die Liebe auf dem
+Ferris-Rad zu bemerken, auch wenn es ist. „"
 00006490,51,"「あ～っ、また私を
-　高いところが好きな子扱いして」","","",""
+　高いところが好きな子扱いして」","Oh, I also treat my child who likes high","О, я также лечит моего ребенка, который любит
+высокий","Oh, ich behandle auch mein Kind, das hoch liebt"
 00006580,72,"「私が気づいたから、
 　あなたも気づいたのよ。
-　感謝してくれなくっちゃ」","","",""
+　感謝してくれなくっちゃ」","I noticed that you were also aware of it. Thank
+you very much.","Я заметил, что вы также знали об этом. Большое
+спасибо.","Ich bemerkte, dass Sie auch davon wussten. Vielen
+Dank."
 00006650,104,"「そうだね。いつか気づいたと思うけど、
 　もうちょっと時間がかかったかな。
-　けど、今はいつでも言えるよ」","","",""
-00006720,20,"「愛してるよ、亜岐」","","",""
-00005fec,8,"「ん…」","","",""
-00006810,18,"「私も…愛してる」","","",""
-000068b8,16,"「…帰ろうか？」","","",""
-00006928,8,"「ええ」","","",""
+　けど、今はいつでも言えるよ」","“Yes, right?” I'm thinking about it, but it's a
+little time. But now I can say it at any time.","— Да, верно? Я думаю об этом, но это немного
+времени. Но теперь я могу сказать это в любое
+время.","„Ja, richtig?“ Ich denke darüber nach, aber es
+ist ein wenig Zeit. Aber jetzt kann ich es
+jederzeit sagen."
+00006720,20,"「愛してるよ、亜岐」","“I love you.”","«Я люблю тебя. »","„Ich liebe dich. „"
+00005fec,8,"「ん…」","」","」","!"
+00006810,18,"「私も…愛してる」","I love you…","«Я люблю тебя…»","Ich liebe dich…"
+000068b8,16,"「…帰ろうか？」","“…Let’s go home?”","«… Поехали домой? »","„… Gehen wir nach Hause? „"
+00006928,8,"「ええ」","」","」","!"
 000069bc,57,"「来年、泳いだあと、
-　また一緒に観覧車に乗りましょうね」","","",""
-00006b04,26,"「２人の……愛の観覧車に」","","",""
+　また一緒に観覧車に乗りましょうね」","Next year, let's swim and ride the Ferris Wheel
+together.","В следующем году, давайте плыть и ездить на
+Ferris Колесо вместе.","Im nächsten Jahr schwimmen und fahren wir die
+Ferris Lauft zusammen."
+00006b04,26,"「２人の……愛の観覧車に」","Tの people … to the viewer of love","Tの people … к зрителю любви","Die Menschen … dem Betrachter der Liebe"
 00006c3c,104,"賢くて、厳格で、何事も真面目すぎるぐらい
 真剣に取り組む亜岐。
-けど、本当は弱くて、誰よりも女の子らしい。","","",""
-00006cd4,28,"俺は、そんな彼女を愛してる。","","",""
-00006d20,48,"彼女の力になりたいし、がんばる彼女を励ましたい。","","",""
+けど、本当は弱くて、誰よりも女の子らしい。","Aiki which is wise, orous, and is too serious.
+However, it seems to be weaker than anyone.","Айки, которые мудры, порядочны, и слишком
+серьезны. Однако это кажется слабее, чем
+кто-нибудь.","Aiki, das weise, mündlich und zu ernst ist. Es
+scheint jedoch schwächer zu sein als jeder."
+00006cd4,28,"俺は、そんな彼女を愛してる。","I love her.","Я люблю ее.","Ich liebe sie."
+00006d20,48,"彼女の力になりたいし、がんばる彼女を励ましたい。","I want to be my strength and encouraged her.","Я хочу быть моей силой и ее поощрять.","Ich will meine Stärke sein und sie ermutigt
+haben."
 00006d94,71,"いつでも、彼女のそばにいたい。
-いつでも、彼女を守りたい。大切にしたい。","","",""
+いつでも、彼女を守りたい。大切にしたい。","I want to stay with her at any time. I want to
+protect her at any time. I want to be important.","Я хочу остаться с ней в любое время. Я хочу
+защитить ее в любое время. Я хочу быть важным.","Ich will jederzeit bei ihr bleiben. Ich will sie
+jederzeit beschützen. Ich will wichtig sein."
 00006e08,67,"明日、学校でまた”愛してるよ”って告げよう。
-俺の想いの丈を込めて。","","",""
+俺の想いの丈を込めて。","Let’s say “I love you” in school tomorrow. With
+the heart of our hearts.","Скажем «Я люблю тебя» в школе завтра. С сердцем
+наших сердец.","Sagen wir morgen „Ich liebe dich“ in der Schule.
+Mit dem Herzen unserer Herzen."
 00006e78,51,"きっと、恥ずかしがるだろうな。
-そこが…すごくいい。","","",""
-00006eec,28,"俺は、室戸亜岐を愛している。","","",""
-00006f38,30,"また、新しい１週間が始まる…。","","",""
+そこが…すごくいい。","I will be embarrassed. It is very good.","Я буду смущен. Это очень хорошо.","Ich werde peinlich sein. Es ist sehr gut."
+00006eec,28,"俺は、室戸亜岐を愛している。","I love Aki Mur、.","Я люблю Aki Mur、.","Ich liebe Aki Mur、."
+00006f38,30,"また、新しい１週間が始まる…。","New week begins.","Новая неделя начинается.","Neue Woche beginnt."

@@ -1,29 +1,45 @@
-00000128,24,"（あ…本棚にいるのは…）","","",""
-000002a0,32,"「室戸先輩、何やってるんです？」","","",""
-000003f8,45,"「あ、\p01君。
-　ちょっと写真集を見てたのよ」","","",""
-00000540,30,"「写真集？　アイドルですか？」","","",""
+00000128,24,"（あ…本棚にいるのは…）","(Oh… I’m in the book shelves…)","(О… Я в книжных полках…)","(Oh… ich bin in den Buchregalen…)"
+000002a0,32,"「室戸先輩、何やってるんです？」","Muroto seniors, what do you do?","Мурото старшие, что вы делаете?","Muroto Senioren, was machst du?"
+00000540,30,"「写真集？　アイドルですか？」","Photo book? Is it idle?","Фото книга? Это просто?","Fotobuch? Ist es leer?"
 000005dc,92,"「まさか。海洋写真集よ。
 　『ブルーオーシャン』っていう、
-　南の海や、珊瑚礁を撮った写真集」","","",""
-000006c0,10,"「へ～っ」","","",""
+　南の海や、珊瑚礁を撮った写真集」","。 Ocean Photo Book “Blue Ocean” is a collection
+of photos taken by the South Sea and Coral Reefs.","。 Океан фотокнига «Голубой океан» - это коллекция
+фотографий Южного моря и коралловых рифов.","。 Ocean Photo Book “Blauer Ozean” ist eine
+Sammlung von Fotos von der Südsee und
+Korallenriffe."
+000006c0,10,"「へ～っ」","」","」","!"
 0000073c,59,"「青い海を見てると、何だか落ち着いて、
-　心が安まるのよね」","","",""
-000007e0,32,"「海は命の源って言いますからね」","","",""
-00000860,18,"「フフッ、そうね」","","",""
-000008e4,34,"「元水泳部だから、惹かれるとか？」","","",""
-00000954,22,"「ええ。海は大好きよ」","","",""
+　心が安まるのよね」","“When you look at the blue ocean, you’re calm and
+calm, and you’re safe.”","«Когда вы смотрите на голубом океане, вы спокойны
+и спокойны, и вы в безопасности. »","„Wenn Sie den blauen Ozean betrachten, sind Sie
+ruhig und ruhig, und Sie sind sicher. „"
+000007e0,32,"「海は命の源って言いますからね」","“The sea is the source of life.”","«Море – источник жизни. »","„Das Meer ist die Quelle des Lebens. „"
+00000860,18,"「フフッ、そうね」","“Fフ, so.”","«ФБ, так».","„Frucht, so.“"
+000008e4,34,"「元水泳部だから、惹かれるとか？」","“Is it attracted because it is a former swimming
+club?”","«Привлечен ли он, потому что это бывший
+плавательный клуб? »","„Ist es angezogen, weil es ein ehemaliger
+Schwimmclub ist? „"
+00000954,22,"「ええ。海は大好きよ」","Home I love the sea","Home Я люблю море","Home Ich liebe das Meer"
 000009f4,98,"「こうして、青い海を泳いでる魚や、
 　イルカ、クジラなんかを見てると、
-　自由でいいなぁって思うわ」","","",""
-00000b3c,26,"「私も…自由になれたら…」","","",""
-00000bb4,8,"「え…」","","",""
+　自由でいいなぁって思うわ」","“I think it’s free to see fish swimming in the
+blue ocean, dolphins and whales.”","«Я думаю, что это бесплатно, чтобы увидеть рыбное
+плавание в голубом океане, дельфины и киты. »","„Ich glaube, es ist frei, Fisch schwimmen im
+blauen Ozean, Delfine und Wale zu sehen. „"
+00000b3c,26,"「私も…自由になれたら…」","If I can be free …","Если я могу быть свободным …","Wenn ich frei sein kann…"
+00000bb4,8,"「え…」","」","」","!"
 00000c28,65,"「あ、何でもないのよ。
-　受験生に自由がないのは、当たり前だもの」","","",""
-00000d6c,30,"「あと半年間は、勉強、勉強よ」","","",""
-00000e14,42,"「さて、息抜きできたし、勉強に戻らなきゃ」","","",""
-00000ecc,38,"「放課後に居残って勉強か…大変ですね」","","",""
-00000f34,63,"「受験生はみんなこんなものよ。
-　\p01君も来年、覚悟することね」","","",""
-00001018,10,"「はは…」","","",""
-00001094,18,"「じゃあ、またね」","","",""
+　受験生に自由がないのは、当たり前だもの」","“I don’t have anything.” It’s natural to have no
+freedom to test students.”","- У меня нет ничего. Это естественно, чтобы не
+иметь свободы для тестирования студентов. »","„Ich habe nichts.“ Es ist natürlich, keine
+Freiheit zu haben, Studenten zu testen. „"
+00000d6c,30,"「あと半年間は、勉強、勉強よ」","I will study and study for half a year.","«Я буду учиться и учиться на полгода».","Ich werde ein halbes Jahr studieren und
+studieren."
+00000e14,42,"「さて、息抜きできたし、勉強に戻らなきゃ」","“Well, I can breathe, and I have to return to
+study.”","«Ну, я могу дышать, и я должен вернуться к учебе.
+»","„Nun, ich kann atmen, und ich muss zurück zum
+Studium. „"
+00000ecc,38,"「放課後に居残って勉強か…大変ですね」","Study left behind after school … It's hard!","Студия оставила после школы… Это трудно!","Study verließ nach der Schule… Es ist hart!"
+00001018,10,"「はは…」","」","」","!"
+00001094,18,"「じゃあ、またね」","Yeah, again","Да, опять","Ja, wieder"

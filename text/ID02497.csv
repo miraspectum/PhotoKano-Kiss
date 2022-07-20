@@ -1,108 +1,174 @@
 00000250,51,"「う～～ん、難しいわねぇ。
-　何がはまるのかしら…」","","",""
-000002b0,18,"「あ、かつみさん」","","",""
-00000334,26,"「あ、\p01君、こんにちは」","","",""
-000003e0,14,"「こんちは～」","","",""
+　何がはまるのかしら…」","Yes, it's difficult. What's going on?","- Да, это сложно. Что происходит?","Ja, es ist schwierig. Was ist los?"
+000002b0,18,"「あ、かつみさん」","」","」","!"
+000003e0,14,"「こんちは～」","」","」","!"
 00000478,55,"「パソコンで何かやってたみたいですけど、
-　何ですか？」","","",""
-00000504,30,"「ああ、クロスワードパズルよ」","","",""
+　何ですか？」","“I want to do something on my computer, what is
+it?”","«Хочу что-то сделать на моем компьютере, что это?
+»","„Ich möchte etwas auf meinem Computer tun, was
+ist es? „"
+00000504,30,"「ああ、クロスワードパズルよ」","“Oh, Crossword Puzzle”","«О, кроссворд пазл»","“Oh, Kreuzworträtsel”"
 00000550,67,"「へ～っ、珍しいですね、
-　かつみさんがクロスワードパズルだなんて」","","",""
+　かつみさんがクロスワードパズルだなんて」","“Hey, it’s rare, I’m a crossword puzzle.”","«Он, это редко, я кроссворд. »","„Hey, es ist selten, ich bin ein Kreuzworträtsel.
+„"
 000005dc,72,"「自分でもそう思うわ。
 　けど、本気にならざるを得ない
-　理由があるのよ」","","",""
-000006f8,34,"「なんと、賞品が防水コンデジなの」","","",""
-000007a0,28,"「おっ、それはいいですね～」","","",""
-00000800,40,"「でしょう？　部の備品にもってこいよね」","","",""
+　理由があるのよ」","“I think it’s like myself.” However, there is a
+reason why you shouldn’t care about it.”","- Я думаю, что это как я. Однако есть причина,
+почему вы не должны заботиться об этом. »","„Ich glaube, es ist wie ich.“ Es gibt jedoch
+einen Grund, warum Sie nicht darauf achten
+sollten. „"
+000006f8,34,"「なんと、賞品が防水コンデジなの」","“What a prize is waterproof condege”","«Какой приз является водонепроницаемым кондежом»","„Was für ein Preis ist wasserdichte Kondege“"
+000007a0,28,"「おっ、それはいいですね～」","“Oh, it’s good!”","«О, это хорошо!»","„Oh, es ist gut!“"
+00000800,40,"「でしょう？　部の備品にもってこいよね」","“Is it? I’m not sure about the fixture?”","— Это? Я не уверен в приспособлении? »","„Ist es? Ich bin mir nicht sicher über die
+Aufnahme? „"
 000008bc,71,"「もっとも、抽選で５名だから、
-　解けても当たらないとは思うんだけどね」","","",""
-0000096c,30,"「ダメもとで応募すべきですよ」","","",""
-000009f4,42,"「そうよね。応募しなきゃ当たらないものね」","","",""
+　解けても当たらないとは思うんだけどね」","“I think I don’t know if I can solve it because
+it is 5 people in the draw.”","«Я думаю, что я не знаю, могу ли я решить это,
+потому что это 5 человек в розыгрыше. »","„Ich glaube, ich weiß nicht, ob ich es lösen
+kann, weil es 5 Personen in der Ziehung ist. „"
+0000096c,30,"「ダメもとで応募すべきですよ」","“You should apply with your resume.”","«Вы должны подать заявку с вашим резюме. »","„Sie sollten sich mit Ihrem Lebenslauf bewerben.
+„"
+000009f4,42,"「そうよね。応募しなきゃ当たらないものね」","That’s right. I don't have to apply.","Это правильно. Мне не нужно применять.","Das stimmt. Ich muss mich nicht bewerben."
 00000ac8,59,"「…とは言ったものの、実は１カ所、
-　どうしても解けなくて」","","",""
-00000b7c,16,"「どこですか？」","","",""
-00000be4,20,"「ここなんだけど…」","","",""
+　どうしても解けなくて」","“I said, but in fact, I can’t solve it.”","«Я сказал, но на самом деле, я не могу решить
+это. »","“Ich sagte, aber in der Tat kann ich es nicht
+lösen. „"
+00000b7c,16,"「どこですか？」","Where is it?","Где это?","Wo ist es?"
+00000be4,20,"「ここなんだけど…」","I'm here…","Я здесь…","Ich bin hier…"
 00000c54,59,"「え～と…海の生き物の名前を
-　はめていけばいいんですね？」","","",""
-00000cbc,42,"「そう。クジラとか、イソギンチャクとかね」","","",""
-00000d08,28,"「”ハ？？ウ？？カ”　か…」","","",""
+　はめていけばいいんですね？」","
+“Ehhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh","
+hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh","hhhhhhhhhhhhhhhhhhh"
+00000cbc,42,"「そう。クジラとか、イソギンチャクとかね」","。 Kazira, Isochuk and Kane","。 Казира, Исочук и Кейн","。 Kazira, Isochuk und Kane"
+00000d08,28,"「”ハ？？ウ？？カ”　か…」","Have?????????","- А???????","Haben Sie??????"
 00000d54,75,"「バンドウイルカだと思ったんだけど、
-　左端がハでしょう？　はまらなくて…」","","",""
+　左端がハでしょう？　はまらなくて…」","“I thought it’s a band dolphin, but it’s a left
+edge? I don’t know…”","«Я думал, что это группа dolphin, но это левый
+край? Я не знаю… »","“Ich dachte, es ist ein Band Delfin, aber es ist
+ein linker Rand? Ich weiß nicht… „"
 00000dcc,47,"「確かに、左端がバなら
-　バッチリはまりますね」","","",""
-00000f10,42,"「でしょう？　まさか、誤植じゃないわよね」","","",""
-00000fe4,20,"「かつみ、いる～？」","","",""
-0000123c,14,"「あら、亜岐」","","",""
-000012a8,24,"「２人で何やってるの？」","","",""
-0000132c,28,"「クロスワードパズルですよ」","","",""
-000013a0,40,"「へ～っ、面白そう。私にもやらせてみて」","","",""
+　バッチリはまりますね」","“Indeed, if the left end is b ly.”","«Поистине, если левый конец б ly. »","„Indeed, wenn das linke Ende b ly ist. „"
+00000f10,42,"「でしょう？　まさか、誤植じゃないわよね」","“Well, it’s not misprinting?”","— Ну, это не заблуждение? »","„Nun, es ist nicht falsch? „"
+00000fe4,20,"「かつみ、いる～？」","?」","?」","?"
+0000123c,14,"「あら、亜岐」","」","」","!"
+000012a8,24,"「２人で何やってるの？」","“What are you doing with two people?”","— Что вы делаете с двумя людьми? »","„Was machst du mit zwei Leuten? „"
+0000132c,28,"「クロスワードパズルですよ」","Crossword Puzzle","Кроссворд Puzzle","Stichwort Puzzle"
+000013a0,40,"「へ～っ、面白そう。私にもやらせてみて」","Hey, it seems interesting. Let me do it","«Эй, кажется интересным. Позвольте мне это
+сделать","Hey, es scheint interessant zu sein. Lass mich
+los!"
 00001458,61,"「いくらあなたでも、海の生き物は
-　詳しくないんじゃないの？」","","",""
+　詳しくないんじゃないの？」","“Are you sure you don’t know how much you live in
+the ocean?”","«Вы уверены, что не знаете, сколько вы живете в
+океане? »","„Sind Sie sicher, dass Sie nicht wissen, wie viel
+Sie im Ozean leben? „"
 00001544,86,"「海の生き物？　もう、何言ってるのよ。
 　自分で言うのも何だけど、
-　かなり詳しいわよ」","","",""
-00001678,20,"「そうなんですか？」","","",""
+　かなり詳しいわよ」","What is the sea? What I say by myself, but I'm
+pretty detailed.","Что такое море? Что я говорю собой, но я довольно
+подробно.","Was ist das Meer? Was ich selbst sage, aber ich
+bin ziemlich detailliert."
+00001678,20,"「そうなんですか？」","What is it?","Что это?","Was ist los?"
 000016f8,90,"「元水泳部よ、私は。
 　水とか、海に関することには、
-　普通の人より関心あるし、知ってるわ」","","",""
-000017d4,10,"「そっか」","","",""
-00001828,40,"「え！？　元水泳部？　そうなんですか？」","","",""
-000018d0,100,"「ん…そっか、\p01君は知らないか。
-　私、去年までは水泳部に所属してて、
-　飛び込みの選手だったのよ」","","",""
-0000199c,22,"「そうだったんですか」","","",""
+　普通の人より関心あるし、知ってるわ」","I'm a former swimmer. I know that water and the
+sea are more interested than ordinary people.","- Я бывший пловец. Я знаю, что вода и море более
+заинтересованы, чем обычные люди.","Ich bin ein ehemaliger Schwimmer. Ich weiß,
+dass Wasser und das Meer mehr interessiert sind
+als gewöhnliche Menschen."
+000017d4,10,"「そっか」","」","」","!"
+00001828,40,"「え！？　元水泳部？　そうなんですか？」","“Oh!? Ex-swimming? Is it?”","«О!? Бывший плавание? Это? »","„Oh! Ex-Swimming? Ist es das? „"
+0000199c,22,"「そうだったんですか」","“What was that?”","— Что это было? »","„Was war das? „"
 00001a08,92,"「そうよ。すごく熱心で、毎日日暮れまで、
 　あんなにがんばってたのに、
-　辞めちゃうなんて…」","","",""
-00001afc,32,"「もったいないって、止めたのに」","","",""
+　辞めちゃうなんて…」","“Yes.” It’s so enthusiasm, but I can’t  …","— Да. Это так энтузиазм, но я не могу …","„Ja.“ Es ist so Begeisterung, aber ich kann nicht
+…"
+00001afc,32,"「もったいないって、止めたのに」","I'm sorry, I stopped it.","- Прости, я остановил это.","Es tut mir leid, ich habe es aufgehalten."
 00001bac,94,"「いいのよ、あのまま続けても、
 　中途半端な成績しか残せなかっただろうし、
-　辞めて清々したわ」","","",""
-00001cac,28,"「また、心にもないことを…」","","",""
+　辞めて清々したわ」","I'm good, I'm not able to leave the middle and
+half of the results even if I continue to do it, I
+and cleaned it.","«Я хорошо, я не могу оставить середину и половину
+результатов, даже если я продолжаю это делать, я и
+очищаю его».","Ich bin gut, ich bin nicht in der Lage, die Mitte
+und die Hälfte der Ergebnisse zu verlassen, auch
+wenn ich es weiterhin tue, ich und gereinigt es."
+00001cac,28,"「また、心にもないことを…」","“What’s New”","«Что нового»","„Was ist neu“"
 00001d5c,67,"「いいわよもう、私の話は。
-　それより、クロスワードパズルでしょ？」","","",""
+　それより、クロスワードパズルでしょ？」","I'm good, my story is. Is it a crossword puzzle?","Я хорошо, моя история. Это кроссворд?","Ich bin gut, meine Geschichte ist. Ist es ein
+Kreuzworträtsel?"
 00001e64,94,"「じゃあ、やってみてよ。
 　バンドウイルカだと思うんだけど、
-　それだと縦の列がつながらなくて」","","",""
-00001fb4,8,"「え？」","","",""
+　それだと縦の列がつながらなくて」","Let’s do it. I think it’s a band dolphin, but it
+doesn’t have a vertical column.”","Давайте сделаем это. Я думаю, что это группа
+dolphin, но она не имеет вертикальной колонны. »","Machen wir es. Ich denke, es ist ein Band Delfin,
+aber es hat keine vertikale Spalte. „"
+00001fb4,8,"「え？」","?」","?」","?"
 00002024,88,"「クスッ、見る前に答えがわかったわ。
 　左端がバじゃなくて、
-　ハになってるんでしょう？」","","",""
-00002160,28,"「すごい！　その通りです！」","","",""
-0000220c,30,"「どうして見なくてわかるの？」","","",""
+　ハになってるんでしょう？」","“Now, I found the answer before seeing it.” Do
+you have a left edge?","“Теперь я нашел ответ, прежде чем увидеть его.” У
+вас есть левый край?","„Jetzt fand ich die Antwort, bevor ich sie sah.“
+Hast du einen linken Rand?"
+00002160,28,"「すごい！　その通りです！」","It’s amazing!","Это удивительно!","Es ist erstaunlich!"
+0000220c,30,"「どうして見なくてわかるの？」","“How can I see it?”","«Как я могу это увидеть? »","„Wie kann ich es sehen? „"
 00002280,65,"「だって、バンドウイルカの正式な名前は、
-　ハンドウイルカだもの」","","",""
-00001678,20,"「そうなんですか？」","","",""
-000023ac,14,"「そうなの？」","","",""
-00002404,8,"「ええ」","","",""
+　ハンドウイルカだもの」","“The official name of the band dolphin is the
+hand dolphin.”","«Официальное название группы dolphin - это ручная
+дельфина. »","„Der offizielle Name der Band Delphin ist der
+Handdolphin. „"
+00001678,20,"「そうなんですか？」","What is it?","Что это?","Was ist los?"
+000023ac,14,"「そうなの？」","What is it?","Что это?","Was ist los?"
+00002404,8,"「ええ」","」","」","!"
 0000247c,126,"「一般的にはバンドウイルカって呼ばれてるし
 　図鑑や水族館でも、バンドウイルカを使う
-　ことが多いから、わからなくて当たり前よ」","","",""
-0000258c,30,"「パズルだし、ひっかけ問題ね」","","",""
+　ことが多いから、わからなくて当たり前よ」","In general, band dolphins are called, and they
+are often used band dolphins in the picture book
+or aquarium, so they are not familiar.","В целом, группа дельфинов называется, и они часто
+используются группы дельфинов в книге или
+аквариума, поэтому они не знакомы.","Im Allgemeinen werden Banddolphine genannt, und
+sie werden oft Banddolphine im Bildbuch oder
+Aquarium verwendet, so dass sie nicht vertraut
+sind."
+0000258c,30,"「パズルだし、ひっかけ問題ね」","It's a puzzle, it's a problem.","- Это головоломка, это проблема.","Es ist ein Rätsel, es ist ein Problem."
 00002678,59,"「はぁ…見事に引っかかったってわけ。
-　しゃくに障るわねぇ」","","",""
+　しゃくに障るわねぇ」","
+Hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+","
+hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh","Was ist denn?"
 00002778,49,"「ありがと、亜岐。
-　おかげで懸賞に応募できるわ」","","",""
-00002828,36,"「どういたしまして。何が当たるの？」","","",""
+　おかげで懸賞に応募できるわ」","。 You can apply for a prize.","。 Вы можете подать заявку на приз.","。 Sie können sich für einen Preis bewerben."
+00002828,36,"「どういたしまして。何が当たるの？」","。 What do you win?","。 Что вы выигрываете?","。 Was gewinnen Sie?"
 00002910,47,"「防水コンデジよ。
-　部の備品にしようと思って」","","",""
+　部の備品にしようと思って」","Waterproof Condege I thought I would like to be
+a fixture for children.","Waterproof Condege Я думал, что я хотел бы быть
+приспособлением для детей.","Waterproof Condege Ich dachte, ich würde gerne
+ein Gerät für Kinder sein."
 000029f0,57,"「それは、ぜひ当ててもらいたいわね。
-　経費節減になるわ」","","",""
-00002ac0,32,"「学園思いな、いい部長でしょ？」","","",""
-00002b60,28,"「はいはい、感謝してるわよ」","","",""
+　経費節減になるわ」","“I want you to apply it.” Exp s","- Я хочу, чтобы вы подали заявку. Исследуйте s","„Ich möchte, dass Sie es anwenden.“ Ausgaben"
+00002ac0,32,"「学園思いな、いい部長でしょ？」","“I’m a good school manager?”","- Я хороший менеджер школы? »","„Ich bin ein guter Schulleiter? „"
+00002b60,28,"「はいはい、感謝してるわよ」","“Yes, I’m thankful.”","— Да, я благодарен. »","„Ja, ich bin dankbar. „"
 00002c2c,59,"「私も応募するから、ＵＲＬを私のメアドに
-　送っておいてよ」","","",""
-00002cbc,26,"「わかったわ。ありがとう」","","",""
-00002d34,28,"「じゃあね、かつみ、\p01君」","","",""
+　送っておいてよ」","“I also apply, so I can send my URL to my
+meditation.”","“Я также применю, так что могу отправить мой URL
+в мою медитацию. »","„Ich bewerbe mich auch, damit ich meine URL an
+meine Meditation senden kann. „"
+00002cbc,26,"「わかったわ。ありがとう」","I know. Pets","- Я знаю. Домашние животные","Ich weiß. Haustiere"
 00002dac,61,"「あれ？　かつみさんに用があって
-　来たんじゃないんですか？」","","",""
-00002e48,20,"「あ、そうだったわ」","","",""
+　来たんじゃないんですか？」","“Well? Do you have a wig for me?”","— Ну что? У вас есть парик для меня? »","„Nun? Hast du eine Perücke für mich? „"
+00002e48,20,"「あ、そうだったわ」","“Oh, it was that.”","«О, это было так. »","„Oh, das war es. „"
 00002f08,74,"「かつみ、来月執り行われる
 　清掃奉仕なんだけど、
-　撮影、お願いできる？」","","",""
-00002fdc,28,"「もちろんよ。場所はどこ？」","","",""
-000030a0,12,"「場所は…」","","",""
+　撮影、お願いできる？」","“I’m a cleaning service that will be held next
+month. Can I take a photo or ask?”","«Я - уборка, которая будет проходить в следующем
+месяце. Могу ли я взять фото или спросить? »","„Ich bin ein Reinigungsservice, der im nächsten
+Monat stattfinden wird. Kann ich ein Foto machen
+oder fragen? „"
+00002fdc,28,"「もちろんよ。場所はどこ？」","Of course. Where is the location?","Конечно. Где находится?","Natürlich. Wo ist der Standort?"
+000030a0,12,"「場所は…」","A place is …","Место…","Ein Ort ist…"
 00003100,75,"「話してる間に、俺も応募しておきますよ。
-　ノートパソコン、貸してください」","","",""
-000031e4,22,"「ありがとう、\p01君」","","",""
-00003238,26,"こうして、部室で過ごした。","","",""
+　ノートパソコン、貸してください」","“I’ll apply while I’m talking about it.” Laptops
+and Rentals","«Я буду применять, пока я говорю об этом».
+Ноутбуки и Аренда","„Ich werde mich bewerben, während ich darüber
+spreche.“ Laptops und Mieten"
+00003238,26,"こうして、部室で過ごした。","Then, I went to the room.","Затем я пошел в комнату.","Dann ging ich ins Zimmer."

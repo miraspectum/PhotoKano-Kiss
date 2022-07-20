@@ -1,52 +1,79 @@
-00000118,18,"「じゃあ、ここで」","","",""
+00000118,18,"「じゃあ、ここで」","Here","Здесь","Hier"
 00000158,65,"「あ、室戸先輩、その…よかったら、
-　どこか寄っていきませんか？」","","",""
-000001f8,32,"「寄り道？　私が？　\p01君と？」","","",""
-00000298,14,"「え、ええ…」","","",""
-000002f8,22,"「どこへ行きたいのよ」","","",""
-0000033c,40,"「ショッピングモール…なんてどうです？」","","",""
-000003b8,32,"「何か買いたい物でもあるわけ？」","","",""
-000003fc,30,"「え～と…文具品をちょっと…」","","",""
-00000478,42,"「仕方ないわねぇ…いいわよ、付き合うわよ」","","",""
-00000538,38,"「本当ですか？　じゃあ、行きましょう」","","",""
-00000118,18,"「じゃあ、ここで」","","",""
+　どこか寄っていきませんか？」","“Oh, my seniors, I’m so happy, can I go
+somewhere?”","«О, мои пожилые, я так счастлив, могу ли я пойти
+куда-нибудь? »","„Oh, meine Senioren, ich bin so glücklich, kann
+ich irgendwo hingehen? „"
+00000298,14,"「え、ええ…」","」","」","!"
+000002f8,22,"「どこへ行きたいのよ」","“Where to go?”","— Куда пойти? »","„Wo soll ich hin? „"
+0000033c,40,"「ショッピングモール…なんてどうです？」","“What about shopping malls?”","«Как насчет торговых центров? »","„Was ist mit Einkaufszentren? „"
+000003b8,32,"「何か買いたい物でもあるわけ？」","“I want to buy something?”","«Хочу что-то купить? »","„Ich will etwas kaufen? „"
+000003fc,30,"「え～と…文具品をちょっと…」","E~to …… goods a little …","E~to …… товары немного …","E~to… Waren ein wenig…"
+00000478,42,"「仕方ないわねぇ…いいわよ、付き合うわよ」","I don't know how to prepare … I'm good, I'm
+going to meet with you.","«Я не знаю, как подготовиться… Я хорошо, я
+собираюсь встретиться с вами.","Ich weiß nicht, wie ich mich vorbereiten soll…
+Ich bin gut, ich werde mich mit dir treffen."
+00000538,38,"「本当ですか？　じゃあ、行きましょう」","“Is it true? Let’s go!”","- Это правда? Поехали!»","„Ist es wahr? Gehen wir!“"
+00000118,18,"「じゃあ、ここで」","Here","Здесь","Hier"
 00000158,65,"「あ、室戸先輩、その…よかったら、
-　どこか寄っていきませんか？」","","",""
+　どこか寄っていきませんか？」","“Oh, my seniors, I’m so happy, can I go
+somewhere?”","«О, мои пожилые, я так счастлив, могу ли я пойти
+куда-нибудь? »","„Oh, meine Senioren, ich bin so glücklich, kann
+ich irgendwo hingehen? „"
 00000678,51,"「またお願い事？
-　いいけど…どこへ行きたいのよ？」","","",""
-0000033c,40,"「ショッピングモール…なんてどうです？」","","",""
-000003b8,32,"「何か買いたい物でもあるわけ？」","","",""
-000003fc,30,"「え～と…文具品をちょっと…」","","",""
-000007f4,18,"「仕方ないわねぇ」","","",""
-00000118,18,"「じゃあ、ここで」","","",""
+　いいけど…どこへ行きたいのよ？」","Also please? Good, but … where I want to go?","- Также, пожалуйста? Хорошо, но… куда я хочу
+пойти?","So bitte? Gut, aber… wo will ich hin?"
+0000033c,40,"「ショッピングモール…なんてどうです？」","“What about shopping malls?”","«Как насчет торговых центров? »","„Was ist mit Einkaufszentren? „"
+000003b8,32,"「何か買いたい物でもあるわけ？」","“I want to buy something?”","«Хочу что-то купить? »","„Ich will etwas kaufen? „"
+000003fc,30,"「え～と…文具品をちょっと…」","E~to …… goods a little …","E~to …… товары немного …","E~to… Waren ein wenig…"
+000007f4,18,"「仕方ないわねぇ」","I can't do it!","- Я не могу это сделать!","Ich kann es nicht!"
+00000118,18,"「じゃあ、ここで」","Here","Здесь","Hier"
 00000890,86,"「あ、室戸先輩、その…よかったら、
 　また、バラエティプラザへ
-　寄って行きませんか？」","","",""
+　寄って行きませんか？」","Oh, my senior Muroto, that … If you are good,
+do you go to the Plaza?","«О, мой старший Muroto, что … Если вы хороши,
+вы идете в Плаза?","Oh, mein Senior Muroto, das… Wenn Sie gut sind,
+gehen Sie zum Plaza?"
 00000928,69,"「バラエティプラザって……また、
-　私の恥ずかしい写真を撮るつもり？」","","",""
-000009fc,34,"「この間、すごく似合ってましたよ」","","",""
+　私の恥ずかしい写真を撮るつもり？」","“What’s the Plaza?”","— Что такое Плаза? »","„Was ist die Plaza? „"
+000009fc,34,"「この間、すごく似合ってましたよ」","“I’m really like this.”","- Мне это очень нравится. »","„Ich bin wirklich so. „"
 00000a7c,65,"「そんなわけないでしょう？
-　あんな格好、似合うわけないじゃない」","","",""
+　あんな格好、似合うわけないじゃない」","“I don’t do that.” I don't like it.","- Я это не делаю. Мне это не нравится.","„Das tue ich nicht.“ Das gefällt mir nicht."
 00000b74,86,"「それに、似合う似合わないが
 　問題じゃないのよ。
-　私には変身願望なんてないんだから」","","",""
+　私には変身願望なんてないんだから」","I don't like it, but it's not a problem. I don’t
+have a desire to change.","- Мне это не нравится, но это не проблема. У меня
+нет желания измениться.","Ich mag es nicht, aber es ist kein Problem. Ich
+habe keinen Wunsch zu ändern."
 00000c60,53,"「そう言わずに、俺の撮影の練習に
-　付き合うと思って」","","",""
-00000cf0,32,"「もう…私が断れないと思って…」","","",""
-00000118,18,"「じゃあ、ここで」","","",""
+　付き合うと思って」","I think that I will be able to get in touch with
+my shooting practice","Я думаю, что я смогу связаться с моей съёмочной
+практикой","Ich denke, dass ich mit meiner Schießpraxis in
+Kontakt kommen kann"
+00000cf0,32,"「もう…私が断れないと思って…」","Oh… I think I can't cut…","О… Я думаю, что я не могу отрезать…","Oh… ich glaube, ich kann nicht schneiden…"
+00000118,18,"「じゃあ、ここで」","Here","Здесь","Hier"
 00000dcc,61,"「室戸先輩、その…よかったら、
-　どこか寄っていきませんか？」","","",""
+　どこか寄っていきませんか？」","Muroto seniors, if it is good, do you go
+somewhere?","«Мурото пожилые, если это хорошо, ты куда-нибудь
+ехать?»","Muroto Senioren, wenn es gut ist, gehst du
+irgendwohin?"
 00000e5c,71,"「あ…悪いけど、今日は、まっすぐ家に
-　帰らなきゃならないから、無理よ」","","",""
-00000f10,20,"「そうなんですか？」","","",""
-00000fc0,36,"「ええ、どうしても外せない用事なの」","","",""
-00001014,12,"「そっか…」","","",""
-00001074,18,"「じゃあ、またね」","","",""
-000010b4,14,"「失礼します」","","",""
+　帰らなきゃならないから、無理よ」","“Oh… I’m bad, but today I have to go home
+straight, so I can’t do it.”","«О… Я плохо, но сегодня я должен идти домой
+прямо, так что я не могу это сделать. »","„Oh… ich bin schlecht, aber heute muss ich
+gerade nach Hause, also kann ich es nicht tun. „"
+00000f10,20,"「そうなんですか？」","What is it?","Что это?","Was ist los?"
+00000fc0,36,"「ええ、どうしても外せない用事なの」","Eh, it's a thing that can't be removed","Eh, это вещь, которую нельзя удалить","Es ist eine Sache, die nicht entfernt werden kann"
+00001014,12,"「そっか…」","っ","ПРЯМО",","
+00001074,18,"「じゃあ、またね」","Yes, I'm again.","- Да, я снова.","Ja, ich bin wieder."
+000010b4,14,"「失礼します」","I'm sorry.","- Прости.","Es tut mir leid."
 00001134,81,"「ええ。どうしても外せない用事だから、
-　不正登校って言われても帰るしかないわよ」","","",""
-00001214,30,"「そんなこと言わないですって」","","",""
-00001290,12,"「どうだか」","","",""
-0000130c,51,"「まぁ、ともかく、今日は帰るわ。
-　またね、\p01君」","","",""
-000013bc,24,"「失礼します、室戸先輩」","","",""
+　不正登校って言われても帰るしかないわよ」","Home I can't go out, so I can't go back even if
+it is said to be an illegal school.","Главная Я не могу выйти, так что я не могу
+вернуться, даже если он сказал, чтобы быть
+нелегальной школой».","Zuhause kann ich nicht rausgehen, also kann ich
+nicht zurückgehen, auch wenn es heißt, eine
+illegale Schule zu sein."
+00001214,30,"「そんなこと言わないですって」","“I don’t say that.”","- Я не говорю. »","„Das sage ich nicht. „"
+00001290,12,"「どうだか」","What's it?","- Что это?","Was ist das?"
+000013bc,24,"「失礼します、室戸先輩」","I'm sorry, my seniors","Я сожалею, мои пожилые","Es tut mir leid, meine Senioren"

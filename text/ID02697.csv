@@ -1,26 +1,39 @@
-000000a0,32,"「ん……誰だ？　こんな時間に…」","","",""
-000000fc,14,"（室戸先輩！）","","",""
-00000148,12,"「もしもし」","","",""
-00000184,30,"「あ…ごめんなさい、夜遅くに」","","",""
+000000a0,32,"「ん……誰だ？　こんな時間に…」","“Who are you? This time…”","- Кто ты? На этот раз…»","„Wer sind Sie? Dieses Mal…“"
+000000fc,14,"（室戸先輩！）","Japanese","Японцы","Japanisch"
+00000148,12,"「もしもし」","」","」","!"
+00000184,30,"「あ…ごめんなさい、夜遅くに」","Oh, I'm late at night.","- О, я поздно ночью.","Oh, ich bin spät in der Nacht."
 000001d0,55,"「いや、いいですけど、どうしたんです？
-　こんな時間に」","","",""
+　こんな時間に」","No, I'm good, but what do you do? In this time","- Нет, я хорошо, но что вы делаете? В это время","Nein, ich bin gut, aber was machst du? In dieser
+Zeit"
 00000228,63,"「それが……週末、もしかしたら、
-　行けなくなるかもしれなくて」","","",""
-00000294,28,"「えっ、そうなんですか！？」","","",""
-000002d4,34,"「ええ…親戚の用事が入りそうで…」","","",""
-00000324,16,"「そうなんだ…」","","",""
+　行けなくなるかもしれなくて」","“It’s a weekend, but I can’t go.”","«Это выходные, но я не могу пойти. »","„Es ist ein Wochenende, aber ich kann nicht
+gehen. „"
+00000294,28,"「えっ、そうなんですか！？」","“Well, right?”","— Ну, правда? »","„Nun, richtig? „"
+000002d4,34,"「ええ…親戚の用事が入りそうで…」","
+Ehhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh","
+hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh","Was ist los?"
+00000324,16,"「そうなんだ…」","It's right…","«Это правильно…»","Es ist richtig…"
 00000364,67,"「けど、まだ決まったわけじゃないのよ。
-　そうなりそうだってだけで」","","",""
+　そうなりそうだってだけで」","But I'm not yet determined. That’s it.","- Но я еще не определен. Это.","Aber ich bin noch nicht entschlossen. Das ist
+es."
 000003d4,61,"「だから、もし行けなくなったら、
-　金曜日の夜に電話するわね」","","",""
+　金曜日の夜に電話するわね」","So, if you can't go, call on Friday night.","Так, если ты не можешь пойти, звоните в пятницу
+вечером.","So, wenn Sie nicht gehen können, rufen Sie am
+Freitagabend an."
 00000434,55,"「予定通り行ける時は、電話しないから。
-　それでいい？」","","",""
-00000498,16,"「わかりました」","","",""
-000004cc,12,"「ごめんね」","","",""
-00000508,10,"「いえ…」","","",""
+　それでいい？」","When you go to the schedule, please do not call.
+That’s right?","«Когда вы идете в расписание, пожалуйста, не
+звоните. Это правильно?","Wenn Sie zum Zeitplan gehen, rufen Sie bitte
+nicht an. Das stimmt?"
+00000498,16,"「わかりました」","」","」","!"
+000004cc,12,"「ごめんね」","」","」","!"
+00000508,10,"「いえ…」","…","…","…"
 00000534,41,"「それじゃ、また明日ね。
-　お休みなさい」","","",""
-0000058c,14,"「おやすみ…」","","",""
-000005d4,28,"（親戚の用事か…まいったな）","","",""
+　お休みなさい」","It's, it's tomorrow. Stay","- Это завтра. Пребывание","Es ist morgen. Aufenthalt"
+0000058c,14,"「おやすみ…」","」","」","!"
+000005d4,28,"（親戚の用事か…まいったな）","(Is it for relatives?)","(Это для родственников?)","(Ist es für Verwandte?)"
 00000620,79,"（もっと彼女と話して、好感度っていうか
-　俺の印象をＭＡＸまで上げとかないとな）","","",""
+　俺の印象をＭＡＸまで上げとかないとな）","(If you talk with her more, you don’t want to
+raise the impression of MAX.)","(Если вы говорите с ней больше, вы не хотите
+поднять впечатление MAX.)","(Wenn Sie mit ihr mehr sprechen, wollen Sie den
+Eindruck von MAX nicht erhöhen.)"

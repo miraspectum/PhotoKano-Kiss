@@ -1,79 +1,132 @@
-000002a4,8,"「あ…」","","",""
-000003b0,12,"「おはよう」","","",""
-00000428,22,"（室戸先輩の冬服姿…）","","",""
-000004e0,28,"「どうしたの？　じっと見て」","","",""
+000002a4,8,"「あ…」","」","」","!"
+000003b0,12,"「おはよう」","」","」","!"
+00000428,22,"（室戸先輩の冬服姿…）","(Winter clothes of Muroto seniors …)","(Зимняя одежда пожилых людей Muroto …)","(Winterkleidung von Muroto Senioren …"
+000004e0,28,"「どうしたの？　じっと見て」","What do you do? Look at it!","- Что вы делаете? Посмотри на это!","Was machst du? Sieh es dir an!"
 00000558,45,"「い、いや、何でも…。
-　おはようございます」","","",""
-000002a4,8,"「あ…」","","",""
+　おはようございます」","No, no, no, no… Close","Нет, нет, нет… Закрыть","Nein, nein, nein… Schließen"
+000002a4,8,"「あ…」","」","」","!"
 00000640,49,"「もう、”ございます”だなんて。
-　他人行儀ねぇ」","","",""
+　他人行儀ねぇ」","That’s it. Others","Это. Другие","Das ist es. Sonstige"
 00000704,59,"「おはよう、でいいわよ。
-　年の差なんて、関係ないでしょ？」","","",""
-000007ac,30,"「そっか……じゃあ、おはよう」","","",""
-0000081c,20,"「おはよう、\p01君」","","",""
-00000860,26,"「あれ？　昨日は名前で…」","","",""
+　年の差なんて、関係ないでしょ？」","I'm good. What is the difference of the year?","Я хорошо. В чем разница в году?","Ich bin gut. Was ist der Unterschied des Jahres?"
+000007ac,30,"「そっか……じゃあ、おはよう」","It's so, it's good!","«Это так, хорошо!»","Es ist so, es ist gut!"
+00000860,26,"「あれ？　昨日は名前で…」","“Where?…’s name…”","— Где?… название… »","“Wo?…’s Name… „"
 000008e0,77,"「あ、あれは、そういう雰囲気だったから。
-　あなたも、名前で呼んでくれたし…」","","",""
-000009d8,16,"「そ、そっか…」","","",""
+　あなたも、名前で呼んでくれたし…」","Oh, it was such an atmosphere. You also call it
+by name…","«О, это была такая атмосфера. Вы также звоните по
+имени…","Oh, es war so eine Atmosphäre. Sie nennen es auch
+mit Namen…"
+000009d8,16,"「そ、そっか…」","It's so…","«Это так…»","Es ist so…"
 00000a3c,45,"「あなたは、私のこと
-　これからどう呼ぶの？」","","",""
-00000acc,12,"「それは…」","","",""
-00000bc0,28,"「やっぱり、室戸先輩…かな」","","",""
-00000c44,42,"「そうよね、人目があるし、それが無難よね」","","",""
+　これからどう呼ぶの？」","“What do you call me?”","— Что ты мне звонишь? »","„Was nennst du mich? „"
+00000acc,12,"「それは…」","」","」","!"
+00000bc0,28,"「やっぱり、室戸先輩…かな」","After all, my seniors … kana","После всех, мои пожилые … kana","Nach allem, meine Senioren… kana"
+00000c44,42,"「そうよね、人目があるし、それが無難よね」","“Yes, there’s a human eye, and it’s hard to be.”","«Да, есть человеческий глаз, и это трудно быть. »","„Ja, es gibt ein menschliches Auge, und es ist
+schwer zu sein. „"
 00000d0c,51,"「けど、２人っきりの時は、
-　亜岐って呼んで欲しい」","","",""
+　亜岐って呼んで欲しい」","But I want to call varied when I have two people.","- Но я хочу звонить разнообразно, когда у меня
+два человека.","Aber ich will abwechslungsreich sein, wenn ich
+zwei Menschen habe."
 00000ddc,51,"「だって、先輩って呼ばれると、
-　年の差を感じて…」","","",""
+　年の差を感じて…」","“I feel the difference of the year when my
+seniors are called…”","«Я чувствую разницу в году, когда мои пожилые
+называют… »","“Ich fühle den Unterschied des Jahres, wenn meine
+Senioren genannt werden… „"
 00000e9c,51,"「そっか。じゃあ、２人の時は、
-　亜岐って呼びます」","","",""
-00000f2c,34,"「ええ、そうしてくれるとうれしい」","","",""
-00000fbc,18,"「それはそうと…」","","",""
-0000102c,22,"「亜岐って呼びますよ」","","",""
-000010f4,14,"「人前でも？」","","",""
-00001124,24,"「そのつもりですけど？」","","",""
+　亜岐って呼びます」","。 Then, when two people, they are called
+differently.","。 Затем, когда два человека, они называют
+по-другому.","。 Dann, wenn zwei Menschen, werden sie anders
+genannt."
+00000f2c,34,"「ええ、そうしてくれるとうれしい」","“Yes, I’m thinking about doing that.”","— Да, я думаю об этом. »","„Ja, ich denke darüber nach. „"
+00000fbc,18,"「それはそうと…」","“It’s so…”","«Это так…»","„Es ist so…“"
+0000102c,22,"「亜岐って呼びますよ」","“It’s called arbitrary.”","«Это называется произвольным. »","„Es heißt willkürlich. „"
+000010f4,14,"「人前でも？」","“Is it for people?”","- Это для людей? »","„Ist es für Menschen? „"
+00001124,24,"「そのつもりですけど？」","“I’m going to do that.”","- Я собираюсь это сделать. »","„Das werde ich tun. „"
 0000118c,65,"「それは……うれしいんだけど、
-　周りがびっくりすると思うのよね」","","",""
+　周りがびっくりすると思うのよね」","“It’s not… but I think that the surroundings
+are amazing.”","«Это не… но я думаю, что окрестности
+удивительны. »","“Es ist nicht… aber ich denke, dass die
+Umgebung erstaunlich ist. „"
 000012ac,72,"「あ、勘違いしないでね、
 　２人の関係が広まるのが
-　嫌なわけじゃないの」","","",""
+　嫌なわけじゃないの」","“Oh, I don’t think about it, but I don’t like to
+spread two relationships.”","«О, я не думаю об этом, но я не люблю
+распространять два отношения. »","„Oh, ich denke nicht darüber nach, aber ich mag
+es nicht, zwei Beziehungen zu verbreiten. „"
 00001394,96,"「ただ…その……昨日までは、
 　先輩と後輩だったのに、今日から、
-　恋人…になったわけでしょう？」","","",""
+　恋人…になったわけでしょう？」","“Now… I was a senior and senior until
+yesterday, but today, I have become a lover…?”","«Сейчас… Я был старшим и старшим до вчерашнего
+дня, но сегодня я стал любовником…? »","„Jetzt… Ich war ein Senior und Senior bis
+gestern, aber heute bin ich ein Liebhaber
+geworden…? „"
 000014e8,98,"「私たちは、まるで生まれ変わったみたいに
 　変わったけど、周りの人は
-　全然変わってないじゃない？」","","",""
+　全然変わってないじゃない？」","“We’ve changed as if we were reborn, but the
+people around us aren’t changing at all?”","«Мы изменились, как будто мы были возрождены, но
+люди вокруг нас не меняются вообще? »","„Wir haben uns verändert, als wären wir
+wiedergeboren, aber die Menschen um uns herum
+ändern sich überhaupt nicht? „"
 000015c8,77,"「だから、どうしていいのかわからないのよ。
-　こういうのって、初めてだから…」","","",""
-0000169c,12,"「そっか…」","","",""
+　こういうのって、初めてだから…」","“So I don’t know what to do.” This is the first
+time…","- Так что я не знаю, что делать. Это первый
+раз…","„So weiß ich nicht, was ich tun soll.“ Das ist
+das erste Mal…"
+0000169c,12,"「そっか…」","っ","ФУТБОЛ",","
 000016d8,98,"「俺もよくわからないですよ。
 　先輩とこうして一緒にいたいけど、
-　ずっといるのも目立つだろうし…」","","",""
-0000178c,26,"「あ、今、先輩って言った」","","",""
-00001814,14,"「う…本当だ」","","",""
+　ずっといるのも目立つだろうし…」","“I don’t know it.” I want to be together with my
+seniors, but I will be noticed that I have been…","- Не знаю. Я хочу быть вместе со своими старшими,
+но я буду замечен, что я был…","„Ich weiß es nicht.“ Ich will zusammen mit meinen
+Senioren sein, aber ich werde feststellen, dass
+ich…"
+0000178c,26,"「あ、今、先輩って言った」","“Oh, now, my seniors said.”","- О, теперь, мои пожилые сказали. »","„Oh, meine Senioren sagten. „"
+00001814,14,"「う…本当だ」","I'm true.","- Я правда.","Ich bin wahr."
 00001874,73,"「フフッ、急がなくたっていいわよ。
-　無理に恋人みたいに振る舞うことない」","","",""
-00001960,32,"「だって、想いは１つなんだから」","","",""
+　無理に恋人みたいに振る舞うことない」","I'm sorry, I'm sorry. Don’t act like a lover for
+a long time.”","- Простите, я сожалею. Не действуйте как любовник
+в течение длительного времени. »","Es tut mir leid, es tut mir leid. Tun Sie nicht
+lange wie ein Liebhaber. „"
+00001960,32,"「だって、想いは１つなんだから」","“I’m just one of my thoughts.”","«Я просто одна из моих мыслей. »","„Ich bin nur einer meiner Gedanken. „"
 000019f0,57,"「…そうですね。これまで通り、
-　室戸先輩って呼びますよ」","","",""
+　室戸先輩って呼びますよ」","… Yes. As far as possible, it is called by
+seniors in Murodo.","… Да. Насколько это возможно, называется
+пожилыми людьми в Муродо».","… Ja. So weit wie möglich wird es von Senioren
+in Murodo genannt."
 00001a60,51,"「ええ。けど、２人きりの時は、
-　亜岐って呼んでね」","","",""
-00001b48,26,"「え？　そうなんですか？」","","",""
+　亜岐って呼んでね」","Home However, when you are two people, you can
+call it differently.","Домой Однако, когда вы два человека, вы можете
+позвонить его по-другому.","Zuhause Aber wenn Sie zwei Menschen sind, können
+Sie es anders nennen."
+00001b48,26,"「え？　そうなんですか？」","“Well, right?”","— Ну, правда? »","„Nun, richtig? „"
 00001bd0,88,"「だって、先輩って呼ばれると、
 　年の差を感じるもの。
-　２人の時は、名前で呼んで欲しい」","","",""
-00001cdc,18,"「わがままだなぁ」","","",""
+　２人の時は、名前で呼んで欲しい」","“Even if you are called seniors, you will feel
+the difference of the year.” I want to call the
+name in two people.","«Даже если вы звоните пожилым людям, вы
+почувствуете разницу года». Хочу назвать имя в
+двух человек.","„Auch wenn Sie Senioren genannt werden, werden
+Sie den Unterschied des Jahres spüren.“ Ich will
+den Namen in zwei Personen nennen."
+00001cdc,18,"「わがままだなぁ」","」","」","!"
 00001d4c,49,"「今ごろ気づいたの？
-　そうよ、私はわがままなの」","","",""
+　そうよ、私はわがままなの」","I've noticed it now? Yes, I'm still alive.","- Я заметил это сейчас? Да, я еще жив».","Ich habe es jetzt bemerkt? Ja, ich lebe noch."
 00001e2c,75,"「恋も、勉強も、飛び込みも、全部がんばって
-　絶対に夢を実現させるんだから」","","",""
-00001efc,32,"「ははは、室戸先輩らしいですよ」","","",""
+　絶対に夢を実現させるんだから」","“Being in love, study, and jumping, I’m sure to
+make my dream come true.”","«Быть в любви, учиться и прыгать, я уверен, чтобы
+моя мечта осуществилась. »","„In Liebe, Studium und Springen bin ich sicher,
+dass mein Traum wahr wird. „"
+00001efc,32,"「ははは、室戸先輩らしいですよ」","“It’s like the seniors of Murodo.”","«Это как старшие Murodo. »","“Es ist wie die Senioren von Murodo. „"
 00001f60,43,"「じゃあ、２人の時は、
-　亜岐って呼びます」","","",""
-00000f2c,34,"「ええ、そうしてくれるとうれしい」","","",""
-0000207c,30,"「１枚、撮ってもいいですか？」","","",""
-000020dc,14,"「え？　今？」","","",""
-0000214c,26,"「冬服姿の先輩が撮りたい」","","",""
-000021bc,26,"「あ……。ええ、いいわよ」","","",""
-000023d4,28,"「うん、いい写真が撮れたな」","","",""
-00002458,20,"「そう？　よかった」","","",""
-000024ec,20,"「それじゃ、またね」","","",""
+　亜岐って呼びます」","“Oh, when two people, they are called
+differently.”","«О, когда два человека, они называют по-разному.
+»","„Oh, wenn zwei Menschen, werden sie anders
+genannt. „"
+00000f2c,34,"「ええ、そうしてくれるとうれしい」","“Yes, I’m thinking about doing that.”","— Да, я думаю об этом. »","„Ja, ich denke darüber nach. „"
+0000207c,30,"「１枚、撮ってもいいですか？」","“Can I take a photo?”","«Могу ли я фотографировать? »","„Kann ich ein Foto machen? „"
+000020dc,14,"「え？　今？」","?","?","?"
+0000214c,26,"「冬服姿の先輩が撮りたい」","I want to take a picture of the winter clothes","«Хочу сфотографировать зимнюю одежду»","Ich möchte ein Bild von der Winterkleidung machen"
+000021bc,26,"「あ……。ええ、いいわよ」","…… Yes, it’s good.","……… Да, это хорошо.","… Ja, es ist gut."
+000023d4,28,"「うん、いい写真が撮れたな」","Yes, I can take a good picture.","- Да, я могу сделать хорошую картину.","Ja, ich kann ein gutes Bild machen."
+00002458,20,"「そう？　よかった」","“Yes, right?”","— Да, правда? »","„Ja, richtig? „"
+000024ec,20,"「それじゃ、またね」","It's it, it's it.","- Это, это.","Es ist es, es ist es."

@@ -1,36 +1,53 @@
-000001d4,14,"「こんちは～」","","",""
-00000424,26,"「あれ？　室戸先輩に実原」","","",""
-00000484,10,"「どうも」","","",""
-000004f8,22,"「こんにちは、\p01君」","","",""
-00000530,30,"「２人で何やってるんですか？」","","",""
+000001d4,14,"「こんちは～」","」","」","!"
+00000424,26,"「あれ？　室戸先輩に実原」","“Where? Mihara to Murodo Seniors”","— Где? Михара для пожилых людей Муродо»","„Wo? Mihara zu Murodo Senioren“"
+00000484,10,"「どうも」","」","」","!"
+00000530,30,"「２人で何やってるんですか？」","“What do you do with two people?”","— Что вы делаете с двумя людьми? »","„Was machst du mit zwei Leuten? „"
 000005b8,53,"「生徒会のホームページ用の
-　写真素材を選んでたのよ」","","",""
+　写真素材を選んでたのよ」","I chose the photo material for the student
+association's homepage.","«Я выбрал фотоматериал для главной страницы
+студенческой ассоциации».","Ich habe das Fotomaterial für die Homepage des
+Studentenverbandes ausgewählt."
 00000694,49,"「室戸先輩と実原って、
-　知り合いだったんですね」","","",""
+　知り合いだったんですね」","“It’s true to Murodo’s seniors, and it’s true.”","«Это правда для пожилых людей Муродо, и это
+правда. »","„Es ist wahr für Murodos Senioren, und es ist
+wahr. „"
 0000071c,47,"「もちろんよ。
-　フォト部の貴重な戦力ですもの」","","",""
+　フォト部の貴重な戦力ですもの」","Of course. The photo series is a valuable battle
+force.","Конечно. Фотосериал - это ценная боевая сила.","Natürlich. Die Fotoserie ist eine wertvolle
+Kampfkraft."
 00000810,94,"「実原さんの写真は、校舎がとてもきれいに
 　写ってるし、雰囲気があるから、
-　私、ファンなのよ」","","",""
-00000918,20,"「へ～っ、なるほど」","","",""
-00000994,30,"「別に…ただ撮っただけなんで」","","",""
+　私、ファンなのよ」","The picture of Mr. Mihara is very clean, and
+there is an atmosphere, so I am a fan.","Фотография мистера Михары очень чистая, и есть
+атмосфера, поэтому я фанат.","Das Bild von Mr. Mihara ist sehr sauber, und es
+gibt eine Atmosphäre, also bin ich ein Fan."
+00000918,20,"「へ～っ、なるほど」","“Hey, I see.”","— Эй, я вижу.","„Hey, ich verstehe.“"
+00000994,30,"「別に…ただ撮っただけなんで」","Another… I just took it.","Другой… Я просто взял его.","Eine andere… Ich habe es einfach genommen."
 00000a50,82,"「そんなことないわよ。
 　どの写真も、実原さんにしか撮れない、
-　いい写真だと思う」","","",""
-00000b98,12,"「…どうも」","","",""
-00000c28,38,"「必要なら、どの写真もコピーするんで」","","",""
+　いい写真だと思う」","“I don’t know that.” I think that every photo can
+only be taken by Mr. Mihara.","- Я не знаю, что. Я думаю, что каждая фотография
+может быть взята только г-ном Михарой.","„Das weiß ich nicht.“ Ich denke, dass jedes Foto
+nur von Mr. Mihara aufgenommen werden kann."
+00000b98,12,"「…どうも」","」","」","!"
+00000c28,38,"「必要なら、どの写真もコピーするんで」","If you need to copy any photo","Если вам нужно скопировать любое фото","Wenn Sie ein Foto kopieren müssen"
 00000cbc,82,"「ありがとう。じゃあ、
 　さっきお願いした画像、
-　生徒会のサーバーに送っておいて」","","",""
-00000db8,16,"「わかりました」","","",""
-00000e1c,40,"「助かるわ。また、秋になったらお願いね」","","",""
+　生徒会のサーバーに送っておいて」","Thank you. So, please send it to the student's
+server.","Спасибо. Итак, отправьте его на студенческий
+сервер.","Danke. Schicken Sie es bitte an den Server des
+Schülers."
+00000db8,16,"「わかりました」","」","」","!"
+00000e1c,40,"「助かるわ。また、秋になったらお願いね」","。 Also, if it falls, please ask.","。 Также, если он падает, пожалуйста, спросите.","。 Auch, wenn es fällt, bitte fragen Sie."
 00000ed0,49,"「まぁ、写真は撮るんで、
-　見に来てもらえればと」","","",""
-00000fa8,34,"「フフッ、わかったわ。よろしくね」","","",""
-0000106c,51,"「じゃあね、\p01君。
-　今度、君の写真も使わせてね」","","",""
-00001150,20,"「あ、はい。また…」","","",""
+　見に来てもらえればと」","“Well, if you take a photo and come to see it?”","— Ну, если вы фотографируете и приходите
+посмотреть? »","„Nun, wenn Sie ein Foto machen und kommen, um es
+zu sehen? „"
+00000fa8,34,"「フフッ、わかったわ。よろしくね」","Fフ, I'm sorry. Thank you!","ФБ, я сожалею. Спасибо!","Es tut mir leid. Danke!"
+00001150,20,"「あ、はい。また…」","Yes. More","Да. Больше","Ja. Mehr"
 000012d8,59,"「生徒会のホームページの写真って、
-　お前が撮ってたんだな」","","",""
-00001378,36,"「人が写ってるのはかつみさんですよ」","","",""
-000013cc,28,"「なるほど、そういうことか」","","",""
+　お前が撮ってたんだな」","“The photo of the student’s website was taken by
+you.”","«Фотография сайта студента была сделана вами. »","„Das Foto der Website des Schülers wurde von
+Ihnen aufgenommen. „"
+00001378,36,"「人が写ってるのはかつみさんですよ」","I'm a wig, but I'm a wig.","- Я парик, но я парик.","Ich bin eine Perücke, aber ich bin eine Perücke."
+000013cc,28,"「なるほど、そういうことか」","“I see, what is that?”","- Я вижу, что это? »","„Ich verstehe, was ist das? „"
