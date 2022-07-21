@@ -75,7 +75,7 @@ async function main() {
             throw 'Unique list can`t be empty!';
         }
     
-        for (let i = 20000; i < 30000; i++) {
+        for (let i = 30000; i < 40000; i++) {
             try {
                 await translateUniqueData(uniqueList[i]);
                 console.log(`Progress: ${i}/${uniqueList.length}`);
