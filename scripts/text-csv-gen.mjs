@@ -1,12 +1,12 @@
 import * as fs from 'fs';
 import iconv from 'iconv-lite';
-import { basename } from 'path';
+import { basename, dirname } from 'path';
 import { Logger } from './logger.mjs';
 import { Utils } from './utils.mjs';
 
 const logger = new Logger('text-csv-gen.log');
-
-const patches = [];
+const filesDescCsv = './text/files.csv';
+const originalPath = './original/extracted';
 
 function getExpectedPhraseLength(data, offset) {
     if (offset <= 3) { return null; }
@@ -19,8 +19,8 @@ function getExpectedPhraseLength(data, offset) {
     return result;
 }
 
-async function savePatchFile(fileName, phrasePatches) {
-    const csvPath = `./text/${fileName}.csv`;
+async function savePatchFile(filePath, phrasePatches) {
+    const csvPath = `./text/${filePath}.csv`;
 
     try {
         if (await Utils.isExists(csvPath)) {
@@ -33,6 +33,7 @@ async function savePatchFile(fileName, phrasePatches) {
 
             await Utils.saveLines(csvPath, oldCsv.map(row => `${row[0]},${row[1]},\"${row[2]}\",\"${row[3]}\",\"${row[4]}\",\"${row[5]}\"`));
         } else {
+            await fs.promises.mkdir(dirname(csvPath), { recursive: true });
             await Utils.saveLines(csvPath, phrasePatches.map(row => `${row[0]},${row[1]},\"${row[2]}\",\"\",\"\",\"\"`));
         }
     } catch (e) {
@@ -80,10 +81,7 @@ function getPhrases(text, fileName) {
     return phrases;
 }
 
-async function scanFile(filePath) {
-
-    const fileName = basename(filePath);
-
+async function getGscFile(filePath) {
     let data;
     try {
         data = await Utils.readFile(filePath);
@@ -97,14 +95,22 @@ async function scanFile(filePath) {
         throw 'wrongFileFormat';
     }
 
-    // Decode
+    return data;
+}
+
+async function scanFile(filePath) {
+
+    const fileName = basename(filePath);
+
+    let data = await getGscFile(filePath);
+
     let decoded = iconv.decode(data, 'Shift_JIS');
 
     const phrases = getPhrases(decoded, fileName);
 
     if (!phrases) {
         // logger.log('INFO', `Nothing to parse in ${filePath}!`);
-        return;
+        return undefined;
     }
 
     const phrasePatches = [];
@@ -136,18 +142,19 @@ async function scanFile(filePath) {
     }
 
     if (phrasePatches.length > 0) {
-        // Save patch file
-        await savePatchFile(fileName, phrasePatches);
+        const patchPath = filePath.replace(`${originalPath}/`, '');
 
-        // Add to patch list
-        patches.push([fileName, 'Shift_JIS', filePath, `cpks/00_GMV/${fileName}`]);
+        await savePatchFile(patchPath, phrasePatches);
+
+        return [patchPath, 'Shift_JIS', filePath, `cpks/${patchPath}`];
     }
 
-    //logger.log('INFO', `${filePath} parsed successful!`);
+    return undefined;
 }
 
 async function processDir(path) {
     const files = await Utils.readDir(path);
+    const patches = [];
 
     for (let i = 0; i < files.length; i++) {
         const file = files[i];
@@ -156,10 +163,13 @@ async function processDir(path) {
         const isFileDir = await Utils.isDir(filePath);
 
         if (isFileDir) {
-            await processDir(filePath);
+            patches.push(...(await processDir(filePath)));
         } else {
             try {
-                await scanFile(filePath);
+                const patch = await scanFile(filePath);
+                if (patch !== undefined) {
+                    patches.push(patch);
+                }
             } catch (e) {
                 if (e !== 'wrongFileFormat') {
                     logger.log('FAIL', `Failed to parse file ${filePath} due to error! ${e}`);
@@ -167,30 +177,33 @@ async function processDir(path) {
             }
         }
     }
+
+    return patches;
+}
+
+
+async function updatePatchList(patches) {
+    if (await Utils.isExists(filesDescCsv)) {
+        const oldCsv = await Utils.readCsv(filesDescCsv);
+        patches.forEach(patch => {
+            if (!oldCsv.find(row => row[0] === patch[0])) {
+                oldCsv.push(patch);
+            }
+        });
+
+        await Utils.saveLines(filesDescCsv, oldCsv.map(row => row.join(',')));
+    } else {
+        await Utils.saveLines(filesDescCsv, patches.map(row => row.join(',')));
+    }
 }
 
 async function main() {
     let result = 0;
-    try {
-        await processDir('./original/extracted/00_GMV');
-        //await scanFile('./original/extracted/00_GMV/ID06602');
+    try {     
+        const patches = await processDir(originalPath);
+        //const patches = [await scanFile('./original/extracted/00_GMV/ID06602')];
 
-        // Update patch list
-        const csvPath = './text/files.csv';
-
-        if (await Utils.isExists(csvPath)) {
-            const oldCsv = await Utils.readCsv(csvPath);
-            patches.forEach(patch => {
-                if (!oldCsv.find(row => row[0] === patch[0])) {
-                    oldCsv.push(patch);
-                }
-            });
-
-            await Utils.saveLines(csvPath, oldCsv.map(row => row.join(',')));
-        } else {
-            await Utils.saveLines(csvPath, patches.map(row => row.join(',')));
-        }
-        
+        await updatePatchList(patches);
     } catch (e) {
         logger.log('FAIL', `${e}`);
         result = 1;

@@ -2,7 +2,7 @@ import * as fs from 'fs';
 import { parse } from 'csv-parse';
 import { exec, spawn } from 'child_process';
 import request from 'request';
-import { resolve } from 'path';
+import { dirname } from 'path';
 
 export class Utils {
     static async readDir(path) {
@@ -115,6 +115,7 @@ export class Utils {
     }
 
     static async saveBuffer(path, data) {
+        await fs.promises.mkdir(dirname(path), { recursive: true });
         return new Promise((resolve, reject) => {
             fs.writeFile(path, data, err => {
                 if (err) {
@@ -169,5 +170,33 @@ export class Utils {
                 }
             });
         });
+    }
+
+    static customTextSplitter(text, maxLineLength = 45) {
+        const words = text.replace(/[\n\r]/gi, '').split(' ');
+        const lines = [];
+    
+        let line = words[0];
+        if (line.length > 15) { line = line.slice(0, 15); }
+
+        for (let i = 1; i < words.length; i++) {
+            let word = words[i];
+            if (word.length > 15) { word = word.slice(0, 15); }
+            const tmpLine = [line, word].join(' ');
+    
+            if (tmpLine.length > maxLineLength) {
+                lines.push(line.trim());
+                line = word;
+                continue;
+            }
+    
+            line = tmpLine;
+        }
+    
+        if (line !== '') {
+            lines.push(line.trim());
+        }
+    
+        return lines.join('\n');
     }
 }

@@ -15,6 +15,7 @@ const logger = new Logger('patcher.log');
 
 const textPath = './text';
 const filesDescCsv=`${textPath}/files.csv`;
+const uniquePath=`${textPath}/unique.csv`;
 
 function getPatchPath(patch) {
     return `${textPath}/${patch}.csv`;
@@ -105,7 +106,7 @@ function safeCutBuffer(buffer, safeMSize, encoding) {
     return cuttedBuffer;
 }
 
-async function patchGameFile(patch, encoding, source, savePath) {
+async function patchGameFile(patch, encoding, source, savePath, uniqueList) {
     console.log(`Patching: ${patch}...`);
     try {
         const patchData = await Utils.readCsv(getPatchPath(patch));
@@ -135,18 +136,42 @@ async function patchGameFile(patch, encoding, source, savePath) {
             let phrase;
             switch (lang) {
                 case 'en':
-                    if (!en) { continue; }
-                    phrase = enPatch(en);
+                    if (en) {
+                        phrase = enPatch(en);
+                    } else {
+                        const unique = uniqueList.find(u => jp === u[0]);
+                        if (unique && unique[1]) {
+                            phrase = enPatch(unique[1]);
+                        } else {
+                            continue;
+                        }
+                    }
                     break;
 
                 case 'ru':
-                    if (!ru) { continue; }
-                    phrase = ruPatch(ru);
+                    if (ru) {
+                        phrase = enPatch(ru);
+                    } else {
+                        const unique = uniqueList.find(u => jp === u[0]);
+                        if (unique && unique[2]) {
+                            phrase = ruPatch(unique[2]);
+                        } else {
+                            continue;
+                        }
+                    }
                     break;
 
                 case 'de':
-                    if (!de) { continue; }
-                    phrase = dePatch(de);
+                    if (de) {
+                        phrase = enPatch(de);
+                    } else {
+                        const unique = uniqueList.find(u => jp === u[0]);
+                        if (unique && unique[3]) {
+                            phrase = dePatch(unique[3]);
+                        } else {
+                            continue;
+                        }
+                    }
                     break;
 
                 default:
@@ -190,11 +215,13 @@ async function main() {
     let result = 0;
     try {
         const patches = await Utils.readCsv(filesDescCsv);
+        const uniqueList = await Utils.readCsv(uniquePath);
         console.log('Patches loaded!');
 
         for (let i = 0; i < patches.length; i++) {
             const [patch, encoding, source, savePath] = patches[i];
-            await patchGameFile(patch, encoding, source, savePath);
+            //if (!patch.includes('ID06608')) { continue; }
+            await patchGameFile(patch, encoding, source, savePath, uniqueList || []);
         }
 
     } catch (e) {

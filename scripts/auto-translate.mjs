@@ -144,7 +144,7 @@ async function main() {
         for (let i = 0; i < patches.length; i++) {
             const [patch, ...other] = patches[i];
             try {
-                if (!patch.includes('ID02')) { continue; }
+                if (!patch.includes('ID04')) { continue; }
                 await translatePatch(patch);
             } catch (e) {
                 console.log(e);
