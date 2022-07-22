@@ -150,7 +150,7 @@ async function patchGameFile(patch, encoding, source, savePath, uniqueList) {
 
                 case 'ru':
                     if (ru) {
-                        phrase = enPatch(ru);
+                        phrase = ruPatch(ru);
                     } else {
                         const unique = uniqueList.find(u => jp === u[0]);
                         if (unique && unique[2]) {
@@ -163,7 +163,7 @@ async function patchGameFile(patch, encoding, source, savePath, uniqueList) {
 
                 case 'de':
                     if (de) {
-                        phrase = enPatch(de);
+                        phrase = dePatch(de);
                     } else {
                         const unique = uniqueList.find(u => jp === u[0]);
                         if (unique && unique[3]) {
@@ -220,7 +220,7 @@ async function main() {
 
         for (let i = 0; i < patches.length; i++) {
             const [patch, encoding, source, savePath] = patches[i];
-            //if (!patch.includes('ID06608')) { continue; }
+            // if (!patch.includes('eboot')) { continue; }
             await patchGameFile(patch, encoding, source, savePath, uniqueList || []);
         }
 
