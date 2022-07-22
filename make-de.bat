@@ -46,7 +46,7 @@ move /y .\patched\de\cpks\data.cpk .\patched\de\reAddcont\PCSG00139\PHOTOKANOKDL
 
 #rmdir /q /s .\patched\de\cpks\00_GMV
 del /F /Q /S .\release\de
-xdelta -e -s .\original\PCSG00139_patch\eboot.bin .\patched\de\rePatch\PCSG00139\eboot.bin .\release\de\eboot.xdelta
+xdelta -e -s .\original\PCSG00139\eboot.bin .\patched\de\rePatch\PCSG00139\eboot.bin .\release\de\eboot.xdelta
 xdelta -e -s .\original\PCSG00139\media\00_GMV.cpk .\patched\de\rePatch\PCSG00139\media\00_GMV.cpk .\release\de\00_GMV.xdelta
 xdelta -e -s .\original\PCSG00139_addc\PHOTOKANOKDLC001\data.cpk .\patched\de\reAddcont\PCSG00139\PHOTOKANOKDLC001\data.cpk .\release\de\PHOTOKANOKDLC001.xdelta
 xdelta -e -s .\original\PCSG00139_addc\PHOTOKANOKDLC002\data.cpk .\patched\de\reAddcont\PCSG00139\PHOTOKANOKDLC002\data.cpk .\release\de\PHOTOKANOKDLC002.xdelta
